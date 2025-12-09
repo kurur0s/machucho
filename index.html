@@ -1,364 +1,417 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mitos y Leyendas Deck Organizer</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
   <div id="root"></div>
-  <!-- Copy the React code from the artifact here -->
+  
+  <script type="text/babel">
+    const { useState, useEffect } = React;
+    const { Plus, Trash2, Download, Upload, Search, BookOpen } = (() => {
+      // Lucide icons as inline SVG components
+      const Plus = (props) => (
+        <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <line x1="12" y1="5" x2="12" y2="19"></line>
+          <line x1="5" y1="12" x2="19" y2="12"></line>
+        </svg>
+      );
+      
+      const Trash2 = (props) => (
+        <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <polyline points="3 6 5 6 21 6"></polyline>
+          <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+          <line x1="10" y1="11" x2="10" y2="17"></line>
+          <line x1="14" y1="11" x2="14" y2="17"></line>
+        </svg>
+      );
+      
+      const Download = (props) => (
+        <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+          <polyline points="7 10 12 15 17 10"></polyline>
+          <line x1="12" y1="15" x2="12" y2="3"></line>
+        </svg>
+      );
+      
+      const Upload = (props) => (
+        <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+          <polyline points="17 8 12 3 7 8"></polyline>
+          <line x1="12" y1="3" x2="12" y2="15"></line>
+        </svg>
+      );
+      
+      const Search = (props) => (
+        <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      );
+      
+      const BookOpen = (props) => (
+        <svg {...props} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+          <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+        </svg>
+      );
+      
+      return { Plus, Trash2, Download, Upload, Search, BookOpen };
+    })();
 
-import React, { useState, useEffect } from 'react';
-import { Plus, Trash2, Download, Upload, Search, BookOpen } from 'lucide-react';
+    function MYLDeckOrganizer() {
+      const [decks, setDecks] = useState([]);
+      const [currentDeck, setCurrentDeck] = useState(null);
+      const [showAddCard, setShowAddCard] = useState(false);
+      const [searchTerm, setSearchTerm] = useState('');
+      const [newCard, setNewCard] = useState({
+        name: '',
+        type: 'Oro',
+        faction: '',
+        cost: '',
+        attack: '',
+        defense: '',
+        quantity: 1
+      });
 
-export default function MYLDeckOrganizer() {
-  const [decks, setDecks] = useState([]);
-  const [currentDeck, setCurrentDeck] = useState(null);
-  const [showAddCard, setShowAddCard] = useState(false);
-  const [searchTerm, setSearchTerm] = useState('');
-  const [newCard, setNewCard] = useState({
-    name: '',
-    type: 'Oro',
-    faction: '',
-    cost: '',
-    attack: '',
-    defense: '',
-    quantity: 1
-  });
+      useEffect(() => {
+        const saved = localStorage.getItem('myl-decks');
+        if (saved) {
+          setDecks(JSON.parse(saved));
+        }
+      }, []);
 
-  useEffect(() => {
-    const saved = localStorage.getItem('myl-decks');
-    if (saved) {
-      setDecks(JSON.parse(saved));
-    }
-  }, []);
+      useEffect(() => {
+        localStorage.setItem('myl-decks', JSON.stringify(decks));
+      }, [decks]);
 
-  useEffect(() => {
-    localStorage.setItem('myl-decks', JSON.stringify(decks));
-  }, [decks]);
-
-  const createDeck = () => {
-    const name = prompt('Nombre del mazo:');
-    if (name) {
-      const newDeck = {
-        id: Date.now(),
-        name,
-        cards: [],
-        createdAt: new Date().toISOString()
-      };
-      setDecks([...decks, newDeck]);
-      setCurrentDeck(newDeck.id);
-    }
-  };
-
-  const deleteDeck = (id) => {
-    if (confirm('¿Eliminar este mazo?')) {
-      setDecks(decks.filter(d => d.id !== id));
-      if (currentDeck === id) setCurrentDeck(null);
-    }
-  };
-
-  const addCard = () => {
-    if (!newCard.name) return;
-    
-    const deck = decks.find(d => d.id === currentDeck);
-    const existingCard = deck.cards.find(c => c.name === newCard.name);
-    
-    if (existingCard) {
-      existingCard.quantity += newCard.quantity;
-      setDecks([...decks]);
-    } else {
-      deck.cards.push({ ...newCard, id: Date.now() });
-      setDecks([...decks]);
-    }
-    
-    setNewCard({
-      name: '',
-      type: 'Oro',
-      faction: '',
-      cost: '',
-      attack: '',
-      defense: '',
-      quantity: 1
-    });
-    setShowAddCard(false);
-  };
-
-  const removeCard = (cardId) => {
-    const deck = decks.find(d => d.id === currentDeck);
-    deck.cards = deck.cards.filter(c => c.id !== cardId);
-    setDecks([...decks]);
-  };
-
-  const updateCardQuantity = (cardId, delta) => {
-    const deck = decks.find(d => d.id === currentDeck);
-    const card = deck.cards.find(c => c.id === cardId);
-    card.quantity = Math.max(1, card.quantity + delta);
-    setDecks([...decks]);
-  };
-
-  const exportDeck = () => {
-    const deck = decks.find(d => d.id === currentDeck);
-    const dataStr = JSON.stringify(deck, null, 2);
-    const dataBlob = new Blob([dataStr], { type: 'application/json' });
-    const url = URL.createObjectURL(dataBlob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${deck.name}.json`;
-    link.click();
-  };
-
-  const importDeck = (e) => {
-    const file = e.target.files[0];
-    if (file) {
-      const reader = new FileReader();
-      reader.onload = (event) => {
-        try {
-          const imported = JSON.parse(event.target.result);
-          imported.id = Date.now();
-          setDecks([...decks, imported]);
-          setCurrentDeck(imported.id);
-        } catch (error) {
-          alert('Error al importar el mazo');
+      const createDeck = () => {
+        const name = prompt('Nombre del mazo:');
+        if (name) {
+          const newDeck = {
+            id: Date.now(),
+            name,
+            cards: [],
+            createdAt: new Date().toISOString()
+          };
+          setDecks([...decks, newDeck]);
+          setCurrentDeck(newDeck.id);
         }
       };
-      reader.readAsText(file);
-    }
-  };
 
-  const getCurrentDeck = () => decks.find(d => d.id === currentDeck);
-  const deck = getCurrentDeck();
+      const deleteDeck = (id) => {
+        if (confirm('¿Eliminar este mazo?')) {
+          setDecks(decks.filter(d => d.id !== id));
+          if (currentDeck === id) setCurrentDeck(null);
+        }
+      };
 
-  const filteredCards = deck?.cards.filter(card =>
-    card.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    card.faction.toLowerCase().includes(searchTerm.toLowerCase())
-  ) || [];
+      const addCard = () => {
+        if (!newCard.name) return;
+        
+        const deck = decks.find(d => d.id === currentDeck);
+        const existingCard = deck.cards.find(c => c.name === newCard.name);
+        
+        if (existingCard) {
+          existingCard.quantity += newCard.quantity;
+          setDecks([...decks]);
+        } else {
+          deck.cards.push({ ...newCard, id: Date.now() });
+          setDecks([...decks]);
+        }
+        
+        setNewCard({
+          name: '',
+          type: 'Oro',
+          faction: '',
+          cost: '',
+          attack: '',
+          defense: '',
+          quantity: 1
+        });
+        setShowAddCard(false);
+      };
 
-  const totalCards = deck?.cards.reduce((sum, card) => sum + card.quantity, 0) || 0;
-  const cardsByType = deck?.cards.reduce((acc, card) => {
-    acc[card.type] = (acc[card.type] || 0) + card.quantity;
-    return acc;
-  }, {}) || {};
+      const removeCard = (cardId) => {
+        const deck = decks.find(d => d.id === currentDeck);
+        deck.cards = deck.cards.filter(c => c.id !== cardId);
+        setDecks([...decks]);
+      };
 
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-amber-900 via-orange-900 to-red-900 p-4">
-      <div className="max-w-7xl mx-auto">
-        <div className="bg-amber-50 rounded-lg shadow-2xl p-6 mb-6">
-          <div className="flex items-center justify-between mb-6">
-            <div className="flex items-center gap-3">
-              <BookOpen className="w-8 h-8 text-amber-800" />
-              <h1 className="text-3xl font-bold text-amber-900">Mitos y Leyendas</h1>
-            </div>
-            <button
-              onClick={createDeck}
-              className="flex items-center gap-2 bg-amber-600 text-white px-4 py-2 rounded-lg hover:bg-amber-700 transition"
-            >
-              <Plus className="w-5 h-5" />
-              Nuevo Mazo
-            </button>
-          </div>
+      const updateCardQuantity = (cardId, delta) => {
+        const deck = decks.find(d => d.id === currentDeck);
+        const card = deck.cards.find(c => c.id === cardId);
+        card.quantity = Math.max(1, card.quantity + delta);
+        setDecks([...decks]);
+      };
 
-          <div className="flex gap-2 overflow-x-auto pb-2">
-            {decks.map(d => (
-              <div
-                key={d.id}
-                className={`flex items-center gap-2 px-4 py-2 rounded-lg cursor-pointer transition ${
-                  currentDeck === d.id
-                    ? 'bg-amber-600 text-white'
-                    : 'bg-amber-200 text-amber-900 hover:bg-amber-300'
-                }`}
-                onClick={() => setCurrentDeck(d.id)}
-              >
-                <span className="whitespace-nowrap font-medium">{d.name}</span>
+      const exportDeck = () => {
+        const deck = decks.find(d => d.id === currentDeck);
+        const dataStr = JSON.stringify(deck, null, 2);
+        const dataBlob = new Blob([dataStr], { type: 'application/json' });
+        const url = URL.createObjectURL(dataBlob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = `${deck.name}.json`;
+        link.click();
+      };
+
+      const importDeck = (e) => {
+        const file = e.target.files[0];
+        if (file) {
+          const reader = new FileReader();
+          reader.onload = (event) => {
+            try {
+              const imported = JSON.parse(event.target.result);
+              imported.id = Date.now();
+              setDecks([...decks, imported]);
+              setCurrentDeck(imported.id);
+            } catch (error) {
+              alert('Error al importar el mazo');
+            }
+          };
+          reader.readAsText(file);
+        }
+      };
+
+      const getCurrentDeck = () => decks.find(d => d.id === currentDeck);
+      const deck = getCurrentDeck();
+
+      const filteredCards = deck?.cards.filter(card =>
+        card.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        card.faction.toLowerCase().includes(searchTerm.toLowerCase())
+      ) || [];
+
+      const totalCards = deck?.cards.reduce((sum, card) => sum + card.quantity, 0) || 0;
+      const cardsByType = deck?.cards.reduce((acc, card) => {
+        acc[card.type] = (acc[card.type] || 0) + card.quantity;
+        return acc;
+      }, {}) || {};
+
+      return (
+        <div className="min-h-screen bg-gradient-to-br from-amber-900 via-orange-900 to-red-900 p-4">
+          <div className="max-w-7xl mx-auto">
+            <div className="bg-amber-50 rounded-lg shadow-2xl p-6 mb-6">
+              <div className="flex items-center justify-between mb-6">
+                <div className="flex items-center gap-3">
+                  <BookOpen className="w-8 h-8 text-amber-800" />
+                  <h1 className="text-3xl font-bold text-amber-900">Mitos y Leyendas</h1>
+                </div>
                 <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    deleteDeck(d.id);
-                  }}
-                  className="hover:text-red-600"
-                >
-                  <Trash2 className="w-4 h-4" />
-                </button>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {deck && (
-          <div className="bg-amber-50 rounded-lg shadow-2xl p-6">
-            <div className="flex justify-between items-center mb-6">
-              <div>
-                <h2 className="text-2xl font-bold text-amber-900">{deck.name}</h2>
-                <p className="text-amber-700">Total de cartas: {totalCards}</p>
-              </div>
-              <div className="flex gap-2">
-                <button
-                  onClick={() => setShowAddCard(true)}
-                  className="flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700"
+                  onClick={createDeck}
+                  className="flex items-center gap-2 bg-amber-600 text-white px-4 py-2 rounded-lg hover:bg-amber-700 transition"
                 >
                   <Plus className="w-5 h-5" />
-                  Agregar Carta
+                  Nuevo Mazo
                 </button>
-                <button
-                  onClick={exportDeck}
-                  className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
-                >
-                  <Download className="w-5 h-5" />
-                </button>
-                <label className="flex items-center gap-2 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 cursor-pointer">
-                  <Upload className="w-5 h-5" />
-                  <input type="file" accept=".json" onChange={importDeck} className="hidden" />
-                </label>
+              </div>
+
+              <div className="flex gap-2 overflow-x-auto pb-2">
+                {decks.map(d => (
+                  <div
+                    key={d.id}
+                    className={`flex items-center gap-2 px-4 py-2 rounded-lg cursor-pointer transition ${
+                      currentDeck === d.id
+                        ? 'bg-amber-600 text-white'
+                        : 'bg-amber-200 text-amber-900 hover:bg-amber-300'
+                    }`}
+                    onClick={() => setCurrentDeck(d.id)}
+                  >
+                    <span className="whitespace-nowrap font-medium">{d.name}</span>
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        deleteDeck(d.id);
+                      }}
+                      className="hover:text-red-600"
+                    >
+                      <Trash2 className="w-4 h-4" />
+                    </button>
+                  </div>
+                ))}
               </div>
             </div>
 
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-              {Object.entries(cardsByType).map(([type, count]) => (
-                <div key={type} className="bg-amber-100 p-3 rounded-lg">
-                  <div className="text-sm text-amber-700">{type}</div>
-                  <div className="text-2xl font-bold text-amber-900">{count}</div>
-                </div>
-              ))}
-            </div>
-
-            <div className="relative mb-4">
-              <Search className="absolute left-3 top-3 w-5 h-5 text-amber-600" />
-              <input
-                type="text"
-                placeholder="Buscar cartas..."
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                className="w-full pl-10 pr-4 py-2 border-2 border-amber-300 rounded-lg focus:outline-none focus:border-amber-500"
-              />
-            </div>
-
-            <div className="space-y-2 max-h-96 overflow-y-auto">
-              {filteredCards.map(card => (
-                <div key={card.id} className="bg-white p-4 rounded-lg shadow flex justify-between items-center">
-                  <div className="flex-1">
-                    <div className="font-bold text-amber-900">{card.name}</div>
-                    <div className="text-sm text-amber-700">
-                      {card.type} • {card.faction} • Costo: {card.cost}
-                      {card.attack && ` • ATK: ${card.attack}`}
-                      {card.defense && ` • DEF: ${card.defense}`}
-                    </div>
+            {deck && (
+              <div className="bg-amber-50 rounded-lg shadow-2xl p-6">
+                <div className="flex justify-between items-center mb-6">
+                  <div>
+                    <h2 className="text-2xl font-bold text-amber-900">{deck.name}</h2>
+                    <p className="text-amber-700">Total de cartas: {totalCards}</p>
                   </div>
-                  <div className="flex items-center gap-3">
-                    <div className="flex items-center gap-2">
-                      <button
-                        onClick={() => updateCardQuantity(card.id, -1)}
-                        className="bg-amber-200 w-8 h-8 rounded hover:bg-amber-300"
-                      >
-                        -
-                      </button>
-                      <span className="font-bold w-8 text-center">{card.quantity}</span>
-                      <button
-                        onClick={() => updateCardQuantity(card.id, 1)}
-                        className="bg-amber-200 w-8 h-8 rounded hover:bg-amber-300"
-                      >
-                        +
-                      </button>
-                    </div>
+                  <div className="flex gap-2">
                     <button
-                      onClick={() => removeCard(card.id)}
-                      className="text-red-600 hover:text-red-800"
+                      onClick={() => setShowAddCard(true)}
+                      className="flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700"
                     >
-                      <Trash2 className="w-5 h-5" />
+                      <Plus className="w-5 h-5" />
+                      Agregar Carta
+                    </button>
+                    <button
+                      onClick={exportDeck}
+                      className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
+                    >
+                      <Download className="w-5 h-5" />
+                    </button>
+                    <label className="flex items-center gap-2 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 cursor-pointer">
+                      <Upload className="w-5 h-5" />
+                      <input type="file" accept=".json" onChange={importDeck} className="hidden" />
+                    </label>
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                  {Object.entries(cardsByType).map(([type, count]) => (
+                    <div key={type} className="bg-amber-100 p-3 rounded-lg">
+                      <div className="text-sm text-amber-700">{type}</div>
+                      <div className="text-2xl font-bold text-amber-900">{count}</div>
+                    </div>
+                  ))}
+                </div>
+
+                <div className="relative mb-4">
+                  <Search className="absolute left-3 top-3 w-5 h-5 text-amber-600" />
+                  <input
+                    type="text"
+                    placeholder="Buscar cartas..."
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                    className="w-full pl-10 pr-4 py-2 border-2 border-amber-300 rounded-lg focus:outline-none focus:border-amber-500"
+                  />
+                </div>
+
+                <div className="space-y-2 max-h-96 overflow-y-auto">
+                  {filteredCards.map(card => (
+                    <div key={card.id} className="bg-white p-4 rounded-lg shadow flex justify-between items-center">
+                      <div className="flex-1">
+                        <div className="font-bold text-amber-900">{card.name}</div>
+                        <div className="text-sm text-amber-700">
+                          {card.type} • {card.faction} • Costo: {card.cost}
+                          {card.attack && ` • ATK: ${card.attack}`}
+                          {card.defense && ` • DEF: ${card.defense}`}
+                        </div>
+                      </div>
+                      <div className="flex items-center gap-3">
+                        <div className="flex items-center gap-2">
+                          <button
+                            onClick={() => updateCardQuantity(card.id, -1)}
+                            className="bg-amber-200 w-8 h-8 rounded hover:bg-amber-300"
+                          >
+                            -
+                          </button>
+                          <span className="font-bold w-8 text-center">{card.quantity}</span>
+                          <button
+                            onClick={() => updateCardQuantity(card.id, 1)}
+                            className="bg-amber-200 w-8 h-8 rounded hover:bg-amber-300"
+                          >
+                            +
+                          </button>
+                        </div>
+                        <button
+                          onClick={() => removeCard(card.id)}
+                          className="text-red-600 hover:text-red-800"
+                        >
+                          <Trash2 className="w-5 h-5" />
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {showAddCard && (
+              <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
+                <div className="bg-white rounded-lg p-6 max-w-md w-full">
+                  <h3 className="text-xl font-bold mb-4 text-amber-900">Agregar Carta</h3>
+                  <div className="space-y-3">
+                    <input
+                      type="text"
+                      placeholder="Nombre"
+                      value={newCard.name}
+                      onChange={(e) => setNewCard({ ...newCard, name: e.target.value })}
+                      className="w-full px-3 py-2 border rounded-lg"
+                    />
+                    <select
+                      value={newCard.type}
+                      onChange={(e) => setNewCard({ ...newCard, type: e.target.value })}
+                      className="w-full px-3 py-2 border rounded-lg"
+                    >
+                      <option>Oro</option>
+                      <option>Aliado</option>
+                      <option>Arma</option>
+                      <option>Artefacto</option>
+                      <option>Totém</option>
+                      <option>Castillo</option>
+                    </select>
+                    <input
+                      type="text"
+                      placeholder="Facción"
+                      value={newCard.faction}
+                      onChange={(e) => setNewCard({ ...newCard, faction: e.target.value })}
+                      className="w-full px-3 py-2 border rounded-lg"
+                    />
+                    <div className="grid grid-cols-3 gap-2">
+                      <input
+                        type="text"
+                        placeholder="Costo"
+                        value={newCard.cost}
+                        onChange={(e) => setNewCard({ ...newCard, cost: e.target.value })}
+                        className="w-full px-3 py-2 border rounded-lg"
+                      />
+                      <input
+                        type="text"
+                        placeholder="Ataque"
+                        value={newCard.attack}
+                        onChange={(e) => setNewCard({ ...newCard, attack: e.target.value })}
+                        className="w-full px-3 py-2 border rounded-lg"
+                      />
+                      <input
+                        type="text"
+                        placeholder="Defensa"
+                        value={newCard.defense}
+                        onChange={(e) => setNewCard({ ...newCard, defense: e.target.value })}
+                        className="w-full px-3 py-2 border rounded-lg"
+                      />
+                    </div>
+                    <input
+                      type="number"
+                      placeholder="Cantidad"
+                      value={newCard.quantity}
+                      onChange={(e) => setNewCard({ ...newCard, quantity: parseInt(e.target.value) || 1 })}
+                      className="w-full px-3 py-2 border rounded-lg"
+                      min="1"
+                    />
+                  </div>
+                  <div className="flex gap-2 mt-4">
+                    <button
+                      onClick={addCard}
+                      className="flex-1 bg-green-600 text-white py-2 rounded-lg hover:bg-green-700"
+                    >
+                      Agregar
+                    </button>
+                    <button
+                      onClick={() => setShowAddCard(false)}
+                      className="flex-1 bg-gray-400 text-white py-2 rounded-lg hover:bg-gray-500"
+                    >
+                      Cancelar
                     </button>
                   </div>
                 </div>
-              ))}
-            </div>
+              </div>
+            )}
           </div>
-        )}
+        </div>
+      );
+    }
 
-        {showAddCard && (
-          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
-            <div className="bg-white rounded-lg p-6 max-w-md w-full">
-              <h3 className="text-xl font-bold mb-4 text-amber-900">Agregar Carta</h3>
-              <div className="space-y-3">
-                <input
-                  type="text"
-                  placeholder="Nombre"
-                  value={newCard.name}
-                  onChange={(e) => setNewCard({ ...newCard, name: e.target.value })}
-                  className="w-full px-3 py-2 border rounded-lg"
-                />
-                <select
-                  value={newCard.type}
-                  onChange={(e) => setNewCard({ ...newCard, type: e.target.value })}
-                  className="w-full px-3 py-2 border rounded-lg"
-                >
-                  <option>Oro</option>
-                  <option>Aliado</option>
-                  <option>Arma</option>
-                  <option>Artefacto</option>
-                  <option>Totém</option>
-                  <option>Castillo</option>
-                </select>
-                <input
-                  type="text"
-                  placeholder="Facción"
-                  value={newCard.faction}
-                  onChange={(e) => setNewCard({ ...newCard, faction: e.target.value })}
-                  className="w-full px-3 py-2 border rounded-lg"
-                />
-                <div className="grid grid-cols-3 gap-2">
-                  <input
-                    type="text"
-                    placeholder="Costo"
-                    value={newCard.cost}
-                    onChange={(e) => setNewCard({ ...newCard, cost: e.target.value })}
-                    className="w-full px-3 py-2 border rounded-lg"
-                  />
-                  <input
-                    type="text"
-                    placeholder="Ataque"
-                    value={newCard.attack}
-                    onChange={(e) => setNewCard({ ...newCard, attack: e.target.value })}
-                    className="w-full px-3 py-2 border rounded-lg"
-                  />
-                  <input
-                    type="text"
-                    placeholder="Defensa"
-                    value={newCard.defense}
-                    onChange={(e) => setNewCard({ ...newCard, defense: e.target.value })}
-                    className="w-full px-3 py-2 border rounded-lg"
-                  />
-                </div>
-                <input
-                  type="number"
-                  placeholder="Cantidad"
-                  value={newCard.quantity}
-                  onChange={(e) => setNewCard({ ...newCard, quantity: parseInt(e.target.value) || 1 })}
-                  className="w-full px-3 py-2 border rounded-lg"
-                  min="1"
-                />
-              </div>
-              <div className="flex gap-2 mt-4">
-                <button
-                  onClick={addCard}
-                  className="flex-1 bg-green-600 text-white py-2 rounded-lg hover:bg-green-700"
-                >
-                  Agregar
-                </button>
-                <button
-                  onClick={() => setShowAddCard(false)}
-                  className="flex-1 bg-gray-400 text-white py-2 rounded-lg hover:bg-gray-500"
-                >
-                  Cancelar
-                </button>
-              </div>
-            </div>
-          </div>
-        )}
-      </div>
-    </div>
-  );
-}
+    ReactDOM.render(<MYLDeckOrganizer />, document.getElementById('root'));
+  </script>
 </body>
-</html>
+</html

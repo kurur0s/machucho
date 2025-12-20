@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Geri y Freki",
+        "image_path": "https://api.myl.cl/static/cards/70/001.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 6,
+        "cost": 2,
+        "ability": "Solo puede bloquear y no puede ser destruido por habilidades de Armas, Talismanes o Tótem."
+    },
+    {
+        "name": "Gigantes de Fuego",
+        "image_path": "https://api.myl.cl/static/cards/70/002.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 5,
+        "cost": 3,
+        "ability": "Cuando entra en juego, puedes ponerle un Arma sin pagar su coste. Al final del turno que ataque es destruido (Única)."
+    },
+    {
+        "name": "Brokk",
+        "image_path": "https://api.myl.cl/static/cards/70/003.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 2,
+        "ability": "Si es la primera carta de Aliado que pones en juego, podrás buscar dos cartas de Oro en tu Castillo y ponerlas en tu Mano."
+    },
+    {
+        "name": "Gigantes de Hielo",
+        "image_path": "https://api.myl.cl/static/cards/70/004.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Mientras esté en juego, todas tus Abominaciones despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
+    },
+    {
+        "name": "Garm",
+        "image_path": "https://api.myl.cl/static/cards/70/005.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Si está en el Cementerio puedes pagar dos de Oro y ponerlo en juego."
+    },
+    {
+        "name": "Hymir",
+        "image_path": "https://api.myl.cl/static/cards/70/006.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 10,
+        "cost": 8,
+        "ability": "Si está en tu Cementerio la puedes poner en juego pagando 4 de Oro y destruyendo un Aliado de fuerza 4 o superior."
+    },
+    {
+        "name": "Gandalf",
+        "image_path": "https://api.myl.cl/static/cards/70/007.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 3,
+        "ability": "Si ataca junto al Ejército Enano ellos ganan + 1 de fuerza. Imbloqueable."
+    },
+    {
+        "name": "Rugnir",
+        "image_path": "https://api.myl.cl/static/cards/70/008.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 2,
+        "ability": "Siempre que bloquee a un Aliado oponente deberás buscar un Oro en tu Castillo y ponerlo en tu Mano."
+    },
+    {
+        "name": "Aegir",
+        "image_path": "https://api.myl.cl/static/cards/70/009.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Cuando entra en juego, baraja un Aliado oponente en juego en su mazo castillo."
+    },
+    {
+        "name": "Troll",
+        "image_path": "https://api.myl.cl/static/cards/70/010.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Cuando entra en juego, puedes descartar una carta de tu mano para robar una carta de tu mazo castillo. Si descartaste una Abominación, puedes robar otra carta de tu mazo castillo."
+    },
+    {
+        "name": "Lyngbakur",
+        "image_path": "https://api.myl.cl/static/cards/70/011.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Cuando entra en juego, puedes buscar una Abominación de coste 3 o menos en tu Cementerio y ponerlo en tu mano. Si juegas el Aliado buscado este turno, su coste de Oro se reduce en 1."
+    },
+    {
+        "name": "Fuerza Abominable",
+        "image_path": "https://api.myl.cl/static/cards/70/012.png",
+        "rarity": "Promo",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Cuando entra en juego, puedes mostrar una Abominación de tu mano para mirar las 3 primeras cartas de tu mazo castillo y ordenarlas. Puedes destruir este Oro para que un Aliado oponente pierda 1 a la fuerza hasta el final del turno."
+    },
+    {
+        "name": "Nott",
+        "image_path": "https://api.myl.cl/static/cards/70/013.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Todos tus Bárbaros ganan + 2 de fuerza mientras esta carta esté en juego."
+    },
+    {
+        "name": "Einheryard",
+        "image_path": "https://api.myl.cl/static/cards/70/014.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Cuando entra en juego, destruye un Aliado oponente."
+    },
+    {
+        "name": "Ragnar Lodbrog",
+        "image_path": "https://api.myl.cl/static/cards/70/015.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Cuando entra en juego, destruye un Aliado oponente de fuerza 4 o menos."
+    },
+    {
+        "name": "Trivaldi",
+        "image_path": "https://api.myl.cl/static/cards/70/016.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Cuando entra en juego, destruye un Aliado oponente de fuerza 3 o menos."
+    },
+    {
+        "name": "Elfos Arqueros",
+        "image_path": "https://api.myl.cl/static/cards/70/017.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si es destruida, puedes robar tres cartas de tu Castillo o puedes botar tres cartas del Castillo de tu oponente."
+    },
+    {
+        "name": "Vola",
+        "image_path": "https://api.myl.cl/static/cards/70/018.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 1,
+        "ability": "Si esta carta es bloqueada tu oponente deberá destruir un Aliado al Final del turno."
+    },
+    {
+        "name": "Hyrronkin",
+        "image_path": "https://api.myl.cl/static/cards/70/019.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 2,
+        "ability": "Cuando entra en juego, la próxima carta Aliado que bajes a la linea de defensa te costará – 1 de Oro."
+    },
+    {
+        "name": "Sol",
+        "image_path": "https://api.myl.cl/static/cards/70/020.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 4,
+        "cost": 3,
+        "ability": "Mientras esté en juego, todos tus Bárbaros después de atacar vuelven a la linea de defensa."
+    },
+    {
+        "name": "Mani",
+        "image_path": "https://api.myl.cl/static/cards/70/021.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si ataca, tu oponente debe botar dos cartas de su Castillo. Para evitar esta habilidad tu oponente debe descartarse de tres cartas de su Mano. (Imbloqueable. Carta Única)."
+    },
+    {
+        "name": "Bjorn Ragnarsson",
+        "image_path": "https://api.myl.cl/static/cards/70/022.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Cuando entra en juego, busca un Bárbaro de fuerza 2 o menos en tu Castillo y ponlo en juego sin pagar su coste."
+    },
+    {
+        "name": "Rollo",
+        "image_path": "https://api.myl.cl/static/cards/70/023.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego, puedes buscar un Oro sin habilidad en tu Castillo y ponerlo en tu mano."
+    },
+    {
+        "name": "Horda Bárbara",
+        "image_path": "https://api.myl.cl/static/cards/70/024.png",
+        "rarity": "Promo",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Una vez por turno y si un Bárbaro de coste 3 o más entra en juego, puedes barajar un Bárbaro de tu Cementerio en tu mazo castillo."
+    },
+    {
+        "name": "Inti",
+        "image_path": "https://api.myl.cl/static/cards/70/025.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego, destruye 2 oros de tu oponente."
+    },
+    {
+        "name": "Machi",
+        "image_path": "https://api.myl.cl/static/cards/70/026.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno."
+    },
+    {
+        "name": "Huitzil",
+        "image_path": "https://api.myl.cl/static/cards/70/027.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Una vez por turno, paga uno de Oro y destruye un Aliado que tenga fuerza 1 o menos."
+    },
+    {
+        "name": "Pahuahtun",
+        "image_path": "https://api.myl.cl/static/cards/70/028.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 0,
+        "ability": "Para que entre en juego debes descartarte de una carta de tu mano (Imbloqueable)."
+    },
+    {
+        "name": "Nanahuatzin",
+        "image_path": "https://api.myl.cl/static/cards/70/029.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 1,
+        "ability": "Para entrar en juego bota al cementerio dos cartas de tu castillo. (Imbloqueable. Carta Única)"
+    },
+    {
+        "name": "Viraqocha",
+        "image_path": "https://api.myl.cl/static/cards/70/030.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Si ataca y hace daño al castillo oponente, puedes buscar un Chamán en tu castillo y ponerlo en tu mano."
+    },
+    {
+        "name": "Runa Urutrungu",
+        "image_path": "https://api.myl.cl/static/cards/70/031.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 4,
+        "ability": "Cuando entra en juego, puedes buscar un Tótem en tu mazo castillo y ponerlo en juego."
+    },
+    {
+        "name": "Tezcaltlipoca",
+        "image_path": "https://api.myl.cl/static/cards/70/032.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Cuando entra en juego, busca un Tótem en tu cementerio y ponlo en juego."
+    },
+    {
+        "name": "Huehueteotl",
+        "image_path": "https://api.myl.cl/static/cards/70/033.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Por cada Chamán que tengas en juego, este Chamán gana + 1 a la fuerza."
+    },
+    {
+        "name": "Curandero",
+        "image_path": "https://api.myl.cl/static/cards/70/034.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Cuando entra en juego, puedes barajar un Chamán o Tótem de tu Cementerio para robar 1 carta por cada Tótem que tengas en juego."
+    },
+    {
+        "name": "Yatiri",
+        "image_path": "https://api.myl.cl/static/cards/70/035.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 2,
+        "ability": "Cuando entra en juego, puedes descartar un Chamán de tu mano para buscar un Tótem en tu mazo castillo y ponerlo en tu mano."
+    },
+    {
+        "name": "https://tor.myl.cl/carta/raciales_pe/culto_chamán",
+        "image_path": "https://api.myl.cl/static/cards//.png",
+        "rarity": null,
+        "type": null,
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Hodur",
+        "image_path": "https://api.myl.cl/static/cards/70/037.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 0,
+        "cost": 4,
+        "ability": "Cuando Hodur entra en juego se convierte en una copia total de un Aliado oponente. Este es barajado en su Castillo y no podra ser jugado mientras Hodur esté en juego."
+    },
+    {
+        "name": "Nanna",
+        "image_path": "https://api.myl.cl/static/cards/70/038.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Si algún jugador juega un Talismán puedes destruir esta carta y anular a dicho Talismán."
+    },
+    {
+        "name": "Ullr",
+        "image_path": "https://api.myl.cl/static/cards/70/039.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 1,
+        "ability": "Puede atacar cuando entra en juego, pero si lo hace descarta una carta de tu Mano."
+    },
+    {
+        "name": "Sif",
+        "image_path": "https://api.myl.cl/static/cards/70/040.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si es destruido, baraja un Aliado oponente en juego en su mazo castillo."
+    },
+    {
+        "name": "Baldur",
+        "image_path": "https://api.myl.cl/static/cards/70/041.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Si es destruido, podrás buscar una carta en tu Castillo y ponerla en tu Mano."
+    },
+    {
+        "name": "Nyord",
+        "image_path": "https://api.myl.cl/static/cards/70/042.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 5,
+        "ability": "Paga 4 de Oro y busca un Dios de fuerza 4 o menos en tu Castillo, luego ponlo en tu linea de defensa."
+    },
+    {
+        "name": "Magni",
+        "image_path": "https://api.myl.cl/static/cards/70/043.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Si hace daño al Castillo oponente podrás descartarle a tu oponente una carta de su Mano."
+    },
+    {
+        "name": "Frigg",
+        "image_path": "https://api.myl.cl/static/cards/70/044.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Cuando entra en juego, puedes devolver de tu Cementerio un Dios de fuerza 3 o menos a tu Castillo."
+    },
+    {
+        "name": "Bragi",
+        "image_path": "https://api.myl.cl/static/cards/70/045.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 4,
+        "ability": "Destruye un Oro que tengas en juego y gana + 2 de fuerza."
+    },
+    {
+        "name": "Vali",
+        "image_path": "https://api.myl.cl/static/cards/70/046.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entra en juego, puedes destruir un Dios que controles para robar una carta."
+    },
+    {
+        "name": "Dellingr",
+        "image_path": "https://api.myl.cl/static/cards/70/047.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Mientras Dellingr esté en juego y una vez por turno, si un Dios que controles sale del juego, tu oponente deberá barajar uno de sus Aliados en juego en su Mazo Castillo."
+    },
+    {
+        "name": "Concilio de Dioses",
+        "image_path": "https://api.myl.cl/static/cards/70/048.png",
+        "rarity": "Promo",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Si está en tu Reserva de Oros, puedes barajarlo en tu Mazo Castillo y destruir un Dios que controles para barajar tantas cartas de tu Cementerio como la fuerza del Dios barajado."
+    },
+    {
+        "name": "Hombre Lobo",
+        "image_path": "https://api.myl.cl/static/cards/70/049.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Cuando entra en juego, reduce a cero el coste del próximo Licántropo que juegues este turno."
+    },
+    {
+        "name": "Jauria",
+        "image_path": "https://api.myl.cl/static/cards/70/050.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Cuando entra en juego, puedes buscar una carta de Licántropo en tu mazo y ponerla en tu mano."
+    },
+    {
+        "name": "Guevadan",
+        "image_path": "https://api.myl.cl/static/cards/70/051.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Cuando entra en juego, baraja tantas cartas de tu cementerio en tu mazo castillo como Licántropos controles."
+    },
+    {
+        "name": "Guardia del escudo",
+        "image_path": "https://api.myl.cl/static/cards/70/052.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 1,
+        "ability": "Sólo puede bloquear."
+    },
+    {
+        "name": "Cachorro",
+        "image_path": "https://api.myl.cl/static/cards/70/053.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Si tienes los 3 Cachorros en juego, el coste de los Licántropos se reduce a cero."
+    },
+    {
+        "name": "Fenrir",
+        "image_path": "https://api.myl.cl/static/cards/70/054.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 2,
+        "ability": "Si ataca debe ser acompañado por dos aliados."
+    },
+    {
+        "name": "Titan Licantropo",
+        "image_path": "https://api.myl.cl/static/cards/70/055.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 12,
+        "cost": 10,
+        "ability": "No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio."
+    },
+    {
+        "name": "Calixto",
+        "image_path": "https://api.myl.cl/static/cards/70/056.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 0,
+        "cost": 2,
+        "ability": "Puede llevar un arma pagando 2 menos de oro."
+    },
+    {
+        "name": "Fribert",
+        "image_path": "https://api.myl.cl/static/cards/70/057.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Puedes destruirlo para generar tantos Oros como Licántropos controles, hasta el final del turno."
+    },
+    {
+        "name": "Gente Lunar",
+        "image_path": "https://api.myl.cl/static/cards/70/058.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "En tu Vigilia, puedes jugar a Gente Lunar desde tu cementerio. Cuando entra en juego, no puedes descartar cartas de tu mano hasta el final del turno."
+    },
+    {
+        "name": "Beerwolf",
+        "image_path": "https://api.myl.cl/static/cards/70/059.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 5,
+        "ability": "Cuando entra en juego, puedes barajar 2 Aliados oponentes en juego. Luego, descarta 2 cartas de tu mano."
+    },
+    {
+        "name": "https://tor.myl.cl/carta/raciales_pe/manada_mortífera",
+        "image_path": "https://api.myl.cl/static/cards//.png",
+        "rarity": null,
+        "type": null,
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Salome",
+        "image_path": "https://api.myl.cl/static/cards/70/061.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego, destruye un oro de tu oponente."
+    },
+    {
+        "name": "Kain",
+        "image_path": "https://api.myl.cl/static/cards/70/062.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Todos los Vampiros que controles ganan + 1 de fuerza cuando ataquen."
+    },
+    {
+        "name": "Falsa Cautiva",
+        "image_path": "https://api.myl.cl/static/cards/70/063.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 0,
+        "ability": "Al entrar en juego, destruye una de tus cartas Oro."
+    },
+    {
+        "name": "Khan",
+        "image_path": "https://api.myl.cl/static/cards/70/064.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Si ataca y hace daño al castillo de tu oponente, puedes buscar una carta de Vampiro y ponerla en tu mano."
+    },
+    {
+        "name": "Itazzy",
+        "image_path": "https://api.myl.cl/static/cards/70/065.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 0,
+        "cost": 2,
+        "ability": "Gana + 1 de fuerza por cada Vampiro en juego."
+    },
+    {
+        "name": "Nosferatu",
+        "image_path": "https://api.myl.cl/static/cards/70/066.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Si hace daño al castillo del oponente, éste destruye un aliado en juego."
+    },
+    {
+        "name": "Enjambre",
+        "image_path": "https://api.myl.cl/static/cards/70/067.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Los Vampiros Aliados en juego ganan + 1 a la fuerza y no pueden ser bloqueados."
+    },
+    {
+        "name": "Natasha",
+        "image_path": "https://api.myl.cl/static/cards/70/068.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Cada vez que ataque genera 2 Oros virtuales solo por el turno."
+    },
+    {
+        "name": "Vampiro del desierto",
+        "image_path": "https://api.myl.cl/static/cards/70/069.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 2,
+        "ability": "Debe atacar cuando es puesto en juego."
+    },
+    {
+        "name": "Carmilla",
+        "image_path": "https://api.myl.cl/static/cards/70/070.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 2,
+        "ability": "Puede atacar cuando entra en juego. No puede portar Armas de coste 2 o menos. Si hace daño al Castillo oponente, puedes barajar tantas cartas de tu Cementerio como daño haya hecho. Si lo haces, sube esta carta a tu mano al final del turno."
+    },
+    {
+        "name": "Lord Ruthven",
+        "image_path": "https://api.myl.cl/static/cards/70/071.png",
+        "rarity": "Promo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Puede atacar cuando entra en juego. Cuando ataca, puedes elegir un Aliado oponente para que lo bloquee."
+    },
+    {
+        "name": "Vampiros Amenazantes",
+        "image_path": "https://api.myl.cl/static/cards/70/072.png",
+        "rarity": "Promo",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Si sólo controlas Vampiros, puedes pagar este Oro para que tu oponente bote una carta de su Mazo Castillo. Si esa carta es Aliado, baraja un Vampiro de tu Cementerio en tu Mazo Castillo."
+    }
+]

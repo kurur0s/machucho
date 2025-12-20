@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Caballero Hospitalario",
+        "image_path": "https://api.myl.cl/static/cards/113/001.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Caballero",
+        "attack": 2,
+        "cost": 2,
+        "ability": "En tu Fase de Vigilia, una vez por turno y si controlas una o más Armas, puedes robar 1 carta."
+    },
+    {
+        "name": "Caballero Templario",
+        "image_path": "https://api.myl.cl/static/cards/113/002.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Caballero",
+        "attack": 3,
+        "cost": 3,
+        "ability": "La siguiente Arma que juegues este turno reduce su coste en 2 Oros. Cuando este Aliado porte un Arma, descarta una carta al azar de la mano de tu oponente."
+    },
+    {
+        "name": "Kordrag",
+        "image_path": "https://api.myl.cl/static/cards/113/003.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Caballero",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Este Aliado puede atacar cuando entra en juego. Cuando entra en juego, destruye un Aliado que no sea Caballero."
+    },
+    {
+        "name": "Anfíptero",
+        "image_path": "https://api.myl.cl/static/cards/113/004.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Dragón",
+        "attack": 3,
+        "cost": 3,
+        "ability": "En tu Fase de Vigilia, una vez por turno, genera 1 Oro para jugar Dragones."
+    },
+    {
+        "name": "Inkanyamba",
+        "image_path": "https://api.myl.cl/static/cards/113/005.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Dragón",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Al comienzo de cada Fase de Agrupación, tu oponente bota 1 carta de su Mazo Castillo."
+    },
+    {
+        "name": "Knochen",
+        "image_path": "https://api.myl.cl/static/cards/113/006.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Dragón",
+        "attack": 5,
+        "cost": 5,
+        "ability": "Cuando entra en juego, puedes jugar un Dragón que no sea Knochen de tu Cementerio sin pagar su coste. Ese Aliado puede atacar cuando entra en juego y en la Fase Final es destruido."
+    },
+    {
+        "name": "Rusalka",
+        "image_path": "https://api.myl.cl/static/cards/113/007.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Faerie",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entra en juego, mueve un Aliado oponente a su Línea de Ataque. Cuando este Aliado sea destruido, puedes agrupar un Oro que controles."
+    },
+    {
+        "name": "Lechuza Lunar",
+        "image_path": "https://api.myl.cl/static/cards/113/008.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Faerie",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cada vez que otro Faerie salga del juego, tu oponente bota 1 carta de su Mazo Castillo. Puedes destruir otra carta que no sea Oro para prevenir que este Aliado salga del juego."
+    },
+    {
+        "name": "Morgana",
+        "image_path": "https://api.myl.cl/static/cards/113/009.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Faerie",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Sólo puedes tener una Morgana en juego. Una vez por turno, puedes destruir un Aliado que controles para destruir un Aliado oponente."
+    },
+    {
+        "name": "Bendición",
+        "image_path": "https://api.myl.cl/static/cards/113/010.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Baraja 2 cartas de tu Cementerio en tu Mazo Castillo. Luego, baraja este Talismán en tu Mazo Castillo."
+    },
+    {
+        "name": "Espada de Cristal",
+        "image_path": "https://api.myl.cl/static/cards/113/011.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Si controlas 1 o más Faeries, puedes pagar este Oro para barajar una carta de tu Cementerio en tu Mazo Castillo o para que un Aliado pierda 1 a la fuerza hasta la Fase Final."
+    },
+    {
+        "name": "Monedas de Oro",
+        "image_path": "https://api.myl.cl/static/cards/113/012.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Puedes pagar este Oro y otro Oro que controles para robar 1 carta. (Carta Única)."
+    },
+    {
+        "name": "Madre de Dragones",
+        "image_path": "https://api.myl.cl/static/cards/113/013.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Destierra una carta oponente en juego que no sea Oro. (Carta Única)."
+    }
+]

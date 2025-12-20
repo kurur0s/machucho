@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Fan Lihua",
+        "image_path": "https://api.myl.cl/static/cards/127/001.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 1,
+        "ability": "No puede ser bloqueado por Aliados de fuerza 3 o más. Cada vez que ataque, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu Mano."
+    },
+    {
+        "name": "Ao Guang",
+        "image_path": "https://api.myl.cl/static/cards/127/002.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando este Aliado salga del juego, puedes jugar una Criatura de Coste 2 o menos desde tu Cementerio sin pagar su Coste."
+    },
+    {
+        "name": "Miroku",
+        "image_path": "https://api.myl.cl/static/cards/127/003.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entra en juego, nombra una carta en juego. Mientras este Aliado esté en juego, la carta nombrada pierde su habilidad."
+    },
+    {
+        "name": "Bai Suzhen",
+        "image_path": "https://api.myl.cl/static/cards/127/004.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Una vez por turno, puedes desterrar una carta de tu Cementerio para desterrar una carta del mismo tipo del Cementerio oponente."
+    },
+    {
+        "name": "Lǎoshǔ wā",
+        "image_path": "https://api.myl.cl/static/cards/127/005.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Una Aliado declarado atacante o bloqueador pierde su habilidad y 2 a la fuerza hasta la Fase Final."
+    },
+    {
+        "name": "https://tor.myl.cl/carta/xinnian/niu_kanzhe_caodì",
+        "image_path": "https://api.myl.cl/static/cards//.png",
+        "rarity": null,
+        "type": null,
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Lǎohǔ qiánfúzhe",
+        "image_path": "https://api.myl.cl/static/cards/127/007.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su Coste en 2 Oros. Baraja una carta en juego que no sea Oro en el Mazo Castillo de su dueño."
+    },
+    {
+        "name": "Yuè tù",
+        "image_path": "https://api.myl.cl/static/cards/127/008.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Para jugar esta carta debes barajar un Xian que controles en el Mazo Castillo de su dueño. Busca una carta de Coste 4 o menos en tu Cementerio y ponla en tu Mano."
+    },
+    {
+        "name": "Qīnglóng chūshuǐ",
+        "image_path": "https://api.myl.cl/static/cards/127/009.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Si sólo controlas Campeones esta carta reduce su Coste en 1 Oro. Busca hasta 2 Armas en tu Mazo Castillo y juégalas sin pagar su Coste bajo 2 Aliados que controles."
+    },
+    {
+        "name": "Báishé tǔ xìn",
+        "image_path": "https://api.myl.cl/static/cards/127/010.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Tu oponente bota 3 cartas de su Mazo Castillo. Luego, si controlas Criaturas, tu oponente bota 1 carta de su Mazo Castillo."
+    },
+    {
+        "name": "Yěmǎ tiào jiàn",
+        "image_path": "https://api.myl.cl/static/cards/127/011.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su Coste en 2 Oros. Anula un Aliado."
+    },
+    {
+        "name": "Yáng fàngmù",
+        "image_path": "https://api.myl.cl/static/cards/127/012.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Busca un Xian en tu Mazo Castillo y juégalo sin pagar su Coste. Al comienzo de la Fase Final, destierra ese Aliado."
+    },
+    {
+        "name": "Hóuzi tiàowǔ",
+        "image_path": "https://api.myl.cl/static/cards/127/013.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Los Campeones que controles ganan 1 a la fuerza hasta la Fase Final por cada Arma que controles."
+    },
+    {
+        "name": "jīn jī dú lì",
+        "image_path": "https://api.myl.cl/static/cards/127/014.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Un Aliado que controles no puede salir del juego hasta la Fase Final. Si sólo controlas Criaturas, roba 1 carta de tu Mazo Castillo."
+    },
+    {
+        "name": "Gǒu zài kàn",
+        "image_path": "https://api.myl.cl/static/cards/127/015.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Cuando juegues este Talismán, destiérralo. Busca una carta de coste 3 o menos en tu Mazo Castillo y ponla en tu Mano."
+    },
+    {
+        "name": "Zhū shuìjiàole",
+        "image_path": "https://api.myl.cl/static/cards/127/016.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Busca un Tótem en tu Mazo Castillo de Coste 3 o menos y ponlo en juego sin pagar su Coste."
+    },
+    {
+        "name": "Monte Wudang",
+        "image_path": "https://api.myl.cl/static/cards/127/017.png",
+        "rarity": "Real",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Sólo puedes tener un Monte Wudang en juego. Al comienzo de la Fase de Vigilia oponente, una vez por turno, tu oponente destruye una carta que controle que no sea Oro."
+    },
+    {
+        "name": "Yānhuā",
+        "image_path": "https://api.myl.cl/static/cards/127/018.png",
+        "rarity": "Real",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "El portador no puede ser destruido. Cuando entra en juego, busca un Aliado de Coste 1 en tu Mazo Castillo y ponlo en juego sin pagar su Coste."
+    },
+    {
+        "name": "Horóscopo Chino",
+        "image_path": "https://api.myl.cl/static/cards/127/019.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Si este Oro está en tu Reserva de Oros, puedes desterrarlo para buscar un Oro en tu Cementerio y ponerlo en tu Reserva de Oros."
+    },
+    {
+        "name": "Lóng Nián",
+        "image_path": "https://api.myl.cl/static/cards/127/032.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Única. Prevén que un Aliado que controles salga del juego. Luego, baraja una carta de tu Cementerio en tu Mazo Castillo."
+    },
+    {
+        "name": "Shen Yi",
+        "image_path": "https://api.myl.cl/static/cards/127/033.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Cuando entra en juego, busca una carta que no sea Oro en el Mazo Castillo oponente y destiérrala."
+    },
+    {
+        "name": "Guan Yu",
+        "image_path": "https://api.myl.cl/static/cards/127/034.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Cuando entra en juego, tus demás Campeones ganan 2 a la fuerza permanentemente."
+    },
+    {
+        "name": "Tchi Yeu",
+        "image_path": "https://api.myl.cl/static/cards/127/035.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 5,
+        "cost": 2,
+        "ability": "Para que pueda atacar debes pagar 1 Oro."
+    },
+    {
+        "name": "Wanli Changcheng",
+        "image_path": "https://api.myl.cl/static/cards/127/037.png",
+        "rarity": "Real",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Los Aliados declarados atacantes que no son bloqueados tienen 1 a la Fuerza hasta la Fase Final."
+    },
+    {
+        "name": "Daikoku",
+        "image_path": "https://api.myl.cl/static/cards/127/036.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Hasta dos veces por turno, puedes barajar un Talismán de tu Mano para robar dos cartas de tu Mazo Castillo."
+    },
+    {
+        "name": "Rata",
+        "image_path": "https://api.myl.cl/static/cards/127/020.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Buey",
+        "image_path": "https://api.myl.cl/static/cards/127/021.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Tigre",
+        "image_path": "https://api.myl.cl/static/cards/127/022.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Conejo",
+        "image_path": "https://api.myl.cl/static/cards/127/023.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Dragón",
+        "image_path": "https://api.myl.cl/static/cards/127/024.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Serpiente",
+        "image_path": "https://api.myl.cl/static/cards/127/025.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Caballo",
+        "image_path": "https://api.myl.cl/static/cards/127/026.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Cabra",
+        "image_path": "https://api.myl.cl/static/cards/127/027.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Mono",
+        "image_path": "https://api.myl.cl/static/cards/127/028.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Gallo",
+        "image_path": "https://api.myl.cl/static/cards/127/029.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Perro",
+        "image_path": "https://api.myl.cl/static/cards/127/030.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    },
+    {
+        "name": "Cerdo",
+        "image_path": "https://api.myl.cl/static/cards/127/031.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Sin habilidad"
+    }
+]

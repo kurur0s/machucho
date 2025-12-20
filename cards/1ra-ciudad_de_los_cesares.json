@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ayayema",
+    "image_path": "https://api.myl.cl/static/cards/131/002.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Bestia",
+    "attack": 4,
+    "cost": 4,
+    "ability": "Los Aliados Bestia declarados atacantes que controles ganan 1 a la Fuerza hasta a Fase Final."
+  },
+  {
+    "name": "Carcancho",
+    "image_path": "https://api.myl.cl/static/cards/131/004.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Bestia",
+    "attack": 2,
+    "cost": 2,
+    "ability": "Puede atacar cuando entra en juego. Cuado sea destruido, puedes buscar un Bestia de Coste 1 o menos en tu Cementerio y jugarlo sin pagar su Coste."
+  },
+  {
+    "name": "Antu",
+    "image_path": "https://api.myl.cl/static/cards/131/005.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "",
+    "attack": 4,
+    "cost": 4,
+    "ability": "Cuando entra en juego, baraja una carta oponente de Coste 3 o menos en el Mazo Castillo de su dueño. Luego, si controlas 1 o más Tótem, puedes barajar 3 cartas de tu Cementerio en tu Mazo Castillo."
+  },
+  {
+    "name": "Kuyén",
+    "image_path": "https://api.myl.cl/static/cards/131/006.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "",
+    "attack": 3,
+    "cost": 2,
+    "ability": "El daño directo aumenta en 1. Una vez por turno, puedes destruir un Tótem que controles para que un Aliado oponente no haga daño a tu Mazo Castillo hasta la Fase Final."
+  },
+  {
+    "name": "Alto César",
+    "image_path": "https://api.myl.cl/static/cards/131/008.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Guerrero",
+    "attack": 3,
+    "cost": 2,
+    "ability": "Cuando ataca, si es el único Aliado declarado atacante este turno, puedes buscar un Guerrero en tu Mazo Castillo y ponerlo en tu Mano"
+  },
+  {
+    "name": "Toki Butahue",
+    "image_path": "https://api.myl.cl/static/cards/131/010.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Guerrero",
+    "attack": 3,
+    "cost": 3,
+    "ability": "Puede atacar cuando entra en juego. Cuando es declarado atacante, puedes barajar 1 carta o 2 Guerreros de tu Cementerio en tu Mazo Castillo."
+  },
+  {
+    "name": "Subir el Volcán",
+    "image_path": "https://api.myl.cl/static/cards/131/011.png",
+    "rarity": "Real",
+    "type": "Talismán",
+    "race": null,
+    "attack": null,
+    "cost": 1,
+    "ability": "Muestra las 4 primeras cartas de tu Mazo Castillo. Elige un Aliado y ponlo en tu Mano, pon el resto en tu Cementerio o en la parte inferior de tu Mazo Castillo en cualquier orden."
+  },
+  {
+    "name": "Voladores Secretos",
+    "image_path": "https://api.myl.cl/static/cards/131/012.png",
+    "rarity": "Real",
+    "type": "Talismán",
+    "race": null,
+    "attack": null,
+    "cost": 2,
+    "ability": "Destierra hasta 1 carta de cada tipo del Cementerio oponente."
+  },
+  {
+    "name": "Destierro Astral",
+    "image_path": "https://api.myl.cl/static/cards/131/013.png",
+    "rarity": "Real",
+    "type": "Talismán",
+    "race": null,
+    "attack": null,
+    "cost": 4,
+    "ability": "Destierra un Aliado oponente en juego. Luego, puedes robar 1 carta."
+  },
+  {
+    "name": "Oro de los Césares",
+    "image_path": "https://api.myl.cl/static/cards/131/016.png",
+    "rarity": "Real",
+    "type": "Oro",
+    "race": null,
+    "attack": null,
+    "cost": null,
+    "ability": "En tu Fase de Vigilia, puedes pagar este Oro y otro Oro que controles para que un Aliado que controles sea Imbloqueable hasta la Fase Final."
+  },
+  {
+    "name": "Tue Tue",
+    "image_path": "https://api.myl.cl/static/cards/131/017.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Bestia",
+    "attack": 2,
+    "cost": 2,
+    "ability": "Cuando entra en juego, busca un Tué Tué en tu Mazo Castillo y ponlo en tu Mano. Si controlas tres o más Bestias, gana 2 a la fuerza."
+  },
+  {
+    "name": "Tlaca Tecolotl",
+    "image_path": "https://api.myl.cl/static/cards/131/019.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Guerrero",
+    "attack": 3,
+    "cost": 4,
+    "ability": "Cuando entra en juego, roba 4 cartas y descarta 2 cartas de tu Mano."
+  },
+  {
+    "name": "Ciudad de los Césares",
+    "image_path": "https://api.myl.cl/static/cards/131/001.png",
+    "rarity": "Real",
+    "type": "Tótem",
+    "race": null,
+    "attack": null,
+    "cost": 2,
+    "ability": "Sólo puedes tener una Ciudad de los Césares en juego. En tu Fase Final, si jugaste uno o más Aliados este turno, puedes robar una carta."
+  },
+  {
+    "name": "Pájaro Inti",
+    "image_path": "https://api.myl.cl/static/cards/131/020.png",
+    "rarity": "Real",
+    "type": "Aliado",
+    "race": "Bestia",
+    "attack": 1,
+    "cost": 1,
+    "ability": "Si es declarado atacante, gana 2 a la fuerza hasta la Fase Final. En tu Fase de Vigilia, si este Aliado está en tu Cementerio, puedes pagar 1 Oro para ponerlo en tu Mano."
+  },
+  {
+    "name": "Guirivilo",
+    "image_path": "https://api.myl.cl/static/cards/131/003.png",
+    "rarity": "Cortesano",
+    "type": "Aliado",
+    "race": "Bestia",
+    "attack": 2,
+    "cost": 3,
+    "ability": "Cuando entra en juego, roba 2 cartas. Luego, tu oponente roba 1 carta."
+  },
+  {
+    "name": "Guardián del Sol",
+    "image_path": "https://api.myl.cl/static/cards/131/007.png",
+    "rarity": "Cortesano",
+    "type": "Aliado",
+    "race": "",
+    "attack": 3,
+    "cost": 2,
+    "ability": "Cuando entra en juego, los jugadores botan 1 carta de su Mazo Castillo. Cuando salga del juego, busca un Tótem en tu Mazo Castillo y ponlo en tu Mano."
+  },
+  {
+    "name": "Huáscar",
+    "image_path": "https://api.myl.cl/static/cards/131/009.png",
+    "rarity": "Cortesano",
+    "type": "Aliado",
+    "race": "Guerrero",
+    "attack": 2,
+    "cost": 2,
+    "ability": "Si es el primer Aliado que pones en juego, puedes buscar un Oro y un Arma en tu Mazo Castillo y ponerlos en tu Mano. Cuando es declarado atacante gana 1 a la Fuerza hasta la Fase Final."
+  },
+  {
+    "name": "Lanza Astral",
+    "image_path": "https://api.myl.cl/static/cards/131/014.png",
+    "rarity": "Cortesano",
+    "type": "Arma",
+    "race": null,
+    "attack": null,
+    "cost": 1,
+    "ability": "Sólo puedes tener una Lanza Astral en juego. Si el portador es el único Aliado declarado atacante gana 4 a la Fuerza hasta la Fase Final. Si el portador atacó este turno, al comienzo de la Fase Final, destierra este Aliado."
+  },
+  {
+    "name": "Melimoyu",
+    "image_path": "https://api.myl.cl/static/cards/131/015.png",
+    "rarity": "Cortesano",
+    "type": "Tótem",
+    "race": null,
+    "attack": null,
+    "cost": 2,
+    "ability": "El primer Aliado que juegues en cada turno puede atacar cuando entra en juego."
+  },
+  {
+    "name": "Apu Illa",
+    "image_path": "https://api.myl.cl/static/cards/131/018.png",
+    "rarity": "Cortesano",
+    "type": "Aliado",
+    "race": "",
+    "attack": 2,
+    "cost": 2,
+    "ability": "Cuando entra en juego, busca un Chamán de Coste 3 o menos en tu Mazo Castillo y ponlo en tu Mano."
+  }
+]

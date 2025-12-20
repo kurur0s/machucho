@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Fafnir",
+        "image_path": "https://api.myl.cl/static/cards/132/002.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Cuando entra en juego, puedes destruir un Aliado oponente que no sea Abominación o Bárbaro."
+    },
+    {
+        "name": "Bruja Lobo",
+        "image_path": "https://api.myl.cl/static/cards/132/003.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "En tu Fase de Vigilia, una vez por turno, puedes generar 2 Oros para jugar Abominaciones de Coste 4 o más. Una vez por turno, cuando juegues un Aliado de Coste 3 o más, puedes robar 1 carta."
+    },
+    {
+        "name": "Haugtrold",
+        "image_path": "https://api.myl.cl/static/cards/132/004.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Sólo puedes tener un Haugtrold en juego. Mientras Haugtrold esté en juego, los Aliados Abominación que controles ganan 1 a la Fuerza."
+    },
+    {
+        "name": "Sigurd Ring",
+        "image_path": "https://api.myl.cl/static/cards/132/005.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entra en juego, puedes buscar 2 Armas en tu Mazo Castillo, pon una en tu Mano y la otra en el Cementerio. Cada vez que juegues un Arma, puedes robar 1 carta."
+    },
+    {
+        "name": "Sigmund",
+        "image_path": "https://api.myl.cl/static/cards/132/006.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Puede atacar cuando entra en juego. Si porta un Arma gana 2 a la fuerza y no puede ser destruido."
+    },
+    {
+        "name": "Signy",
+        "image_path": "https://api.myl.cl/static/cards/132/007.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entre o salga del juego, puedes mirar las 2 primeras cartas de tu Mazo Castillo, pon una en tu Mano y la otra en tu Cementerio."
+    },
+    {
+        "name": "Lytir",
+        "image_path": "https://api.myl.cl/static/cards/132/008.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego, mira las 3 primeras cartas de tu Mazo Castillo, pon una en tu Mano, otra en tu Cementerio y otra en la parte superior de tu Mazo Castillo."
+    },
+    {
+        "name": "Gná",
+        "image_path": "https://api.myl.cl/static/cards/132/009.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Una vez por turno, puedes destruir una carta que controles que no sea Oro para prevenir que este Aliado salga del juego."
+    },
+    {
+        "name": "Rheda",
+        "image_path": "https://api.myl.cl/static/cards/132/010.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego, puedes descartar una carta de tu Mano para que pueda atacar este turno. Tus demás Aliados Dios que controles ganan 1 a la fuerza."
+    },
+    {
+        "name": "Forma de Lobo",
+        "image_path": "https://api.myl.cl/static/cards/132/011.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Elige un Aliado que controles para que gane 3 a la fuerza y sea Imbloqueable hasta la Fase Final. En la Fase Final, puedes robar una carta."
+    },
+    {
+        "name": "Sangre de Dragón",
+        "image_path": "https://api.myl.cl/static/cards/132/012.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Única. Pon un Aliado en juego en la parte inferior del Mazo Castillo de su dueño. Luego, un Aliado que controles no puede salir del juego hasta la Fase Final."
+    },
+    {
+        "name": "Gram",
+        "image_path": "https://api.myl.cl/static/cards/132/014.png",
+        "rarity": "Real",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "El portador gana 2 a la Fuerza. Cuando entra en juego, destruye una carta en juego de Coste 3 o más."
+    },
+    {
+        "name": "Piel de Lobo",
+        "image_path": "https://api.myl.cl/static/cards/132/016.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Cuando entra en juego, puedes elegir un Aliado que controles para que gane 1 a la fuerza por cada Piel de Lobo que controles hasta la Fase Final."
+    },
+    {
+        "name": "La saga de Volsung",
+        "image_path": "https://api.myl.cl/static/cards/132/001.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "En tu Fase de Vigilia, puedes pagar este Oro para generar 2 Oros para jugar Armas. Sólo puedes activar un La Saga de Volsung por turno."
+    },
+    {
+        "name": "Volsung",
+        "image_path": "https://api.myl.cl/static/cards/132/020.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Puede atacar cuando entra en juego. Cuando es declarado atacante, si tienes 3 o más Aliados Bárbaro en juego, este Aliado gana 2 a la fuerza hasta la Fase Final."
+    },
+    {
+        "name": "Sacar la Espada",
+        "image_path": "https://api.myl.cl/static/cards/132/013.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Busca un Arma de Coste 3 o menos en tu Cementerio y juégala sin pagar su Coste. Luego, bota dos cartas de tu Mazo Castillo."
+    },
+    {
+        "name": "Barnstokk",
+        "image_path": "https://api.myl.cl/static/cards/132/015.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "En tu Fase de Vigilia, una vez por turno, puedes pagar 1 Oro para buscar un Arma en tu Mazo Castillo y ponerla en tu Mano. Los Aliados que controles que portan Armas gana 1 a la fuerza."
+    },
+    {
+        "name": "Aegir",
+        "image_path": "https://api.myl.cl/static/cards/132/017.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Cuando entra en juego, baraja un Aliado oponente en el Mazo Castillo de su dueño."
+    },
+    {
+        "name": "Elfos Arqueros",
+        "image_path": "https://api.myl.cl/static/cards/132/018.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Bárbaro",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si es destruido, puedes elegir entre robar 3 cartas de tu Mazo Castillo o que tu oponente bote 3 cartas de su Mazo Castillo."
+    },
+    {
+        "name": "Sif",
+        "image_path": "https://api.myl.cl/static/cards/132/019.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando es destruido, baraja un Aliado oponente en el Mazo Castillo de su dueño."
+    }
+]

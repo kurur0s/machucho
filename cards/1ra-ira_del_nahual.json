@@ -1,0 +1,1262 @@
+[
+    {
+        "name": "Ira del Nahual",
+        "image_path": "https://api.myl.cl/static/cards/59/006.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Todos tus aliados que ataquen son imbloqueables por este turno."
+    },
+    {
+        "name": "Pachamama",
+        "image_path": "https://api.myl.cl/static/cards/59/008.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Puedes buscar un aliado en tu castillo y ponerlo en tu mano."
+    },
+    {
+        "name": "Sacrificio Humano",
+        "image_path": "https://api.myl.cl/static/cards/59/010.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 5,
+        "ability": "Por cada aliado en juego, tu oponente debe pagar un oro, si no lo hace debe enviarlo al cementerio."
+    },
+    {
+        "name": "K' ak' Na",
+        "image_path": "https://api.myl.cl/static/cards/59/011.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "El oponente descarta 2 cartas de su mano al cementerio y tú robas la carta superior de tu castillo."
+    },
+    {
+        "name": "Machitun",
+        "image_path": "https://api.myl.cl/static/cards/59/012.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Reduce a cero todo el daño hecho por tu oponente en este turno."
+    },
+    {
+        "name": "Sotz' Na",
+        "image_path": "https://api.myl.cl/static/cards/59/013.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "En el momento que tu oponente juegue un aliado desde su mano, puedes jugar esta carta y botar al cementerio a dicho aliado."
+    },
+    {
+        "name": "Xochi Vaoyotl",
+        "image_path": "https://api.myl.cl/static/cards/59/015.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Un aliado dobla su fuerza hasta el final del turno."
+    },
+    {
+        "name": "Cataratas del Iguazú",
+        "image_path": "https://api.myl.cl/static/cards/59/017.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Destruye 2 aliados en juego y juega otro turno después de éste."
+    },
+    {
+        "name": "Revolución de los Objetos",
+        "image_path": "https://api.myl.cl/static/cards/59/018.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 6,
+        "ability": "Busca una carta de aliado en el castillo de tu oponente y ponla en juego en tu línea de defensa."
+    },
+    {
+        "name": "Rito del Dorado",
+        "image_path": "https://api.myl.cl/static/cards/59/019.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 0,
+        "ability": "Descártate de 2 cartas y busca dos oros en tu castillo para ponerlos en tu mano."
+    },
+    {
+        "name": "Tonatiuh",
+        "image_path": "https://api.myl.cl/static/cards/59/025.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Genera 2 de oro virtuales para Chamanes."
+    },
+    {
+        "name": "Huascar y Atahualpa",
+        "image_path": "https://api.myl.cl/static/cards/59/027.png",
+        "rarity": "Real",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Todos tus aliados defensores no reciben daño en este turno."
+    },
+    {
+        "name": "Tótem del Cóndor",
+        "image_path": "https://api.myl.cl/static/cards/59/032.png",
+        "rarity": "Real",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 6,
+        "ability": "Todos tus aliados son imbloqueables."
+    },
+    {
+        "name": "Tótem del Águila",
+        "image_path": "https://api.myl.cl/static/cards/59/034.png",
+        "rarity": "Real",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Te cuesta un oro menos jugar Chamanes."
+    },
+    {
+        "name": "Tótem del Mono",
+        "image_path": "https://api.myl.cl/static/cards/59/037.png",
+        "rarity": "Real",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Todos tus aliados pueden llevar un arma extra."
+    },
+    {
+        "name": "Tótem del Puma",
+        "image_path": "https://api.myl.cl/static/cards/59/039.png",
+        "rarity": "Real",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Ningún jugador puede bajar más oros. Cualquier jugador puede botar 3 cartas de su castillo para destruir este Tótem."
+    },
+    {
+        "name": "Inca Yupanqui",
+        "image_path": "https://api.myl.cl/static/cards/59/054.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Por cada Tótem que esté bajo tu control este Chamán gana + 1 de fuerza."
+    },
+    {
+        "name": "Nanahuatzin",
+        "image_path": "https://api.myl.cl/static/cards/59/058.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 4,
+        "cost": 1,
+        "ability": "Para entrar en juego bota al cementerio dos cartas de tu castillo. (imbloqueable. Carta Única)"
+    },
+    {
+        "name": "Kalku",
+        "image_path": "https://api.myl.cl/static/cards/59/063.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 6,
+        "ability": "Cuando entra en juego tu oponente bota 3 cartas de su castillo."
+    },
+    {
+        "name": "Runa Urutrungu",
+        "image_path": "https://api.myl.cl/static/cards/59/064.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 4,
+        "ability": "Cuando entra en juego puedes buscar un Tótem y ponerlo en juego."
+    },
+    {
+        "name": "Inti",
+        "image_path": "https://api.myl.cl/static/cards/59/067.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego destruye 2 oros de tu oponente."
+    },
+    {
+        "name": "Cipatonal y Oxmoco",
+        "image_path": "https://api.myl.cl/static/cards/59/070.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Si es destruido, devuelve 3 cartas a elección de tu cementerio a tu castillo."
+    },
+    {
+        "name": "Tlaloques",
+        "image_path": "https://api.myl.cl/static/cards/59/072.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Gana + 2 de fuerza por cada Chamán en juego."
+    },
+    {
+        "name": "Huracán",
+        "image_path": "https://api.myl.cl/static/cards/59/076.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 3,
+        "cost": 0,
+        "ability": "Puede atacar cuando entra en juego, al final del turno en que ataque es destruido (imbloqueable)."
+    },
+    {
+        "name": "Chacs",
+        "image_path": "https://api.myl.cl/static/cards/59/079.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 6,
+        "cost": 0,
+        "ability": "Para entrar en juego descártate de todas las cartas de tu mano. (Carta única)."
+    },
+    {
+        "name": "Cabracán",
+        "image_path": "https://api.myl.cl/static/cards/59/081.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Destruye esta carta y luego destruye un Tótem de tu oponente."
+    },
+    {
+        "name": "Cihuate Teotl",
+        "image_path": "https://api.myl.cl/static/cards/59/086.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Gana + 1 de fuerza por cada arma que tengas en juego."
+    },
+    {
+        "name": "Umoara",
+        "image_path": "https://api.myl.cl/static/cards/59/089.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Puede llevar un Arma extra."
+    },
+    {
+        "name": "Acihuatl",
+        "image_path": "https://api.myl.cl/static/cards/59/090.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 5,
+        "cost": 5,
+        "ability": "Puede bloquear a más de un aliado."
+    },
+    {
+        "name": "Tlaca Tecolotl",
+        "image_path": "https://api.myl.cl/static/cards/59/091.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 3,
+        "cost": 6,
+        "ability": "Cuando entra en juego, roba 4 cartas de tu castillo y descarta 2 de tu mano."
+    },
+    {
+        "name": "Ahu Kin",
+        "image_path": "https://api.myl.cl/static/cards/59/093.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Cuando entra en juego destruye un arma en juego."
+    },
+    {
+        "name": "Chasqui",
+        "image_path": "https://api.myl.cl/static/cards/59/095.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 4,
+        "cost": 2,
+        "ability": "No puede atacar. Si recibe daño para ser destruido, puedes pagar un oro para que siga en juego."
+    },
+    {
+        "name": "Tlazolteotl",
+        "image_path": "https://api.myl.cl/static/cards/59/096.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Cuando entra en juego destruye todos los aliados de todos los jugadores que tengan 2 o menos de fuerza."
+    },
+    {
+        "name": "Cuchivilu",
+        "image_path": "https://api.myl.cl/static/cards/59/103.png",
+        "rarity": "Real",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entra en juego todas tus bestias ganan + 1 de fuerza permanentemente."
+    },
+    {
+        "name": "Puchao",
+        "image_path": "https://api.myl.cl/static/cards/59/109.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Devuelve un oro a tu mano, luego pon esta carta en tu reserva de oro. Al utilizarlo cuenta como 2 oros."
+    },
+    {
+        "name": "Tesoro de Guayacán",
+        "image_path": "https://api.myl.cl/static/cards/59/110.png",
+        "rarity": "Real",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": "Destruye dos aliados por esta carta en tu reserva de oro. Al utilizarlo cuenta como 3 oros."
+    },
+    {
+        "name": "Anchancho",
+        "image_path": "https://api.myl.cl/static/cards/59/001.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Eliges el Aliado de mayor fuerza de tu oponente y lo pones en su cementerio."
+    },
+    {
+        "name": "Yanomami",
+        "image_path": "https://api.myl.cl/static/cards/59/002.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Destruye un Aliado oponente a tu elección."
+    },
+    {
+        "name": "Auca",
+        "image_path": "https://api.myl.cl/static/cards/59/003.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "En el momento que tu oponente juegue un Arma desde su mano, puedes jugar esta carta y mandar a su cementerio dicha Arma."
+    },
+    {
+        "name": "Toki",
+        "image_path": "https://api.myl.cl/static/cards/59/004.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "En el momento que tu oponente juegue un Tótem desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Tótem."
+    },
+    {
+        "name": "Flechero",
+        "image_path": "https://api.myl.cl/static/cards/59/005.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "En el momento que tu oponente juegue un Talismán desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Talismán."
+    },
+    {
+        "name": "Ix Chebel Yax",
+        "image_path": "https://api.myl.cl/static/cards/59/007.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Puedes buscar un talismán en tu castillo y ponerlo en tu mano."
+    },
+    {
+        "name": "Ch' Ayin Na",
+        "image_path": "https://api.myl.cl/static/cards/59/016.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Si en tu turno tienes menos de 5 cartas en tu castillo, puedes tomar las 5 cartas superiores de tu cementerio y barajarlas con tu castillo."
+    },
+    {
+        "name": "Mascara del Sol",
+        "image_path": "https://api.myl.cl/static/cards/59/021.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Elige un Oro en juego y devuélvelo a la mano de su propietario."
+    },
+    {
+        "name": "Sacrificio Gladiatorio",
+        "image_path": "https://api.myl.cl/static/cards/59/022.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Tu oponente bota de su castillo tantas cartas como Aliados tenga en juego."
+    },
+    {
+        "name": "Iniciación Guerrera",
+        "image_path": "https://api.myl.cl/static/cards/59/023.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Si todos tus Aliados son del mismo tipo, éstos ganan + 1 de fuerza, hasta el final del turno."
+    },
+    {
+        "name": "Cacería del Peyolt",
+        "image_path": "https://api.myl.cl/static/cards/59/026.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Genera 2 Oros virtuales para Talismanes. Arma o Tótem."
+    },
+    {
+        "name": "Ah Puch",
+        "image_path": "https://api.myl.cl/static/cards/59/029.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 5,
+        "ability": "Destruye todos tus Aliados en juego y pon gratis un Aliado en juego desde tu mano."
+    },
+    {
+        "name": "Tótem de Perro",
+        "image_path": "https://api.myl.cl/static/cards/59/031.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Elige un tipo de Aliado en juego y todos tus Aliados serán de ese tipo."
+    },
+    {
+        "name": "Tótem de Guanaco",
+        "image_path": "https://api.myl.cl/static/cards/59/035.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "A tu oponente le cuesta un Oro más jugar sus cartas."
+    },
+    {
+        "name": "Tótem de Cocodrilo",
+        "image_path": "https://api.myl.cl/static/cards/59/036.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Tu oponente, antes de poner en juego un Oro, debe pagarlo con otro."
+    },
+    {
+        "name": "Tótem de Jaguar",
+        "image_path": "https://api.myl.cl/static/cards/59/038.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Todos tus aliados ganan + 1 de fuerza."
+    },
+    {
+        "name": "Tótem de Serpiente",
+        "image_path": "https://api.myl.cl/static/cards/59/040.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Por cada Aliado que te ataque, tu oponente deberá botar una carta de su castillo al final del ataque."
+    },
+    {
+        "name": "Cerbatana",
+        "image_path": "https://api.myl.cl/static/cards/59/045.png",
+        "rarity": "Cortesano",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Si su portador es bloqueado tu oponente se descarta de todas las cartas de su mano."
+    },
+    {
+        "name": "Arco y Flechas",
+        "image_path": "https://api.myl.cl/static/cards/59/049.png",
+        "rarity": "Cortesano",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Este Aliado gana fuerza igual al número de Oros que tengas en juego."
+    },
+    {
+        "name": "Tecpatl",
+        "image_path": "https://api.myl.cl/static/cards/59/050.png",
+        "rarity": "Cortesano",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "El Aliado portador de esta Arma es imbloqueable."
+    },
+    {
+        "name": "Huitzil",
+        "image_path": "https://api.myl.cl/static/cards/59/052.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Una vez por turno paga uno de Oro y destruye un Aliado que tenga fuerza 1 o menos."
+    },
+    {
+        "name": "Machi",
+        "image_path": "https://api.myl.cl/static/cards/59/053.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno."
+    },
+    {
+        "name": "Pahuahtun",
+        "image_path": "https://api.myl.cl/static/cards/59/056.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 0,
+        "ability": "Para que entre en juego debes descartarte de una carta de tu mano (imbloqueable)."
+    },
+    {
+        "name": "Itzam Na",
+        "image_path": "https://api.myl.cl/static/cards/59/057.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Puedes bloquear cartas imbloqueables."
+    },
+    {
+        "name": "Wiraqocha",
+        "image_path": "https://api.myl.cl/static/cards/59/061.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Si ataca y hace daño al castillo oponente puedes buscar un Chamán en tu castillo y ponerlo en tu mano."
+    },
+    {
+        "name": "Huehue Teotl",
+        "image_path": "https://api.myl.cl/static/cards/59/062.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Por cada Chamán que tengas en juego este Chamán gana + 1 de fuerza."
+    },
+    {
+        "name": "Apu Illa",
+        "image_path": "https://api.myl.cl/static/cards/59/065.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Puede llevar un Arma gratis."
+    },
+    {
+        "name": "Tezcaltlipoca",
+        "image_path": "https://api.myl.cl/static/cards/59/068.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Cuando entra en juego busca un Tótem en tu cementerio y ponlo en tu mano."
+    },
+    {
+        "name": "Galvarino",
+        "image_path": "https://api.myl.cl/static/cards/59/073.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Puede llevar un Arma extra."
+    },
+    {
+        "name": "Cangrejos",
+        "image_path": "https://api.myl.cl/static/cards/59/074.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Si lleva un Arma es imbloqueable."
+    },
+    {
+        "name": "Tzitzimime",
+        "image_path": "https://api.myl.cl/static/cards/59/075.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 4,
+        "ability": "Puede atacar cuando entra en juego (Imbloqueable)."
+    },
+    {
+        "name": "Caupolicán",
+        "image_path": "https://api.myl.cl/static/cards/59/078.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Cuando entra en juego busca un Tótem en tu cementerio y ponlo en tu mano."
+    },
+    {
+        "name": "Lautaro",
+        "image_path": "https://api.myl.cl/static/cards/59/083.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 0,
+        "cost": 4,
+        "ability": "Cuando entra en juego destruye todos tus Aliados en juego. Por cada Aliado destruido , Lautaro gana + 1 de fuerza permanentemente (imbloqueable)."
+    },
+    {
+        "name": "Peri Pillan",
+        "image_path": "https://api.myl.cl/static/cards/59/088.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Puede llevar un Arma extra."
+    },
+    {
+        "name": "Cuero",
+        "image_path": "https://api.myl.cl/static/cards/59/104.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 6,
+        "cost": 4,
+        "ability": "Mientras esté en juego todas tus Bestias son imbloqueables."
+    },
+    {
+        "name": "Cuauhtemoc",
+        "image_path": "https://api.myl.cl/static/cards/59/108.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 3,
+        "cost": 5,
+        "ability": "Si es bloqueado, puedes buscar un Arma en tu castillo y ponerla en tu mano."
+    },
+    {
+        "name": "Ix Tabai",
+        "image_path": "https://api.myl.cl/static/cards/59/009.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Si en el turno anterior fuiste atacado, tu oponente deberá mandar al cementerio a uno de sus Aliados."
+    },
+    {
+        "name": "Ix Chel",
+        "image_path": "https://api.myl.cl/static/cards/59/014.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Un Aliado que elijas no podrá ser bloqueado en este turno."
+    },
+    {
+        "name": "Reducción de Cabeza",
+        "image_path": "https://api.myl.cl/static/cards/59/020.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "Si tu oponente tiene todos sus Oros ocupados, destruye uno de ellos enviándolo al cementerio."
+    },
+    {
+        "name": "Camaxtle",
+        "image_path": "https://api.myl.cl/static/cards/59/024.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Todos los Aliados que lleven Armas no podrán ser bloqueados en este turno."
+    },
+    {
+        "name": "Macuñ",
+        "image_path": "https://api.myl.cl/static/cards/59/028.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Elige un Chamán en tu cementerio y cámbialo por uno que esté en juego."
+    },
+    {
+        "name": "Xochiquetzal",
+        "image_path": "https://api.myl.cl/static/cards/59/030.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Un Aliado dobla su fuerza por este turno, si está defendiendo."
+    },
+    {
+        "name": "Tótem de Conejo",
+        "image_path": "https://api.myl.cl/static/cards/59/033.png",
+        "rarity": "Vasallo",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 1,
+        "ability": "Si un Aliado que tengas en juego es destruido, para salvarlo puedes destruir este Tótem."
+    },
+    {
+        "name": "Insignia de Toqui",
+        "image_path": "https://api.myl.cl/static/cards/59/041.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 0,
+        "ability": "Su portador es del tipo que elijas."
+    },
+    {
+        "name": "Atlatl",
+        "image_path": "https://api.myl.cl/static/cards/59/042.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Su portador gana + 3 a la fuerza y no puede ser bloqueado."
+    },
+    {
+        "name": "Tepoztopilli",
+        "image_path": "https://api.myl.cl/static/cards/59/043.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 3,
+        "ability": "Su portador puede bloquear cartas imbloqueables."
+    },
+    {
+        "name": "Boleadoras",
+        "image_path": "https://api.myl.cl/static/cards/59/044.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Su portador puede bloquear a más de un Aliado oponente."
+    },
+    {
+        "name": "Honda",
+        "image_path": "https://api.myl.cl/static/cards/59/046.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Su portador gana + 1 de fuerza y no puede ser bloqueado."
+    },
+    {
+        "name": "Macahuitl",
+        "image_path": "https://api.myl.cl/static/cards/59/047.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Siempre que este Aliado haga daño al castillo oponente, puedes buscar una carta de Oro en tu castillo y ponerlo en juego."
+    },
+    {
+        "name": "Maza",
+        "image_path": "https://api.myl.cl/static/cards/59/048.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "Siempre que este Aliado haga daño a un castillo, toma una carta al azar de la mano de tu oponente y mándala al cementerio."
+    },
+    {
+        "name": "Cueva de Quicaví",
+        "image_path": "https://api.myl.cl/static/cards/59/051.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Si es destruido, todos tus Aliados en juego ganan + 1 de fuerza permanentemente."
+    },
+    {
+        "name": "Tacan",
+        "image_path": "https://api.myl.cl/static/cards/59/055.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Si es destruido, los otros Chamanes que controles ganan + 1 de fuerza permanentemente."
+    },
+    {
+        "name": "Kenos",
+        "image_path": "https://api.myl.cl/static/cards/59/059.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Puedes destruirlo cuando quieras y un Aliado oponente tendrá fuerza 0 hasta el final del turno."
+    },
+    {
+        "name": "Cin Teotl",
+        "image_path": "https://api.myl.cl/static/cards/59/060.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si bloquea gana + 1 de fuerza hasta el final del turno."
+    },
+    {
+        "name": "Kukulcan",
+        "image_path": "https://api.myl.cl/static/cards/59/066.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Una vez por turno, pagando uno de Oro, puedes ver la carta superior de cualquier castillo."
+    },
+    {
+        "name": "Joon",
+        "image_path": "https://api.myl.cl/static/cards/59/069.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "",
+        "attack": 1,
+        "cost": 3,
+        "ability": "Gana + 1 de fuerza por cada Aliado que te ataque hasta el final del turno."
+    },
+    {
+        "name": "Cunas",
+        "image_path": "https://api.myl.cl/static/cards/59/071.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Imbloqueable."
+    },
+    {
+        "name": "Rumiñahui",
+        "image_path": "https://api.myl.cl/static/cards/59/077.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Puede atacar el turno que entra en juego."
+    },
+    {
+        "name": "Guajiro",
+        "image_path": "https://api.myl.cl/static/cards/59/080.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando ataca gana + 1 de fuerza hasta el final del turno."
+    },
+    {
+        "name": "Guerrero Águila",
+        "image_path": "https://api.myl.cl/static/cards/59/082.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 4,
+        "ability": "Por cada guerrero destruido, gana + 1 de fuerza permanentemente."
+    },
+    {
+        "name": "Etsa",
+        "image_path": "https://api.myl.cl/static/cards/59/084.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 2,
+        "ability": "No puede ser bloqueado por Chamanes."
+    },
+    {
+        "name": "Karib",
+        "image_path": "https://api.myl.cl/static/cards/59/085.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Llevar Armas en este Aliado te cuesta un Oro menos."
+    },
+    {
+        "name": "Ñamandu",
+        "image_path": "https://api.myl.cl/static/cards/59/087.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 2,
+        "ability": "Cuando entra en juego puedes verle la mano a tu oponente."
+    },
+    {
+        "name": "Centzon Totochtin",
+        "image_path": "https://api.myl.cl/static/cards/59/092.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Puede llevar un Arma extra."
+    },
+    {
+        "name": "Quetzalcoatl Retorna",
+        "image_path": "https://api.myl.cl/static/cards/59/094.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Gana + 1 de fuerza si ataca."
+    },
+    {
+        "name": "Tsachila",
+        "image_path": "https://api.myl.cl/static/cards/59/097.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": ""
+    },
+    {
+        "name": "Killa",
+        "image_path": "https://api.myl.cl/static/cards/59/098.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 4,
+        "cost": 6,
+        "ability": ""
+    },
+    {
+        "name": "Shuar",
+        "image_path": "https://api.myl.cl/static/cards/59/099.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 2,
+        "ability": ""
+    },
+    {
+        "name": "Moctezuma",
+        "image_path": "https://api.myl.cl/static/cards/59/100.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 0,
+        "ability": "Sólo puede bloquear."
+    },
+    {
+        "name": "Basilisco",
+        "image_path": "https://api.myl.cl/static/cards/59/101.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Cuando entra en juego, elige un tipo de Aliado y Basilisco no podrá ser bloqueado por éste."
+    },
+    {
+        "name": "Camahueto",
+        "image_path": "https://api.myl.cl/static/cards/59/102.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 3,
+        "cost": 2,
+        "ability": "Después de atacar vuelve a la línea de defensa."
+    },
+    {
+        "name": "Caballo Marino",
+        "image_path": "https://api.myl.cl/static/cards/59/105.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si ataca gana + 1 de fuerza por el turno."
+    },
+    {
+        "name": "Amaru",
+        "image_path": "https://api.myl.cl/static/cards/59/106.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 5,
+        "cost": 5,
+        "ability": ""
+    },
+    {
+        "name": "Chinivilu",
+        "image_path": "https://api.myl.cl/static/cards/59/107.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Bestia",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si es destruido, una Bestia que elijas gana + 2 de fuerza por el resto del juego."
+    },
+    {
+        "name": "Trapelacucha",
+        "image_path": "https://api.myl.cl/static/cards/59/111.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Collar de Mani",
+        "image_path": "https://api.myl.cl/static/cards/59/112.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Nariguera",
+        "image_path": "https://api.myl.cl/static/cards/59/113.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Señor de Sipan",
+        "image_path": "https://api.myl.cl/static/cards/59/114.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Uxmal",
+        "image_path": "https://api.myl.cl/static/cards/59/115.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Machu Pichu",
+        "image_path": "https://api.myl.cl/static/cards/59/116.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Zampoña",
+        "image_path": "https://api.myl.cl/static/cards/59/117.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Tzolkin",
+        "image_path": "https://api.myl.cl/static/cards/59/118.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Cráneo de Cristal",
+        "image_path": "https://api.myl.cl/static/cards/59/119.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Trutruca",
+        "image_path": "https://api.myl.cl/static/cards/59/120.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Puerta del Sol Tiahuanacu",
+        "image_path": "https://api.myl.cl/static/cards/59/121.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Nazca",
+        "image_path": "https://api.myl.cl/static/cards/59/122.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Columnas de Thulan",
+        "image_path": "https://api.myl.cl/static/cards/59/123.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Tenochtitlan",
+        "image_path": "https://api.myl.cl/static/cards/59/124.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "El Dorado",
+        "image_path": "https://api.myl.cl/static/cards/59/125.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    },
+    {
+        "name": "Ciudad de los Cesares",
+        "image_path": "https://api.myl.cl/static/cards/59/126.png",
+        "rarity": "Oro",
+        "type": "Oro",
+        "race": null,
+        "attack": null,
+        "cost": null,
+        "ability": ""
+    }
+]

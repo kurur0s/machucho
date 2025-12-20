@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Armadura Dorada",
+        "image_path": "https://api.myl.cl/static/cards/96/001.png",
+        "rarity": "Promo",
+        "type": "Arma",
+        "race": null,
+        "attack": null,
+        "cost": 2,
+        "ability": "El portador gana 1 a la fuerza. Puedes desterrar esta Arma para anular un Talismán o Tótem de coste 3 o menos."
+    },
+    {
+        "name": "Templo de Tenochtitlán",
+        "image_path": "https://api.myl.cl/static/cards/96/002.png",
+        "rarity": "Promo",
+        "type": "Tótem",
+        "race": null,
+        "attack": null,
+        "cost": 4,
+        "ability": "En tu Fase de Vigilia, puedes jugar este Tótem desde tu Cementerio. Puedes desterrar este Tótem para destruir una carta oponente que no sea Oro. Luego, puedes barajar 3 cartas de tu Cementerio en tu Mazo Castillo."
+    }
+]

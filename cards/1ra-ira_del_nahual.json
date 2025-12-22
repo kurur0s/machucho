@@ -164,7 +164,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/054.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 1,
         "ability": "Por cada Tótem que esté bajo tu control este Chamán gana + 1 de fuerza."
@@ -172,9 +172,9 @@
     {
         "name": "Nanahuatzin",
         "image_path": "https://api.myl.cl/static/cards/59/058.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 4,
         "cost": 1,
         "ability": "Para entrar en juego bota al cementerio dos cartas de tu castillo. (imbloqueable. Carta Única)"
@@ -184,7 +184,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/063.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 3,
         "cost": 6,
         "ability": "Cuando entra en juego tu oponente bota 3 cartas de su castillo."
@@ -194,7 +194,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/064.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 4,
         "ability": "Cuando entra en juego puedes buscar un Tótem y ponerlo en juego."
@@ -204,7 +204,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/067.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego destruye 2 oros de tu oponente."
@@ -214,7 +214,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/070.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 3,
         "cost": 4,
         "ability": "Si es destruido, devuelve 3 cartas a elección de tu cementerio a tu castillo."
@@ -242,7 +242,7 @@
     {
         "name": "Chacs",
         "image_path": "https://api.myl.cl/static/cards/59/079.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "Guerrero",
         "attack": 6,
@@ -564,7 +564,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/052.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 3,
         "ability": "Una vez por turno paga uno de Oro y destruye un Aliado que tenga fuerza 1 o menos."
@@ -574,7 +574,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/053.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 3,
         "ability": "Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno."
@@ -584,7 +584,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/056.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 0,
         "ability": "Para que entre en juego debes descartarte de una carta de tu mano (imbloqueable)."
@@ -594,7 +594,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/057.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 3,
         "ability": "Puedes bloquear cartas imbloqueables."
@@ -604,7 +604,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/061.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 2,
         "ability": "Si ataca y hace daño al castillo oponente puedes buscar un Chamán en tu castillo y ponerlo en tu mano."
@@ -614,7 +614,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/062.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 3,
         "ability": "Por cada Chamán que tengas en juego este Chamán gana + 1 de fuerza."
@@ -624,7 +624,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/065.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 3,
         "ability": "Puede llevar un Arma gratis."
@@ -634,7 +634,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/068.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 2,
         "ability": "Cuando entra en juego busca un Tótem en tu cementerio y ponlo en tu mano."
@@ -864,7 +864,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/051.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 3,
         "ability": "Si es destruido, todos tus Aliados en juego ganan + 1 de fuerza permanentemente."
@@ -874,7 +874,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/055.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 1,
         "ability": "Si es destruido, los otros Chamanes que controles ganan + 1 de fuerza permanentemente."
@@ -884,7 +884,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/059.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 1,
         "ability": "Puedes destruirlo cuando quieras y un Aliado oponente tendrá fuerza 0 hasta el final del turno."
@@ -894,7 +894,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/060.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 2,
         "ability": "Si bloquea gana + 1 de fuerza hasta el final del turno."
@@ -904,7 +904,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/066.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 2,
         "ability": "Una vez por turno, pagando uno de Oro, puedes ver la carta superior de cualquier castillo."
@@ -914,7 +914,7 @@
         "image_path": "https://api.myl.cl/static/cards/59/069.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 3,
         "ability": "Gana + 1 de fuerza por cada Aliado que te ataque hasta el final del turno."
@@ -1102,7 +1102,7 @@
     {
         "name": "Trapelacucha",
         "image_path": "https://api.myl.cl/static/cards/59/111.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1112,7 +1112,7 @@
     {
         "name": "Collar de Mani",
         "image_path": "https://api.myl.cl/static/cards/59/112.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1122,7 +1122,7 @@
     {
         "name": "Nariguera",
         "image_path": "https://api.myl.cl/static/cards/59/113.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1132,7 +1132,7 @@
     {
         "name": "Señor de Sipan",
         "image_path": "https://api.myl.cl/static/cards/59/114.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1142,7 +1142,7 @@
     {
         "name": "Uxmal",
         "image_path": "https://api.myl.cl/static/cards/59/115.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1152,7 +1152,7 @@
     {
         "name": "Machu Pichu",
         "image_path": "https://api.myl.cl/static/cards/59/116.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1162,7 +1162,7 @@
     {
         "name": "Zampoña",
         "image_path": "https://api.myl.cl/static/cards/59/117.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1172,7 +1172,7 @@
     {
         "name": "Tzolkin",
         "image_path": "https://api.myl.cl/static/cards/59/118.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1182,7 +1182,7 @@
     {
         "name": "Cráneo de Cristal",
         "image_path": "https://api.myl.cl/static/cards/59/119.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1192,7 +1192,7 @@
     {
         "name": "Trutruca",
         "image_path": "https://api.myl.cl/static/cards/59/120.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1202,7 +1202,7 @@
     {
         "name": "Puerta del Sol Tiahuanacu",
         "image_path": "https://api.myl.cl/static/cards/59/121.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1212,7 +1212,7 @@
     {
         "name": "Nazca",
         "image_path": "https://api.myl.cl/static/cards/59/122.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1222,7 +1222,7 @@
     {
         "name": "Columnas de Thulan",
         "image_path": "https://api.myl.cl/static/cards/59/123.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1232,7 +1232,7 @@
     {
         "name": "Tenochtitlan",
         "image_path": "https://api.myl.cl/static/cards/59/124.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1242,7 +1242,7 @@
     {
         "name": "El Dorado",
         "image_path": "https://api.myl.cl/static/cards/59/125.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1252,7 +1252,7 @@
     {
         "name": "Ciudad de los Cesares",
         "image_path": "https://api.myl.cl/static/cards/59/126.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

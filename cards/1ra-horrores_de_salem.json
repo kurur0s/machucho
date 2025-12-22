@@ -4,7 +4,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/002.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 3,
         "cost": 3,
         "ability": "Puede atacar cuando entra en juego. Cuando entra en juego, puedes mover hasta dos Aliados oponentes de la Línea de Defensa a la Línea de Ataque."
@@ -14,7 +14,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/004.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 3,
         "cost": 4,
         "ability": "Sólo puedes tener un Silencio en juego. Cuando entra en juego, puedes desterrar un Aliado oponente de Coste 3 o menos."
@@ -24,7 +24,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/005.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 2,
         "cost": 2,
         "ability": "Imbloqueable. Cuando entra en juego, puedes buscar una carta en tu Mazo Castillo y ponerla en tu Cementerio."
@@ -34,7 +34,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/006.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 3,
         "cost": 3,
         "ability": "Sólo puedes tener un Gran Coyote en juego. Cuando entra en juego, puedes barajar una carta en juego de Coste 3 o menos en el Mazo Castillo de su dueño. Luego, descarta 2 cartas de tu Mano."
@@ -44,7 +44,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/008.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 2,
         "ability": "Imbloqueable. Cuando entra en juego, tu oponente descarta una carta de su Mano."
@@ -54,7 +54,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/010.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 4,
         "cost": 4,
         "ability": "Sólo puedes tener un Hombre de Negro en juego. Cuando entra en juego, pon una carta oponente en juego de Coste 3 o menos en la parte inferior del Castillo de su dueño."
@@ -62,7 +62,7 @@
     {
         "name": "Juicios de Salem",
         "image_path": "https://api.myl.cl/static/cards/130/011.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -94,7 +94,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/017.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego, puedes mostrar un Aliado de tu Mano para robar 2 cartas de tu Mazo Castillo."
@@ -114,7 +114,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/020.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 2,
         "ability": "Sólo puedes tener un Mary Bradbury en juego. Los demás Cazadores declarados atacantes que controles ganan 1 a la Fuerza hasta la Fase Final."
@@ -122,9 +122,9 @@
     {
         "name": "Tituba",
         "image_path": "https://api.myl.cl/static/cards/130/003.png",
-        "rarity": "Cortesano",
+        "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando es declarado atacante, gana 2 a la Fuerza hasta la Fase Final. Si hace daño al Mazo Castillo oponente, baraja 1 carta de tu Cementerio en tu Mazo Castillo."
@@ -134,7 +134,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/007.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 3,
         "cost": 3,
         "ability": "Cada vez que sea declarado atacante o bloqueador tu oponente bota 2 cartas. Una vez por turno, puedes descartar 1 carta de tu Mano, para que no pueda ser destruido hasta la Fase Final."
@@ -144,7 +144,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/009.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 3,
         "ability": "Una vez por turno, puedes botar dos cartas de tu Mazo Castillo para que un Aliado oponente pierda 3 a la Fuerza hasta la Fase Final."
@@ -184,7 +184,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/018.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 2,
         "ability": "Puede atacar cuando entra en juego. Gana 1 a la Fuerza por cada otro Licántropo que controles."
@@ -194,7 +194,7 @@
         "image_path": "https://api.myl.cl/static/cards/130/019.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 2,
         "ability": "Puede atacar cuando entra en juego."

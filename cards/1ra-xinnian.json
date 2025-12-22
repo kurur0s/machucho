@@ -4,7 +4,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/001.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 2,
         "cost": 1,
         "ability": "No puede ser bloqueado por Aliados de fuerza 3 o más. Cada vez que ataque, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu Mano."
@@ -14,7 +14,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/002.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando este Aliado salga del juego, puedes jugar una Criatura de Coste 2 o menos desde tu Cementerio sin pagar su Coste."
@@ -24,7 +24,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/003.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego, nombra una carta en juego. Mientras este Aliado esté en juego, la carta nombrada pierde su habilidad."
@@ -34,7 +34,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/004.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 2,
         "cost": 2,
         "ability": "Una vez por turno, puedes desterrar una carta de tu Cementerio para desterrar una carta del mismo tipo del Cementerio oponente."
@@ -50,14 +50,14 @@
         "ability": "Una Aliado declarado atacante o bloqueador pierde su habilidad y 2 a la fuerza hasta la Fase Final."
     },
     {
-        "name": "https://tor.myl.cl/carta/xinnian/niu_kanzhe_caodì",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Niu Kanzhe Caodì",
+        "image_path": "https://api.myl.cl/static/cards/127/006.png",
+        "rarity": "Real",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 3,
+        "ability": "Busca un Aliado en tu Cementerio y ponlo en tu Mano. Si el Aliado buscado es una Criatura, puedes jugarlo reduciendo su Coste en 2 Oros hasta la Fase Final."
     },
     {
         "name": "Lǎohǔ qiánfúzhe",
@@ -204,7 +204,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/033.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 1,
         "cost": 1,
         "ability": "Cuando entra en juego, busca una carta que no sea Oro en el Mazo Castillo oponente y destiérrala."
@@ -214,7 +214,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/034.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego, tus demás Campeones ganan 2 a la fuerza permanentemente."
@@ -224,7 +224,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/035.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 5,
         "cost": 2,
         "ability": "Para que pueda atacar debes pagar 1 Oro."
@@ -244,7 +244,7 @@
         "image_path": "https://api.myl.cl/static/cards/127/036.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 1,
         "cost": 2,
         "ability": "Hasta dos veces por turno, puedes barajar un Talismán de tu Mano para robar dos cartas de tu Mazo Castillo."
@@ -252,7 +252,7 @@
     {
         "name": "Rata",
         "image_path": "https://api.myl.cl/static/cards/127/020.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -262,7 +262,7 @@
     {
         "name": "Buey",
         "image_path": "https://api.myl.cl/static/cards/127/021.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -272,7 +272,7 @@
     {
         "name": "Tigre",
         "image_path": "https://api.myl.cl/static/cards/127/022.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -282,7 +282,7 @@
     {
         "name": "Conejo",
         "image_path": "https://api.myl.cl/static/cards/127/023.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -292,7 +292,7 @@
     {
         "name": "Dragón",
         "image_path": "https://api.myl.cl/static/cards/127/024.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -302,7 +302,7 @@
     {
         "name": "Serpiente",
         "image_path": "https://api.myl.cl/static/cards/127/025.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -312,7 +312,7 @@
     {
         "name": "Caballo",
         "image_path": "https://api.myl.cl/static/cards/127/026.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -322,7 +322,7 @@
     {
         "name": "Cabra",
         "image_path": "https://api.myl.cl/static/cards/127/027.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -332,7 +332,7 @@
     {
         "name": "Mono",
         "image_path": "https://api.myl.cl/static/cards/127/028.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -342,7 +342,7 @@
     {
         "name": "Gallo",
         "image_path": "https://api.myl.cl/static/cards/127/029.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -352,7 +352,7 @@
     {
         "name": "Perro",
         "image_path": "https://api.myl.cl/static/cards/127/030.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -362,7 +362,7 @@
     {
         "name": "Cerdo",
         "image_path": "https://api.myl.cl/static/cards/127/031.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

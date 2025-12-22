@@ -4,7 +4,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/002.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 4,
         "ability": "Cuando entra en juego, puedes destruir un Aliado oponente que no sea Abominación o Bárbaro."
@@ -14,7 +14,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/003.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 3,
         "ability": "En tu Fase de Vigilia, una vez por turno, puedes generar 2 Oros para jugar Abominaciones de Coste 4 o más. Una vez por turno, cuando juegues un Aliado de Coste 3 o más, puedes robar 1 carta."
@@ -24,7 +24,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/004.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 2,
         "ability": "Sólo puedes tener un Haugtrold en juego. Mientras Haugtrold esté en juego, los Aliados Abominación que controles ganan 1 a la Fuerza."
@@ -64,7 +64,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/008.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego, mira las 3 primeras cartas de tu Mazo Castillo, pon una en tu Mano, otra en tu Cementerio y otra en la parte superior de tu Mazo Castillo."
@@ -74,7 +74,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/009.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 4,
         "cost": 4,
         "ability": "Una vez por turno, puedes destruir una carta que controles que no sea Oro para prevenir que este Aliado salga del juego."
@@ -84,7 +84,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/010.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego, puedes descartar una carta de tu Mano para que pueda atacar este turno. Tus demás Aliados Dios que controles ganan 1 a la fuerza."
@@ -102,7 +102,7 @@
     {
         "name": "Sangre de Dragón",
         "image_path": "https://api.myl.cl/static/cards/132/012.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -174,7 +174,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/017.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego, baraja un Aliado oponente en el Mazo Castillo de su dueño."
@@ -194,7 +194,7 @@
         "image_path": "https://api.myl.cl/static/cards/132/019.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando es destruido, baraja un Aliado oponente en el Mazo Castillo de su dueño."

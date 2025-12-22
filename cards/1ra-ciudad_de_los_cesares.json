@@ -24,7 +24,7 @@
     "image_path": "https://api.myl.cl/static/cards/131/005.png",
     "rarity": "Real",
     "type": "Aliado",
-    "race": "",
+    "race": "Chamán",
     "attack": 4,
     "cost": 4,
     "ability": "Cuando entra en juego, baraja una carta oponente de Coste 3 o menos en el Mazo Castillo de su dueño. Luego, si controlas 1 o más Tótem, puedes barajar 3 cartas de tu Cementerio en tu Mazo Castillo."
@@ -34,7 +34,7 @@
     "image_path": "https://api.myl.cl/static/cards/131/006.png",
     "rarity": "Real",
     "type": "Aliado",
-    "race": "",
+    "race": "Chamán",
     "attack": 3,
     "cost": 2,
     "ability": "El daño directo aumenta en 1. Una vez por turno, puedes destruir un Tótem que controles para que un Aliado oponente no haga daño a tu Mazo Castillo hasta la Fase Final."
@@ -154,7 +154,7 @@
     "image_path": "https://api.myl.cl/static/cards/131/007.png",
     "rarity": "Cortesano",
     "type": "Aliado",
-    "race": "",
+    "race": "Chamán",
     "attack": 3,
     "cost": 2,
     "ability": "Cuando entra en juego, los jugadores botan 1 carta de su Mazo Castillo. Cuando salga del juego, busca un Tótem en tu Mazo Castillo y ponlo en tu Mano."
@@ -194,7 +194,7 @@
     "image_path": "https://api.myl.cl/static/cards/131/018.png",
     "rarity": "Cortesano",
     "type": "Aliado",
-    "race": "",
+    "race": "Chamán",
     "attack": 2,
     "cost": 2,
     "ability": "Cuando entra en juego, busca un Chamán de Coste 3 o menos en tu Mazo Castillo y ponlo en tu Mano."

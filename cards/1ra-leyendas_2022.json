@@ -2,7 +2,7 @@
     {
         "name": "Zeus",
         "image_path": "https://api.myl.cl/static/cards/151/001.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -12,7 +12,7 @@
     {
         "name": "Haiwatha",
         "image_path": "https://api.myl.cl/static/cards/151/002.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -22,7 +22,7 @@
     {
         "name": "Salome",
         "image_path": "https://api.myl.cl/static/cards/151/003.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -32,7 +32,7 @@
     {
         "name": "Hidromiel",
         "image_path": "https://api.myl.cl/static/cards/151/004.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -42,7 +42,7 @@
     {
         "name": "Thor",
         "image_path": "https://api.myl.cl/static/cards/151/005.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 6,
@@ -52,7 +52,7 @@
     {
         "name": "Niten Ichi Ryu",
         "image_path": "https://api.myl.cl/static/cards/151/006.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -62,7 +62,7 @@
     {
         "name": "Hodur",
         "image_path": "https://api.myl.cl/static/cards/151/007.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 0,
@@ -72,7 +72,7 @@
     {
         "name": "Huracán",
         "image_path": "https://api.myl.cl/static/cards/151/008.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Guerrero",
         "attack": 3,
@@ -82,7 +82,7 @@
     {
         "name": "Oráculo de Delfos",
         "image_path": "https://api.myl.cl/static/cards/151/009.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -92,7 +92,7 @@
     {
         "name": "Walkirias",
         "image_path": "https://api.myl.cl/static/cards/151/010.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -102,7 +102,7 @@
     {
         "name": "Odín",
         "image_path": "https://api.myl.cl/static/cards/151/011.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -112,7 +112,7 @@
     {
         "name": "Dragón de Magma",
         "image_path": "https://api.myl.cl/static/cards/151/012.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Dragón",
         "attack": 4,
@@ -122,7 +122,7 @@
     {
         "name": "Bjorn Ragnarsson",
         "image_path": "https://api.myl.cl/static/cards/151/013.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Bárbaro",
         "attack": 3,
@@ -132,7 +132,7 @@
     {
         "name": "Lautaro",
         "image_path": "https://api.myl.cl/static/cards/151/014.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Aliado",
         "race": "Guerrero",
         "attack": 3,
@@ -142,7 +142,7 @@
     {
         "name": "Nanahuatzin",
         "image_path": "https://api.myl.cl/static/cards/151/015.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Aliado",
         "race": "",
         "attack": 4,
@@ -152,7 +152,7 @@
     {
         "name": "Carmilla",
         "image_path": "https://api.myl.cl/static/cards/151/016.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -162,7 +162,7 @@
     {
         "name": "Galdar",
         "image_path": "https://api.myl.cl/static/cards/151/017.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -172,7 +172,7 @@
     {
         "name": "Naglfar",
         "image_path": "https://api.myl.cl/static/cards/151/018.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -182,7 +182,7 @@
     {
         "name": "Nanna",
         "image_path": "https://api.myl.cl/static/cards/151/019.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 1,
@@ -192,7 +192,7 @@
     {
         "name": "Oráculo",
         "image_path": "https://api.myl.cl/static/cards/151/020.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -202,7 +202,7 @@
     {
         "name": "Vikingo",
         "image_path": "https://api.myl.cl/static/cards/151/021.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -212,7 +212,7 @@
     {
         "name": "Niten Ichi Ryu",
         "image_path": "https://api.myl.cl/static/cards/151/022.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -222,7 +222,7 @@
     {
         "name": "Mago Merlín",
         "image_path": "https://api.myl.cl/static/cards/151/023.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Faerie",
         "attack": 3,
@@ -232,17 +232,17 @@
     {
         "name": "Ken Nage",
         "image_path": "https://api.myl.cl/static/cards/151/024.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
         "cost": 6,
-        "ability": "Tu oponente se descarta de toda su Mano (unica)."
+        "ability": "Tu oponente se descarta de toda su Mano (única)."
     },
     {
         "name": "Horda Bárbara",
         "image_path": "https://api.myl.cl/static/cards/151/025.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -252,7 +252,7 @@
     {
         "name": "Gente Lunar",
         "image_path": "https://api.myl.cl/static/cards/151/026.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -262,7 +262,7 @@
     {
         "name": "Morgana",
         "image_path": "https://api.myl.cl/static/cards/151/027.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Faerie",
         "attack": 3,
@@ -272,7 +272,7 @@
     {
         "name": "Dellingr",
         "image_path": "https://api.myl.cl/static/cards/151/028.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 4,
@@ -282,7 +282,7 @@
     {
         "name": "Fuerza Abominable",
         "image_path": "https://api.myl.cl/static/cards/151/029.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -292,7 +292,7 @@
     {
         "name": "Manada Mortífera",
         "image_path": "https://api.myl.cl/static/cards/151/030.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -302,7 +302,7 @@
     {
         "name": "Lord Ruthven",
         "image_path": "https://api.myl.cl/static/cards/151/031.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -312,7 +312,7 @@
     {
         "name": "Rollo",
         "image_path": "https://api.myl.cl/static/cards/151/032.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Bárbaro",
         "attack": 3,
@@ -322,7 +322,7 @@
     {
         "name": "Vampiros Amenazantes",
         "image_path": "https://api.myl.cl/static/cards/151/033.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -332,7 +332,7 @@
     {
         "name": "Rey Arturo Pendragón",
         "image_path": "https://api.myl.cl/static/cards/151/034.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Caballero",
         "attack": 5,
@@ -342,7 +342,7 @@
     {
         "name": "Hodur",
         "image_path": "https://api.myl.cl/static/cards/151/035.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 0,
@@ -352,7 +352,7 @@
     {
         "name": "Troll",
         "image_path": "https://api.myl.cl/static/cards/151/036.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -362,7 +362,7 @@
     {
         "name": "Hattori Hanzo",
         "image_path": "https://api.myl.cl/static/cards/151/037.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -372,7 +372,7 @@
     {
         "name": "Vali",
         "image_path": "https://api.myl.cl/static/cards/151/038.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -382,7 +382,7 @@
     {
         "name": "Pastor",
         "image_path": "https://api.myl.cl/static/cards/151/039.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -392,7 +392,7 @@
     {
         "name": "Curandero",
         "image_path": "https://api.myl.cl/static/cards/151/040.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 1,
@@ -402,7 +402,7 @@
     {
         "name": "Concilio de Dioses",
         "image_path": "https://api.myl.cl/static/cards/151/041.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -412,7 +412,7 @@
     {
         "name": "Beerwolf",
         "image_path": "https://api.myl.cl/static/cards/151/042.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Tótem",
         "race": null,
         "attack": null,
@@ -422,7 +422,7 @@
     {
         "name": "Lyngbakur",
         "image_path": "https://api.myl.cl/static/cards/151/043.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -432,7 +432,7 @@
     {
         "name": "Reina Guinivere",
         "image_path": "https://api.myl.cl/static/cards/151/044.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "Caballero",
         "attack": 3,
@@ -460,14 +460,14 @@
         "ability": "Al entrar en juego, todos los demás Caballeros ganan +1 de fuerza permanentemente."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era_2022/k'_ak'_na",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Kak'na",
+        "image_path": "https://api.myl.cl/static/cards/151/047.png",
+        "rarity": "Real",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 4,
+        "ability": "Tu oponente descarta dos cartas de su Mano y tu robas una carta de tu Castillo."
     },
     {
         "name": "Kain",
@@ -642,12 +642,12 @@
     {
         "name": "Martillo de Thor",
         "image_path": "https://api.myl.cl/static/cards/151/065.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta unica)."
+        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta única)."
     },
     {
         "name": "Lei Kung",
@@ -732,12 +732,12 @@
     {
         "name": "Espada Real",
         "image_path": "https://api.myl.cl/static/cards/151/074.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Oro",
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Todos tus Aliados ganan + 1 a la fuerza mientras este Oro este en juego. (No puede ser destruido por habilidades de Aliados oponentes) (carta unica)."
+        "ability": "Todos tus Aliados ganan + 1 a la fuerza mientras este Oro este en juego. (No puede ser destruido por habilidades de Aliados oponentes) (carta única)."
     },
     {
         "name": "Abominación",
@@ -1132,7 +1132,7 @@
     {
         "name": "Oráculo Zíngaro",
         "image_path": "https://api.myl.cl/static/cards/151/114.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -1372,7 +1372,7 @@
     {
         "name": "Arlequín",
         "image_path": "https://api.myl.cl/static/cards/151/138.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -1382,12 +1382,12 @@
     {
         "name": "Ataque Suicida",
         "image_path": "https://api.myl.cl/static/cards/151/139.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
         "cost": 0,
-        "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta Unica."
+        "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta única."
     },
     {
         "name": "Zhang Fei",
@@ -1472,7 +1472,7 @@
     {
         "name": "Mani",
         "image_path": "https://api.myl.cl/static/cards/151/148.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "Bárbaro",
         "attack": 2,
@@ -1670,14 +1670,14 @@
         "ability": "Durante el resto del juego, los contendores no pueden jugar con el cementerio."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era_2022/ermitaño",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Ermitaño",
+        "image_path": "https://api.myl.cl/static/cards/151/168.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 3,
+        "ability": "Sólo una vez por juego: Nombra un talismán, tu oponente no podrá utilizarlo por esta partida."
     },
     {
         "name": "Tótem del Bosque",
@@ -2180,14 +2180,14 @@
         "ability": "Puedes destruir esta Arma y tu oponente bota de su Castillo tantas cartas como fuerza tenga este Aliado."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era_2022/bruja_de_la_montaña",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
-        "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "name": "Bruja_de_la_montaña",
+        "image_path": "https://api.myl.cl/static/cards/151/217.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Criaturas",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si hace daño al mazo castillo oponente, puedes robar una carta."
     },
     {
         "name": "Tótem de la Fecundidad",
@@ -2370,14 +2370,14 @@
         "ability": "Al entrar en juego puede destruir un Arma a tu eleccion."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era_2022/guadaña",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Guadaña",
+        "image_path": "https://api.myl.cl/static/cards/151/238.png",
+        "rarity": "Vasallo",
+        "type": "Arma",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "Su portador gana +3 de fuerza. Si ataca es destruido al final del turno."
     },
     {
         "name": "Haiit",
@@ -2500,14 +2500,14 @@
         "ability": "Debe atacar cuando es puesto en juego."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era_2022/macuñ",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Macuñ",
+        "image_path": "https://api.myl.cl/static/cards/151/251.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "Elige un Chamán en tu cementerio y cámbialo por uno que esté en juego."
     },
     {
         "name": "Tótem de Conejo",
@@ -2550,14 +2550,14 @@
         "ability": "Puedes destruirlo cuando quieras y un Aliado oponente tendrá fuerza 0 hasta el final del turno."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era_2022/rumiñahui",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
-        "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "name": "Rumiñahui",
+        "image_path": "https://api.myl.cl/static/cards/151/256.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Guerrero",
+        "attack": 1,
+        "cost": 1,
+        "ability": "Puede atacar el turno que entra en juego."
     },
     {
         "name": "Basilisco",

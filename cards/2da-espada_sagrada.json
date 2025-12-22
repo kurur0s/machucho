@@ -172,7 +172,7 @@
     {
         "name": "Dragón Demonio",
         "image_path": "https://api.myl.cl/static/cards/19/018.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "Dragón",
         "attack": 5,
@@ -462,12 +462,12 @@
     {
         "name": "Dragón Dorado",
         "image_path": "https://api.myl.cl/static/cards/19/047.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
         "cost": 0,
-        "ability": "Dragón Dorado puede ser jugado en cualquier momento para anular una carta. Carta Unica."
+        "ability": "Dragón Dorado puede ser jugado en cualquier momento para anular una carta. Carta Única."
     },
     {
         "name": "Cuna de Dragones",
@@ -652,7 +652,7 @@
     {
         "name": "El Circulo Eterno",
         "image_path": "https://api.myl.cl/static/cards/19/066.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Arma",
         "race": null,
         "attack": null,
@@ -732,7 +732,7 @@
     {
         "name": "Codex Arturicus",
         "image_path": "https://api.myl.cl/static/cards/19/221.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2232,7 +2232,7 @@
     {
         "name": "Azor",
         "image_path": "https://api.myl.cl/static/cards/19/222.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2242,7 +2242,7 @@
     {
         "name": "Pergamino de Bardo",
         "image_path": "https://api.myl.cl/static/cards/19/223.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2252,7 +2252,7 @@
     {
         "name": "Tierras Cultivadas",
         "image_path": "https://api.myl.cl/static/cards/19/224.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2262,7 +2262,7 @@
     {
         "name": "Carruaje de Plata",
         "image_path": "https://api.myl.cl/static/cards/19/226.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2272,7 +2272,7 @@
     {
         "name": "Escudo de Familia",
         "image_path": "https://api.myl.cl/static/cards/19/227.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2282,7 +2282,7 @@
     {
         "name": "Tesoro Celta",
         "image_path": "https://api.myl.cl/static/cards/19/228.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2292,7 +2292,7 @@
     {
         "name": "Votos Sagrados",
         "image_path": "https://api.myl.cl/static/cards/19/229.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2302,7 +2302,7 @@
     {
         "name": "Árbol de los Viejos Dioses",
         "image_path": "https://api.myl.cl/static/cards/19/230.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2312,7 +2312,7 @@
     {
         "name": "Anillo Faerie",
         "image_path": "https://api.myl.cl/static/cards/19/231.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2322,7 +2322,7 @@
     {
         "name": "Joyería Picta",
         "image_path": "https://api.myl.cl/static/cards/19/232.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2332,7 +2332,7 @@
     {
         "name": "Collar de Dragón",
         "image_path": "https://api.myl.cl/static/cards/19/233.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2342,7 +2342,7 @@
     {
         "name": "Flota Mercante",
         "image_path": "https://api.myl.cl/static/cards/19/234.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2352,7 +2352,7 @@
     {
         "name": "El Mercado de Camelot",
         "image_path": "https://api.myl.cl/static/cards/19/236.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

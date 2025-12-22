@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/machucho/static/js/main.b5f41b59.js",
+    "main.js": "/machucho/static/js/main.c9aaed22.js",
     "index.html": "/machucho/index.html",
-    "main.b5f41b59.js.map": "/machucho/static/js/main.b5f41b59.js.map"
+    "main.c9aaed22.js.map": "/machucho/static/js/main.c9aaed22.js.map"
   },
   "entrypoints": [
-    "static/js/main.b5f41b59.js"
+    "static/js/main.c9aaed22.js"
   ]
 }

@@ -1,8 +1,8 @@
-[
+    [
     {
         "name": "Oráculo de Delfos",
         "image_path": "https://api.myl.cl/static/cards/154/001.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -12,7 +12,7 @@
     {
         "name": "Walkirias",
         "image_path": "https://api.myl.cl/static/cards/154/002.png",
-        "rarity": "Legendaria",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -22,7 +22,7 @@
     {
         "name": "Oráculo Zíngaro",
         "image_path": "https://api.myl.cl/static/cards/154/003.png",
-        "rarity": "Legendaria",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -32,7 +32,7 @@
     {
         "name": "Arlequín",
         "image_path": "https://api.myl.cl/static/cards/154/004.png",
-        "rarity": "Legendaria",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -42,7 +42,7 @@
     {
         "name": "Vikingo",
         "image_path": "https://api.myl.cl/static/cards/154/005.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -52,7 +52,7 @@
     {
         "name": "Odín",
         "image_path": "https://api.myl.cl/static/cards/154/006.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -62,7 +62,7 @@
     {
         "name": "Stribog",
         "image_path": "https://api.myl.cl/static/cards/154/007.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -72,7 +72,7 @@
     {
         "name": "Flechero",
         "image_path": "https://api.myl.cl/static/cards/154/008.png",
-        "rarity": "Legendaria",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -82,7 +82,7 @@
     {
         "name": "Odín",
         "image_path": "https://api.myl.cl/static/cards/154/009.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -92,7 +92,7 @@
     {
         "name": "Oráculo de Delfos",
         "image_path": "https://api.myl.cl/static/cards/154/015.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -102,7 +102,7 @@
     {
         "name": "Walkirias",
         "image_path": "https://api.myl.cl/static/cards/154/035.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -112,7 +112,7 @@
     {
         "name": "Oráculo Zíngaro",
         "image_path": "https://api.myl.cl/static/cards/154/039.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -122,19 +122,19 @@
     {
         "name": "Ataque Suicida",
         "image_path": "https://api.myl.cl/static/cards/154/060.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
         "cost": 0,
-        "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta Unica."
+        "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta única."
     },
     {
         "name": "Nanahuatzin",
         "image_path": "https://api.myl.cl/static/cards/154/092.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 4,
         "cost": 1,
         "ability": "Para entrar en juego bota al cementerio dos cartas de tu castillo. (imbloqueable. Carta Única)"
@@ -142,9 +142,9 @@
     {
         "name": "Inti",
         "image_path": "https://api.myl.cl/static/cards/154/095.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego, destruye 2 Oros de tu oponente. Carta Única."
@@ -152,9 +152,9 @@
     {
         "name": "Huracán",
         "image_path": "https://api.myl.cl/static/cards/154/099.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": 3,
         "cost": 0,
         "ability": "Puede atacar cuando entra en juego, al final del turno en que ataque es destruido (imbloqueable)."
@@ -162,7 +162,7 @@
     {
         "name": "Galdar",
         "image_path": "https://api.myl.cl/static/cards/154/113.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -172,7 +172,7 @@
     {
         "name": "Naglfar",
         "image_path": "https://api.myl.cl/static/cards/154/114.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -182,9 +182,9 @@
     {
         "name": "Nanna",
         "image_path": "https://api.myl.cl/static/cards/154/119.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 1,
         "ability": "Si algun jugador juega un Talisman puedes destruir esta carta y anular a dicho Talisman."
@@ -192,7 +192,7 @@
     {
         "name": "Oráculo",
         "image_path": "https://api.myl.cl/static/cards/154/184.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -202,7 +202,7 @@
     {
         "name": "Vikingo",
         "image_path": "https://api.myl.cl/static/cards/154/189.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 3,
@@ -212,9 +212,9 @@
     {
         "name": "Hattori Hanzo",
         "image_path": "https://api.myl.cl/static/cards/154/230.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego elige entre buscar un Campeon en tu Castillo o robar dos cartas de tu Castillo."
@@ -222,7 +222,7 @@
     {
         "name": "Niten Ichi Ryu",
         "image_path": "https://api.myl.cl/static/cards/154/251.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -232,27 +232,27 @@
     {
         "name": "Ken Nage",
         "image_path": "https://api.myl.cl/static/cards/154/258.png",
-        "rarity": "Ultra Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
         "cost": 6,
-        "ability": "Tu oponente se descarta de toda su Mano (unica)."
+        "ability": "Tu oponente se descarta de toda su Mano (única)."
     },
     {
         "name": "Grootslang",
         "image_path": "https://api.myl.cl/static/cards/154/010.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 1,
+        "cost": 2,
+        "ability": "Puedes destruirlo, buscar un oro en tu castillo y ponerlo en juego."
     },
     {
         "name": "Demonio",
         "image_path": "https://api.myl.cl/static/cards/154/014.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 6,
@@ -262,7 +262,7 @@
     {
         "name": "Zeus",
         "image_path": "https://api.myl.cl/static/cards/154/027.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -272,7 +272,7 @@
     {
         "name": "Arlequín",
         "image_path": "https://api.myl.cl/static/cards/154/038.png",
-        "rarity": "Mega Real",
+        "rarity":  "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -282,7 +282,7 @@
     {
         "name": "Stribog",
         "image_path": "https://api.myl.cl/static/cards/154/040.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -292,17 +292,17 @@
     {
         "name": "Rappagan-Mekkabk",
         "image_path": "https://api.myl.cl/static/cards/154/044.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 5,
+        "ability": "Busca una carta de aliado en el mazo de tu oponente y ponla bajo tu control sólo por el juego."
     },
     {
         "name": "Pachamama",
         "image_path": "https://api.myl.cl/static/cards/154/070.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -312,7 +312,7 @@
     {
         "name": "Sacrificio Humano",
         "image_path": "https://api.myl.cl/static/cards/154/071.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -322,7 +322,7 @@
     {
         "name": "Machitun",
         "image_path": "https://api.myl.cl/static/cards/154/072.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -332,19 +332,19 @@
     {
         "name": "Chacs",
         "image_path": "https://api.myl.cl/static/cards/154/100.png",
-        "rarity": "Mega Real",
+        "rarity": "Única",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Para entrar en juego descártate de todas las cartas de tu mano. (Carta única)"
     },
     {
         "name": "Hodur",
         "image_path": "https://api.myl.cl/static/cards/154/118.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": null,
         "cost": 4,
         "ability": "Cuando Hodur entra en juego se convierte en una copia total de un Aliado oponente. Este es barajado en su Castillo y no podra ser jugado mientras Hodur este en juego."
@@ -352,9 +352,9 @@
     {
         "name": "Einheryar",
         "image_path": "https://api.myl.cl/static/cards/154/133.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 4,
         "cost": 4,
         "ability": "Cuando entra en juego destruye un Aliado oponente."
@@ -362,9 +362,9 @@
     {
         "name": "Nott",
         "image_path": "https://api.myl.cl/static/cards/154/135.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
         "ability": "Todos tus Barbaros ganan + 2 de fuerza mientras esta carta este en juego."
@@ -372,9 +372,9 @@
     {
         "name": "Mani",
         "image_path": "https://api.myl.cl/static/cards/154/136.png",
-        "rarity": "Mega Real",
+        "rarity":  "Única",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 2,
         "cost": 2,
         "ability": "Si ataca, tu oponente debe descartarse de dos cartas de su Castillo. Para evitar esta habilidad tu oponente puede descartarse de tres cartas de su Mano. (imbloqueable, carta única)."
@@ -382,9 +382,9 @@
     {
         "name": "Killa",
         "image_path": "https://api.myl.cl/static/cards/154/179.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": 4,
         "cost": 4,
         "ability": "No se pueden bajar Oros mientras este Aliado este en juego."
@@ -392,7 +392,7 @@
     {
         "name": "Pastor",
         "image_path": "https://api.myl.cl/static/cards/154/185.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -402,17 +402,17 @@
     {
         "name": "Thor",
         "image_path": "https://api.myl.cl/static/cards/154/187.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Aliado",
         "race": "",
         "attack": 6,
         "cost": 6,
-        "ability": "Al entrar en juego destruye dos Aliados oponentes a eleccion."
+        "ability": "Al entrar en juego destruye dos Aliados oponentes a elección."
     },
     {
         "name": "Yingzhao Chuan-Fa",
         "image_path": "https://api.myl.cl/static/cards/154/259.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -422,7 +422,7 @@
     {
         "name": "Sun",
         "image_path": "https://api.myl.cl/static/cards/154/266.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Tótem",
         "race": null,
         "attack": null,
@@ -432,7 +432,7 @@
     {
         "name": "Li",
         "image_path": "https://api.myl.cl/static/cards/154/267.png",
-        "rarity": "Mega Real",
+        "rarity":  "Real",
         "type": "Tótem",
         "race": null,
         "attack": null,
@@ -445,9 +445,9 @@
         "rarity": "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 0,
+        "cost": 4,
+        "ability": "Una vez por turno puedes copiar la fuerza y habilidades de un aliado en el juego."
     },
     {
         "name": "Trauko",
@@ -465,19 +465,19 @@
         "rarity": "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 6,
+        "cost": 8,
+        "ability": "Este dragón no puede ser bloqueado."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/haiwatha_(foil)",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Haiwatha",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "Devuelve una carta del cementerio a tu mano."
     },
     {
         "name": "Cizin",
@@ -485,9 +485,9 @@
         "rarity": "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 0,
+        "cost": 5,
+        "ability": "Tiene fuerza igual al número de cartas Oro que tengas en juego."
     },
     {
         "name": "Odiseo",
@@ -495,16 +495,16 @@
         "rarity": "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 1,
+        "cost": 2,
+        "ability": "Al jugarlo, gana + 1 a la fuerza; si tienes dos o más Odiseo en juego. Son imbloqueables."
     },
     {
         "name": "Kain",
         "image_path": "https://api.myl.cl/static/cards/154/048.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 4,
         "cost": 4,
         "ability": "Todos los vampiros que controles ganan + 1 de fuerza cuando ataquen."
@@ -514,17 +514,17 @@
         "image_path": "https://api.myl.cl/static/cards/154/050.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Vampiro",
+        "attack": 0,
+        "cost": 5,
+        "ability": "Tiene fuerza igual al número de cartas de oro de tu oponente. "
     },
     {
         "name": "Khan",
         "image_path": "https://api.myl.cl/static/cards/154/051.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": "Si ataca y hace daño al castillo de tu oponente, puedes buscar una carta de vampiro y ponerla en tu mano."
@@ -556,8 +556,8 @@
         "type": "Tótem",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "A partir del próximo turno puedes bajar un oro extra de tu mano, mientras este tótem esté en juego."
     },
     {
         "name": "Espectro De Dragón",
@@ -566,25 +566,25 @@
         "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 1,
+        "ability": "Descarta tres cartas de la parte superior del castillo de tu oponente."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/salome_(foil)",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
-        "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "name": "Salomé",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
+        "race": "Vampiro",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Cuando entra en juego destruye un oro de tu oponente."
     },
     {
         "name": "Van Helsing",
         "image_path": "https://api.myl.cl/static/cards/154/066.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego, todos tus demás cazadores ganan +1 de fuerza permanentemente."
@@ -596,8 +596,8 @@
         "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 4,
+        "ability": "Todos tus aliados que ataquen son imbloqueables por este turno. "
     },
     {
         "name": "Cataratas del Iguazú",
@@ -650,14 +650,14 @@
         "ability": ""
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/totem_de_guanaco_(foil)",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Tótem de Guanaco",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Cortesano",
+        "type": "Tótem",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "A tu oponente le cuesta un Oro más jugar sus cartas."
     },
     {
         "name": "Tótem Del Puma",
@@ -667,14 +667,14 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Todos tus aliados que ataquen son imbloqueables por este turno. "
     },
     {
         "name": "Inca Yupanqui",
         "image_path": "https://api.myl.cl/static/cards/154/090.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 1,
         "ability": "Por cada Tótem que esté bajo tu control este Chamán gana + 1 de fuerza."
@@ -684,7 +684,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/094.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 4,
         "ability": "Cuando entra en juego puedes buscar un Tótem y ponerlo en juego."
@@ -694,47 +694,47 @@
         "image_path": "https://api.myl.cl/static/cards/154/096.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Chamán",
+        "attack": 3,
+        "cost": 4,
+        "ability": "Si es destruido, devuelve 3 cartas a elección de tu cementerio a tu castillo."
     },
     {
         "name": "Tlaloques",
         "image_path": "https://api.myl.cl/static/cards/154/098.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Gana +2 de fuerza por cada Chamán en juego."
     },
     {
         "name": "Cabracán",
         "image_path": "https://api.myl.cl/static/cards/154/101.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Guerrero",
+        "attack": 2,
+        "cost": 3,
+        "ability": "Destruye esta carta y luego destruye un Tótem de tu oponente."
     },
     {
         "name": "Acihuatl",
         "image_path": "https://api.myl.cl/static/cards/154/102.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Guerrero",
+        "attack": 5,
+        "cost": 5,
+        "ability": "Puede bloquear a más de un aliado."
     },
     {
         "name": "Ahu Kin",
         "image_path": "https://api.myl.cl/static/cards/154/103.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": 1,
         "cost": 2,
         "ability": "Cuando entra en juego destruye un arma en juego."
@@ -744,7 +744,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/104.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": 4,
         "cost": 2,
         "ability": "No puede atacar. Si recibe daño para ser destruido, puedes pagar un oro para que siga en juego."
@@ -754,7 +754,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/107.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bestia",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego todas tus bestias ganan + 1 de fuerza permanentemente."
@@ -822,19 +822,19 @@
     {
         "name": "Martillo De Thor",
         "image_path": "https://api.myl.cl/static/cards/154/117.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta unica)."
+        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta única)."
     },
     {
         "name": "Nyord",
         "image_path": "https://api.myl.cl/static/cards/154/120.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 5,
         "ability": "Paga 4 de Oro y busca un Dios de fuerza 4 o menos en tu Castillo, luego ponlo en tu linea de defensa."
@@ -844,57 +844,57 @@
         "image_path": "https://api.myl.cl/static/cards/154/121.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
+        "race": "Dios",
+        "attack": 2,
+        "cost": 3,
         "ability": ""
     },
     {
-        "name": "Gugantes De Fuego",
+        "name": "Gigantes De Fuego",
         "image_path": "https://api.myl.cl/static/cards/154/122.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Abominación",
+        "attack": 5,
+        "cost": 3,
+        "ability": "Si hace daño al castillo oponente podrás descartarle a tu oponente una carta de su mano."
     },
     {
         "name": "Brokk",
         "image_path": "https://api.myl.cl/static/cards/154/123.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 2,
         "ability": "Si es la primera carta de Aliado que pones en juego, podras buscar dos cartas de Oro en tu Castillo y ponerlas en tu Mano."
     },
     {
-        "name": "Gugantes De Hielo",
+        "name": "Gigantes De Hielo",
         "image_path": "https://api.myl.cl/static/cards/154/124.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Abominación",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Mientras esté en juego todas tus abominaciones después de atacar vuelven a la línea de defensa y ganan +1 a la fuerza permanentemente"
     },
     {
         "name": "Nidhogg",
         "image_path": "https://api.myl.cl/static/cards/154/125.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Abominación",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Si hace daño a un castillo, paga uno de Oro y tu oponente bota una carta de su castillo a su cementerio."
     },
     {
         "name": "Draugar",
         "image_path": "https://api.myl.cl/static/cards/154/126.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 4,
         "ability": "Todos tus Abominaciones pueden atacar cuando entren en juego y mientras este Aliado este en juego."
@@ -904,7 +904,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/127.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bestia",
         "attack": 2,
         "cost": 3,
         "ability": "Si esta en el Cementerio puedes pagar dos de Oro y ponerlo en juego."
@@ -914,7 +914,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/128.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 6,
         "cost": 2,
         "ability": "Solo puede bloquear y no es destruida por habilidades de Armas, Talismanes o Totem."
@@ -924,7 +924,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/129.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 1,
         "cost": 8,
         "ability": "Si esta en tu Cementerio la puedes poner en juego pagando 4 de Oro y destruyendo un Aliado de fuerza 4 o superior."
@@ -934,7 +934,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/130.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 3,
         "ability": "Imbloqueable. Si es declarado atacante junto a Ejercito Enano, ganan 1 a la Fuerza hasta la Fase Final."
@@ -944,7 +944,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/131.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 2,
         "cost": 1,
         "ability": "Si esta carta es bloqueada tu oponente debera destruir un Aliado al Final del turno."
@@ -954,7 +954,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/132.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
         "ability": "Cuando entra en juego destruye un Aliado oponente de fuerza 4 o menos."
@@ -964,17 +964,17 @@
         "image_path": "https://api.myl.cl/static/cards/154/134.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Bárbaro",
+        "attack": 4,
+        "cost": 3,
+        "ability": "Mientas esté en juego puedes ponerles armas a tus bárbaros pagando uno menos de Oro."
     },
     {
         "name": "Sol",
         "image_path": "https://api.myl.cl/static/cards/154/137.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 4,
         "cost": 3,
         "ability": "Cuando entra en juego destruye un Aliado oponente de fuerza 4 o menos."
@@ -984,20 +984,20 @@
         "image_path": "https://api.myl.cl/static/cards/154/138.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Bárbaro",
+        "attack": 3,
+        "cost": 3,
+        "ability": "Siempre que juegues este bárbaro podrás buscar un dios en tu castillo y ponerlo en tu mano."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/hidromiel_(foil)",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Hidromiel",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "Elige 3 cartas en tu cementerio y barájalas con tu castillo. Luego roba 2 cartas."
     },
     {
         "name": "Abominación",
@@ -1014,7 +1014,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/174.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 2,
         "cost": 3,
         "ability": "Puedes pagar 3 de Oro para barajar un Aliado en el Mazo Castillo de su dueño."
@@ -1024,7 +1024,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/175.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Faerie",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego tu oponente bota 4 cartas de su Mazo Castillo."
@@ -1034,7 +1034,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/176.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 2,
         "ability": "Los Vampiros Aliados en juego ganan + 1 a la fuerza y no pueden ser bloqueados."
@@ -1054,7 +1054,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/178.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 1,
         "ability": "Si va al Cementerio desde el juego, podras recuperar 3 cartas a eleccion de tu Cementerio y barajalas en tu Castillo."
@@ -1064,7 +1064,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/180.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 1,
         "ability": "Cuando entra en juego descarta una carta de la Mano de tu oponente. Cuando ataca gana + 1 a la fuerza por el turno."
@@ -1074,7 +1074,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/181.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Guerrero",
         "attack": 4,
         "cost": 0,
         "ability": "Cuando entra en juego, bota 2 cartas de tu Mazo Castillo y descarta una carta de tu Mano."
@@ -1084,7 +1084,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/182.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 4,
         "cost": 4,
         "ability": "Por cada Cazador de vampiro en juego gana + 1 de fuerza."
@@ -1094,7 +1094,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/183.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 1,
         "ability": "Cada vez que ataque genera 2 Oros virtuales solo por el turno."
@@ -1104,7 +1104,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/186.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 4,
         "ability": "Gana + 1 por cada Vampiro en juego."
@@ -1115,8 +1115,8 @@
         "rarity": "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
+        "attack": 1,
+        "cost": 2,
         "ability": ""
     },
     {
@@ -1124,7 +1124,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/190.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego elige un Aliado en juego y este no podra bloquear ni atacar por el resto del juego."
@@ -1135,36 +1135,36 @@
         "rarity": "Real",
         "type": "Aliado",
         "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 1,
+        "cost": 3,
+        "ability": "Puede atacar cuando entra en juego. Porta un arma sin pagar su coste."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/khnum_(foil)",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Khnum",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Vasallo",
+        "type": "Aliado",
         "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "attack": 3,
+        "cost": 3,
+        "ability": "Puede atacar cuando entra en juego. En este turno todos los aliados son imbloqueables."
     },
     {
         "name": "Sengen",
         "image_path": "https://api.myl.cl/static/cards/154/205.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "race": "Kami",
+        "attack": 4,
+        "cost": 4,
+        "ability": "Cuando entra en juego este Kami, puedes tomar hasta 8 cartas de tu mano y barajarlas con tu castillo, para luego robar el mismo número de cartas."
     },
     {
         "name": "Inari",
         "image_path": "https://api.myl.cl/static/cards/154/206.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 3,
         "cost": 3,
         "ability": "Puedes descartarte de una carta de tu Mano y este Aliado gana un bono de fuerza igual al coste en Oro de la carta descartada. Una vez por turno."
@@ -1440,14 +1440,14 @@
         "ability": "Paga uno de Oro y este Aliado gana + 1 de fuerza."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/bushido_(foil)",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Bushido",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 3,
+        "ability": "Cada uno de tus aliados gana por este turno un bono de fuerza igual al número de cartas que tengas en tu mano"
     },
     {
         "name": "Acupuntura",
@@ -2100,14 +2100,14 @@
         "ability": "Puedes destruir esta Aliado para barajar en su Castillo un Aliado oponente en juego."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/bruja_de_la_montaña",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
-        "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": ""
+        "name": "Bruja de la Montaña",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Cortesano",
+        "type": "Aliado",
+        "race": "Criaturas",
+        "attack": 2,
+        "cost": 2,
+        "ability": "Si hace daño al mazo castillo oponente, puedes robar una carta."
     },
     {
         "name": "Konari Jiji",
@@ -2150,14 +2150,14 @@
         "ability": ""
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/saimin_no_jutsu",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Saimin No Jutsu",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Cortesano",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 3,
+        "ability": "En el próximo turno tu oponente no podrá atacar, luego podrás robar una carta de tu castillo."
     },
     {
         "name": "Ken",
@@ -2188,16 +2188,6 @@
         "attack": null,
         "cost": 5,
         "ability": "Al comienzo de cada Agrupación, tu oponente bota 2 cartas de su Mazo Castillo."
-    },
-    {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/saimin_no_jutsu",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
-        "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": ""
     },
     {
         "name": "Gorgonas",
@@ -2400,14 +2390,14 @@
         "ability": "Debe atacar cuando es puesto en juego."
     },
     {
-        "name": "https://tor.myl.cl/carta/leyendas_primera_era/macuñ",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Macuñ",
+        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "rarity": "Vasallo",
+        "type": "Talismán",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 2,
+        "ability": "Elige un Chamán en tu cementerio y cámbialo por uno que esté en juego."
     },
     {
         "name": "Tótem De Conejo",
@@ -2662,7 +2652,7 @@
     {
         "name": "Tsachila",
         "image_path": "https://api.myl.cl/static/cards/154/200.png",
-        "rarity": "Vasallo",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "",
         "attack": 2,
@@ -2722,7 +2712,7 @@
     {
         "name": "Gyallarhorn",
         "image_path": "https://api.myl.cl/static/cards/154/162.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2732,7 +2722,7 @@
     {
         "name": "Halatafl",
         "image_path": "https://api.myl.cl/static/cards/154/163.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2742,7 +2732,7 @@
     {
         "name": "Drakkar",
         "image_path": "https://api.myl.cl/static/cards/154/164.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2752,7 +2742,7 @@
     {
         "name": "Ataúd de Marfil",
         "image_path": "https://api.myl.cl/static/cards/154/165.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2762,7 +2752,7 @@
     {
         "name": "Yasakani",
         "image_path": "https://api.myl.cl/static/cards/154/277.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2772,7 +2762,7 @@
     {
         "name": "Teatro Kabuki",
         "image_path": "https://api.myl.cl/static/cards/154/278.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2782,7 +2772,7 @@
     {
         "name": "Sello Imperial de Jade",
         "image_path": "https://api.myl.cl/static/cards/154/279.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -2792,7 +2782,7 @@
     {
         "name": "Go",
         "image_path": "https://api.myl.cl/static/cards/154/280.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

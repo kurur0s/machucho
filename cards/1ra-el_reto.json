@@ -192,7 +192,7 @@
     {
         "name": "Walkirias",
         "image_path": "https://api.myl.cl/static/cards/57/162.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -1582,7 +1582,7 @@
     {
         "name": "Espada Real",
         "image_path": "https://api.myl.cl/static/cards/57/002.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1592,7 +1592,7 @@
     {
         "name": "Lámpara Mágica",
         "image_path": "https://api.myl.cl/static/cards/57/008.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1602,7 +1602,7 @@
     {
         "name": "Tesoro del Rey",
         "image_path": "https://api.myl.cl/static/cards/57/013.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1612,7 +1612,7 @@
     {
         "name": "Fruto Sagrado",
         "image_path": "https://api.myl.cl/static/cards/57/021.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1622,7 +1622,7 @@
     {
         "name": "Escudo Real",
         "image_path": "https://api.myl.cl/static/cards/57/023.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1632,7 +1632,7 @@
     {
         "name": "Joyas de la Corona",
         "image_path": "https://api.myl.cl/static/cards/57/033.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1642,7 +1642,7 @@
     {
         "name": "Final del Arcoiris",
         "image_path": "https://api.myl.cl/static/cards/57/039.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1652,7 +1652,7 @@
     {
         "name": "Armadura Dorada",
         "image_path": "https://api.myl.cl/static/cards/57/045.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1662,7 +1662,7 @@
     {
         "name": "Rosa de los Vientos",
         "image_path": "https://api.myl.cl/static/cards/57/050.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1672,7 +1672,7 @@
     {
         "name": "Cáliz Sagrado",
         "image_path": "https://api.myl.cl/static/cards/57/060.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1682,7 +1682,7 @@
     {
         "name": "Monedas de Oro",
         "image_path": "https://api.myl.cl/static/cards/57/066.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1692,7 +1692,7 @@
     {
         "name": "Diamante Turquesa",
         "image_path": "https://api.myl.cl/static/cards/57/073.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1702,7 +1702,7 @@
     {
         "name": "Estatua de Oro",
         "image_path": "https://api.myl.cl/static/cards/57/079.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1712,7 +1712,7 @@
     {
         "name": "Portal Celestial",
         "image_path": "https://api.myl.cl/static/cards/57/093.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1722,7 +1722,7 @@
     {
         "name": "Minas del Rey Salomón",
         "image_path": "https://api.myl.cl/static/cards/57/111.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1732,7 +1732,7 @@
     {
         "name": "Cuerno de la Abundancia",
         "image_path": "https://api.myl.cl/static/cards/57/122.png",
-        "rarity": "Oro",
+        "rarity": "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

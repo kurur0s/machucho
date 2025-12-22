@@ -122,12 +122,12 @@
     {
         "name": "Martillo de Thor",
         "image_path": "https://api.myl.cl/static/cards/60/009.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta unica)."
+        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta única)."
     },
     {
         "name": "Guantes de Hierro",
@@ -144,7 +144,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/011.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 0,
         "cost": 4,
         "ability": "Cuando Hodur entra en juego se convierte en una copia total de un Aliado oponente. Este es barajado en su Castillo y no podra ser jugado mientras Hodur este en juego."
@@ -154,7 +154,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/012.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 5,
         "cost": 5,
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de cualquier fuerza a tu Castillo."
@@ -164,7 +164,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/013.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 1,
         "ability": "Si algun jugador juega un Talisman puedes destruir esta carta y anular a dicho Talisman."
@@ -174,7 +174,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/014.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 5,
         "ability": "Paga 4 de Oro y busca un Dios de fuerza 4 o menos en tu Castillo, luego ponlo en tu linea de defensa."
@@ -184,7 +184,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/015.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 3,
         "ability": "Si hace dano al Castillo oponente podras descartarle a tu oponente una carta de su Mano."
@@ -194,7 +194,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/016.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 5,
         "ability": "Todos tus turnos paga su coste y devuelve las cinco cartas superiores de tu Cementerio a tu Castillo, luego barajalo."
@@ -202,19 +202,19 @@
     {
         "name": "Gigantes de Fuego",
         "image_path": "https://api.myl.cl/static/cards/60/017.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 5,
         "cost": 3,
-        "ability": "Cuando entra en juego puedes ponerle un Arma sin pagar su coste, al final del turno que ataque es destruido (unica)."
+        "ability": "Cuando entra en juego puedes ponerle un Arma sin pagar su coste, al final del turno que ataque es destruido (única)."
     },
     {
         "name": "Brokk",
         "image_path": "https://api.myl.cl/static/cards/60/018.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 2,
         "ability": "Si es la primera carta que pones en juego, podras buscar dos cartas de Oro en tu Castillo y ponerlas en tu Mano."
@@ -224,7 +224,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/019.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 4,
         "ability": "Mientras este en juego, todas tus Abominaciones despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
@@ -234,7 +234,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/020.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 4,
         "ability": "Si hace dano a un Castillo, paga uno de Oro y tu oponente bota una carta de su Castillo a su Cementerio."
@@ -244,7 +244,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/021.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 4,
         "ability": "Todos tus Abominaciones pueden atacar cuando entren en juego y mientras este Aliado este en juego."
@@ -254,7 +254,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/022.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 2,
         "ability": "Solo puede atacar o bloquear si tu oponente tiene menos cartas Oro en juego que tu. Las demas copias de esta carta tienen + 1 a la fuerza."
@@ -264,7 +264,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/023.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 3,
         "ability": "Si esta en el Cementerio puedes pagar dos de Oro y ponerlo en juego."
@@ -274,7 +274,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/024.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 6,
         "cost": 2,
         "ability": "Solo puede bloquear y no es destruida por habilidades de Armas, Talismanes o Totem."
@@ -284,7 +284,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/025.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 10,
         "cost": 8,
         "ability": "Si esta en tu Cementerio la puedes poner en juego pagando 4 de Oro y destruyendo un Aliado de fuerza 4 o superior."
@@ -294,7 +294,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/026.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 3,
         "ability": "Puedes destruir esta Aliado para que todas tus cartas ganen + 1 de fuerza permanentemente."
@@ -304,7 +304,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/027.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 3,
         "ability": "Si ataca junto al Ejercito Enano ellos ganan + 1 de fuerza imbloqueable."
@@ -372,7 +372,7 @@
     {
         "name": "Mani",
         "image_path": "https://api.myl.cl/static/cards/60/034.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "Bárbaro",
         "attack": 2,
@@ -664,7 +664,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/063.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 4,
         "cost": 4,
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 3 o menos a tu Castillo."
@@ -674,7 +674,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/064.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 2,
         "ability": "Si es el primer Aliado que pones en juego puede llevar un Arma por 2 menos de Oro."
@@ -684,7 +684,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/065.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": "Si es destruido podras buscar una carta en tu Castillo y ponerla en tu Mano."
@@ -694,7 +694,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/066.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 4,
         "ability": "Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 3 o menos."
@@ -704,7 +704,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/067.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 3,
         "ability": "En combate puedes descartarte de una carta de tu Mano para que gane + 1 de fuerza."
@@ -714,7 +714,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/068.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego tu oponente baraja en su Castillo un Aliado que tenga en juego."
@@ -724,7 +724,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/069.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 2,
         "ability": "Si es la primera carta que pones en juego podras buscar un Totem en tu Castillo y ponerlo en tu Mano."
@@ -734,7 +734,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/070.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 1,
         "cost": 3,
         "ability": "No tiene limite de Armas. Cada vez que se le coloque un Arma a este Aliado podras robar una carta extra en este turno."
@@ -744,7 +744,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/071.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 1,
         "ability": "Solo si tienes menos Aliados que tu oponente puedes poner esta carta en juego."
@@ -754,7 +754,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/072.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 2,
         "ability": "Siempre que bloquee a un Aliado oponente deberas buscar un Oro en tu Castillo y ponerlo en tu Mano."
@@ -764,7 +764,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/073.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego puedes destruir un Totem."
@@ -934,7 +934,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/090.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 1 o menos a tu Castillo."
@@ -944,7 +944,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/091.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 2 o menos a tu Castillo."
@@ -954,7 +954,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/092.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 2,
         "ability": "Si es destruido, tu oponente baraja una carta de Aliado en juego en su Castillo."
@@ -964,7 +964,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/093.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 3,
         "ability": "Si va al Cementerio desde el juego descarta una carta de tu Mano para que siga en juego."
@@ -974,7 +974,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/094.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 1,
         "ability": "Si esta en la linea de ataque puede volver a la linea de defensa para bloquear."
@@ -984,7 +984,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/095.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 3,
         "ability": "Por cada Oro que tengas en tu Cementerio gana + 1 de fuerza."
@@ -994,7 +994,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/096.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 4,
         "ability": "Destruye un Oro que tengas en juego y gana + 2 de fuerza."
@@ -1004,7 +1004,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/097.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 1,
         "ability": "Si es destruido podras barajarlo de nuevo en tu Castillo."
@@ -1014,7 +1014,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/098.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 2,
         "ability": "Cuando esta en juego tu Mano aumenta en una carta mas (una vez por juego)."
@@ -1024,7 +1024,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/099.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 1,
         "ability": "Puede atacar cuando entra en juego pero si asi lo hace descarta una carta de tu Mano."
@@ -1034,7 +1034,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/100.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 4,
         "cost": 4,
         "ability": ""
@@ -1044,7 +1044,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/101.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": ""
@@ -1054,7 +1054,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/102.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 5,
         "cost": 5,
         "ability": ""
@@ -1064,7 +1064,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/103.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 4,
         "ability": "Paga uno de Oro y podras robar una carta extra (una vez por turno)."
@@ -1074,7 +1074,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/104.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 1,
         "ability": ""
@@ -1084,7 +1084,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/105.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 1,
         "cost": 3,
         "ability": "Paga uno de Oro y gana + 1 de fuerza."
@@ -1094,7 +1094,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/106.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": ""
@@ -1104,7 +1104,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/107.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 2,
         "cost": 1,
         "ability": "Solo puede bloquear."
@@ -1114,7 +1114,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/108.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 1 o menos."
@@ -1124,7 +1124,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/109.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 2 o menos."
@@ -1134,7 +1134,7 @@
         "image_path": "https://api.myl.cl/static/cards/60/110.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 1,
         "cost": 1,
         "ability": ""
@@ -1142,7 +1142,7 @@
     {
         "name": "Arqueta de Oro",
         "image_path": "https://api.myl.cl/static/cards/60/115.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1152,7 +1152,7 @@
     {
         "name": "Collar Brising",
         "image_path": "https://api.myl.cl/static/cards/60/116.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1162,7 +1162,7 @@
     {
         "name": "Martillo Amuleto",
         "image_path": "https://api.myl.cl/static/cards/60/117.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1172,7 +1172,7 @@
     {
         "name": "Calendario Runico",
         "image_path": "https://api.myl.cl/static/cards/60/118.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1182,7 +1182,7 @@
     {
         "name": "Rimkalk",
         "image_path": "https://api.myl.cl/static/cards/60/119.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1192,7 +1192,7 @@
     {
         "name": "Armadura de Valkyria",
         "image_path": "https://api.myl.cl/static/cards/60/120.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1202,7 +1202,7 @@
     {
         "name": "Escudo",
         "image_path": "https://api.myl.cl/static/cards/60/121.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1212,7 +1212,7 @@
     {
         "name": "Codex Runicus",
         "image_path": "https://api.myl.cl/static/cards/60/122.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1222,7 +1222,7 @@
     {
         "name": "Puente Bifrost",
         "image_path": "https://api.myl.cl/static/cards/60/123.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1232,7 +1232,7 @@
     {
         "name": "Piedras Runicas",
         "image_path": "https://api.myl.cl/static/cards/60/124.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1242,7 +1242,7 @@
     {
         "name": "Carro de Oseberg",
         "image_path": "https://api.myl.cl/static/cards/60/125.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

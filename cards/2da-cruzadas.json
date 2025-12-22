@@ -22,7 +22,7 @@
     {
         "name": "Felipe II",
         "image_path": "https://api.myl.cl/static/cards/43/003.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "Caballero",
         "attack": 2,
@@ -52,7 +52,7 @@
     {
         "name": "Saladino",
         "image_path": "https://api.myl.cl/static/cards/43/006.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Aliado",
         "race": "Caballero",
         "attack": 1,
@@ -62,7 +62,7 @@
     {
         "name": "Arca de la Alianza",
         "image_path": "https://api.myl.cl/static/cards/43/007.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -80,14 +80,14 @@
         "ability": "Mientras Jerusalén esté en juego, los jugadores se saltan la Fase de Agrupación."
     },
     {
-        "name": "https://tor.myl.cl/carta/cruzadas/mezquita_de _damasco",
-        "image_path": "https://api.myl.cl/static/cards//.png",
-        "rarity": null,
-        "type": null,
+        "name": "Mezquita de Damasco",
+        "image_path": "https://api.myl.cl/static/cards/43/009.png",
+        "rarity": "Real",
+        "type": "Tótem",
         "race": null,
         "attack": null,
-        "cost": null,
-        "ability": ""
+        "cost": 3,
+        "ability": "En Guerra de Talismanes, todos los aliados en juego pierden sus habilidades."
     },
     {
         "name": "Siroco",
@@ -192,7 +192,7 @@
     {
         "name": "Cruz Templaria",
         "image_path": "https://api.myl.cl/static/cards/43/020.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -402,7 +402,7 @@
     {
         "name": "Cruzada de los Niños",
         "image_path": "https://api.myl.cl/static/cards/43/041.png",
-        "rarity": "Cortesano",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -622,7 +622,7 @@
     {
         "name": "Ataque a Traición",
         "image_path": "https://api.myl.cl/static/cards/43/063.png",
-        "rarity": "Vasallo",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,

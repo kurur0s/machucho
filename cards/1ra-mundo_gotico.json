@@ -12,7 +12,7 @@
     {
         "name": "Arlequín",
         "image_path": "https://api.myl.cl/static/cards/58/011.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -22,7 +22,7 @@
     {
         "name": "Oráculo Zíngaro",
         "image_path": "https://api.myl.cl/static/cards/58/012.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
@@ -94,7 +94,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/071.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 4,
         "cost": 4,
         "ability": "Todos los vampiros que controles ganan + 1 de fuerza cuando ataquen."
@@ -104,7 +104,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/077.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 4,
         "ability": "Gana + 1 de fuerza por cada caballero en juego. No puede ser bloqueado por caballeros."
@@ -114,7 +114,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/079.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 0,
         "cost": 5,
         "ability": "Tiene fuerza igual al número de cartas de oro de tu oponente."
@@ -124,7 +124,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/080.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": "Si ataca y hace daño al castillo de tu oponente, puedes buscar una carta de vampiro y ponerla en tu mano."
@@ -134,7 +134,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/091.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 5,
         "ability": "Por cada cazador de vampiros en juego gana + 1 de fuerza."
@@ -182,19 +182,19 @@
     {
         "name": "Ataque suicida",
         "image_path": "https://api.myl.cl/static/cards/58/139.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,
         "cost": 0,
-        "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta Unica."
+        "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta Única."
     },
     {
         "name": "Van Helsing",
         "image_path": "https://api.myl.cl/static/cards/58/174.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego, todos tus demás cazadores ganan +1 de fuerza permanentemente."
@@ -404,7 +404,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/056.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 3,
         "cost": 4,
         "ability": "Cuando entra en juego puedes buscar una carta de licántropo en tu mazo y ponerla en tu mano."
@@ -414,7 +414,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/057.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 3,
         "cost": 5,
         "ability": "Destruye un licántropo que controles y gana + 1 de fuerza."
@@ -424,7 +424,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/072.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": "Puede atacar el turno en que es puesto en juego."
@@ -434,7 +434,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/073.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 3,
         "ability": "Paga uno de Oro y un aliado oponente a tu elección, debe atacar el próximo turno."
@@ -444,7 +444,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/076.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 3,
         "ability": "Si es destruido en combate, el oponente se descarta de una carta de su mano."
@@ -454,7 +454,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/082.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": "Al atacar, destruye una carta de Oro que controles y gana + 1 de fuerza por el turno."
@@ -464,7 +464,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/093.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "El vampiro que lo bloquea pierde uno de fuerza por el turno."
@@ -474,7 +474,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/094.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 3,
         "cost": 1,
         "ability": "Sólo puede bloquear."
@@ -484,7 +484,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/095.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entre en juego tu oponente descarta una carta de su castillo."
@@ -494,7 +494,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/096.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando ataca este aliado gana + 1 a la fuerza."
@@ -504,7 +504,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/099.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego puedes ver la mano de tu oponente."
@@ -514,7 +514,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/100.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 3,
         "cost": 3,
         "ability": "Puede bloquear a más de un aliado oponente hasta agotar su fuerza."
@@ -594,7 +594,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/154.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 0,
         "cost": 2,
         "ability": "Gana + 1 de fuerza por cada vampiro en juego."
@@ -604,7 +604,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/159.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 3,
         "ability": "Cuando entra en juego puedes buscar 2 oros en tu cementerio y ponerlos en tu mano."
@@ -624,7 +624,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/164.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 1,
         "ability": "Puede llevar un arma pagando 2 menos de oro."
@@ -634,7 +634,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/166.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 12,
         "cost": 10,
         "ability": "No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio."
@@ -884,7 +884,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/054.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -894,7 +894,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/055.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 2,
         "cost": 3,
         "ability": ""
@@ -1034,7 +1034,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/074.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 3,
         "ability": "Si algún turno ataca o bloquea, destrúyelo al final de ese turno."
@@ -1044,7 +1044,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/075.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 2,
         "ability": "Si ataca, debe ser acompañado por un aliado"
@@ -1054,7 +1054,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/078.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 0,
         "ability": "Al entrar en juego, destruye una de tus cartas Oro."
@@ -1064,7 +1064,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/081.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 0,
         "ability": "Para entrar en juego, descarta 2 cartas de tu mano."
@@ -1074,7 +1074,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/083.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 3,
         "ability": "Si hace daño al castillo del oponente, éste destruye un aliado en juego."
@@ -1084,7 +1084,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/084.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 4,
         "ability": "No puede ser bloqueado por caballeros."
@@ -1094,7 +1094,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/085.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 0,
         "cost": 4,
         "ability": "Tiene fuerza igual al número de cartas en la mano de tu oponente."
@@ -1104,7 +1104,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/086.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 5,
         "cost": 4,
         "ability": "Si ataca, el proximo turno no puede volver a la linea de defensa."
@@ -1114,7 +1114,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/087.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 1,
         "ability": ""
@@ -1124,7 +1124,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/088.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1134,7 +1134,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/089.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 3,
         "ability": ""
@@ -1144,7 +1144,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/090.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1154,7 +1154,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/092.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 1,
         "ability": "Puede llevar dos armas."
@@ -1164,7 +1164,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/097.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "Si ataca y no es bloqueado, gana +1 de fuerza por el turno."
@@ -1174,7 +1174,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/098.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 4,
         "ability": "Cuando bloquea, duplica su fuerza."
@@ -1184,7 +1184,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/101.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": ""
@@ -1194,7 +1194,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/102.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1204,7 +1204,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/103.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": ""
@@ -1214,7 +1214,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/104.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1224,7 +1224,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/105.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": ""
@@ -1234,7 +1234,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/106.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1244,7 +1244,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/107.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1254,7 +1254,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/108.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando bloquea, cambia su fuerza por su coste."
@@ -1264,7 +1264,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/109.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 1,
         "ability": ""
@@ -1274,7 +1274,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/110.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Cazador",
         "attack": 2,
         "cost": 3,
         "ability": "Si ataca y no es bloqueado destruye un Oro de tu oponente."
@@ -1374,7 +1374,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/148.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 3,
         "ability": "No puede ser bloqueado. Si no tienes otros vampiros en juego, destrúyelo al final del turno."
@@ -1384,7 +1384,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/149.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 3,
         "ability": "Cuando entra en juego destruye un oro de tu oponente."
@@ -1394,7 +1394,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/150.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 2,
         "ability": "No puede ser bloqueado por caballeros."
@@ -1404,7 +1404,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/151.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 3,
         "cost": 2,
         "ability": "Debe atacar cuando es puesto en juego."
@@ -1414,7 +1414,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/152.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 3,
         "ability": "Si ataca debe ser bloqueado."
@@ -1424,7 +1424,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/153.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 1,
         "ability": ""
@@ -1434,7 +1434,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/155.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 5,
         "cost": 5,
         "ability": "Puede llevar dor armas."
@@ -1454,7 +1454,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/157.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 2,
         "cost": 2,
         "ability": ""
@@ -1464,7 +1464,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/158.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 1,
         "ability": ""
@@ -1474,7 +1474,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/160.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 1,
         "ability": ""
@@ -1484,7 +1484,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/161.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 1,
         "cost": 2,
         "ability": "Puede atacar cuando entra en juego."
@@ -1494,7 +1494,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/162.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Vampiro",
         "attack": 0,
         "cost": 2,
         "ability": "Mientras este aliado esté en juego, su controlador debe descartarse de una carta de su mano al final de su turno."
@@ -1504,7 +1504,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/165.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 0,
         "cost": 2,
         "ability": ""
@@ -1514,7 +1514,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/167.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 1,
         "ability": "Puede llevar 2 armas."
@@ -1524,7 +1524,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/168.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 2,
         "cost": 3,
         "ability": ""
@@ -1534,7 +1534,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/169.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 2,
         "ability": "Sólo puede ser bloqueado por licántropos."
@@ -1544,7 +1544,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/170.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 3,
         "cost": 1,
         "ability": "Sólo puede bloquear."
@@ -1554,7 +1554,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/171.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 3,
         "cost": 4,
         "ability": "Si ataca y hace daño al castillo oponente, puedes destruirle un tótem a elección."
@@ -1564,7 +1564,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/172.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 2,
         "ability": ""
@@ -1574,7 +1574,7 @@
         "image_path": "https://api.myl.cl/static/cards/58/173.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": 1,
         "cost": 3,
         "ability": "Puedes destruirlo cuando desees; produce oro igual al número de licántropos que tengas en juego, sólo por el turno."
@@ -1582,7 +1582,7 @@
     {
         "name": "Bafometh",
         "image_path": "https://api.myl.cl/static/cards/58/111.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1592,7 +1592,7 @@
     {
         "name": "Codice",
         "image_path": "https://api.myl.cl/static/cards/58/112.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1602,7 +1602,7 @@
     {
         "name": "Sortija",
         "image_path": "https://api.myl.cl/static/cards/58/113.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1612,7 +1612,7 @@
     {
         "name": "Rosal Silvestre",
         "image_path": "https://api.myl.cl/static/cards/58/114.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1622,7 +1622,7 @@
     {
         "name": "Castillo Sombrío",
         "image_path": "https://api.myl.cl/static/cards/58/115.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1632,7 +1632,7 @@
     {
         "name": "Cripta",
         "image_path": "https://api.myl.cl/static/cards/58/116.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1642,7 +1642,7 @@
     {
         "name": "Agua Sagrada",
         "image_path": "https://api.myl.cl/static/cards/58/117.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1652,7 +1652,7 @@
     {
         "name": "Raza Nocturna",
         "image_path": "https://api.myl.cl/static/cards/58/118.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1662,7 +1662,7 @@
     {
         "name": "Corona Imperial",
         "image_path": "https://api.myl.cl/static/cards/58/119.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1672,7 +1672,7 @@
     {
         "name": "Báculo",
         "image_path": "https://api.myl.cl/static/cards/58/120.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1682,7 +1682,7 @@
     {
         "name": "Dragón de Rubí",
         "image_path": "https://api.myl.cl/static/cards/58/121.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1692,7 +1692,7 @@
     {
         "name": "Catedral",
         "image_path": "https://api.myl.cl/static/cards/58/122.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1702,7 +1702,7 @@
     {
         "name": "Candelabro",
         "image_path": "https://api.myl.cl/static/cards/58/123.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1712,7 +1712,7 @@
     {
         "name": "Escudo de Cazador",
         "image_path": "https://api.myl.cl/static/cards/58/124.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1722,7 +1722,7 @@
     {
         "name": "Escudo de Vampiro",
         "image_path": "https://api.myl.cl/static/cards/58/125.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -1732,7 +1732,7 @@
     {
         "name": "Campanas del Alba",
         "image_path": "https://api.myl.cl/static/cards/58/126.png",
-        "rarity": "Oro",
+        "rarity":  "Vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,

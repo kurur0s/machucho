@@ -14,7 +14,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/005.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 2,
         "ability": "Puedes destruirlo, buscar un oro en tu castillo y ponerlo en juego."
@@ -24,7 +24,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/011.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 0,
         "cost": 4,
         "ability": "Una vez por turno puedes copiar la fuerza y habilidades de un aliado en el juego."
@@ -34,7 +34,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/014.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 2,
         "cost": 1,
         "ability": "Gana + 1 a la fuerza por cada Trauko aliado en juego."
@@ -44,7 +44,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/018.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 6,
         "cost": 0,
         "ability": "Para ponerla en juego, debes botar 4 cartas de tu castillo."
@@ -64,7 +64,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/055.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 6,
         "cost": 8,
         "ability": "Este dragón no puede ser bloqueado."
@@ -74,7 +74,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/063.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 2,
         "cost": 2,
         "ability": "Si hay cartas de Amazonas en juego su valor se reduce a  0 ."
@@ -84,7 +84,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/076.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 4,
         "ability": "Paga 3 de oro, y una carta oponente no puede atacar en este turno."
@@ -94,7 +94,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/102.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 4,
         "cost": 4,
         "ability": "Todos tus aliados se consideran caballeros cuando Kordrag está en juego."
@@ -104,7 +104,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/107.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 2,
         "cost": 2,
         "ability": "Al entrar en juego, todos los demás caballeros ganan + 1 de fuerza permanentemente."
@@ -124,7 +124,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/117.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 0,
         "cost": 5,
         "ability": "Tiene fuerza igual al número de cartas  oro  que tengas en juego."
@@ -144,7 +144,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/137.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 2,
         "ability": "Al jugarlo, gana + 1 a la fuerza: si tienes dos o más Odiseo en juego, son imbloqueables."
@@ -154,7 +154,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/141.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 2,
         "ability": "Si es destruido por una carta oponente, ésta es también destruida."
@@ -164,7 +164,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/147.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 6,
         "cost": 6,
         "ability": "Puede bloquear cartas imbloqueables."
@@ -174,7 +174,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/154.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 4,
         "cost": 4,
         "ability": "Cuando ataca, todos los caballeros que lo acompañen ganan + 1 de fuerza por el turno."
@@ -204,7 +204,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/007.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 3,
         "ability": "Cuando ataca, gana + 1 a la fuerza hasta el final del turno."
@@ -214,7 +214,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/009.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 1,
         "ability": "Si Pegaso es destruido, uno de tus aliados gana + 1 a la fuerza permanentemente."
@@ -234,7 +234,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/017.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 0,
         "cost": 3,
         "ability": "Bota X cartas de tu castillo (máximo 5) y gana un punto de fuerza por cada carta botada permanentemente."
@@ -244,7 +244,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/020.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 2,
         "cost": 0,
         "ability": "Destruye una carta de aliado en juego."
@@ -274,7 +274,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/034.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 1,
         "ability": "Al sacrificarlo genera un oro en el turno."
@@ -284,7 +284,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/036.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 2,
         "cost": 4,
         "ability": "Si Perseo está en juego, Medusas y Sirenas de tu oponente, pierden su habilidad."
@@ -294,7 +294,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/037.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 3,
         "ability": "Bota dos cartas de tu castillo, y una carta de tu oponente no puede atacar o bloquear en este turno."
@@ -334,7 +334,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/049.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 3,
         "ability": "Sólo puede ser bloqueada por caballeros."
@@ -344,7 +344,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/054.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 4,
         "cost": 4,
         "ability": "Cuando entra en juego destruye uno de tus aliados."
@@ -354,7 +354,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/058.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 1,
         "ability": "Al jugarla, puedes buscar otra carta de Ninfas en tu castillo y ponerla en tu mano."
@@ -374,7 +374,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/069.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 4,
         "cost": 2,
         "ability": "Si ataca debe ser acompañado por dos aliados."
@@ -384,7 +384,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/071.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 3,
         "cost": 4,
         "ability": "Si hay algún dragón en juego, gana + 3 a la fuerza."
@@ -424,7 +424,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/095.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 2,
         "cost": 3,
         "ability": "Si ataca debe ser bloqueado."
@@ -444,7 +444,7 @@
         "image_path": "https://api.myl.cl/static/cards/57/099.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Sin Raza",
         "attack": 1,
         "cost": 1,
         "ability": "La Serpiente Emplumada no puede ser bloqueada."

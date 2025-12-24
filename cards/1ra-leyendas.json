@@ -1144,7 +1144,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": null,
+        "race": "Sin Raza",
         "attack": 3,
         "cost": 3,
         "ability": "Puede atacar cuando entra en juego. En este turno todos los aliados son imbloqueables."

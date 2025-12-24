@@ -7,7 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Todos tus aliados que ataquen son imbloqueables por este turno."
+        "ability": "Todos tus Aliados que ataquen son imbloqueables por este turno."
     },
     {
         "name": "Pachamama",
@@ -17,7 +17,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Puedes buscar un aliado en tu castillo y ponerlo en tu mano."
+        "ability": "Puedes buscar un Aliado en tu Castillo y ponerlo en tu mano."
     },
     {
         "name": "Sacrificio Humano",
@@ -27,7 +27,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Por cada aliado en juego, tu oponente debe pagar un oro, si no lo hace debe enviarlo al cementerio."
+        "ability": "Por cada Aliado en juego, tu oponente debe pagar un oro, si no lo hace debe enviarlo al cementerio."
     },
     {
         "name": "K' ak' Na",
@@ -37,7 +37,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "El oponente descarta 2 cartas de su mano al cementerio y tú robas la carta superior de tu castillo."
+        "ability": "El oponente descarta 2 cartas de su mano al cementerio y tú robas la carta superior de tu Castillo."
     },
     {
         "name": "Machitun",
@@ -57,7 +57,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En el momento que tu oponente juegue un aliado desde su mano, puedes jugar esta carta y botar al cementerio a dicho aliado."
+        "ability": "En el momento que tu oponente juegue un Aliado desde su mano, puedes jugar esta carta y botar al cementerio a dicho Aliado."
     },
     {
         "name": "Xochi Vaoyotl",
@@ -67,7 +67,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Un aliado dobla su fuerza hasta el final del turno."
+        "ability": "Un Aliado dobla su fuerza hasta el final del turno."
     },
     {
         "name": "Cataratas del Iguazú",
@@ -77,7 +77,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Destruye 2 aliados en juego y juega otro turno después de éste."
+        "ability": "Destruye 2 Aliados en juego y juega otro turno después de éste."
     },
     {
         "name": "Revolución de los Objetos",
@@ -87,7 +87,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "ability": "Busca una carta de aliado en el castillo de tu oponente y ponla en juego en tu línea de defensa."
+        "ability": "Busca una carta de Aliado en el Castillo de tu oponente y ponla en juego en tu línea de defensa."
     },
     {
         "name": "Rito del Dorado",
@@ -97,7 +97,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "ability": "Descártate de 2 cartas y busca dos oros en tu castillo para ponerlos en tu mano."
+        "ability": "Descártate de 2 cartas y busca dos oros en tu Castillo para ponerlos en tu mano."
     },
     {
         "name": "Tonatiuh",
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Todos tus aliados defensores no reciben daño en este turno."
+        "ability": "Todos tus Aliados defensores no reciben daño en este turno."
     },
     {
         "name": "Tótem del Cóndor",
@@ -127,7 +127,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "ability": "Todos tus aliados son imbloqueables."
+        "ability": "Todos tus Aliados son imbloqueables."
     },
     {
         "name": "Tótem del Águila",
@@ -147,7 +147,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Todos tus aliados pueden llevar un arma extra."
+        "ability": "Todos tus Aliados pueden llevar un arma extra."
     },
     {
         "name": "Tótem del Puma",
@@ -157,7 +157,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Ningún jugador puede bajar más oros. Cualquier jugador puede botar 3 cartas de su castillo para destruir este Tótem."
+        "ability": "Ningún jugador puede bajar más oros. Cualquier jugador puede botar 3 cartas de su Castillo para destruir este Tótem."
     },
     {
         "name": "Inca Yupanqui",
@@ -177,7 +177,7 @@
         "race": "Chamán",
         "attack": 4,
         "cost": 1,
-        "ability": "Para entrar en juego bota al cementerio dos cartas de tu castillo. (imbloqueable. Carta Única)"
+        "ability": "Para entrar en juego bota al cementerio dos cartas de tu Castillo. (imbloqueable. Carta Única)"
     },
     {
         "name": "Kalku",
@@ -187,7 +187,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 6,
-        "ability": "Cuando entra en juego tu oponente bota 3 cartas de su castillo."
+        "ability": "Cuando entra en juego tu oponente bota 3 cartas de su Castillo."
     },
     {
         "name": "Runa Urutrungu",
@@ -217,7 +217,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 4,
-        "ability": "Si es destruido, devuelve 3 cartas a elección de tu cementerio a tu castillo."
+        "ability": "Si es destruido, devuelve 3 cartas a elección de tu cementerio a tu Castillo."
     },
     {
         "name": "Tlaloques",
@@ -287,7 +287,7 @@
         "race": "Guerrero",
         "attack": 5,
         "cost": 5,
-        "ability": "Puede bloquear a más de un aliado."
+        "ability": "Puede bloquear a más de un Aliado."
     },
     {
         "name": "Tlaca Tecolotl",
@@ -297,7 +297,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 6,
-        "ability": "Cuando entra en juego, roba 4 cartas de tu castillo y descarta 2 de tu mano."
+        "ability": "Cuando entra en juego, roba 4 cartas de tu Castillo y descarta 2 de tu mano."
     },
     {
         "name": "Ahu Kin",
@@ -327,7 +327,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 4,
-        "ability": "Cuando entra en juego destruye todos los aliados de todos los jugadores que tengan 2 o menos de fuerza."
+        "ability": "Cuando entra en juego destruye todos los Aliados de todos los jugadores que tengan 2 o menos de fuerza."
     },
     {
         "name": "Cuchivilu",
@@ -357,7 +357,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Destruye dos aliados por esta carta en tu reserva de oro. Al utilizarlo cuenta como 3 oros."
+        "ability": "Destruye dos Aliados por esta carta en tu reserva de oro. Al utilizarlo cuenta como 3 oros."
     },
     {
         "name": "Anchancho",
@@ -417,7 +417,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Puedes buscar un talismán en tu castillo y ponerlo en tu mano."
+        "ability": "Puedes buscar un talismán en tu Castillo y ponerlo en tu mano."
     },
     {
         "name": "Ch' Ayin Na",
@@ -427,7 +427,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Si en tu turno tienes menos de 5 cartas en tu castillo, puedes tomar las 5 cartas superiores de tu cementerio y barajarlas con tu castillo."
+        "ability": "Si en tu turno tienes menos de 5 cartas en tu Castillo, puedes tomar las 5 cartas superiores de tu cementerio y barajarlas con tu Castillo."
     },
     {
         "name": "Mascara del Sol",
@@ -447,7 +447,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Tu oponente bota de su castillo tantas cartas como Aliados tenga en juego."
+        "ability": "Tu oponente bota de su Castillo tantas cartas como Aliados tenga en juego."
     },
     {
         "name": "Iniciación Guerrera",
@@ -517,7 +517,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Todos tus aliados ganan + 1 de fuerza."
+        "ability": "Todos tus Aliados ganan + 1 de fuerza."
     },
     {
         "name": "Tótem de Serpiente",
@@ -527,7 +527,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por cada Aliado que te ataque, tu oponente deberá botar una carta de su castillo al final del ataque."
+        "ability": "Por cada Aliado que te ataque, tu oponente deberá botar una carta de su Castillo al final del ataque."
     },
     {
         "name": "Cerbatana",
@@ -607,7 +607,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 2,
-        "ability": "Si ataca y hace daño al castillo oponente puedes buscar un Chamán en tu castillo y ponerlo en tu mano."
+        "ability": "Si ataca y hace daño al Castillo oponente puedes buscar un Chamán en tu Castillo y ponerlo en tu mano."
     },
     {
         "name": "Huehue Teotl",
@@ -717,7 +717,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 5,
-        "ability": "Si es bloqueado, puedes buscar un Arma en tu castillo y ponerla en tu mano."
+        "ability": "Si es bloqueado, puedes buscar un Arma en tu Castillo y ponerla en tu mano."
     },
     {
         "name": "Ix Tabai",
@@ -847,7 +847,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Siempre que este Aliado haga daño al castillo oponente, puedes buscar una carta de Oro en tu castillo y ponerlo en juego."
+        "ability": "Siempre que este Aliado haga daño al Castillo oponente, puedes buscar una carta de Oro en tu Castillo y ponerlo en juego."
     },
     {
         "name": "Maza",
@@ -857,7 +857,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Siempre que este Aliado haga daño a un castillo, toma una carta al azar de la mano de tu oponente y mándala al cementerio."
+        "ability": "Siempre que este Aliado haga daño a un Castillo, toma una carta al azar de la mano de tu oponente y mándala al cementerio."
     },
     {
         "name": "Cueva de Quicaví",
@@ -907,7 +907,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 2,
-        "ability": "Una vez por turno, pagando uno de Oro, puedes ver la carta superior de cualquier castillo."
+        "ability": "Una vez por turno, pagando uno de Oro, puedes ver la carta superior de cualquier Castillo."
     },
     {
         "name": "Joon",
@@ -1017,7 +1017,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Killa",
@@ -1027,7 +1027,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 6,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Shuar",
@@ -1037,7 +1037,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Moctezuma",
@@ -1087,7 +1087,7 @@
         "race": "Bestia",
         "attack": 5,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Chinivilu",
@@ -1107,7 +1107,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Collar de Mani",
@@ -1117,7 +1117,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Nariguera",
@@ -1127,7 +1127,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Señor de Sipan",
@@ -1137,7 +1137,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Uxmal",
@@ -1147,7 +1147,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Machu Pichu",
@@ -1157,7 +1157,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Zampoña",
@@ -1167,7 +1167,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tzolkin",
@@ -1177,7 +1177,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Cráneo de Cristal",
@@ -1187,7 +1187,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Trutruca",
@@ -1197,7 +1197,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Puerta del Sol Tiahuanacu",
@@ -1207,7 +1207,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Nazca",
@@ -1217,7 +1217,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Columnas de Thulan",
@@ -1227,7 +1227,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tenochtitlan",
@@ -1237,7 +1237,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "El Dorado",
@@ -1247,7 +1247,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Ciudad de los Cesares",
@@ -1257,6 +1257,6 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     }
 ]

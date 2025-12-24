@@ -17,7 +17,7 @@
     "race": "Bestia",
     "attack": 2,
     "cost": 2,
-    "ability": "Puede atacar cuando entra en juego. Cuado sea destruido, puedes buscar un Bestia de Coste 1 o menos en tu Cementerio y jugarlo sin pagar su Coste."
+    "ability": "Puede atacar cuando entra en juego. Cuado sea destruido, puedes buscar un Bestia de coste 1 o menos en tu Cementerio y jugarlo sin pagar su coste."
   },
   {
     "name": "Antu",
@@ -27,7 +27,7 @@
     "race": "Chamán",
     "attack": 4,
     "cost": 4,
-    "ability": "Cuando entra en juego, baraja una carta oponente de Coste 3 o menos en el Mazo Castillo de su dueño. Luego, si controlas 1 o más Tótem, puedes barajar 3 cartas de tu Cementerio en tu Mazo Castillo."
+    "ability": "Cuando entra en juego, baraja una carta oponente de coste 3 o menos en el Mazo Castillo de su dueño. Luego, si controlas 1 o más Tótem, puedes barajar 3 cartas de tu Cementerio en tu Mazo Castillo."
   },
   {
     "name": "Kuyén",
@@ -197,6 +197,6 @@
     "race": "Chamán",
     "attack": 2,
     "cost": 2,
-    "ability": "Cuando entra en juego, busca un Chamán de Coste 3 o menos en tu Mazo Castillo y ponlo en tu Mano."
+    "ability": "Cuando entra en juego, busca un Chamán de coste 3 o menos en tu Mazo Castillo y ponlo en tu Mano."
   }
 ]

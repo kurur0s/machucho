@@ -87,7 +87,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando entra en juego, baraja un Aliado oponente en juego en su mazo castillo."
+        "ability": "Cuando entra en juego, baraja un Aliado oponente en juego en su Mazo Castillo."
     },
     {
         "name": "Troll",
@@ -97,7 +97,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando entra en juego, puedes descartar una carta de tu mano para robar una carta de tu mazo castillo. Si descartaste una Abominación, puedes robar otra carta de tu mazo castillo."
+        "ability": "Cuando entra en juego, puedes descartar una carta de tu mano para robar una carta de tu Mazo Castillo. Si descartaste una Abominación, puedes robar otra carta de tu Mazo Castillo."
     },
     {
         "name": "Lyngbakur",
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Cuando entra en juego, puedes mostrar una Abominación de tu mano para mirar las 3 primeras cartas de tu mazo castillo y ordenarlas. Puedes destruir este Oro para que un Aliado oponente pierda 1 a la fuerza hasta el final del turno."
+        "ability": "Cuando entra en juego, puedes mostrar una Abominación de tu mano para mirar las 3 primeras cartas de tu Mazo Castillo y ordenarlas. Puedes destruir este Oro para que un Aliado oponente pierda 1 a la fuerza hasta el final del turno."
     },
     {
         "name": "Nott",
@@ -237,7 +237,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Una vez por turno y si un Bárbaro de coste 3 o más entra en juego, puedes barajar un Bárbaro de tu Cementerio en tu mazo castillo."
+        "ability": "Una vez por turno y si un Bárbaro de coste 3 o más entra en juego, puedes barajar un Bárbaro de tu Cementerio en tu Mazo Castillo."
     },
     {
         "name": "Inti",
@@ -287,7 +287,7 @@
         "race": "Chamán",
         "attack": 4,
         "cost": 1,
-        "ability": "Para entrar en juego bota al cementerio dos cartas de tu castillo. (Imbloqueable. Carta Única)"
+        "ability": "Para entrar en juego bota al cementerio dos cartas de tu Castillo. (Imbloqueable. Carta Única)"
     },
     {
         "name": "Viraqocha",
@@ -297,7 +297,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 2,
-        "ability": "Si ataca y hace daño al castillo oponente, puedes buscar un Chamán en tu castillo y ponerlo en tu mano."
+        "ability": "Si ataca y hace daño al Castillo oponente, puedes buscar un Chamán en tu Castillo y ponerlo en tu mano."
     },
     {
         "name": "Runa Urutrungu",
@@ -307,7 +307,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 4,
-        "ability": "Cuando entra en juego, puedes buscar un Tótem en tu mazo castillo y ponerlo en juego."
+        "ability": "Cuando entra en juego, puedes buscar un Tótem en tu Mazo Castillo y ponerlo en juego."
     },
     {
         "name": "Tezcaltlipoca",
@@ -347,7 +347,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 2,
-        "ability": "Cuando entra en juego, puedes descartar un Chamán de tu mano para buscar un Tótem en tu mazo castillo y ponerlo en tu mano."
+        "ability": "Cuando entra en juego, puedes descartar un Chamán de tu mano para buscar un Tótem en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Culto_Chamán",
@@ -397,7 +397,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 2,
-        "ability": "Si es destruido, baraja un Aliado oponente en juego en su mazo castillo."
+        "ability": "Si es destruido, baraja un Aliado oponente en juego en su Mazo Castillo."
     },
     {
         "name": "Baldur",
@@ -497,7 +497,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, puedes buscar una carta de Licántropo en tu mazo y ponerla en tu mano."
+        "ability": "Cuando entra en juego, puedes buscar una carta de Licántropo en tu Mazo y ponerla en tu mano."
     },
     {
         "name": "Guevadan",
@@ -507,7 +507,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, baraja tantas cartas de tu cementerio en tu mazo castillo como Licántropos controles."
+        "ability": "Cuando entra en juego, baraja tantas cartas de tu cementerio en tu Mazo Castillo como Licántropos controles."
     },
     {
         "name": "Guardia del escudo",
@@ -537,7 +537,7 @@
         "race": "Licántropo",
         "attack": 4,
         "cost": 2,
-        "ability": "Si ataca debe ser acompañado por dos aliados."
+        "ability": "Si ataca debe ser acompañado por dos Aliados."
     },
     {
         "name": "Titan Licantropo",
@@ -637,7 +637,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
-        "ability": "Si ataca y hace daño al castillo de tu oponente, puedes buscar una carta de Vampiro y ponerla en tu mano."
+        "ability": "Si ataca y hace daño al Castillo de tu oponente, puedes buscar una carta de Vampiro y ponerla en tu mano."
     },
     {
         "name": "Itazzy",
@@ -657,7 +657,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 3,
-        "ability": "Si hace daño al castillo del oponente, éste destruye un aliado en juego."
+        "ability": "Si hace daño al Castillo del oponente, éste destruye un Aliado en juego."
     },
     {
         "name": "Enjambre",

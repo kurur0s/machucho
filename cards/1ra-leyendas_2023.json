@@ -7,7 +7,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
-        "ability": "Puede atacar cuando entra en juego. No puede portar Armas de Coste 2 o menos. Si hace Daño de Combate al Mazo oponente, puedes barajar tantas cartas de tu Cementerio a tu Mazo como daño haya hecho. Si lo haces, sube esta carta a tu Mano al final del turno."
+        "ability": "Puede atacar cuando entra en juego. No puede portar Armas de coste 2 o menos. Si hace Daño de Combate al Mazo oponente, puedes barajar tantas cartas de tu Cementerio a tu Mazo como daño haya hecho. Si lo haces, sube esta carta a tu Mano al final del turno."
     },
     {
         "name": "Zara",
@@ -27,7 +27,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, busca un Aliado Bárbaro de Fuerza 2 o menos en tu Mazo Castillo y ponlo en juego sin pagar su Coste."
+        "ability": "Cuando entra en juego, busca un Aliado Bárbaro de Fuerza 2 o menos en tu Mazo Castillo y ponlo en juego sin pagar su coste."
     },
     {
         "name": "Galdar",
@@ -157,7 +157,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 3,
-        "ability": "Cuando entra en juego, el próximo Licántropo que juegues este turno reduce su Coste a 0."
+        "ability": "Cuando entra en juego, el próximo Licántropo que juegues este turno reduce su coste a 0."
     },
     {
         "name": "Dycom el Recaudador",
@@ -227,7 +227,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
-        "ability": "Cuando entra en juego, busca un Tótem en tu Cementerio y ponlo en juego sin pagar su Coste."
+        "ability": "Cuando entra en juego, busca un Tótem en tu Cementerio y ponlo en juego sin pagar su coste."
     },
     {
         "name": "Trauko",
@@ -287,7 +287,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Única. Cuando juegues este Talismán destiérralo. Destruye todos los Aliados de Coste 2 o menos."
+        "ability": "Única. Cuando juegues este Talismán destiérralo. Destruye todos los Aliados de coste 2 o menos."
     },
     {
         "name": "Yggdrasil",
@@ -297,7 +297,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Única. Cuando entra en juego, sube a la Mano de su dueño todos los Aliados en juego. Mientras Yggdrasil esté en juego, aumenta en 1 el Coste de los Aliados de Coste 2 o menos."
+        "ability": "Única. Cuando entra en juego, sube a la Mano de su dueño todos los Aliados en juego. Mientras Yggdrasil esté en juego, aumenta en 1 el coste de los Aliados de coste 2 o menos."
     },
     {
         "name": "Diomira",
@@ -437,7 +437,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando entra en juego, puedes jugar un Arma de tu Cementerio sin pagar su Coste."
+        "ability": "Cuando entra en juego, puedes jugar un Arma de tu Cementerio sin pagar su coste."
     },
     {
         "name": "Wotán",
@@ -447,7 +447,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
-        "ability": "Única. En tu Fase de Vigilia, puedes jugar esta carta de tu Cementerio pagando su Coste. Cuando entra en juego, puedes buscar un Dios de Coste 2 o menos en tu Mazo Castillo y jugarlo sin pagar su coste."
+        "ability": "Única. En tu Fase de Vigilia, puedes jugar esta carta de tu Cementerio pagando su coste. Cuando entra en juego, puedes buscar un Dios de coste 2 o menos en tu Mazo Castillo y jugarlo sin pagar su coste."
     },
     {
         "name": "Loki",
@@ -507,7 +507,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "ability": "Cuando entra en juego, pon un Aliado oponente de Coste 3 o menos en la parte superior del Mazo Castillo de su dueño."
+        "ability": "Cuando entra en juego, pon un Aliado oponente de coste 3 o menos en la parte superior del Mazo Castillo de su dueño."
     },
     {
         "name": "Konjin",
@@ -567,7 +567,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Los Aliados de Coste 2 o menos pierden su habilidad."
+        "ability": "Los Aliados de coste 2 o menos pierden su habilidad."
     },
     {
         "name": "Dragon de Magma",
@@ -677,7 +677,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
-        "ability": "Puede atacar cuando entra en juego. No puede portar Armas de Coste 2 o menos. Si hace Daño de Combate al Mazo oponente, puedes barajar tantas cartas de tu Cementerio a tu Mazo como daño haya hecho. Si lo haces, sube esta carta a tu Mano al final del turno."
+        "ability": "Puede atacar cuando entra en juego. No puede portar Armas de coste 2 o menos. Si hace Daño de Combate al Mazo oponente, puedes barajar tantas cartas de tu Cementerio a tu Mazo como daño haya hecho. Si lo haces, sube esta carta a tu Mano al final del turno."
     },
     {
         "name": "Gente Lunar",
@@ -687,7 +687,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 2,
-        "ability": "En tu Vigilia, puedes jugar esta carta de tu Cementerio pagando su Coste. Cuando entra en juego, no puedes descartar cartas de tu Mano hasta la Fase Final."
+        "ability": "En tu Vigilia, puedes jugar esta carta de tu Cementerio pagando su coste. Cuando entra en juego, no puedes descartar cartas de tu Mano hasta la Fase Final."
     },
     {
         "name": "Fenrir",
@@ -707,7 +707,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Busca un Aliado en el Mazo Castillo oponente y ponlo en juego bajo tu control sin pagar su Coste."
+        "ability": "Busca un Aliado en el Mazo Castillo oponente y ponlo en juego bajo tu control sin pagar su coste."
     },
     {
         "name": "Stribog",
@@ -1087,7 +1087,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Busca un Talismán que no sea Tradición Viva en tu Mazo Castillo y juégalo sin pagar su Coste."
+        "ability": "Busca un Talismán que no sea Tradición Viva en tu Mazo Castillo y juégalo sin pagar su coste."
     },
     {
         "name": "Lung Chuan-Fa",
@@ -1177,7 +1177,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "El portador gana 3 a la Fuerza. Sólo puede ser portada por Caballeros. Una vez durante tu turno, puedes botar una carta de tu Mazo para que el portador gane Fuerza igual al Coste de la carta botada."
+        "ability": "El portador gana 3 a la Fuerza. Sólo puede ser portada por Caballeros. Una vez durante tu turno, puedes botar una carta de tu Mazo para que el portador gane Fuerza igual al coste de la carta botada."
     },
     {
         "name": "Merlín",
@@ -1187,7 +1187,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Busca un Caballero en tu Mazo Castillo y ponlo en juego, sin pagar su Coste."
+        "ability": "Busca un Caballero en tu Mazo Castillo y ponlo en juego, sin pagar su coste."
     },
     {
         "name": "Vampiro Oriental",
@@ -1217,7 +1217,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Atlasov",
@@ -1247,7 +1247,7 @@
         "race": "Licántropo",
         "attack": 4,
         "cost": 4,
-        "ability": "En tu Fase de Vigilia, puedes pagar 3 de Oro para jugar este Aliado desde tu Cementerio sin pagar su Coste. Si esta carta esta en tu Mano, puedes descartarla para robar 1 carta."
+        "ability": "En tu Fase de Vigilia, puedes pagar 3 de Oro para jugar este Aliado desde tu Cementerio sin pagar su coste. Si esta carta esta en tu Mano, puedes descartarla para robar 1 carta."
     },
     {
         "name": "Beerwolf",
@@ -1367,7 +1367,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Cortadora",
@@ -1397,7 +1397,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 4,
-        "ability": "Cuando entra en juego, busca un Tótem en tu Mazo Castillo y ponlo en juego sin pagar su Coste."
+        "ability": "Cuando entra en juego, busca un Tótem en tu Mazo Castillo y ponlo en juego sin pagar su coste."
     },
     {
         "name": "Itzcoatl",
@@ -1407,7 +1407,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 3,
-        "ability": "Cuando entra en juego, puedes buscar un Guerrero de Coste 3 o mas en tu Cementerio y ponerlo en tu Mano."
+        "ability": "Cuando entra en juego, puedes buscar un Guerrero de coste 3 o mas en tu Cementerio y ponerlo en tu Mano."
     },
     {
         "name": "Ahu Kin",
@@ -1487,7 +1487,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Sermilik",
@@ -1517,7 +1517,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, puedes buscar una Abominación de Coste 3 o menos en tu Cementerio y ponla en tu Mano. Si juegas el Aliado buscado este turno, reduce su Coste en 1."
+        "ability": "Cuando entra en juego, puedes buscar una Abominación de coste 3 o menos en tu Cementerio y ponla en tu Mano. Si juegas el Aliado buscado este turno, reduce su coste en 1."
     },
     {
         "name": "Ejercito Enano",
@@ -1537,7 +1537,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, busca un Aliado Bárbaro de Fuerza 2 o menos en tu Mazo Castillo y ponlo en juego sin pagar su Coste."
+        "ability": "Cuando entra en juego, busca un Aliado Bárbaro de Fuerza 2 o menos en tu Mazo Castillo y ponlo en juego sin pagar su coste."
     },
     {
         "name": "Rollo",
@@ -1607,7 +1607,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Cada vez que un Aliado oponente entre en juego, puedes pagar su Coste para ganar el control de ese Aliado permanentemente."
+        "ability": "Cada vez que un Aliado oponente entre en juego, puedes pagar su coste para ganar el control de ese Aliado permanentemente."
     },
     {
         "name": "Horda Bárbara",
@@ -1617,7 +1617,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Una vez por turno, cuando un Bárbaro de Coste 3 o mas entre en juego, puedes barajar un Bárbaro de tu Cementerio en tu Mazo Castillo."
+        "ability": "Una vez por turno, cuando un Bárbaro de coste 3 o mas entre en juego, puedes barajar un Bárbaro de tu Cementerio en tu Mazo Castillo."
     },
     {
         "name": "Fuerza Abominable",
@@ -1647,7 +1647,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Ōnamochi",
@@ -1747,7 +1747,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Rey Arturo Pendragon",
@@ -1777,7 +1777,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 4,
-        "ability": "Una vez por turno, puedes pagar 3 de Oro para jugar un Talismán de tu Mazo Castillo o Cementerio, sin pagar su Coste."
+        "ability": "Una vez por turno, puedes pagar 3 de Oro para jugar un Talismán de tu Mazo Castillo o Cementerio, sin pagar su coste."
     },
     {
         "name": "Morgana",
@@ -2047,7 +2047,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Sólo puedes jugar esta carta en respuesta a la Fase Final. Los jugadores buscan en su Cementerio todos los Aliados destruidos este turno y los juegan sin pagar su Coste."
+        "ability": "Sólo puedes jugar esta carta en respuesta a la Fase Final. Los jugadores buscan en su Cementerio todos los Aliados destruidos este turno y los juegan sin pagar su coste."
     },
     {
         "name": "Xolotl",
@@ -2167,7 +2167,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Sólo puedes jugar esta carta en respuesta a la Fase Final. Busca en tu Cementerio todos los Vampiros destruidos este turno y juégalos sin pagar su Coste."
+        "ability": "Sólo puedes jugar esta carta en respuesta a la Fase Final. Busca en tu Cementerio todos los Vampiros destruidos este turno y juégalos sin pagar su coste."
     },
     {
         "name": "Dominacion",
@@ -2267,7 +2267,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 2,
-        "ability": "Cuando entra en juego, busca un Chaman de Coste 3 o menos en tu Mazo Castillo y ponlo en tu Mano."
+        "ability": "Cuando entra en juego, busca un Chaman de coste 3 o menos en tu Mazo Castillo y ponlo en tu Mano."
     },
     {
         "name": "Cuauhtemoc",

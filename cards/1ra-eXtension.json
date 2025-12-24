@@ -247,7 +247,7 @@
         "race": "Bestia",
         "attack": 3,
         "cost": 5,
-        "ability": "Cuando entra en juego, puedes jugar hasta dos aliados Bestia de coste 2 o menos de distinto nombre desde tu Mazo Castillo sin pagar su coste."
+        "ability": "Cuando entra en juego, puedes jugar hasta dos Aliados Bestia de coste 2 o menos de distinto nombre desde tu Mazo Castillo sin pagar su coste."
     },
     {
         "name": "Tué Tué",
@@ -377,7 +377,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, puedes mostrar la primera carta de tu Mazo Castillo, si es un Aliado, ponlo en juego sin pagar su Coste, si no es un Aliado, ponla en tu Mano."
+        "ability": "Cuando entra en juego, puedes mostrar la primera carta de tu Mazo Castillo, si es un Aliado, ponlo en juego sin pagar su coste, si no es un Aliado, ponla en tu Mano."
     },
     {
         "name": "Brunnmigi",
@@ -387,7 +387,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 5,
-        "ability": "Cuando entra en juego, busca una Abominación de Coste 3 o menos en tu Mazo Castillo y juégala sin pagar su Coste."
+        "ability": "Cuando entra en juego, busca una Abominación de coste 3 o menos en tu Mazo Castillo y juégala sin pagar su coste."
     },
     {
         "name": "Leif Erickson",
@@ -437,7 +437,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 4,
-        "ability": "Una vez por turno, puedes destruir otro Dios que controles para destruir una carta oponente de Coste igual o menor al Dios destruido."
+        "ability": "Una vez por turno, puedes destruir otro Dios que controles para destruir una carta oponente de coste igual o menor al Dios destruido."
     },
     {
         "name": "Rán",
@@ -557,7 +557,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
-        "ability": "Paga 3 de Oro y baraja un aliado oponente a elección."
+        "ability": "Paga 3 de Oro y baraja un Aliado oponente a elección."
     },
     {
         "name": "Cremación",
@@ -607,7 +607,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Los Aliados que controles pueden portar un Arma extra. El Coste de tus Armas se reduce en 1 Oro."
+        "ability": "Los Aliados que controles pueden portar un Arma extra. El coste de tus Armas se reduce en 1 Oro."
     },
     {
         "name": "Tótem de Hierro",
@@ -657,7 +657,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "ability": "Reduce su Coste en 1 por cada Xian en juego. Cuando entra en juego, roba 1 carta."
+        "ability": "Reduce su coste en 1 por cada Xian en juego. Cuando entra en juego, roba 1 carta."
     },
     {
         "name": "Omoikane",
@@ -1037,7 +1037,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 1,
-        "ability": "Cuando entra en juego, destruye un Aliado oponente de Coste 1 o menos."
+        "ability": "Cuando entra en juego, destruye un Aliado oponente de coste 1 o menos."
     },
     {
         "name": "Dinella",

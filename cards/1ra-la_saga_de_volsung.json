@@ -17,7 +17,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
-        "ability": "En tu Fase de Vigilia, una vez por turno, puedes generar 2 Oros para jugar Abominaciones de Coste 4 o más. Una vez por turno, cuando juegues un Aliado de Coste 3 o más, puedes robar 1 carta."
+        "ability": "En tu Fase de Vigilia, una vez por turno, puedes generar 2 Oros para jugar Abominaciones de coste 4 o más. Una vez por turno, cuando juegues un Aliado de coste 3 o más, puedes robar 1 carta."
     },
     {
         "name": "Haugtrold",
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "El portador gana 2 a la Fuerza. Cuando entra en juego, destruye una carta en juego de Coste 3 o más."
+        "ability": "El portador gana 2 a la Fuerza. Cuando entra en juego, destruye una carta en juego de coste 3 o más."
     },
     {
         "name": "Piel de Lobo",
@@ -157,7 +157,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Busca un Arma de Coste 3 o menos en tu Cementerio y juégala sin pagar su Coste. Luego, bota dos cartas de tu Mazo Castillo."
+        "ability": "Busca un Arma de coste 3 o menos en tu Cementerio y juégala sin pagar su coste. Luego, bota dos cartas de tu Mazo Castillo."
     },
     {
         "name": "Barnstokk",

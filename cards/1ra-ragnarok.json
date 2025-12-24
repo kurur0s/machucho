@@ -917,7 +917,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Yelmo Escandinavo",
@@ -1037,7 +1037,7 @@
         "race": "Dios",
         "attack": 4,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Snotra",
@@ -1047,7 +1047,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tyr",
@@ -1057,7 +1057,7 @@
         "race": "Dios",
         "attack": 5,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Forseti",
@@ -1077,7 +1077,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Vidar",
@@ -1097,7 +1097,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tyra",
@@ -1137,7 +1137,7 @@
         "race": "Abominación",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Arqueta de Oro",
@@ -1147,7 +1147,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Collar Brising",
@@ -1157,7 +1157,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Martillo Amuleto",
@@ -1167,7 +1167,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Calendario Runico",
@@ -1177,7 +1177,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Rimkalk",
@@ -1187,7 +1187,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Armadura de Valkyria",
@@ -1197,7 +1197,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Escudo",
@@ -1207,7 +1207,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Codex Runicus",
@@ -1217,7 +1217,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Puente Bifrost",
@@ -1227,7 +1227,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Piedras Runicas",
@@ -1237,7 +1237,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Carro de Oseberg",
@@ -1247,6 +1247,6 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     }
 ]

@@ -7,7 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Busca una carta de tu castillo y ponla en tu mano (luego debes volver a barajar tu mazo castillo)."
+        "ability": "Busca una carta de tu Castillo y ponla en tu mano (luego debes volver a barajar tu Mazo Castillo)."
     },
     {
         "name": "Grootslang",
@@ -17,7 +17,7 @@
         "Race": "",
         "attack": 1,
         "cost": 2,
-        "ability": "Puedes destruirlo, buscar un oro en tu castillo y ponerlo en juego."
+        "ability": "Puedes destruirlo, buscar un oro en tu Castillo y ponerlo en juego."
     },
     {
         "name": "Ser Abominable",
@@ -27,7 +27,7 @@
         "Race": "",
         "attack": 0,
         "cost": 4,
-        "ability": "Una vez por turno puedes copiar la fuerza y habilidades de un aliado en el juego."
+        "ability": "Una vez por turno puedes copiar la fuerza y habilidades de un Aliado en el juego."
     },
     {
         "name": "Trauko",
@@ -37,7 +37,7 @@
         "Race": "",
         "attack": 2,
         "cost": 1,
-        "ability": "Gana + 1 a la fuerza por cada Trauko aliado en juego."
+        "ability": "Gana + 1 a la fuerza por cada Trauko Aliado en juego."
     },
     {
         "name": "Demonio",
@@ -47,7 +47,7 @@
         "Race": "",
         "attack": 6,
         "cost": 0,
-        "ability": "Para ponerla en juego, debes botar 4 cartas de tu castillo."
+        "ability": "Para ponerla en juego, debes botar 4 cartas de tu Castillo."
     },
     {
         "name": "Oráculo de Delfos",
@@ -97,7 +97,7 @@
         "Race": "",
         "attack": 4,
         "cost": 4,
-        "ability": "Todos tus aliados se consideran caballeros cuando Kordrag está en juego."
+        "ability": "Todos tus Aliados se consideran caballeros cuando Kordrag está en juego."
     },
     {
         "name": "Caballero Negro",
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Zeus te permite robar 6 cartas de tu mazo castillo."
+        "ability": "Zeus te permite robar 6 cartas de tu Mazo Castillo."
     },
     {
         "name": "Cizin",
@@ -137,7 +137,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Busca una carta de Caballero en tu castillo y ponla en juego."
+        "ability": "Busca una carta de Caballero en tu Castillo y ponla en juego."
     },
     {
         "name": "Odiseo",
@@ -187,7 +187,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Cada jugador muestra la carta superior de su castillo. Si es un aliado, es puesto en juego, si no, la carta es descartada."
+        "ability": "Cada jugador muestra la carta superior de su Castillo. Si es un Aliado, es puesto en juego, si no, la carta es descartada."
     },
     {
         "name": "Walkirias",
@@ -217,7 +217,7 @@
         "Race": "",
         "attack": 1,
         "cost": 1,
-        "ability": "Si Pegaso es destruido, uno de tus aliados gana + 1 a la fuerza permanentemente."
+        "ability": "Si Pegaso es destruido, uno de tus Aliados gana + 1 a la fuerza permanentemente."
     },
     {
         "name": "Búfalo Blanco",
@@ -227,7 +227,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Todos tus aliados ganan + 1 a la fuerza hasta el final del turno."
+        "ability": "Todos tus Aliados ganan + 1 a la fuerza hasta el final del turno."
     },
     {
         "name": "Vampiro",
@@ -237,7 +237,7 @@
         "Race": "",
         "attack": 0,
         "cost": 3,
-        "ability": "Bota X cartas de tu castillo (máximo 5) y gana un punto de fuerza por cada carta botada permanentemente."
+        "ability": "Bota X cartas de tu Castillo (máximo 5) y gana un punto de fuerza por cada carta botada permanentemente."
     },
     {
         "name": "Gnomos Burlones",
@@ -247,7 +247,7 @@
         "Race": "",
         "attack": 2,
         "cost": 0,
-        "ability": "Destruye una carta de aliado en juego."
+        "ability": "Destruye una carta de Aliado en juego."
     },
     {
         "name": "Caleuche",
@@ -267,7 +267,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Un aliado gana + 3 a la fuerza hasta el final del turno."
+        "ability": "Un Aliado gana + 3 a la fuerza hasta el final del turno."
     },
     {
         "name": "Unicornio",
@@ -297,7 +297,7 @@
         "Race": "",
         "attack": 1,
         "cost": 3,
-        "ability": "Bota dos cartas de tu castillo, y una carta de tu oponente no puede atacar o bloquear en este turno."
+        "ability": "Bota dos cartas de tu Castillo, y una carta de tu oponente no puede atacar o bloquear en este turno."
     },
     {
         "name": "Hefesto",
@@ -307,7 +307,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Un aliado gana + 3 de fuerza permanentemente."
+        "ability": "Un Aliado gana + 3 de fuerza permanentemente."
     },
     {
         "name": "Lothar",
@@ -317,7 +317,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Las cartas de aliados destruidos en este turno vuelven al juego (a la línea de defensa)."
+        "ability": "Las cartas de Aliados destruidos en este turno vuelven al juego (a la línea de defensa)."
     },
     {
         "name": "Cancerbero",
@@ -327,7 +327,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Destruye un aliado en juego y puedes buscar 2 cartas de oro en tu castillo."
+        "ability": "Destruye un Aliado en juego y puedes buscar 2 cartas de oro en tu Castillo."
     },
     {
         "name": "Kornos",
@@ -347,7 +347,7 @@
         "Race": "",
         "attack": 4,
         "cost": 4,
-        "ability": "Cuando entra en juego destruye uno de tus aliados."
+        "ability": "Cuando entra en juego destruye uno de tus Aliados."
     },
     {
         "name": "Ninfas",
@@ -357,7 +357,7 @@
         "Race": "",
         "attack": 1,
         "cost": 1,
-        "ability": "Al jugarla, puedes buscar otra carta de Ninfas en tu castillo y ponerla en tu mano."
+        "ability": "Al jugarla, puedes buscar otra carta de Ninfas en tu Castillo y ponerla en tu mano."
     },
     {
         "name": "Cíclope",
@@ -377,7 +377,7 @@
         "Race": "",
         "attack": 4,
         "cost": 2,
-        "ability": "Si ataca debe ser acompañado por dos aliados."
+        "ability": "Si ataca debe ser acompañado por dos Aliados."
     },
     {
         "name": "Marduk",
@@ -457,7 +457,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Mira las 6 cartas superiores de tu castillo y ordénalas como quieras."
+        "ability": "Mira las 6 cartas superiores de tu Castillo y ordénalas como quieras."
     },
     {
         "name": "Arpía",
@@ -477,7 +477,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Un aliado en batalla gana + 1 de fuerza permanentemente."
+        "ability": "Un Aliado en batalla gana + 1 de fuerza permanentemente."
     },
     {
         "name": "Chon-Chon",
@@ -487,7 +487,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "El oponente bota dos cartas de su castillo."
+        "ability": "El oponente bota dos cartas de su Castillo."
     },
     {
         "name": "Pincoya",
@@ -497,7 +497,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Un aliado en juego gana + 1 de fuerza permanentemente."
+        "ability": "Un Aliado en juego gana + 1 de fuerza permanentemente."
     },
     {
         "name": "Bruja Carabusse",
@@ -517,7 +517,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Elige una carta de aliado en juego y cámbiala por una de tu oponente (sólo por el juego)."
+        "ability": "Elige una carta de Aliado en juego y cámbiala por una de tu oponente (sólo por el juego)."
     },
     {
         "name": "Mithra",
@@ -567,7 +567,7 @@
         "race": "",
         "attack": 3,
         "cost": 2,
-        "ability": "Al entrar en juego, descartas la carta superior de tu castillo."
+        "ability": "Al entrar en juego, descartas la carta superior de tu Castillo."
     },
     {
         "name": "Caballo de Troya",
@@ -607,7 +607,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Elige las cinco cartas superiores de tu cementerio y barájalas con tu castillo."
+        "ability": "Elige las cinco cartas superiores de tu cementerio y barájalas con tu Castillo."
     },
     {
         "name": "Humbaba",
@@ -627,7 +627,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Puedes buscar un dragón en el castillo de tu oponente y descartarlo al cementerio."
+        "ability": "Puedes buscar un dragón en el Castillo de tu oponente y descartarlo al cementerio."
     },
     {
         "name": "Dagon",
@@ -647,7 +647,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Rey Mono",
@@ -657,7 +657,7 @@
         "race": "",
         "attack": 3,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Gorgonas",
@@ -677,7 +677,7 @@
         "race": "",
         "attack": 2,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Seth",
@@ -697,7 +697,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Centauro",
@@ -707,7 +707,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Ek Chuah",
@@ -717,7 +717,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": "Cuando ataca, también deben hacerlo todos los aliados habilitados para atacar."
+        "ability": "Cuando ataca, también deben hacerlo todos los Aliados habilitados para atacar."
     },
     {
         "name": "Prometeo",
@@ -727,7 +727,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Talos",
@@ -737,7 +737,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Mara",
@@ -757,7 +757,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Los Titanes",
@@ -767,7 +767,7 @@
         "race": "",
         "attack": 5,
         "cost": 8,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Gárgola",
@@ -777,7 +777,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Pájaro de Trueno",
@@ -787,7 +787,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Sátiro",
@@ -797,7 +797,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Sko' Yo",
@@ -807,7 +807,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Atlas",
@@ -827,7 +827,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Thor",
@@ -837,7 +837,7 @@
         "race": "",
         "attack": 8,
         "cost": 8,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Manuk",
@@ -857,7 +857,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Hombre de Piedra",
@@ -867,7 +867,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Baal",
@@ -887,7 +887,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Gigante Andino",
@@ -897,7 +897,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Ave Fénix",
@@ -907,7 +907,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Oannes",
@@ -927,7 +927,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Hadas",
@@ -937,7 +937,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Anubis",
@@ -957,7 +957,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Kali",
@@ -967,7 +967,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Lilith",
@@ -977,7 +977,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Osiris",
@@ -987,7 +987,7 @@
         "race": "",
         "attack": 3,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Nibelungos",
@@ -997,7 +997,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Ymir",
@@ -1007,7 +1007,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Los aliados del oponente no pueden atacar en este turno."
+        "ability": "Los Aliados del oponente no pueden atacar en este turno."
     },
     {
         "name": "Hadas Guerreras",
@@ -1017,7 +1017,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Loki",
@@ -1037,7 +1037,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "ability": "Puedes robar una carta de tu castillo."
+        "ability": "Puedes robar una carta de tu Castillo."
     },
     {
         "name": "Duende",
@@ -1047,7 +1047,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Bárbaro",
@@ -1057,7 +1057,7 @@
         "race": "",
         "attack": 3,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Vishnu",
@@ -1077,7 +1077,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "La Quimera",
@@ -1087,7 +1087,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": "Mira las tres cartas superiores de tu castillo y devuélvelas en el mismo orden."
+        "ability": "Mira las tres cartas superiores de tu Castillo y devuélvelas en el mismo orden."
     },
     {
         "name": "Gnomo",
@@ -1097,7 +1097,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Pan-Gu",
@@ -1117,7 +1117,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Aquiles",
@@ -1127,7 +1127,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Un aliado defensor gana + 3 a la fuerza hasta el final del turno."
+        "ability": "Un Aliado defensor gana + 3 a la fuerza hasta el final del turno."
     },
     {
         "name": "Caballero Blanco",
@@ -1137,7 +1137,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Vikingo",
@@ -1147,7 +1147,7 @@
         "race": "",
         "attack": 3,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Esfinge",
@@ -1167,7 +1167,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Kel-Essuf",
@@ -1177,7 +1177,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Vampiro Oriental",
@@ -1207,7 +1207,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Mira la carta superior del mazo de tu oponente."
+        "ability": "Mira la carta superior del Mazo de tu oponente."
     },
     {
         "name": "Minotauro",
@@ -1217,7 +1217,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Melusina",
@@ -1227,7 +1227,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Berserker",
@@ -1247,7 +1247,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Zusano",
@@ -1257,7 +1257,7 @@
         "race": "",
         "attack": 2,
         "cost": 5,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Eshu",
@@ -1267,7 +1267,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "El Alicanto",
@@ -1277,7 +1277,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Shiva",
@@ -1287,7 +1287,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Maui",
@@ -1297,7 +1297,7 @@
         "race": "",
         "attack": 4,
         "cost": 6,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Indra",
@@ -1317,7 +1317,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Puedes buscar una carta de Dragón en tu castillo y ponerla en tu mano."
+        "ability": "Puedes buscar una carta de Dragón en tu Castillo y ponerla en tu mano."
     },
     {
         "name": "Tlaloc",
@@ -1327,7 +1327,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Kasewats",
@@ -1357,7 +1357,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Quetzalcoatl",
@@ -1417,7 +1417,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Guillermo Tell",
@@ -1447,7 +1447,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Hada Viviana",
@@ -1467,7 +1467,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Afrodita",
@@ -1477,7 +1477,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Mira las tres cartas superiores del castillo oponente y ordénalas como quieras."
+        "ability": "Mira las tres cartas superiores del Castillo oponente y ordénalas como quieras."
     },
     {
         "name": "Fu Hi",
@@ -1497,7 +1497,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Nugua",
@@ -1507,7 +1507,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Cernunno",
@@ -1517,7 +1517,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Horus",
@@ -1527,7 +1527,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Elige un aliado en juego de tu oponente y éste lo debe barajar en su castillo."
+        "ability": "Elige un Aliado en juego de tu oponente y éste lo debe barajar en su Castillo."
     },
     {
         "name": "Conejo Escriba",
@@ -1547,7 +1547,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "ability": "Si un aliado oponente lo bloquea, éste pierde 1 de fuerza por el turno."
+        "ability": "Si un Aliado oponente lo bloquea, éste pierde 1 de fuerza por el turno."
     },
     {
         "name": "Wondjinas",
@@ -1587,7 +1587,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Lámpara Mágica",
@@ -1597,7 +1597,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tesoro del Rey",
@@ -1607,7 +1607,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Fruto Sagrado",
@@ -1617,7 +1617,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Escudo Real",
@@ -1627,7 +1627,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Joyas de la Corona",
@@ -1637,7 +1637,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Final del Arcoiris",
@@ -1647,7 +1647,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Armadura Dorada",
@@ -1657,7 +1657,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Rosa de los Vientos",
@@ -1667,7 +1667,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Cáliz Sagrado",
@@ -1677,7 +1677,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Monedas de Oro",
@@ -1687,7 +1687,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Diamante Turquesa",
@@ -1697,7 +1697,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Estatua de Oro",
@@ -1707,7 +1707,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Portal Celestial",
@@ -1717,7 +1717,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Minas del Rey Salomón",
@@ -1727,7 +1727,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Cuerno de la Abundancia",
@@ -1737,6 +1737,6 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     }
 ]

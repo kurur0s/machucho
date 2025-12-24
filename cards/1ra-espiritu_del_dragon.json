@@ -1047,7 +1047,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 2,
-        "ability": "Destruye un Aliado para anular la habilidad jugada por un aliado oponente."
+        "ability": "Destruye un Aliado para anular la habilidad jugada por un Aliado oponente."
     },
     {
         "name": "Cao Cao",
@@ -2087,7 +2087,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Esta carta puede ser anulada si tu oponente paga 1 de Oro; si no es anulada mira la carta superior del castillo oponente."
+        "ability": "Esta carta puede ser anulada si tu oponente paga 1 de Oro; si no es anulada mira la carta superior del Castillo oponente."
     },
     {
         "name": "Yuki Onna",
@@ -2137,7 +2137,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Paga 1 de Oro una vez por turno y destruye un aliado imbloqueable a tu eleccion."
+        "ability": "Paga 1 de Oro una vez por turno y destruye un Aliado imbloqueable a tu eleccion."
     },
     {
         "name": "Gao Jie Bien",
@@ -2207,7 +2207,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Monedas Imperiales",
@@ -2217,7 +2217,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Abaco",
@@ -2227,7 +2227,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Templo de la Armonia",
@@ -2237,7 +2237,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Calabaza del Inmortal",
@@ -2247,7 +2247,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Origami",
@@ -2257,7 +2257,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Teatro Noh No",
@@ -2267,7 +2267,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Bonsai",
@@ -2277,7 +2277,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Kiku",
@@ -2287,7 +2287,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Sakura",
@@ -2297,7 +2297,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Ching His",
@@ -2307,7 +2307,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Templo Shaolin",
@@ -2317,7 +2317,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Yasakani",

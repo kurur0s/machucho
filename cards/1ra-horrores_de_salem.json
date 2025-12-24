@@ -17,7 +17,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 4,
-        "ability": "Sólo puedes tener un Silencio en juego. Cuando entra en juego, puedes desterrar un Aliado oponente de Coste 3 o menos."
+        "ability": "Sólo puedes tener un Silencio en juego. Cuando entra en juego, puedes desterrar un Aliado oponente de coste 3 o menos."
     },
     {
         "name": "Skinwalker",
@@ -37,7 +37,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 3,
-        "ability": "Sólo puedes tener un Gran Coyote en juego. Cuando entra en juego, puedes barajar una carta en juego de Coste 3 o menos en el Mazo Castillo de su dueño. Luego, descarta 2 cartas de tu Mano."
+        "ability": "Sólo puedes tener un Gran Coyote en juego. Cuando entra en juego, puedes barajar una carta en juego de coste 3 o menos en el Mazo Castillo de su dueño. Luego, descarta 2 cartas de tu Mano."
     },
     {
         "name": "Betty Parris",
@@ -57,7 +57,7 @@
         "race": "Vampiro",
         "attack": 4,
         "cost": 4,
-        "ability": "Sólo puedes tener un Hombre de Negro en juego. Cuando entra en juego, pon una carta oponente en juego de Coste 3 o menos en la parte inferior del Castillo de su dueño."
+        "ability": "Sólo puedes tener un Hombre de Negro en juego. Cuando entra en juego, pon una carta oponente en juego de coste 3 o menos en la parte inferior del Castillo de su dueño."
     },
     {
         "name": "Juicios de Salem",
@@ -67,7 +67,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Única. Una carta en juego de Coste 3 o menos pierde su habilidad y es barajada en el Mazo Castillo de su dueño."
+        "ability": "Única. Una carta en juego de coste 3 o menos pierde su habilidad y es barajada en el Mazo Castillo de su dueño."
     },
     {
         "name": "Pacto",
@@ -157,7 +157,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Descarta una carta de la Mano de tu oponente al azar. Luego, tu oponente bota tantas cartas como Coste tenga la carta descartada."
+        "ability": "Descarta una carta de la Mano de tu oponente al azar. Luego, tu oponente bota tantas cartas como coste tenga la carta descartada."
     },
     {
         "name": "Mosquete Puritano",
@@ -177,7 +177,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Cuando entra en juego, baraja un Aliado de Coste 2 o menos en el Mazo Castillo de su dueño. Al comienzo de cada Fase Final, puedes barajar una carta de tu Cementerio en tu Mazo Castillo"
+        "ability": "Cuando entra en juego, baraja un Aliado de coste 2 o menos en el Mazo Castillo de su dueño. Al comienzo de cada Fase Final, puedes barajar una carta de tu Cementerio en tu Mazo Castillo"
     },
     {
         "name": "Lupo",

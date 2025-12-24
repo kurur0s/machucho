@@ -17,7 +17,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 4,
-        "ability": "Cuando Reina Guinivere entra en juego, puedes buscar un Caballero en tu mazo castillo y ponerlo en tu mano. En tu fase de vigilia, genera 2 para bajar armas o 1 para bajar Caballeros."
+        "ability": "Cuando Reina Guinivere entra en juego, puedes buscar un Caballero en tu Mazo Castillo y ponerlo en tu mano. En tu fase de vigilia, genera 2 para bajar armas o 1 para bajar Caballeros."
     },
     {
         "name": "Sir Lancelot",
@@ -67,7 +67,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 3,
-        "ability": "Sir Galahad puede atacar cuando entra en juego. Si hace daño al mazo castillo oponente, descártale 1 al azar."
+        "ability": "Sir Galahad puede atacar cuando entra en juego. Si hace daño al Mazo Castillo oponente, descártale 1 al azar."
     },
     {
         "name": "Príncipe Valiant",
@@ -127,7 +127,7 @@
         "race": "Caballero",
         "attack": 1,
         "cost": 3,
-        "ability": "Cuando Josofones entra en juego, puedes buscar en tu mazo castillo a Sir Boores y ponerlo en tu mano. Al final del turno, no puedes robar."
+        "ability": "Cuando Josofones entra en juego, puedes buscar en tu Mazo Castillo a Sir Boores y ponerlo en tu mano. Al final del turno, no puedes robar."
     },
     {
         "name": "Sir Bedivere",
@@ -187,7 +187,7 @@
         "race": "Dragón",
         "attack": 3,
         "cost": 5,
-        "ability": "Si Dragón de Luz no es declarado atacante, puedes tomar las 3 cartas superiores de tu cementerio y barajarlas con tu mazo castillo."
+        "ability": "Si Dragón de Luz no es declarado atacante, puedes tomar las 3 cartas superiores de tu cementerio y barajarlas con tu Mazo Castillo."
     },
     {
         "name": "Dragón de Aire",
@@ -247,7 +247,7 @@
         "race": "Dragón",
         "attack": 3,
         "cost": 4,
-        "ability": "En tu fase de vigilia, puedes destruir a Kernuac, El Cazador, para buscar 2 cartas del mazo castillo oponente y desterrarlas."
+        "ability": "En tu fase de vigilia, puedes destruir a Kernuac, El Cazador, para buscar 2 cartas del Mazo Castillo oponente y desterrarlas."
     },
     {
         "name": "Dragón Nube",
@@ -297,7 +297,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 4,
-        "ability": "Mientras Mago Merlín esté en juego: en guerra de Talismanes, puedes pagar 3 de oro para buscar un Talismán en tu mazo castillo o cementerio y ponerlo en tu mano."
+        "ability": "Mientras Mago Merlín esté en juego: en guerra de Talismanes, puedes pagar 3 de oro para buscar un Talismán en tu Mazo Castillo o cementerio y ponerlo en tu mano."
     },
     {
         "name": "Mordred",
@@ -317,7 +317,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 4,
-        "ability": "Solo puedes tener una Morgana en juego. En tu fase de vigilia y una vez por turno, puedes destruir uno de tus aliados para desterrar un aliado oponente."
+        "ability": "Solo puedes tener una Morgana en juego. En tu fase de vigilia y una vez por turno, puedes destruir uno de tus Aliados para desterrar un Aliado oponente."
     },
     {
         "name": "Belial el Bestial",
@@ -337,7 +337,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 4,
-        "ability": "Cuando La Dama del Lago entra en juego, puedes buscar un arma en tu mazo castillo o cementerio y ponerla en juego sin pagar su coste."
+        "ability": "Cuando La Dama del Lago entra en juego, puedes buscar un arma en tu Mazo Castillo o cementerio y ponerla en juego sin pagar su coste."
     },
     {
         "name": "Alto Druida",
@@ -357,7 +357,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 3,
-        "ability": "En guerra de Talismanes y una vez por turno, puedes pagar 2 de oro para que un aliado en juego vuelva a la mano."
+        "ability": "En guerra de Talismanes y una vez por turno, puedes pagar 2 de oro para que un Aliado en juego vuelva a la mano."
     },
     {
         "name": "El Poeta",
@@ -387,7 +387,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 3,
-        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar el Coste de Oro de una carta en tu Cementerio para barajarla en tu Mazo Castillo."
+        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar el coste de Oro de una carta en tu Cementerio para barajarla en tu Mazo Castillo."
     },
     {
         "name": "Ellyllon",
@@ -477,7 +477,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Busca 2 cartas en tu cementerio y barájalas con tu mazo castillo. Puedes robar 1 carta."
+        "ability": "Busca 2 cartas en tu cementerio y barájalas con tu Mazo Castillo. Puedes robar 1 carta."
     },
     {
         "name": "La Mirada de Mordred",
@@ -517,7 +517,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "En respuesta a que tu oponente baje una carta, ésta es barajada en su mazo castillo. Esta habilidad no afecta a los oros."
+        "ability": "En respuesta a que tu oponente baje una carta, ésta es barajada en su Mazo Castillo. Esta habilidad no afecta a los oros."
     },
     {
         "name": "Ataque Sorpresa",
@@ -527,7 +527,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "En respuesta a resolver el daño, juega Ataque Sorpresa para que tu oponente reciba el mismo daño hecho a tu mazo castillo por uno de sus Aliados."
+        "ability": "En respuesta a resolver el daño, juega Ataque Sorpresa para que tu oponente reciba el mismo daño hecho a tu Mazo Castillo por uno de sus Aliados."
     },
     {
         "name": "Aulladores Blancos",
@@ -547,7 +547,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En respuesta a resolver el daño, juega Ataque de Aliento para que tu oponente reciba el mismo daño hecho a tu mazo castillo."
+        "ability": "En respuesta a resolver el daño, juega Ataque de Aliento para que tu oponente reciba el mismo daño hecho a tu Mazo Castillo."
     },
     {
         "name": "La espada en la Piedra",
@@ -587,13 +587,13 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Mira la mano de tu oponente y descarta todos los aliados que tenga."
+        "ability": "Mira la mano de tu oponente y descarta todos los Aliados que tenga."
     },
     {
         "name": "Stonehage",
         "image_path": "https://api.myl.cl/static/cards/19/060.png",
         "rarity": "Real",
-        "type": "Arma",
+        "type": "Tótem" ,
         "race": null,
         "attack": null,
         "cost": 4,
@@ -603,7 +603,7 @@
         "name": "Tótem Maldito",
         "image_path": "https://api.myl.cl/static/cards/19/061.png",
         "rarity": "Real",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 5,
@@ -613,7 +613,7 @@
         "name": "Tótem de Fe",
         "image_path": "https://api.myl.cl/static/cards/19/062.png",
         "rarity": "Real",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -623,7 +623,7 @@
         "name": "Tótem de Runas Elficas",
         "image_path": "https://api.myl.cl/static/cards/19/063.png",
         "rarity": "Real",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 6,
@@ -633,17 +633,17 @@
         "name": "Tótem de la Ultima Canción",
         "image_path": "https://api.myl.cl/static/cards/19/064.png",
         "rarity": "Real",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 2 de oro para buscar un Tótem en tu mazo castillo y ponerlo en tu mano."
+        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 2 de oro para buscar un Tótem en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Woodhage",
         "image_path": "https://api.myl.cl/static/cards/19/065.png",
         "rarity": "Real",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -653,7 +653,7 @@
         "name": "El Circulo Eterno",
         "image_path": "https://api.myl.cl/static/cards/19/066.png",
         "rarity": "Única",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -663,7 +663,7 @@
         "name": "Excalibur",
         "image_path": "https://api.myl.cl/static/cards/19/067.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -673,7 +673,7 @@
         "name": "Espada de Cristal",
         "image_path": "https://api.myl.cl/static/cards/19/068.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 2,
@@ -683,7 +683,7 @@
         "name": "Escudo Sidhe",
         "image_path": "https://api.myl.cl/static/cards/19/069.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 2,
@@ -693,7 +693,7 @@
         "name": "Malla de Mitril",
         "image_path": "https://api.myl.cl/static/cards/19/070.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 4,
@@ -703,7 +703,7 @@
         "name": "La Lanza de los Dioses",
         "image_path": "https://api.myl.cl/static/cards/19/071.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -713,7 +713,7 @@
         "name": "Armadura del Sol",
         "image_path": "https://api.myl.cl/static/cards/19/072.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -723,7 +723,7 @@
         "name": "Espada Dragón",
         "image_path": "https://api.myl.cl/static/cards/19/073.png",
         "rarity": "Real",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 4,
@@ -857,7 +857,7 @@
         "race": "Caballero",
         "attack": 1,
         "cost": 2,
-        "ability": "Si es destruido, puedes ver las 3 cartas superiores de tu mazo castillo y devolverlas en el orden que quieras."
+        "ability": "Si es destruido, puedes ver las 3 cartas superiores de tu Mazo Castillo y devolverlas en el orden que quieras."
     },
     {
         "name": "Sir Lionel",
@@ -917,7 +917,7 @@
         "race": "Dragón",
         "attack": 2,
         "cost": 3,
-        "ability": "Si Dragón Espía hace daño al mazo castillo oponente, puedes ver su mano."
+        "ability": "Si Dragón Espía hace daño al Mazo Castillo oponente, puedes ver su mano."
     },
     {
         "name": "Darg, el Semi Dragón",
@@ -997,7 +997,7 @@
         "race": "Dragón",
         "attack": 1,
         "cost": 3,
-        "ability": "Cuando Draco Esmeralda entra en juego, puedes buscar un Faerie en tu mazo castillo y ponerlo en tu mano."
+        "ability": "Cuando Draco Esmeralda entra en juego, puedes buscar un Faerie en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Draco Conjurador",
@@ -1007,7 +1007,7 @@
         "race": "Dragón",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando Draco Conjurador entra en juego, puedes buscar un oro normal en tu mazo castillo y ponerlo en tu mano."
+        "ability": "Cuando Draco Conjurador entra en juego, puedes buscar un oro normal en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Serpentino",
@@ -1047,7 +1047,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando Lady Shee Dia entra en juego, puedes buscar a Sir Galahad en tu mazo castillo y ponerlo en tu mano."
+        "ability": "Cuando Lady Shee Dia entra en juego, puedes buscar a Sir Galahad en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Greenknight",
@@ -1067,7 +1067,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 2,
-        "ability": "En respuesta a finalizar tu turno, y si todos tus aliados son Faeries, roba 1 carta extra."
+        "ability": "En respuesta a finalizar tu turno, y si todos tus Aliados son Faeries, roba 1 carta extra."
     },
     {
         "name": "Banshee",
@@ -1087,7 +1087,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 4,
-        "ability": "Cuando Pooka entra en juego, puedes buscar hasta 3 Faeries en tu cementerio y barajarlos en tu mazo castillo."
+        "ability": "Cuando Pooka entra en juego, puedes buscar hasta 3 Faeries en tu cementerio y barajarlos en tu Mazo Castillo."
     },
     {
         "name": "Elfo Oscuro",
@@ -1117,7 +1117,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando Lobos de Avalon entra en juego, puedes buscar otro Lobos de Avalon en tu mazo castillo y ponerlo en tu mano."
+        "ability": "Cuando Lobos de Avalon entra en juego, puedes buscar otro Lobos de Avalon en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Pixie",
@@ -1127,7 +1127,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 2,
-        "ability": "En tu fase de vigilia y sólo si tienes a Morgana en juego, puedes elegir entre robar 3 cartas o buscar 2 en tu cementerio y barajarlas en tu mazo castillo."
+        "ability": "En tu fase de vigilia y sólo si tienes a Morgana en juego, puedes elegir entre robar 3 cartas o buscar 2 en tu cementerio y barajarlas en tu Mazo Castillo."
     },
     {
         "name": "Kelpie",
@@ -1147,7 +1147,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 4,
-        "ability": "Cuando Bane entra en juego puedes elegir, de tu oponente, un oro con habilidad para que lo baraje en su mazo castillo."
+        "ability": "Cuando Bane entra en juego puedes elegir, de tu oponente, un oro con habilidad para que lo baraje en su Mazo Castillo."
     },
     {
         "name": "Ettin",
@@ -1157,7 +1157,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 4,
-        "ability": "En respuesta a que Ettin sea declarado atacante, puedes buscar un Aliado de fuerza 2 en tu mazo castillo y ponerlo en la línea de defensa sin pagar su coste."
+        "ability": "En respuesta a que Ettin sea declarado atacante, puedes buscar un Aliado de fuerza 2 en tu Mazo Castillo y ponerlo en la línea de defensa sin pagar su coste."
     },
     {
         "name": "San Jorge y el Dragón",
@@ -1237,7 +1237,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En respuesta a que uno de tus aliados sea destruido, baraja de tu cementerio a tu mazo castillo tantas cartas como fuerza tenga ese aliado."
+        "ability": "En respuesta a que uno de tus Aliados sea destruido, baraja de tu cementerio a tu Mazo Castillo tantas cartas como fuerza tenga ese Aliado."
     },
     {
         "name": "Pergamino Mágico",
@@ -1247,7 +1247,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Busca un Talismán en tu mazo castillo y ponlo en tu mano. Tu oponente puede botar 3 cartas para anular Pergamino Mágico."
+        "ability": "Busca un Talismán en tu Mazo Castillo y ponlo en tu mano. Tu oponente puede botar 3 cartas para anular Pergamino Mágico."
     },
     {
         "name": "La Piedra de los Sueños",
@@ -1257,7 +1257,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Busca dos armas en tu mazo castillo y ponlas en tu mano."
+        "ability": "Busca dos armas en tu Mazo Castillo y ponlas en tu mano."
     },
     {
         "name": "Justa",
@@ -1337,7 +1337,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Cada jugador baraja 2 cartas de su cementerio con su mazo castillo y luego roba 1 carta."
+        "ability": "Cada jugador baraja 2 cartas de su cementerio con su Mazo Castillo y luego roba 1 carta."
     },
     {
         "name": "Producir Terremoto",
@@ -1357,7 +1357,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "En tu fase de vigilia, puedes pagar 2 de oro para desterrar la carta superior del mazo castillo oponente."
+        "ability": "En tu fase de vigilia, puedes pagar 2 de oro para desterrar la carta superior del Mazo Castillo oponente."
     },
     {
         "name": "Tótem Goblin",
@@ -1377,7 +1377,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 3 de oro para barajar un Talismán de tu cementerio a tu mazo castillo."
+        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 3 de oro para barajar un Talismán de tu cementerio a tu Mazo Castillo."
     },
     {
         "name": "Tótem Alquímico",
@@ -1397,7 +1397,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En tu fase de vigilia, puedes pagar 2 de oro y botar 1 carta para buscar un Tótem en tu mazo castillo y ponerlo en tu mano."
+        "ability": "En tu fase de vigilia, puedes pagar 2 de oro y botar 1 carta para buscar un Tótem en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Tótem de Nwyre",
@@ -1417,7 +1417,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "ability": "Sólo puedes tener un Tótem del Conjurador en tu línea de apoyo. Cada vez que bajes un Aliado, tu oponente bota de su mazo castillo tantas cartas como fuerza tenga el Aliado."
+        "ability": "Sólo puedes tener un Tótem del Conjurador en tu línea de apoyo. Cada vez que bajes un Aliado, tu oponente bota de su Mazo Castillo tantas cartas como fuerza tenga el Aliado."
     },
     {
         "name": "Armadura Completa",
@@ -1587,7 +1587,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 3,
-        "ability": "Cuando entra en juego, puedes buscar otro Sir Lucan en tu mazo castillo y ponerlo en tu mano."
+        "ability": "Cuando entra en juego, puedes buscar otro Sir Lucan en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Sir Mador del Portal",
@@ -1637,7 +1637,7 @@
         "race": "Dragón",
         "attack": 1,
         "cost": 2,
-        "ability": "Cuando Aghast, El Dragón, entra en juego, puedes buscar un arma en tu mazo castillo y ponerla en tu mano."
+        "ability": "Cuando Aghast, El Dragón, entra en juego, puedes buscar un arma en tu Mazo Castillo y ponerla en tu mano."
     },
     {
         "name": "Draco Sangre",
@@ -1687,7 +1687,7 @@
         "race": "Dragón",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego, puedes buscar otra copia de Dragón Nodriza en tu mazo castillo y ponerla en tu mano."
+        "ability": "Cuando entra en juego, puedes buscar otra copia de Dragón Nodriza en tu Mazo Castillo y ponerla en tu mano."
     },
     {
         "name": "Dragonel",
@@ -1707,7 +1707,7 @@
         "race": "Dragón",
         "attack": 1,
         "cost": 1,
-        "ability": "Puedes destruir Bandidos Pictos, para barajar a un Aliado oponente de igual fuerza en su mazo castillo."
+        "ability": "Puedes destruir Bandidos Pictos, para barajar a un Aliado oponente de igual fuerza en su Mazo Castillo."
     },
     {
         "name": "Draco Águila",
@@ -1727,7 +1727,7 @@
         "race": "Dragón",
         "attack": 1,
         "cost": 2,
-        "ability": "Puedes destruir a Cultista del Dragón, para ver la mano de tu oponente y barajar en su mazo castillo una carta de Aliado de su mano."
+        "ability": "Puedes destruir a Cultista del Dragón, para ver la mano de tu oponente y barajar en su Mazo Castillo una carta de Aliado de su mano."
     },
     {
         "name": "Caballeros Pictos",
@@ -1817,7 +1817,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 3,
-        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 3 de oro para buscar un Talismán en tu mazo castillo y ponerlo en tu mano."
+        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 3 de oro para buscar un Talismán en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Armada Elfica",
@@ -1857,7 +1857,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 1,
-        "ability": "En respuesta a que uno de tus oros sea destruido, puedes barajar a Galeb Duhr en tu mazo castillo para salvarlo."
+        "ability": "En respuesta a que uno de tus oros sea destruido, puedes barajar a Galeb Duhr en tu Mazo Castillo para salvarlo."
     },
     {
         "name": "Otyugh",
@@ -1877,7 +1877,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 2,
-        "ability": "Si Boggart es destruido, tu oponente elige entre botar 2 cartas de su mazo castillo o descartar 1 de su mano."
+        "ability": "Si Boggart es destruido, tu oponente elige entre botar 2 cartas de su Mazo Castillo o descartar 1 de su mano."
     },
     {
         "name": "Brag",
@@ -1887,7 +1887,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 2,
-        "ability": "Cuando Brag entra en juego, puedes barajar 1 carta de tu mano en tu mazo castillo. Luego robar 1 carta."
+        "ability": "Cuando Brag entra en juego, puedes barajar 1 carta de tu mano en tu Mazo Castillo. Luego robar 1 carta."
     },
     {
         "name": "Asesinos en la corte",
@@ -1907,7 +1907,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Destruye 1 de tus Aliados para barajar 1 carta de tu cementerio en tu mazo castillo."
+        "ability": "Destruye 1 de tus Aliados para barajar 1 carta de tu cementerio en tu Mazo Castillo."
     },
     {
         "name": "Cantrip",
@@ -1987,7 +1987,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Baraja del cementerio a tu mazo castillo un Aliado."
+        "ability": "Baraja del cementerio a tu Mazo Castillo un Aliado."
     },
     {
         "name": "Dioses en la Sombra",
@@ -2027,7 +2027,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "En tu fase de vigilia, muestra la mano a tu oponente. Si no tienes ningún Talismán, busca uno de tu mazo castillo y pónlo en tu mano."
+        "ability": "En tu fase de vigilia, muestra la mano a tu oponente. Si no tienes ningún Talismán, busca uno de tu Mazo Castillo y pónlo en tu mano."
     },
     {
         "name": "Leprechaun",
@@ -2047,7 +2047,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "En tu fase de vigilia: descarta 1 carta de la mano de tu oponente al azar, para que bote de su mazo castillo tantas cartas como coste de oro tenga la carta descartada."
+        "ability": "En tu fase de vigilia: descarta 1 carta de la mano de tu oponente al azar, para que bote de su Mazo Castillo tantas cartas como coste de oro tenga la carta descartada."
     },
     {
         "name": "Ser Incorpóreo",
@@ -2087,13 +2087,13 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En tu fase de vigilia, busca un oro normal en tu mazo castillo y pónlo en tu reserva."
+        "ability": "En tu fase de vigilia, busca un oro normal en tu Mazo Castillo y pónlo en tu reserva."
     },
     {
         "name": "Tótem Celta",
         "image_path": "https://api.myl.cl/static/cards/19/207.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 4,
@@ -2103,7 +2103,7 @@
         "name": "Tótem de Bossus",
         "image_path": "https://api.myl.cl/static/cards/19/208.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -2113,7 +2113,7 @@
         "name": "Tótem de Hobgoblin",
         "image_path": "https://api.myl.cl/static/cards/19/209.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 6,
@@ -2123,7 +2123,7 @@
         "name": "Tótem de las Alas Eternas",
         "image_path": "https://api.myl.cl/static/cards/19/210.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
@@ -2133,27 +2133,27 @@
         "name": "Tótem del Draco",
         "image_path": "https://api.myl.cl/static/cards/19/211.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Cada vez que bajes un Dragón, puedes buscar una carta de tu cementerio y barajarla con tu mazo castillo."
+        "ability": "Cada vez que bajes un Dragón, puedes buscar una carta de tu cementerio y barajarla con tu Mazo Castillo."
     },
     {
         "name": "Argusthat",
         "image_path": "https://api.myl.cl/static/cards/19/212.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 2 de oro para buscar un Aliado en tu cementerio y barajarlo con tu mazo castillo."
+        "ability": "En tu fase de vigilia y una vez por turno, puedes pagar 2 de oro para buscar un Aliado en tu cementerio y barajarlo con tu Mazo Castillo."
     },
     {
         "name": "Tótem del Alba",
         "image_path": "https://api.myl.cl/static/cards/19/213.png",
         "rarity": "Vasallo",
-        "type": "Arma",
+        "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 4,
@@ -2163,7 +2163,7 @@
         "name": "Espada Larga",
         "image_path": "https://api.myl.cl/static/cards/19/214.png",
         "rarity": "Vasallo",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 1,
@@ -2172,18 +2172,18 @@
     {
         "name": "Caballo de Batalla",
         "image_path": "https://api.myl.cl/static/cards/19/215.png",
-        "rarity": "Vasallo",
-        "type": "Tótem",
+        "rarity": "Real",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Su portador debe ser un Caballero. En cada turno que no sea declarado atacante, puedes ver las 4 cartas superiores de tu mazo castillo, ordenarlas y devolverlas como quieras."
+        "ability": "Su portador debe ser un Caballero. En cada turno que no sea declarado atacante, puedes ver las 4 cartas superiores de tu Mazo Castillo, ordenarlas y devolverlas como quieras."
     },
     {
         "name": "Caballo Ligero",
         "image_path": "https://api.myl.cl/static/cards/19/216.png",
-        "rarity": "Vasallo",
-        "type": "Tótem",
+        "rarity": "Vasaarllo",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 2,
@@ -2193,7 +2193,7 @@
         "name": "Dardos Envenenados",
         "image_path": "https://api.myl.cl/static/cards/19/217.png",
         "rarity": "Vasallo",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 1,
@@ -2203,7 +2203,7 @@
         "name": "Catapulta",
         "image_path": "https://api.myl.cl/static/cards/19/218.png",
         "rarity": "Vasallo",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 1,
@@ -2213,7 +2213,7 @@
         "name": "Espada Corta",
         "image_path": "https://api.myl.cl/static/cards/19/219.png",
         "rarity": "Vasallo",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 2,
@@ -2223,7 +2223,7 @@
         "name": "Alabarda",
         "image_path": "https://api.myl.cl/static/cards/19/220.png",
         "rarity": "Vasallo",
-        "type": "Tótem",
+        "type": "Arma",
         "race": null,
         "attack": null,
         "cost": 2,
@@ -2237,7 +2237,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Pergamino de Bardo",
@@ -2247,7 +2247,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tierras Cultivadas",
@@ -2257,7 +2257,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Carruaje de Plata",
@@ -2267,7 +2267,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Escudo de Familia",
@@ -2277,7 +2277,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Tesoro Celta",
@@ -2287,7 +2287,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Votos Sagrados",
@@ -2297,7 +2297,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Árbol de los Viejos Dioses",
@@ -2307,7 +2307,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Anillo Faerie",
@@ -2317,7 +2317,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Joyería Picta",
@@ -2327,7 +2327,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Collar de Dragón",
@@ -2337,7 +2337,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "Flota Mercante",
@@ -2347,7 +2347,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     },
     {
         "name": "El Mercado de Camelot",
@@ -2357,6 +2357,6 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Sin Habilidad"
     }
 ]

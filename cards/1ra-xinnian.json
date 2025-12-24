@@ -17,7 +17,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "ability": "Cuando este Aliado salga del juego, puedes jugar una Criatura de Coste 2 o menos desde tu Cementerio sin pagar su Coste."
+        "ability": "Cuando este Aliado salga del juego, puedes jugar una Criatura de coste 2 o menos desde tu Cementerio sin pagar su coste."
     },
     {
         "name": "Miroku",
@@ -57,7 +57,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Busca un Aliado en tu Cementerio y ponlo en tu Mano. Si el Aliado buscado es una Criatura, puedes jugarlo reduciendo su Coste en 2 Oros hasta la Fase Final."
+        "ability": "Busca un Aliado en tu Cementerio y ponlo en tu Mano. Si el Aliado buscado es una Criatura, puedes jugarlo reduciendo su coste en 2 Oros hasta la Fase Final."
     },
     {
         "name": "Lǎohǔ qiánfúzhe",
@@ -67,7 +67,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su Coste en 2 Oros. Baraja una carta en juego que no sea Oro en el Mazo Castillo de su dueño."
+        "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su coste en 2 Oros. Baraja una carta en juego que no sea Oro en el Mazo Castillo de su dueño."
     },
     {
         "name": "Yuè tù",
@@ -77,7 +77,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Para jugar esta carta debes barajar un Xian que controles en el Mazo Castillo de su dueño. Busca una carta de Coste 4 o menos en tu Cementerio y ponla en tu Mano."
+        "ability": "Para jugar esta carta debes barajar un Xian que controles en el Mazo Castillo de su dueño. Busca una carta de coste 4 o menos en tu Cementerio y ponla en tu Mano."
     },
     {
         "name": "Qīnglóng chūshuǐ",
@@ -87,7 +87,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Si sólo controlas Campeones esta carta reduce su Coste en 1 Oro. Busca hasta 2 Armas en tu Mazo Castillo y juégalas sin pagar su Coste bajo 2 Aliados que controles."
+        "ability": "Si sólo controlas Campeones esta carta reduce su coste en 1 Oro. Busca hasta 2 Armas en tu Mazo Castillo y juégalas sin pagar su coste bajo 2 Aliados que controles."
     },
     {
         "name": "Báishé tǔ xìn",
@@ -107,7 +107,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su Coste en 2 Oros. Anula un Aliado."
+        "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su coste en 2 Oros. Anula un Aliado."
     },
     {
         "name": "Yáng fàngmù",
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Busca un Xian en tu Mazo Castillo y juégalo sin pagar su Coste. Al comienzo de la Fase Final, destierra ese Aliado."
+        "ability": "Busca un Xian en tu Mazo Castillo y juégalo sin pagar su coste. Al comienzo de la Fase Final, destierra ese Aliado."
     },
     {
         "name": "Hóuzi tiàowǔ",
@@ -157,7 +157,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Busca un Tótem en tu Mazo Castillo de Coste 3 o menos y ponlo en juego sin pagar su Coste."
+        "ability": "Busca un Tótem en tu Mazo Castillo de coste 3 o menos y ponlo en juego sin pagar su coste."
     },
     {
         "name": "Monte Wudang",
@@ -177,7 +177,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "El portador no puede ser destruido. Cuando entra en juego, busca un Aliado de Coste 1 en tu Mazo Castillo y ponlo en juego sin pagar su Coste."
+        "ability": "El portador no puede ser destruido. Cuando entra en juego, busca un Aliado de coste 1 en tu Mazo Castillo y ponlo en juego sin pagar su coste."
     },
     {
         "name": "Horóscopo Chino",

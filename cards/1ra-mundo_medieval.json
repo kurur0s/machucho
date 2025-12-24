@@ -112,7 +112,7 @@
     {
         "name": "Monedas de Oro",
         "image_path": "https://api.myl.cl/static/cards/113/012.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Oro",
         "race": null,
         "attack": null,
@@ -122,7 +122,7 @@
     {
         "name": "Madre de Dragones",
         "image_path": "https://api.myl.cl/static/cards/113/013.png",
-        "rarity": "Real",
+        "rarity": "Única",
         "type": "Talismán",
         "race": null,
         "attack": null,

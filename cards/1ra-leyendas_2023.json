@@ -1884,7 +1884,7 @@
         "image_path": "https://api.myl.cl/static/cards/112/190.png",
         "rarity": "Promo",
         "type": "Aliado",
-        "race": "Sin Raza",
+        "Race": "",
         "attack": 3,
         "cost": 3,
         "ability": "Tu oponente no puede jugar Talismanes mientras este Aliado esté en juego."

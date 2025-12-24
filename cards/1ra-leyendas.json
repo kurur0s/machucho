@@ -1144,7 +1144,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
         "rarity": "Vasallo",
         "type": "Aliado",
-        "race": "Sin Raza",
+        "Race": "",
         "attack": 3,
         "cost": 3,
         "ability": "Puede atacar cuando entra en juego. En este turno todos los aliados son imbloqueables."
@@ -1174,7 +1174,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/207.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": null,
         "cost": null,
         "ability": ""
@@ -1184,7 +1184,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/208.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 4,
         "cost": 5,
         "ability": "Mientra este en juego todos tus Kami ganan + 1 de fuerza y pueden bloquear hasta dos Aliados oponentes."
@@ -1194,7 +1194,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/209.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 4,
         "cost": 3,
         "ability": "Mientras este Kami este en juego, tus demás Kami no pueden ser afectados por Talismanes en batalla mitológica."
@@ -1204,7 +1204,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/210.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 4,
         "cost": 2,
         "ability": "Para entrar en juego debes descartar una carta de tu Mano."
@@ -1214,7 +1214,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/211.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 4,
         "cost": 4,
         "ability": "Por cada Kami que tengas en juego gana + 1 a la fuerza."
@@ -1224,7 +1224,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/212.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": null,
         "cost": null,
         "ability": ""
@@ -1234,7 +1234,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/213.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": null,
         "cost": null,
         "ability": ""
@@ -1244,7 +1244,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/214.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 3,
         "cost": 3,
         "ability": "Una vez en tu turno y en la fase de reagrupar podras barajar una carta de tu Cementerio con tu Castillo."
@@ -1254,7 +1254,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/217.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 3,
         "cost": 3,
         "ability": "Una vez en tu turno, cuando reagrupes busca dos Talismanes identicos en tu Mazo Castillo y ponlos en tu Mano."
@@ -1264,7 +1264,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/218.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego puedes elegir de tu oponente una carta de Aliado de fuerza 2 o menos y barajala en su Mazo."
@@ -1274,7 +1274,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/219.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 5,
         "cost": 5,
         "ability": "Cuando entra en juego puedes elegir de tu oponente una carta de Aliado de fuerza 6 o menos y barajarla en su Mazo; luego tu oponente se descarta de una carta de su Mano."
@@ -1284,7 +1284,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/220.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 4,
         "cost": 3,
         "ability": "Cuando juegues este Xian puedes poner hasta 5 cartas debajo de este Aliado y podras jugarlas como si estuvieran en tu Mano."
@@ -1294,7 +1294,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/221.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": 1,
         "cost": 1,
         "ability": "Cuando entra en juego, busca una carta en el Castillo oponente que no sea un Oro y destiérrala."
@@ -1304,7 +1304,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/222.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": null,
         "cost": null,
         "ability": ""
@@ -1314,7 +1314,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/223.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Xian",
         "attack": null,
         "cost": null,
         "ability": ""
@@ -1324,7 +1324,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/228.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego tus demas Campeones ganan + 2 a la fuerza por el resto del juego."
@@ -1334,7 +1334,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/229.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 2,
         "cost": 2,
         "ability": "Cuando entra en juego tus demas Campeones ganan + 2 a la fuerza por el resto del juego."
@@ -1344,7 +1344,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/231.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 4,
         "cost": 3,
         "ability": "Puede bloquear cartas imbloqueables."
@@ -1354,7 +1354,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/232.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 3,
         "cost": 3,
         "ability": "Puede portar dos Katanas; si lo hace es imbloqueable."
@@ -1364,7 +1364,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/233.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 3,
         "cost": 3,
         "ability": "Si ataca gana + 2 a la fuerza hasta el final del turno."
@@ -1374,7 +1374,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/239.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": null,
         "cost": null,
         "ability": ""
@@ -1384,7 +1384,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/240.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 6,
         "cost": 5,
         "ability": "Mientras este aliado esté en juego siempre que juegues una criatura descarta al azar de la mano de tu oponente."
@@ -1394,7 +1394,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/241.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 5,
         "cost": 3,
         "ability": "No puede bloquear."
@@ -1404,7 +1404,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/242.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 5,
         "cost": 2,
         "ability": "Para atacar paga 1 de Oro."
@@ -1414,7 +1414,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/243.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 4,
         "cost": 3,
         "ability": "Si ataca y no es bloqueada mira la Mano de tu oponente."
@@ -1424,7 +1424,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/244.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 4,
         "cost": 4,
         "ability": "Una vez por turno y en tu fase de reagrupar, baraja una carta de tu Cementerio con tu Castillo o roba una carta de tu Mazo Castillo."
@@ -1434,14 +1434,14 @@
         "image_path": "https://api.myl.cl/static/cards/154/245.png",
         "rarity": "Real",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 3,
         "cost": 3,
         "ability": "Paga uno de Oro y este Aliado gana + 1 de fuerza."
     },
     {
         "name": "Bushido",
-        "image_path": "https://api.myl.cl/static/cards/154/unknown.png",
+        "image_path": "https://api.myl.cl/static/cards/154/131.png",
         "rarity": "Cortesano",
         "type": "Talismán",
         "race": null,
@@ -1657,7 +1657,7 @@
         "race": "",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Para entrar en jeugo destruye dos de tus oros en mesa"
     },
     {
         "name": "Lucha De Golems",
@@ -1714,10 +1714,10 @@
         "image_path": "https://api.myl.cl/static/cards/154/065.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Licántropo",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio."
     },
     {
         "name": "Flechero",
@@ -1794,7 +1794,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/089.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 1,
         "cost": 3,
         "ability": "Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno."
@@ -1814,7 +1814,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/108.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Bestia",
         "attack": 6,
         "cost": 4,
         "ability": "Mientras esté en juego todas tus Bestias son imbloqueables."
@@ -1834,7 +1834,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/141.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Bárbaro",
         "attack": 3,
         "cost": 2,
         "ability": "Cuando entra en juego, la proxima carta Aliado que bajes a la linea de defensa te costara – 1 de Oro."
@@ -1904,7 +1904,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/148.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Dios",
         "attack": 3,
         "cost": 3,
         "ability": "Si es destruido podras buscar una carta en tu Castillo y ponerla en tu Mano."
@@ -1914,7 +1914,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/149.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 2,
         "cost": 3,
         "ability": "Cuando entra en juego, baraja un Aliado oponente en su mazo castillo"
@@ -1924,7 +1924,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/150.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Abominación",
         "attack": 4,
         "cost": 2,
         "ability": "Siempre que bloquee a un Aliado oponente deberas buscar un Oro en tu Castillo y ponerlo en tu Mano."
@@ -1937,7 +1937,7 @@
         "race": "",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Si hace daño al mazo castillo deberá ser barajada en tu mazo castillo. Imbloqueable."
     },
     {
         "name": "Hadas",
@@ -1947,14 +1947,14 @@
         "race": "",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Al entrar en juego, puedes buscar otra Hadas en tu mazo castillo y ponerla en juego."
     },
     {
         "name": "Huehueteotl",
         "image_path": "https://api.myl.cl/static/cards/154/168.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": 3,
         "cost": 3,
         "ability": "Por cada chamán que tengas en juego, este Chaman gana + 1 a la fuerza."
@@ -1977,7 +1977,7 @@
         "race": "",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Al jugarla puedes buscar otra carta de Ninfas en tu mazo castillo y ponerla en tu mano."
     },
     {
         "name": "Shuar",
@@ -1994,10 +1994,10 @@
         "image_path": "https://api.myl.cl/static/cards/154/172.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Chamán",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Cuando entra en juego, busca un tótem en tu cementerio y ponlo en tu línea de apoyo"
     },
     {
         "name": "Hoori",
@@ -2014,7 +2014,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/202.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 3,
         "cost": 4,
         "ability": "Cuando entra en juego envia al Cementerio un Aliado oponente que no porte un Arma, a eleccion."
@@ -2034,7 +2034,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/204.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Kami",
         "attack": 2,
         "cost": 3,
         "ability": "Si ataca o bloquea, genera 3 Oros para jugar Talismanes en Batalla Mitologica."
@@ -2054,7 +2054,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/225.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 3,
         "cost": 2,
         "ability": "Mientras este en juego este Campeon, tus demas Campeones no seran afectados por Talismanes en batalla mitologica."
@@ -2074,7 +2074,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/227.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Campeón",
         "attack": 2,
         "cost": 2,
         "ability": "Destruye este Aliado para cancelar la habilidad de un Aliado oponente"
@@ -2094,7 +2094,7 @@
         "image_path": "https://api.myl.cl/static/cards/154/236.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": 3,
         "cost": 2,
         "ability": "Puedes destruir esta Aliado para barajar en su Castillo un Aliado oponente en juego."
@@ -2114,10 +2114,10 @@
         "image_path": "https://api.myl.cl/static/cards/154/238.png",
         "rarity": "Cortesano",
         "type": "Aliado",
-        "race": "",
+        "race": "Criaturas",
         "attack": null,
         "cost": null,
-        "ability": ""
+        "ability": "Cada vez que ataque puedes robar una carta de tu castillo"
     },
     {
         "name": "Kayakujutsu",

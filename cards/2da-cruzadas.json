@@ -87,7 +87,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En Guerra de Talismanes, todos los Aliados en juego pierden sus habilidades."
+        "ability": "En Guerra de Talismánes, todos los Aliados en juego pierden sus habilidades."
     },
     {
         "name": "Siroco",
@@ -107,7 +107,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "En Guerra de Talismanes, todos los Aliados en juego tienen fuerza 1 y no pueden recibir bonos de fuerza hasta el final del turno."
+        "ability": "En Guerra de Talismánes, todos los Aliados en juego tienen fuerza 1 y no pueden recibir bonos de fuerza hasta el final del turno."
     },
     {
         "name": "Pedro el Ermitaño",
@@ -117,7 +117,7 @@
         "race": "Caballero",
         "attack": 3,
         "cost": 3,
-        "ability": "En tu Fase de Vigilia, puedes descartar 1 carta para que Pedro el Ermitaño no pueda ser afectado por Talismanes hasta el final del turno."
+        "ability": "En tu Fase de Vigilia, puedes descartar 1 carta para que Pedro el Ermitaño no pueda ser afectado por Talismánes hasta el final del turno."
     },
     {
         "name": "Gitanos",
@@ -157,7 +157,7 @@
         "race": "Caballero",
         "attack": 3,
         "cost": 3,
-        "ability": "En Guerra de Talismanes puedes desterrar a Bernardo de Clairvaux para robar 2 cartas."
+        "ability": "En Guerra de Talismánes puedes desterrar a Bernardo de Clairvaux para robar 2 cartas."
     },
     {
         "name": "Sir Robin De Lockesley",
@@ -177,7 +177,7 @@
         "race": "Caballero",
         "attack": 4,
         "cost": 4,
-        "ability": "Jaques de Molay puede atacar cuando entra en juego. Si lo hace, busca en el Mazo Castillo de tu oponente 2 Talismanes y envíalos al Cementerio."
+        "ability": "Jaques de Molay puede atacar cuando entra en juego. Si lo hace, busca en el Mazo Castillo de tu oponente 2 Talismánes y envíalos al Cementerio."
     },
     {
         "name": "Mercaderes",
@@ -317,7 +317,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Su portador gana + 2 a la fuerza y no puede ser afectado por Talismanes."
+        "ability": "Su portador gana + 2 a la fuerza y no puede ser afectado por Talismánes."
     },
     {
         "name": "Escudo Templario",
@@ -347,7 +347,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "El portador de Espada Templaria puede portar un arma extra. En Guerra de Talismanes puedes desterrar Espada Tmplaria para que tu oponente bote de su Mazo Castillo tantas cartas como fuerza tenga su portador."
+        "ability": "El portador de Espada Templaria puede portar un arma extra. En Guerra de Talismánes puedes desterrar Espada Tmplaria para que tu oponente bote de su Mazo Castillo tantas cartas como fuerza tenga su portador."
     },
     {
         "name": "Ballesta Franca",
@@ -607,7 +607,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En guerra de Talismanes, un Aliado oponente tiene fuerza 0 hasta el final del turno."
+        "ability": "En guerra de Talismánes, un Aliado oponente tiene fuerza 0 hasta el final del turno."
     },
     {
         "name": "Grito de Guerra",

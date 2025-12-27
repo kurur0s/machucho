@@ -267,7 +267,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Un Aliado gana + 3 a la fuerza hasta el final del turno."
+        "ability": "Un Aliado gana +3 a la fuerza hasta el final del turno."
     },
     {
         "name": "Unicornio",
@@ -1310,7 +1310,7 @@
         "ability": "Mira la mano de tu oponente, puedes descartarle una carta de oro."
     },
     {
-        "name": "Izanamie Izanagi",
+        "name": "Izanami e Izanagi",
         "image_path": "https://api.myl.cl/static/cards/57/133.png",
         "rarity": "Vasallo",
         "type": "Talismán",

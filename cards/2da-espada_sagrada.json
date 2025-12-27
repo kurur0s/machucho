@@ -27,7 +27,7 @@
         "race": "Caballero",
         "attack": 1,
         "cost": 4,
-        "ability": "Sir Lancelot no puede ser afectado por Talismanes. No tiene límite de armas. Por cada arma que porte, gana + 2 a la fuerza."
+        "ability": "Sir Lancelot no puede ser afectado por Talismánes. No tiene límite de armas. Por cada arma que porte, gana + 2 a la fuerza."
     },
     {
         "name": "Sir Gawein",
@@ -37,7 +37,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 3,
-        "ability": "En guerra de Talismanes, destierra a Sir Gawein para que no se puedan jugar Talismanes hasta el final del turno."
+        "ability": "En guerra de Talismánes, destierra a Sir Gawein para que no se puedan jugar Talismánes hasta el final del turno."
     },
     {
         "name": "Sir Pérsival",
@@ -77,7 +77,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 4,
-        "ability": "En guerra de Talismanes, puedes destruir Príncipe Valiant para que tus Caballeros sean imbloqueables hasta el final del turno."
+        "ability": "En guerra de Talismánes, puedes destruir Príncipe Valiant para que tus Caballeros sean imbloqueables hasta el final del turno."
     },
     {
         "name": "Lady Dawn",
@@ -117,7 +117,7 @@
         "race": "Caballero",
         "attack": 3,
         "cost": 5,
-        "ability": "En guerra de Talismanes, puedes desterrar a Cornelius de York para destruir un Caballero oponente de igual o menor fuerza."
+        "ability": "En guerra de Talismánes, puedes desterrar a Cornelius de York para destruir un Caballero oponente de igual o menor fuerza."
     },
     {
         "name": "Josofones",
@@ -177,7 +177,7 @@
         "race": "Dragón",
         "attack": 5,
         "cost": 0,
-        "ability": "Dragón Demonio debe atacar cuando entra en juego. No puede ser afectado por Talismanes. Al final de este turno, destiérralo. Carta única."
+        "ability": "Dragón Demonio debe atacar cuando entra en juego. No puede ser afectado por Talismánes. Al final de este turno, destiérralo. Carta única."
     },
     {
         "name": "Dragón de Luz",
@@ -207,7 +207,7 @@
         "race": "Dragón",
         "attack": 5,
         "cost": 5,
-        "ability": "Cuando Dragón del Agua entra en juego, los Dragones no pueden ser afectados por Talismanes hasta el final del turno."
+        "ability": "Cuando Dragón del Agua entra en juego, los Dragones no pueden ser afectados por Talismánes hasta el final del turno."
     },
     {
         "name": "Dragón de Plata",
@@ -297,7 +297,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 4,
-        "ability": "Mientras Mago Merlín esté en juego: en guerra de Talismanes, puedes pagar 3 de oro para buscar un Talismán en tu Mazo Castillo o cementerio y ponerlo en tu mano."
+        "ability": "Mientras Mago Merlín esté en juego: en guerra de Talismánes, puedes pagar 3 de oro para buscar un Talismán en tu Mazo Castillo o cementerio y ponerlo en tu mano."
     },
     {
         "name": "Mordred",
@@ -357,7 +357,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 3,
-        "ability": "En guerra de Talismanes y una vez por turno, puedes pagar 2 de oro para que un Aliado en juego vuelva a la mano."
+        "ability": "En guerra de Talismánes y una vez por turno, puedes pagar 2 de oro para que un Aliado en juego vuelva a la mano."
     },
     {
         "name": "El Poeta",
@@ -377,7 +377,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 4,
-        "ability": "En guerra de Talismanes y una vez por turno, puedes pagar 1 de oro para que un Aliado oponente no pueda bloquear o atacar durante este turno."
+        "ability": "En guerra de Talismánes y una vez por turno, puedes pagar 1 de oro para que un Aliado oponente no pueda bloquear o atacar durante este turno."
     },
     {
         "name": "Each Usige",
@@ -507,7 +507,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Juega a Una en guerra de Talismanes. Los jugadores descartan de su mano y roban la misma cantidad que tenían. Los 2 siguientes turnos no pueden declarar ataque."
+        "ability": "Juega a Una en guerra de Talismánes. Los jugadores descartan de su mano y roban la misma cantidad que tenían. Los 2 siguientes turnos no pueden declarar ataque."
     },
     {
         "name": "Capa de Invisibilidad",
@@ -617,7 +617,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Mientras Tótem de Fe esté en juego, en guerra de Talismanes, cada jugador sólo puede jugar un Talismán."
+        "ability": "Mientras Tótem de Fe esté en juego, en guerra de Talismánes, cada jugador sólo puede jugar un Talismán."
     },
     {
         "name": "Tótem de Runas Elficas",
@@ -697,7 +697,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Sólo puede ser portada por un Dragón. Gana + 2 a la fuerza y no puede ser destruido por Talismanes."
+        "ability": "Sólo puede ser portada por un Dragón. Gana + 2 a la fuerza y no puede ser destruido por Talismánes."
     },
     {
         "name": "La Lanza de los Dioses",
@@ -717,7 +717,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por cada Talismán jugado en guerra de Talismanes, el portador de La Armadura del Sol gana + 1 a la fuerza hasta el final del turno."
+        "ability": "Por cada Talismán jugado en guerra de Talismánes, el portador de La Armadura del Sol gana + 1 a la fuerza hasta el final del turno."
     },
     {
         "name": "Espada Dragón",
@@ -847,7 +847,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 3,
-        "ability": "Si Loth es tu único Aliado declarado atacante, no se pueden jugar Talismanes hasta el final del turno."
+        "ability": "Si Loth es tu único Aliado declarado atacante, no se pueden jugar Talismánes hasta el final del turno."
     },
     {
         "name": "Sir Baldwin",
@@ -937,7 +937,7 @@
         "race": "Dragón",
         "attack": 0,
         "cost": 2,
-        "ability": "En guerra de Talismanes, puedes pagar 2 de oro para que un Aliado oponente tenga fuerza 0 hasta el final del turno."
+        "ability": "En guerra de Talismánes, puedes pagar 2 de oro para que un Aliado oponente tenga fuerza 0 hasta el final del turno."
     },
     {
         "name": "Dragón Negro",
@@ -967,7 +967,7 @@
         "race": "Dragón",
         "attack": 1,
         "cost": 4,
-        "ability": "En guerra de Talismanes, gana + 1 a la fuerza por cada Dragón que esté en tu cementerio."
+        "ability": "En guerra de Talismánes, gana + 1 a la fuerza por cada Dragón que esté en tu cementerio."
     },
     {
         "name": "Monta Dragones",
@@ -1017,7 +1017,7 @@
         "race": "Dragón",
         "attack": 2,
         "cost": 3,
-        "ability": "En guerra de Talismanes, puedes pagar 1 oro para que un Aliado oponente gane - 1 a la fuerza hasta el final del turno."
+        "ability": "En guerra de Talismánes, puedes pagar 1 oro para que un Aliado oponente gane - 1 a la fuerza hasta el final del turno."
     },
     {
         "name": "Mulvan, el Dragón",
@@ -1027,7 +1027,7 @@
         "race": "Dragón",
         "attack": 2,
         "cost": 2,
-        "ability": "En guerra de Talismanes, Mulvan, El Dragón puede duplicar su fuerza. Al final de este turno, destiérralo."
+        "ability": "En guerra de Talismánes, Mulvan, El Dragón puede duplicar su fuerza. Al final de este turno, destiérralo."
     },
     {
         "name": "Lord Elfo",
@@ -1187,7 +1187,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "En guerra de Talismanes, elige entre robar 2 cartas o que un Aliado gane + 2 a la fuerza hasta el final del turno."
+        "ability": "En guerra de Talismánes, elige entre robar 2 cartas o que un Aliado gane + 2 a la fuerza hasta el final del turno."
     },
     {
         "name": "Flecha Ácida",
@@ -1937,7 +1937,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "En guerra de Talismanes, uno de tus Aliados gana + 2 a la fuerza hasta el final del turno."
+        "ability": "En guerra de Talismánes, uno de tus Aliados gana + 2 a la fuerza hasta el final del turno."
     },
     {
         "name": "Talismán Celta",

@@ -90,7 +90,7 @@
         "ability": "Puede bloquear a más de un Aliado oponente hasta acabar su fuerza."
     },
     {
-        "name": "Kaín",
+        "name": "Kain",
         "image_path": "https://api.myl.cl/static/cards/58/071.png",
         "rarity": "Real",
         "type": "Aliado",
@@ -140,27 +140,27 @@
         "ability": "Por cada cazador de vampiros en juego gana + 1 de fuerza."
     },
     {
-        "name": "Totem de magma",
+        "name": "Tótem de magma",
         "image_path": "https://api.myl.cl/static/cards/58/128.png",
         "rarity": "Real",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Todos los vampiros en juego ganan +1 de fuerza, mientras este totem esté en juego."
+        "ability": "Todos los vampiros en juego ganan +1 de fuerza, mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem lunar",
+        "name": "Tótem lunar",
         "image_path": "https://api.myl.cl/static/cards/58/129.png",
         "rarity": "Real",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Todos los licantropos en juego ganan +1 de fuerza, mientras este totem esté en juego."
+        "ability": "Todos los licantropos en juego ganan +1 de fuerza, mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem Bienaventurado",
+        "name": "Tótem Bienaventurado",
         "image_path": "https://api.myl.cl/static/cards/58/131.png",
         "rarity": "Real",
         "type": "Tótem",
@@ -237,7 +237,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Al jugarla no se pueden jugar nuevos talismanes o habilidades de carta en el turno."
+        "ability": "Al jugarla no se pueden jugar nuevos Talismánes o habilidades de carta en el turno."
     },
     {
         "name": "Prueba de Fuego",
@@ -260,7 +260,7 @@
         "ability": "Durante el resto del juego, los contendores no pueden jugar con el cementerio."
     },
     {
-        "name": "Licantropia",
+        "name": "Licantropía",
         "image_path": "https://api.myl.cl/static/cards/58/009.png",
         "rarity": "Cortesano",
         "type": "Talismán",
@@ -327,7 +327,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Mira la mano de tu oponente y éste se descarta de todos los talismanes que tenga."
+        "ability": "Mira la mano de tu oponente y éste se descarta de todos los Talismánes que tenga."
     },
     {
         "name": "Yelmo",
@@ -360,7 +360,7 @@
         "ability": "El portador intercambia fuerza por su coste de Oro."
     },
     {
-        "name": "Totem de la Fecundidad",
+        "name": "Tótem de la Fecundidad",
         "image_path": "https://api.myl.cl/static/cards/58/041.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -370,7 +370,7 @@
         "ability": "Cada jugador roba una carta extra en su turno."
     },
     {
-        "name": "Totem del Vacío",
+        "name": "Tótem del Vacío",
         "image_path": "https://api.myl.cl/static/cards/58/042.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -380,7 +380,7 @@
         "ability": "Los jugadores sólo pueden jugar un talismán cada turno."
     },
     {
-        "name": "Totem del Olvido",
+        "name": "Tótem del Olvido",
         "image_path": "https://api.myl.cl/static/cards/58/046.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -390,7 +390,7 @@
         "ability": "Descarta una carta de tu mano y genera dos Oro (una vez por turno)."
     },
     {
-        "name": "Totem de la Desesperanza",
+        "name": "Tótem de la Desesperanza",
         "image_path": "https://api.myl.cl/static/cards/58/047.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -520,34 +520,34 @@
         "ability": "Puede bloquear a más de un Aliado oponente hasta agotar su fuerza."
     },
     {
-        "name": "Totem del bosque",
+        "name": "Tótem del bosque",
         "image_path": "https://api.myl.cl/static/cards/58/130.png",
         "rarity": "Cortesano",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Jugar cartas de licantropo mientras este totem esté en juego."
+        "ability": "Jugar cartas de Licántropo cuesta 1 Oro menos mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem magnetico",
+        "name": "Tótem magnetico",
         "image_path": "https://api.myl.cl/static/cards/58/132.png",
         "rarity": "Cortesano",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Todos los Aliados que lleven armas no pueden bloquear mientras este totem esté en juego."
+        "ability": "Todos los Aliados que lleven armas no pueden bloquear mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem de salamandra",
+        "name": "Tótem de salamandra",
         "image_path": "https://api.myl.cl/static/cards/58/134.png",
         "rarity": "Cortesano",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Antes de atacar, tu oponente debe destruir un Aliado que controle mientras este totem esté en juego."
+        "ability": "Antes de atacar, tu oponente debe destruir un Aliado que controle mientras este Tótem esté en juego."
     },
     {
         "name": "Piromania",
@@ -557,7 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Puedes buscar un talisman en el Castillo de tu oponente y botarlo al cementerio junto con todas las copias de esta."
+        "ability": "Puedes buscar un Talismán en el Castillo de tu oponente y botarlo al cementerio junto con todas las copias de esta."
     },
     {
         "name": "Ermitaño",
@@ -567,7 +567,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Solo una vez por juego: nombra un talisman, tu oponente no podrá utilizarlo por esta partida."
+        "ability": "Solo una vez por juego: nombra un Talismán, tu oponente no podrá utilizarlo por esta partida."
     },
     {
         "name": "Mecenas",
@@ -630,7 +630,7 @@
         "ability": "Puede llevar un arma pagando 2 menos de oro."
     },
     {
-        "name": "Titan Licántropo",
+        "name": "Titán Licántropo",
         "image_path": "https://api.myl.cl/static/cards/58/166.png",
         "rarity": "Cortesano",
         "type": "Aliado",
@@ -727,7 +727,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Destruye un arma o totem en juego."
+        "ability": "Destruye un arma o Tótem en juego."
     },
     {
         "name": "Guadaña",
@@ -800,7 +800,7 @@
         "ability": "Su portador no puede ser bloqueado por vampiros."
     },
     {
-        "name": "Totem de sangre",
+        "name": "Tótem de sangre",
         "image_path": "https://api.myl.cl/static/cards/58/043.png",
         "rarity": "Vasallo",
         "type": "Tótem",
@@ -810,17 +810,17 @@
         "ability": "Paga un oro y un vampiro de tu oponente no puede atacar en su turno."
     },
     {
-        "name": "Totem de la Iluminación",
+        "name": "Tótem de la Iluminación",
         "image_path": "https://api.myl.cl/static/cards/58/044.png",
         "rarity": "Vasallo",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Paga dos oros y destruye un totem oponente (una vez por turno)."
+        "ability": "Paga dos oros y destruye un Tótem oponente (una vez por turno)."
     },
     {
-        "name": "Totem del Génesis",
+        "name": "Tótem del Génesis",
         "image_path": "https://api.myl.cl/static/cards/58/045.png",
         "rarity": "Vasallo",
         "type": "Tótem",
@@ -830,7 +830,7 @@
         "ability": "Paga 3 oros y tu oponente devuelve una carta que tenga en juego que tú elijas a su mano (una vez por turno)."
     },
     {
-        "name": "Totem Último",
+        "name": "Tótem Último",
         "image_path": "https://api.myl.cl/static/cards/58/048.png",
         "rarity": "Vasallo",
         "type": "Tótem",
@@ -840,7 +840,7 @@
         "ability": "Paga un oro y anula la habilidad de todas las armas en juego (una vez por turno)."
     },
     {
-        "name": "Totem de fuego",
+        "name": "Tótem de fuego",
         "image_path": "https://api.myl.cl/static/cards/58/049.png",
         "rarity": "Vasallo",
         "type": "Tótem",
@@ -860,7 +860,7 @@
         "ability": "Tus Aliados ganan +1 de fuerza cuando defienden."
     },
     {
-        "name": "Dragon de Sombra",
+        "name": "Dragón de Sombra",
         "image_path": "https://api.myl.cl/static/cards/58/052.png",
         "rarity": "Vasallo",
         "type": "Aliado",
@@ -1280,44 +1280,44 @@
         "ability": "Si ataca y no es bloqueado destruye un Oro de tu oponente."
     },
     {
-        "name": "Totem de penumbra",
+        "name": "Tótem de penumbra",
         "image_path": "https://api.myl.cl/static/cards/58/127.png",
         "rarity": "Vasallo",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Jugar un arma cuesta 1 oro mas mientras este totem esté en juego."
+        "ability": "Jugar un arma cuesta 1 oro mas mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem del viento",
+        "name": "Tótem del viento",
         "image_path": "https://api.myl.cl/static/cards/58/133.png",
         "rarity": "Vasallo",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Elige un Aliado, él y sus copias ganan +1 a la fuerza mientras este totem esté en juego."
+        "ability": "Elige un Aliado, él y sus copias ganan +1 a la fuerza mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem de hierro",
+        "name": "Tótem de hierro",
         "image_path": "https://api.myl.cl/static/cards/58/135.png",
         "rarity": "Vasallo",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Los Aliados que lleven armas no pueden atacar mientras este totem esté en juego."
+        "ability": "Los Aliados que lleven armas no pueden atacar mientras este Tótem esté en juego."
     },
     {
-        "name": "Totem runico",
+        "name": "Tótem runico",
         "image_path": "https://api.myl.cl/static/cards/58/136.png",
         "rarity": "Vasallo",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Tu oponente juega con su mano descubierta mientras este totem esté en juego."
+        "ability": "Tu oponente juega con su mano descubierta mientras este Tótem esté en juego."
     },
     {
         "name": "Evocacion",
@@ -1380,7 +1380,7 @@
         "ability": "No puede ser bloqueado. Si no tienes otros vampiros en juego, destrúyelo al final del turno."
     },
     {
-        "name": "Salome",
+        "name": "Salomé",
         "image_path": "https://api.myl.cl/static/cards/58/149.png",
         "rarity": "Vasallo",
         "type": "Aliado",

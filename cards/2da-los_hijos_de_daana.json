@@ -17,7 +17,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 1,
-        "ability": "Mientras Daana esté en juego, tus Aliados de raza Desafiante y Olímpico no son afectados por Talismanes oponentes. Si tus Aliados de raza Desafiante u Olímpico son destruidos, barájalos en tu Mazo Castillo. Carta única."
+        "ability": "Mientras Daana esté en juego, tus Aliados de raza Desafiante y Olímpico no son afectados por Talismánes oponentes. Si tus Aliados de raza Desafiante u Olímpico son destruidos, barájalos en tu Mazo Castillo. Carta única."
     },
     {
         "name": "El Dagda Mor",
@@ -970,7 +970,7 @@
         "ability": "Demonio del Viento puede portar más de un Arma; si lo hace no puede ser declarado bloqueador."
     },
     {
-        "name": "Willowrong, el Dragon",
+        "name": "Willowrong, el Dragón",
         "image_path": "https://api.myl.cl/static/cards/45/097.png",
         "rarity": "Cortesano",
         "type": "Aliado",
@@ -1107,7 +1107,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
-        "ability": "En Guerra de Talismanes, sólo una vez por turno, paga 2 de Oro para robar 2 cartas."
+        "ability": "En Guerra de Talismánes, sólo una vez por turno, paga 2 de Oro para robar 2 cartas."
     },
     {
         "name": "Eochy",
@@ -1330,7 +1330,7 @@
         "ability": "En respuesta a la Fase Final, juega Cuervos de Batalla para desterrar todos los Aliados que hayan sido destruidos."
     },
     {
-        "name": "Crear Talisman",
+        "name": "Crear Talismán",
         "image_path": "https://api.myl.cl/static/cards/45/133.png",
         "rarity": "Cortesano",
         "type": "Talismán",
@@ -1387,7 +1387,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "El portador de Cota de Mayas no puede ser afectado por Talismanes."
+        "ability": "El portador de Cota de Mayas no puede ser afectado por Talismánes."
     },
     {
         "name": "Falcata",
@@ -1437,10 +1437,10 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "El coste de tus Talismanes se reduce en 1"
+        "ability": "El coste de tus Talismánes se reduce en 1"
     },
     {
-        "name": "Totem Sidhe",
+        "name": "Tótem Sidhe",
         "image_path": "https://api.myl.cl/static/cards/45/144.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -1450,7 +1450,7 @@
         "ability": "En tu Fase de Vigilia puedes pagar 4 de Oro para barajar uno de tus Aliados."
     },
     {
-        "name": "Totem Fomor",
+        "name": "Tótem Fomor",
         "image_path": "https://api.myl.cl/static/cards/45/145.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -1467,7 +1467,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En Guerra de Talismanes puedes pagar 3 de Oro para agrupar uno de tus Aliados atacantes."
+        "ability": "En Guerra de Talismánes puedes pagar 3 de Oro para agrupar uno de tus Aliados atacantes."
     },
     {
         "name": "Honda y Misil",
@@ -1507,7 +1507,7 @@
         "race": "Desafiante",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando Firdarring entre en juego, no se podrán jugar Talismanes hasta la Fase Final."
+        "ability": "Cuando Firdarring entre en juego, no se podrán jugar Talismánes hasta la Fase Final."
     },
     {
         "name": "Benefactora",
@@ -1537,7 +1537,7 @@
         "race": "Desafiante",
         "attack": 3,
         "cost": 4,
-        "ability": "En Guerra de Talismanes puedes desterrar a Cluricaun para destruir un Aliado oponente que porte Arma."
+        "ability": "En Guerra de Talismánes puedes desterrar a Cluricaun para destruir un Aliado oponente que porte Arma."
     },
     {
         "name": "Leanan Sidhe",
@@ -1697,7 +1697,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
-        "ability": "En Guerra de Talismanes puedes destruir un Aliado que controles para que Perro Fomor gane 1 a la fuerza."
+        "ability": "En Guerra de Talismánes puedes destruir un Aliado que controles para que Perro Fomor gane 1 a la fuerza."
     },
     {
         "name": "Lagarto Oropel",
@@ -1757,7 +1757,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
-        "ability": "En Guerra de Talismanes puedes pagar 4 de Oro para que el Aliado oponente de mayor fuerza pierda 2 a la fuerza."
+        "ability": "En Guerra de Talismánes puedes pagar 4 de Oro para que el Aliado oponente de mayor fuerza pierda 2 a la fuerza."
     },
     {
         "name": "Connal Cernach",
@@ -2177,10 +2177,10 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En Guerra de Talismanes y una vez por turno, puedes pagar 2 de Oro para que uno de tus Aliados gane 1 a la fuerza."
+        "ability": "En Guerra de Talismánes y una vez por turno, puedes pagar 2 de Oro para que uno de tus Aliados gane 1 a la fuerza."
     },
     {
-        "name": "Totem de Balor",
+        "name": "Tótem de Balor",
         "image_path": "https://api.myl.cl/static/cards/45/218.png",
         "rarity": "Vasallo",
         "type": "Tótem",

@@ -27,7 +27,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "Este Oro solo genera dos Oros para Armas, Totem o Talismanes."
+        "ability": "Este Oro solo genera dos Oros para Armas, Tótem o Talismánes."
     },
     {
         "name": "Ataúd de Marfil",
@@ -67,7 +67,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Copia la habilidad de un Talisman que este en tu Cementerio."
+        "ability": "Copia la habilidad de un Talismán que este en tu Cementerio."
     },
     {
         "name": "Juramento de los Heroes",
@@ -97,7 +97,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Destruye un Arma o Totem en juego y bota una carta de tu Castillo."
+        "ability": "Destruye un Arma o Tótem en juego y bota una carta de tu Castillo."
     },
     {
         "name": "Nidavellir",
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Solo puede ser llevada por una Abominacion; siempre que esta Abominacion reciba dano para ser destruida, descartate de una carta para que siga en juego."
+        "ability": "Solo puede ser llevada por una Abominación; siempre que esta Abominación reciba daño para ser destruida, descartate de una carta para que siga en juego."
     },
     {
         "name": "Martillo de Thor",
@@ -127,7 +127,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por cada punto de dano que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta única)."
+        "ability": "Por cada punto de dañoo que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta única)."
     },
     {
         "name": "Guantes de Hierro",
@@ -137,7 +137,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Agrega +1 a la fuerza de su portador. Su portador no recibe dano de combate."
+        "ability": "Agrega +1 a la fuerza de su portador. Su portador no recibe daño de combate."
     },
     {
         "name": "Hodur",
@@ -167,7 +167,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
-        "ability": "Si algun jugador juega un Talisman puedes destruir esta carta y anular a dicho Talisman."
+        "ability": "Si algun jugador juega un Talismán puedes destruir esta carta y anular a dicho Talismán."
     },
     {
         "name": "Nyord",
@@ -187,7 +187,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 3,
-        "ability": "Si hace dano al Castillo oponente podras descartarle a tu oponente una carta de su Mano."
+        "ability": "Si hace daño al Castillo oponente podras descartarle a tu oponente una carta de su Mano."
     },
     {
         "name": "Hel",
@@ -227,7 +227,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
-        "ability": "Mientras este en juego, todas tus Abominaciones despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
+        "ability": "Mientras este en juego, todas tus Abominaciónes despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
     },
     {
         "name": "Nidhogg",
@@ -237,7 +237,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
-        "ability": "Si hace dano a un Castillo, paga uno de Oro y tu oponente bota una carta de su Castillo a su Cementerio."
+        "ability": "Si hace daño a un Castillo, paga uno de Oro y tu oponente bota una carta de su Castillo a su Cementerio."
     },
     {
         "name": "Draugar",
@@ -247,7 +247,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
-        "ability": "Todos tus Abominaciones pueden atacar cuando entren en juego y mientras este Aliado este en juego."
+        "ability": "Todos tus Abominaciónes pueden atacar cuando entren en juego y mientras este Aliado este en juego."
     },
     {
         "name": "Ejercito Enano",
@@ -277,7 +277,7 @@
         "race": "Abominación",
         "attack": 6,
         "cost": 2,
-        "ability": "Solo puede bloquear y no es destruida por habilidades de Armas, Talismanes o Totem."
+        "ability": "Solo puede bloquear y no es destruida por habilidades de Armas, Talismánes o Tótem."
     },
     {
         "name": "Hymir",
@@ -507,7 +507,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Todos los jugadores destruyen un Aliado, Arma y Totem que tengan en juego."
+        "ability": "Todos los jugadores destruyen un Aliado, Arma y Tótem que tengan en juego."
     },
     {
         "name": "Sacrificio de Odín",
@@ -527,7 +527,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Cuando un Aliado sea destruido juega inmediatamente este Talisman para que dicho Aliado siga en juego. Luego podras robar una carta de tu Castillo."
+        "ability": "Cuando un Aliado sea destruido juega inmediatamente este Talismán para que dicho Aliado siga en juego. Luego podras robar una carta de tu Castillo."
     },
     {
         "name": "Espiritus de la Niebla",
@@ -577,7 +577,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Tu oponente no puede atacarte mas. Un jugador puede descartar tres cartas de su Castillo y destruir este Totem."
+        "ability": "Tu oponente no puede atacarte mas. Un jugador puede descartar tres cartas de su Castillo y destruir este Tótem."
     },
     {
         "name": "Asgard",
@@ -637,7 +637,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Agrega +1 a la fuerza de su portador. Siempre que este Aliado haga dano al Castillo oponente y se resuelva el dano podras ver las tres primeras cartas del Castillo oponente y ordenarlas como quieras."
+        "ability": "Agrega +1 a la fuerza de su portador. Siempre que este Aliado haga daño al Castillo oponente y se resuelva el daño podras ver las tres primeras cartas del Castillo oponente y ordenarlas como quieras."
     },
     {
         "name": "Arco de Ullr",
@@ -727,7 +727,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 2,
-        "ability": "Si es la primera carta que pones en juego podras buscar un Totem en tu Castillo y ponerlo en tu Mano."
+        "ability": "Si es la primera carta que pones en juego podras buscar un Tótem en tu Castillo y ponerlo en tu Mano."
     },
     {
         "name": "Byleist",
@@ -767,7 +767,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 2,
-        "ability": "Cuando entra en juego puedes destruir un Totem."
+        "ability": "Cuando entra en juego puedes destruir un Tótem."
     },
     {
         "name": "Trivaldi",

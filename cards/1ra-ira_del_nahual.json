@@ -107,7 +107,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Genera 2 de oro virtuales para Chamanes."
+        "ability": "Genera 2 de oro virtuales para Chamánes."
     },
     {
         "name": "Huascar y Atahualpa",
@@ -137,7 +137,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Te cuesta un oro menos jugar Chamanes."
+        "ability": "Te cuesta un oro menos jugar Chamánes."
     },
     {
         "name": "Tótem del Mono",
@@ -467,7 +467,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Genera 2 Oros virtuales para Talismanes. Arma o Tótem."
+        "ability": "Genera 2 Oros virtuales para Talismánes. Arma o Tótem."
     },
     {
         "name": "Ah Puch",
@@ -877,7 +877,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 1,
-        "ability": "Si es destruido, los otros Chamanes que controles ganan + 1 de fuerza permanentemente."
+        "ability": "Si es destruido, los otros Chamánes que controles ganan + 1 de fuerza permanentemente."
     },
     {
         "name": "Kenos",
@@ -967,7 +967,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 2,
-        "ability": "No puede ser bloqueado por Chamanes."
+        "ability": "No puede ser bloqueado por Chamánes."
     },
     {
         "name": "Karib",

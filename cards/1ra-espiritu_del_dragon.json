@@ -57,7 +57,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 3,
-        "ability": "Mientras este Kami este en juego, tus demas Kami no pueden ser afectados por Talismanes en batalla mitologica."
+        "ability": "Mientras este Kami este en juego, tus demas Kami no pueden ser afectados por Talismánes en batalla mitologica."
     },
     {
         "name": "Kagutsuchi",
@@ -117,7 +117,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "ability": "Una vez en tu turno, cuando reagrupes busca dos Talismanes identicos en tu Mazo Castillo y ponlos en tu Mano."
+        "ability": "Una vez en tu turno, cuando reagrupes busca dos Talismánes identicos en tu Mazo Castillo y ponlos en tu Mano."
     },
     {
         "name": "Sha Heshang",
@@ -277,7 +277,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 4,
-        "ability": "Mientras este Campeon este en juego todos los Talismanes que se jueguen seran desterrados."
+        "ability": "Mientras este Campeon este en juego todos los Talismánes que se jueguen seran desterrados."
     },
     {
         "name": "Miyamoto Musashi",
@@ -437,7 +437,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "Al jugar este Talisman tu eliges entre destruir todos los Aliados en juego o que todos los jugadores se descarten de su Mano."
+        "ability": "Al jugar este Talismán tu eliges entre destruir todos los Aliados en juego o que todos los jugadores se descarten de su Mano."
     },
     {
         "name": "Acupuntura",
@@ -467,7 +467,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "ability": "Si tienes en juego un Xian busca un Talisman en tu Castillo, muestralo a tu oponente y ponlo en tu Mano."
+        "ability": "Si tienes en juego un Xian busca un Talismán en tu Castillo, muestralo a tu oponente y ponlo en tu Mano."
     },
     {
         "name": "Tche Ma Tien",
@@ -477,7 +477,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "ability": "En respuesta a si durante el juego tienes, despues de resolverse, el dano en tu Castillo, menos de 3 cartas, baraja tu Cementerio con tu Castillo."
+        "ability": "En respuesta a si durante el juego tienes, despues de resolverse, el daño en tu Castillo, menos de 3 cartas, baraja tu Cementerio con tu Castillo."
     },
     {
         "name": "Kage Bun Shin No Jutsu",
@@ -507,7 +507,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Todo el dano que recibiria tu Castillo lo recibe un Aliado que tengas en juego."
+        "ability": "Todo el daño que recibiria tu Castillo lo recibe un Aliado que tengas en juego."
     },
     {
         "name": "Yabusame",
@@ -517,7 +517,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Tu oponente bota de su Castillo las cuatro cartas superiores. Este Talisman no puede ser anulado."
+        "ability": "Tu oponente bota de su Castillo las cuatro cartas superiores. Este Talismán no puede ser anulado."
     },
     {
         "name": "Kitsune-Tsuki",
@@ -607,7 +607,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En respuesta a jugar un Talisman, evitas que este vaya al Cementerio despues de ser jugado. Este Talisman no puede ser nuevamente jugado en este turno."
+        "ability": "En respuesta a jugar un Talismán, evitas que este vaya al Cementerio despues de ser jugado. Este Talismán no puede ser nuevamente jugado en este turno."
     },
     {
         "name": "Palma de Hierro",
@@ -647,7 +647,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Los Talismanes que descarten o boten cartas no pueden ser anulados por tu oponente."
+        "ability": "Los Talismánes que descarten o boten cartas no pueden ser anulados por tu oponente."
     },
     {
         "name": "Sun",
@@ -707,7 +707,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Su portador gana + 1 a la fuerza por cada Arma en juego. Destruye esta Arma antes de jugar un Talisman y este no podra ser anulado; su portador gana + 2 a la fuerza permanentemente."
+        "ability": "Su portador gana + 1 a la fuerza por cada Arma en juego. Destruye esta Arma antes de jugar un Talismán y este no podra ser anulado; su portador gana + 2 a la fuerza permanentemente."
     },
     {
         "name": "Katana",
@@ -777,7 +777,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "ability": "Cuando entra en juego, tu oponente destruye un Totem a tu eleccion."
+        "ability": "Cuando entra en juego, tu oponente destruye un Tótem a tu eleccion."
     },
     {
         "name": "Hachiman",
@@ -817,7 +817,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "ability": "Imbloqueable. Cuando se resuelva el dano, y si este Aliado hace dano al Castillo oponente, podras elegir entre descartar dos cartas de la Mano oponente al azar o bien botar las cartas del dano efectuado."
+        "ability": "Imbloqueable. Cuando se resuelva el dano, y si este Aliado hace daño al Castillo oponente, podras elegir entre descartar dos cartas de la Mano oponente al azar o bien botar las cartas del daño efectuado."
     },
     {
         "name": "Okuni Nushi",
@@ -827,7 +827,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 3,
-        "ability": "Por cada Totem que tengas en juego este Kami gana + 2 a la fuerza."
+        "ability": "Por cada Tótem que tengas en juego este Kami gana + 2 a la fuerza."
     },
     {
         "name": "Oho Yama",
@@ -847,7 +847,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "ability": "En la batalla mitologica otorga 3 Oros virtuales para jugar Talismanes."
+        "ability": "En la batalla mitologica otorga 3 Oros virtuales para jugar Talismánes."
     },
     {
         "name": "Panku",
@@ -857,7 +857,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 4,
-        "ability": "Cuando entra en juego este Xian tendra la habilidad de un Totem que este en tu linea de apoyo por el resto del juego."
+        "ability": "Cuando entra en juego este Xian tendra la habilidad de un Tótem que este en tu linea de apoyo por el resto del juego."
     },
     {
         "name": "Men Shen",
@@ -897,7 +897,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "ability": "En batalla mitologica genera tres Oros virtuales para jugar Talismanes."
+        "ability": "En batalla mitologica genera tres Oros virtuales para jugar Talismánes."
     },
     {
         "name": "Zhong Kui",
@@ -907,7 +907,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 3,
-        "ability": "Este Xian puede bloquear a dos Aliados a la vez y recibe todo el dano del ataque de tu oponente. Puedes descartar tres cartas de tu Castillo para que este Aliado no reciba dano en combate."
+        "ability": "Este Xian puede bloquear a dos Aliados a la vez y recibe todo el daño del ataque de tu oponente. Puedes descartar tres cartas de tu Castillo para que este Aliado no reciba daño en combate."
     },
     {
         "name": "Tsao Guojiu",
@@ -997,7 +997,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 2,
-        "ability": "Mientras este en juego este Campeon, tus demas Campeones no seran afectados por Talismanes en batalla mitologica."
+        "ability": "Mientras este en juego este Campeon, tus demas Campeones no seran afectados por Talismánes en batalla mitologica."
     },
     {
         "name": "Zato Ichi",
@@ -1117,7 +1117,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "ability": "Si hace dano al Mazo Castillo oponente, puedes robar una carta."
+        "ability": "Si hace daño al Mazo Castillo oponente, puedes robar una carta."
     },
     {
         "name": "Xing Tien",
@@ -1247,7 +1247,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Por este turno el siguiente Talisman que se juegue sera anulado."
+        "ability": "Por este turno el siguiente Talismán que se juegue sera anulado."
     },
     {
         "name": "Marca del Tigre",
@@ -1257,7 +1257,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Juega este Talisman en respuesta a que una carta oponente utilice su habilidad de texto. La cancelas por este turno."
+        "ability": "Juega este Talismán en respuesta a que una carta oponente utilice su habilidad de texto. La cancelas por este turno."
     },
     {
         "name": "Sepukku",
@@ -1297,7 +1297,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "En respuesta a que tu declares un ataque, el siguiente Talisman que juegue tu oponente en este turno sera anulado."
+        "ability": "En respuesta a que tu declares un ataque, el siguiente Talismán que juegue tu oponente en este turno sera anulado."
     },
     {
         "name": "Kage Aruki Jutsu",
@@ -1477,7 +1477,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 2,
-        "ability": "Hasta dos veces por turno toma un Talisman de tu Mano y barajalo con tu Castillo, luego roba dos cartas de tu Castillo."
+        "ability": "Hasta dos veces por turno toma un Talismán de tu Mano y barajalo con tu Castillo, luego roba dos cartas de tu Castillo."
     },
     {
         "name": "Hoderi",
@@ -1517,7 +1517,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 1,
-        "ability": "Cuando entre en juego elige un Totem oponente y este es barajado en su Mazo Castillo."
+        "ability": "Cuando entre en juego elige un Tótem oponente y este es barajado en su Mazo Castillo."
     },
     {
         "name": "Suku Na Biko",
@@ -1617,7 +1617,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 2,
-        "ability": "Cuando entra en juego puedes buscar hasta tres Talismanes en tu Cementerio y barajarlos con tu Castillo."
+        "ability": "Cuando entra en juego puedes buscar hasta tres Talismánes en tu Cementerio y barajarlos con tu Castillo."
     },
     {
         "name": "Yu Ren",
@@ -1697,7 +1697,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "ability": "Destruye este Campeon y un Campeon que tengas en juego no recibe dano en este turno."
+        "ability": "Destruye este Campeon y un Campeon que tengas en juego no recibe daño en este turno."
     },
     {
         "name": "Zhao Yun",
@@ -1777,7 +1777,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "ability": "Si hace dano al Mazo Castillo oponente destierra 3 cartas a eleccion del Cementerio oponente."
+        "ability": "Si hace daño al Mazo Castillo oponente destierra 3 cartas a eleccion del Cementerio oponente."
     },
     {
         "name": "Shinobi",
@@ -1807,7 +1807,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "ability": "Destruye esta carta y una Criatura que tengas en juego no recibe dano en este turno."
+        "ability": "Destruye esta carta y una Criatura que tengas en juego no recibe daño en este turno."
     },
     {
         "name": "Kilin",
@@ -1950,7 +1950,7 @@
         "ability": "Si en el turno anterior fuiste atacado, tu oponente bota de su Castillo tantas cartas como Aliados te hayan atacado."
     },
     {
-        "name": "Marca de Dragon",
+        "name": "Marca de Dragón",
         "image_path": "https://api.myl.cl/static/cards/62/175.png",
         "rarity": "Vasallo",
         "type": "Talismán",
@@ -1967,7 +1967,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Si todos los Aliados atacantes no llevan Armas, no recibes dano en este turno."
+        "ability": "Si todos los Aliados atacantes no llevan Armas, no recibes daño en este turno."
     },
     {
         "name": "Dispositivo Espinoso",
@@ -2107,7 +2107,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Destruye un Totem a tu eleccion."
+        "ability": "Destruye un Tótem a tu eleccion."
     },
     {
         "name": "Chien",

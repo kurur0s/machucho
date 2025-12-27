@@ -207,7 +207,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 3,
-        "ability": "Si Marte es declarado atacante o bloqueador, los jugadores se saltan la Fase de Guerra de Talismanes en este turno."
+        "ability": "Si Marte es declarado atacante o bloqueador, los jugadores se saltan la Fase de Guerra de Talismánes en este turno."
     },
     {
         "name": "Las Erinias",
@@ -617,7 +617,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "ability": "En Guerra de Talismanes, puedes destruir Arcas del Imperio para generar 2 Oros."
+        "ability": "En Guerra de Talismánes, puedes destruir Arcas del Imperio para generar 2 Oros."
     },
     {
         "name": "Águila Imperial",

@@ -87,7 +87,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 2,
-        "ability": "En Guerra de Talismanes, puedes destruir a Oengus para que tu oponente bote 2 cartas de su Mazo Castillo. En tu Fase de Vigilia, si Oengus está en tu Cementerio, puedes pagar 2 Oros para ponerlo en juego sin pagar su coste."
+        "ability": "En Guerra de Talismánes, puedes destruir a Oengus para que tu oponente bote 2 cartas de su Mazo Castillo. En tu Fase de Vigilia, si Oengus está en tu Cementerio, puedes pagar 2 Oros para ponerlo en juego sin pagar su coste."
     },
     {
         "name": "Gronw Pebyr",
@@ -247,7 +247,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Descarta un Talismán para mirar la Mano de tu Oponente y descartarle todos los Talismanes que tenga."
+        "ability": "Descarta un Talismán para mirar la Mano de tu Oponente y descartarle todos los Talismánes que tenga."
     },
     {
         "name": "Sacrificio",
@@ -497,7 +497,7 @@
         "race": "Desafiante",
         "attack": 0,
         "cost": 3,
-        "ability": "Donn tiene fuerza igual al número de Talismanes que haya en tu Cementerio."
+        "ability": "Donn tiene fuerza igual al número de Talismánes que haya en tu Cementerio."
     },
     {
         "name": "Nechtan",
@@ -557,7 +557,7 @@
         "race": "Sombra",
         "attack": 4,
         "cost": 1,
-        "ability": "Mientras Talurc esté en juego, en Guerra de Talismanes debes destruir uno de tus Aliados. Si no lo haces, Talurc es desterrado."
+        "ability": "Mientras Talurc esté en juego, en Guerra de Talismánes debes destruir uno de tus Aliados. Si no lo haces, Talurc es desterrado."
     },
     {
         "name": "Hombre Vacío",
@@ -917,7 +917,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 2,
-        "ability": "En Guerra de Talismanes puedes destruir a Facham para robar una carta"
+        "ability": "En Guerra de Talismánes puedes destruir a Facham para robar una carta"
     },
     {
         "name": "Boobrie",
@@ -1117,7 +1117,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "Un Aliado de Raza dragon gana 2 a la fuerza por el resto del juego"
+        "ability": "Un Aliado de Raza Dragón gana 2 a la fuerza por el resto del juego"
     },
     {
         "name": "Fantasmas Dorados",
@@ -1227,17 +1227,17 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "ability": "Mientras Dwann este en juego. Tus Aliados que porten algun Arma no pueden ser afectados por talismanes oponentes."
+        "ability": "Mientras Dwann este en juego. Tus Aliados que porten algun Arma no pueden ser afectados por Talismánes oponentes."
     },
     {
-        "name": "Totem de Dewi",
+        "name": "Tótem de Dewi",
         "image_path": "https://api.myl.cl/static/cards/46/359.png",
         "rarity": "Vasallo",
         "type": "Tótem",
         "race": null,
         "attack": null,
         "cost": 3,
-        "ability": "Mientras Totem de Dewi este en juego en tu fase de vigilia, solo una vez por turno, puedes nombrar un Aliado oponente para que no pueda ser declarado atacante en el proximo turno."
+        "ability": "Mientras Tótem de Dewi este en juego en tu fase de vigilia, solo una vez por turno, puedes nombrar un Aliado oponente para que no pueda ser declarado atacante en el proximo turno."
     },
     {
         "name": "Espada Picta",

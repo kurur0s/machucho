@@ -110,7 +110,7 @@
         "ability": "Mientras este Aliado esté en juego, tus Caballeros ganan 1 a la fuerza. Cuando Rey Arturo ataca, los Caballeros que lo acompañan ganan 1 a la fuerza hasta la Fase Final."
     },
     {
-        "name": "Dragon Medieval",
+        "name": "Dragón Medieval",
         "image_path": "https://api.myl.cl/static/cards/74/014.png",
         "rarity": "Real",
         "type": "Aliado",
@@ -120,14 +120,14 @@
         "ability": "Imbloqueable. Puede atacar cuando entra en juego. Cuando entra en juego, destruye dos Aliados oponentes."
     },
     {
-        "name": "Dragon Oriental",
+        "name": "Dragón Oriental",
         "image_path": "https://api.myl.cl/static/cards/74/015.png",
         "rarity": "Real",
         "type": "Aliado",
         "race": "Dragón",
         "attack": 6,
         "cost": 6,
-        "ability": "Puede bloquear Aliados Imbloqueables.Mientras este Aliado esté en juego, tus Dragones pueden atacar cuando entran en juego y ganan 1 a la fuerza."
+        "ability": "Puede bloquear Aliados Imbloqueables. Mientras este Aliado esté en juego, tus Dragones pueden atacar cuando entran en juego y ganan 1 a la fuerza."
     },
     {
         "name": "Groostlang",
@@ -177,7 +177,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 3,
-        "ability": "Tus demás Licántropos no pueden ser afectados por Talismanes oponentes."
+        "ability": "Tus demás Licántropos no pueden ser afectados por Talismánes oponentes."
     },
     {
         "name": "Elizabeth Bathory",
@@ -500,26 +500,6 @@
         "ability": "En tu Fase de Vigilia, una vez por turno, puedes pagar 3 Oros para buscar un Tótem o Arma en tu Cementerio y ponerlo en tu mano."
     },
     {
-        "name": "Kordrag",
-        "image_path": "https://api.myl.cl/static/cards/74/081.png",
-        "rarity": "Real",
-        "type": "Aliado",
-        "race": "Caballero",
-        "attack": 4,
-        "cost": 4,
-        "ability": "Este Aliado puede atacar cuando entra en juego. Cuando entra en juego, destruye un Aliado que no sea Caballero."
-    },
-    {
-        "name": "Knochen",
-        "image_path": "https://api.myl.cl/static/cards/74/082.png",
-        "rarity": "Real",
-        "type": "Aliado",
-        "race": "Dragón",
-        "attack": 5,
-        "cost": 5,
-        "ability": "Cuando entra en juego, puedes jugar un Dragón que no sea Knochen de tu Cementerio sin pagar su coste. Ese Aliado puede atacar cuando entra en juego y en la Fase Final es destruido."
-    },
-    {
         "name": "Ninfas",
         "image_path": "https://api.myl.cl/static/cards/74/083.png",
         "rarity": "Real",
@@ -618,16 +598,6 @@
         "attack": null,
         "cost": 3,
         "ability": "Mientras este Tótem esté en juego, tus Aliados que porten Armas ganan 1 a la fuerza y som Imbloqueables."
-    },
-    {
-        "name": "Monedas de Oro",
-        "image_path": "https://api.myl.cl/static/cards/74/099.png",
-        "rarity": "Única",
-        "type": "Oro",
-        "race": null,
-        "attack": null,
-        "cost": null,
-        "ability": "Puedes pagar este Oro y otro Oro que controles para robar 1 carta. (Carta Única)."
     },
     {
         "name": "Diamante Turquesa",
@@ -887,7 +857,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "ability": "El portador gana 1 a la fuerza y no puede ser afectado por Talismanes oponentes."
+        "ability": "El portador gana 1 a la fuerza y no puede ser afectado por Talismánes oponentes."
     },
     {
         "name": "Marca de Tigre",
@@ -1000,16 +970,6 @@
         "ability": "Una vez por turno, puedes destruir un Licántropo que controles para que tu oponente bote tantas cartas de su Mazo Castillo como coste tenga el Aliado destruido."
     },
     {
-        "name": "Lupo",
-        "image_path": "https://api.myl.cl/static/cards/74/035.png",
-        "rarity": "Vasallo",
-        "type": "Aliado",
-        "race": "Licántropo",
-        "attack": 1,
-        "cost": 2,
-        "ability": "Puede atacar cuando entra en juego. Gana 1 a la Fuerza por cada otro Licántropo que controles."
-    },
-    {
         "name": "Corot",
         "image_path": "https://api.myl.cl/static/cards/74/036.png",
         "rarity": "Vasallo",
@@ -1017,7 +977,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 2,
-        "ability": "Cuando entra en juego puedes buscar un Totem o Arma de coste 2 o menos en tu Mazo Castillo y ponerlo en tu Mano."
+        "ability": "Cuando entra en juego puedes buscar un Tótem o Arma de coste 2 o menos en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
         "name": "Virna",

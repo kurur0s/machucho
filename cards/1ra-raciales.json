@@ -7,7 +7,7 @@
         "race": "Abominación",
         "attack": 6,
         "cost": 2,
-        "ability": "Solo puede bloquear y no puede ser destruido por habilidades de Armas, Talismanes o Tótem."
+        "ability": "Solo puede bloquear y no puede ser destruido por habilidades de Armas, Talismánes o Tótem."
     },
     {
         "name": "Gigantes de Fuego",
@@ -37,7 +37,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
-        "ability": "Mientras esté en juego, todas tus Abominaciones despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
+        "ability": "Mientras esté en juego, todas tus Abominaciónes despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
     },
     {
         "name": "Garm",

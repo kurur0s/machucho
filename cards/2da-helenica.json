@@ -1150,7 +1150,7 @@
         "ability": "Hidra de Lernea sólo puede ser destruida por Aliados oponentes de raza Héroe."
     },
     {
-        "name": "Dragon Custodio",
+        "name": "Dragón Custodio",
         "image_path": "https://api.myl.cl/static/cards/20/113.png",
         "rarity": "Cortesano",
         "type": "Aliado",
@@ -1420,7 +1420,7 @@
         "ability": "En respuesta a que uno de tus Tótem sea destruido, puedes salvarlo si destierras a Tormento."
     },
     {
-        "name": "Totem de Fenix",
+        "name": "Tótem de Fenix",
         "image_path": "https://api.myl.cl/static/cards/20/140.png",
         "rarity": "Cortesano",
         "type": "Tótem",
@@ -2160,7 +2160,7 @@
         "ability": "El portador de Arco y Flechas Dorios no puede ser desterrado."
     },
     {
-        "name": "Totem de Equidna",
+        "name": "Tótem de Equidna",
         "image_path": "https://api.myl.cl/static/cards/20/214.png",
         "rarity": "Vasallo",
         "type": "Tótem",

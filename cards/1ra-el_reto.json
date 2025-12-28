@@ -7,6 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Busca una carta de tu Castillo y ponla en tu mano (luego debes volver a barajar tu Mazo Castillo)."
     },
     {
@@ -17,6 +18,7 @@
         "Race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Puedes destruirlo, buscar un oro en tu Castillo y ponerlo en juego."
     },
     {
@@ -27,6 +29,7 @@
         "Race": "",
         "attack": 0,
         "cost": 4,
+        "strategy": "",
         "ability": "Una vez por turno puedes copiar la fuerza y habilidades de un Aliado en el juego."
     },
     {
@@ -37,6 +40,7 @@
         "Race": "",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Gana + 1 a la fuerza por cada Trauko Aliado en juego."
     },
     {
@@ -47,6 +51,7 @@
         "Race": "",
         "attack": 6,
         "cost": 0,
+        "strategy": "",
         "ability": "Para ponerla en juego, debes botar 4 cartas de tu Castillo."
     },
     {
@@ -57,6 +62,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Al entrar en juego agrega 5 cartas de oro."
     },
     {
@@ -67,6 +73,7 @@
         "Race": "",
         "attack": 6,
         "cost": 8,
+        "strategy": "",
         "ability": "Este dragón no puede ser bloqueado."
     },
     {
@@ -77,6 +84,7 @@
         "Race": "",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si hay cartas de Amazonas en juego su valor se reduce a  0 ."
     },
     {
@@ -87,6 +95,7 @@
         "Race": "",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Paga 3 de oro, y una carta oponente no puede atacar en este turno."
     },
     {
@@ -97,6 +106,7 @@
         "Race": "",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos tus Aliados se consideran caballeros cuando Kordrag está en juego."
     },
     {
@@ -107,6 +117,7 @@
         "Race": "",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Al entrar en juego, todos los demás caballeros ganan + 1 de fuerza permanentemente."
     },
     {
@@ -117,6 +128,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Zeus te permite robar 6 cartas de tu Mazo Castillo."
     },
     {
@@ -127,6 +139,7 @@
         "Race": "",
         "attack": 0,
         "cost": 5,
+        "strategy": "",
         "ability": "Tiene fuerza igual al número de cartas  oro  que tengas en juego."
     },
     {
@@ -137,6 +150,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Busca una carta de Caballero en tu Castillo y ponla en juego."
     },
     {
@@ -147,6 +161,7 @@
         "Race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Al jugarlo, gana + 1 a la fuerza: si tienes dos o más Odiseo en juego, son imbloqueables."
     },
     {
@@ -157,6 +172,7 @@
         "Race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es destruido por una carta oponente, ésta es también destruida."
     },
     {
@@ -167,6 +183,7 @@
         "Race": "",
         "attack": 6,
         "cost": 6,
+        "strategy": "",
         "ability": "Puede bloquear cartas imbloqueables."
     },
     {
@@ -177,6 +194,7 @@
         "Race": "",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando ataca, todos los caballeros que lo acompañen ganan + 1 de fuerza por el turno."
     },
     {
@@ -187,6 +205,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cada jugador muestra la carta superior de su Castillo. Si es un Aliado, es puesto en juego, si no, la carta es descartada."
     },
     {
@@ -197,6 +216,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Puedes jugarla en cualquier momento del juego. Anula una carta jugada por tu oponente enviándola al cementerio (Carta única)."
     },
     {
@@ -207,6 +227,7 @@
         "Race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando ataca, gana + 1 a la fuerza hasta el final del turno."
     },
     {
@@ -217,6 +238,7 @@
         "Race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si Pegaso es destruido, uno de tus Aliados gana + 1 a la fuerza permanentemente."
     },
     {
@@ -227,6 +249,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos tus Aliados ganan + 1 a la fuerza hasta el final del turno."
     },
     {
@@ -237,6 +260,7 @@
         "Race": "",
         "attack": 0,
         "cost": 3,
+        "strategy": "",
         "ability": "Bota X cartas de tu Castillo (máximo 5) y gana un punto de fuerza por cada carta botada permanentemente."
     },
     {
@@ -247,6 +271,7 @@
         "Race": "",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Destruye una carta de Aliado en juego."
     },
     {
@@ -257,6 +282,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Las cartas del oponente no pueden bloquear en este turno."
     },
     {
@@ -267,6 +293,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Un Aliado gana +3 a la fuerza hasta el final del turno."
     },
     {
@@ -277,6 +304,7 @@
         "Race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Al sacrificarlo genera un oro en el turno."
     },
     {
@@ -287,6 +315,7 @@
         "Race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Si Perseo está en juego, Medusas y Sirenas de tu oponente, pierden su habilidad."
     },
     {
@@ -297,6 +326,7 @@
         "Race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Bota dos cartas de tu Castillo, y una carta de tu oponente no puede atacar o bloquear en este turno."
     },
     {
@@ -307,6 +337,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado gana + 3 de fuerza permanentemente."
     },
     {
@@ -317,6 +348,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Las cartas de Aliados destruidos en este turno vuelven al juego (a la línea de defensa)."
     },
     {
@@ -327,6 +359,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Destruye un Aliado en juego y puedes buscar 2 cartas de oro en tu Castillo."
     },
     {
@@ -337,6 +370,7 @@
         "Race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sólo puede ser bloqueada por caballeros."
     },
     {
@@ -347,6 +381,7 @@
         "Race": "",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye uno de tus Aliados."
     },
     {
@@ -357,6 +392,7 @@
         "Race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Al jugarla, puedes buscar otra carta de Ninfas en tu Castillo y ponerla en tu mano."
     },
     {
@@ -367,6 +403,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Bota al azar dos cartas de la mano de tu oponente."
     },
     {
@@ -377,6 +414,7 @@
         "Race": "",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca debe ser acompañado por dos Aliados."
     },
     {
@@ -387,6 +425,7 @@
         "Race": "",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Si hay algún dragón en juego, gana + 3 a la fuerza."
     },
     {
@@ -397,6 +436,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Al jugarla, una carta oponente no puede atacar o bloquear."
     },
     {
@@ -407,6 +447,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Envía al cementerio una carta al azar de la mano de tu oponente."
     },
     {
@@ -417,6 +458,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye todas las cartas oponentes de fuerza superior a 3."
     },
     {
@@ -427,6 +469,7 @@
         "Race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si ataca debe ser bloqueado."
     },
     {
@@ -437,6 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Las cartas oponentes pierden un punto de fuerza en este turno."
     },
     {
@@ -447,6 +491,7 @@
         "Race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "La Serpiente Emplumada no puede ser bloqueada."
     },
     {
@@ -457,6 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mira las 6 cartas superiores de tu Castillo y ordénalas como quieras."
     },
     {
@@ -467,6 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Dos cartas oponentes pierden un punto de fuerza por este turno."
     },
     {
@@ -477,6 +524,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Un Aliado en batalla gana + 1 de fuerza permanentemente."
     },
     {
@@ -487,6 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El oponente bota dos cartas de su Castillo."
     },
     {
@@ -497,6 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Un Aliado en juego gana + 1 de fuerza permanentemente."
     },
     {
@@ -507,6 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Una carta oponente no puede bloquear en este turno."
     },
     {
@@ -517,6 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Elige una carta de Aliado en juego y cámbiala por una de tu oponente (sólo por el juego)."
     },
     {
@@ -527,6 +579,7 @@
         "race": "",
         "attack": 3,
         "cost": 0,
+        "strategy": "",
         "ability": "Para entrar en juego destruye dos de tus oros en mesa."
     },
     {
@@ -537,6 +590,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si tu oponente bloquea, tu eliges quién bloquea a Hermes."
     },
     {
@@ -547,6 +601,7 @@
         "race": "",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Después de atacar, si no es destruido, es devuelto a la mano."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Una carta en juego pierde todas sus habilidades por este turno."
     },
     {
@@ -567,6 +623,7 @@
         "race": "",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Al entrar en juego, descartas la carta superior de tu Castillo."
     },
     {
@@ -577,6 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Nombra una carta de tu oponente en línea de defensa o ataque; éste no puede jugar más copias de esa carta."
     },
     {
@@ -587,6 +645,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, ganas uno de oro por el turno."
     },
     {
@@ -597,6 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Los oros de tu oponente no pueden ser reagrupados el siguiente turno."
     },
     {
@@ -607,6 +667,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Elige las cinco cartas superiores de tu cementerio y barájalas con tu Castillo."
     },
     {
@@ -617,6 +678,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si es destruido, devuelve una carta de oro de tu oponente a su mano."
     },
     {
@@ -627,6 +689,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Puedes buscar un dragón en el Castillo de tu oponente y descartarlo al cementerio."
     },
     {
@@ -637,6 +700,7 @@
         "race": "",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, debes mostrar tu mano a tu oponente."
     },
     {
@@ -647,6 +711,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -657,6 +722,7 @@
         "race": "",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -667,6 +733,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Una carta de tu oponente que tú elijas tendrá fuerza 0 hasta el final del turno."
     },
     {
@@ -677,6 +744,7 @@
         "race": "",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -687,6 +755,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Mira la mano de tu oponente."
     },
     {
@@ -697,6 +766,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -707,6 +777,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -717,6 +788,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Cuando ataca, también deben hacerlo todos los Aliados habilitados para atacar."
     },
     {
@@ -727,6 +799,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -737,6 +810,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -747,6 +821,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si es destruido, devuélvelo a tu mano."
     },
     {
@@ -757,6 +832,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -767,6 +843,7 @@
         "race": "",
         "attack": 5,
         "cost": 8,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -777,6 +854,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -787,6 +865,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -797,6 +876,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -807,6 +887,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -817,6 +898,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Atlas sólo puede bloquear; para destruirlo es necesario doblar su fuerza."
     },
     {
@@ -827,6 +909,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -837,6 +920,7 @@
         "race": "",
         "attack": 8,
         "cost": 8,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -847,6 +931,7 @@
         "race": "",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Cada turno pierde un punto de fuerza."
     },
     {
@@ -857,6 +942,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -867,6 +953,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -877,6 +964,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Baal te permite robar una nueva carta."
     },
     {
@@ -887,6 +975,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -897,6 +986,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -907,6 +997,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -917,6 +1008,7 @@
         "race": "",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Al jugarlo puedes robar una carta."
     },
     {
@@ -927,6 +1019,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -937,6 +1030,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -947,6 +1041,7 @@
         "race": "",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Destruye a Anubis y regresa una carta de tu cementerio a la línea de defensa."
     },
     {
@@ -957,6 +1052,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -967,6 +1063,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -977,6 +1074,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -987,6 +1085,7 @@
         "race": "",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -997,6 +1096,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1007,6 +1107,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Los Aliados del oponente no pueden atacar en este turno."
     },
     {
@@ -1017,6 +1118,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1027,6 +1129,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Puedes ver al azar una carta de tu oponente."
     },
     {
@@ -1037,6 +1140,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Puedes robar una carta de tu Castillo."
     },
     {
@@ -1047,6 +1151,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1057,6 +1162,7 @@
         "race": "",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1067,6 +1173,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un oro de tu oponente."
     },
     {
@@ -1077,6 +1184,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1087,6 +1195,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Mira las tres cartas superiores de tu Castillo y devuélvelas en el mismo orden."
     },
     {
@@ -1097,6 +1206,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1107,6 +1217,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Busca una carta  Talismán  en tu cementerio y ponla en tu mano."
     },
     {
@@ -1117,6 +1228,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1127,6 +1239,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Un Aliado defensor gana + 3 a la fuerza hasta el final del turno."
     },
     {
@@ -1137,6 +1250,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1147,6 +1261,7 @@
         "race": "",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1157,6 +1272,7 @@
         "race": "",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "La Esfinge no puede atacar, sólo defender."
     },
     {
@@ -1167,6 +1283,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1177,6 +1294,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1187,6 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Roba dos cartas y bota una de tu mano."
     },
     {
@@ -1197,6 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Devuelve una carta del cementerio a tu mano."
     },
     {
@@ -1207,6 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mira la carta superior del Mazo de tu oponente."
     },
     {
@@ -1217,6 +1338,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1227,6 +1349,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1237,6 +1360,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Berserker no puede ser bloqueado."
     },
     {
@@ -1247,6 +1371,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1257,6 +1382,7 @@
         "race": "",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1267,6 +1393,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1277,6 +1404,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1287,6 +1415,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1297,6 +1426,7 @@
         "race": "",
         "attack": 4,
         "cost": 6,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1307,6 +1437,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mira la mano de tu oponente, puedes descartarle una carta de oro."
     },
     {
@@ -1317,6 +1448,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes buscar una carta de Dragón en tu Castillo y ponerla en tu mano."
     },
     {
@@ -1327,6 +1459,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1337,6 +1470,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Debe atacar todos los turnos."
     },
     {
@@ -1347,6 +1481,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si se considera caballero gana + 1 a la fuerza."
     },
     {
@@ -1357,6 +1492,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1367,6 +1503,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Una carta imbloqueable puede ser bloqueada en este turno"
     },
     {
@@ -1377,6 +1514,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Un vampiro gana + 3 por este turno."
     },
     {
@@ -1387,6 +1525,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Otorga dos oros por el turno."
     },
     {
@@ -1397,6 +1536,7 @@
         "race": "",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "Si ataca, gana + 1 a la fuerza por el turno."
     },
     {
@@ -1407,6 +1547,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, cada jugador muestra su mano y descarta un talismán si tiene alguno."
     },
     {
@@ -1417,6 +1558,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1427,6 +1569,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Nombra una carta por su nombre específico. Tu oponente muestra la mano si la tiene, descártale esa carta."
     },
     {
@@ -1437,6 +1580,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Si es destruido, devuélvelo a tu mano."
     },
     {
@@ -1447,6 +1591,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1457,6 +1602,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente no roba en el próximo turno."
     },
     {
@@ -1467,6 +1613,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1477,6 +1624,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mira las tres cartas superiores del Castillo oponente y ordénalas como quieras."
     },
     {
@@ -1487,6 +1635,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Una carta atacante no hace daño en este turno."
     },
     {
@@ -1497,6 +1646,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1507,6 +1657,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1517,6 +1668,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1527,6 +1679,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Elige un Aliado en juego de tu oponente y éste lo debe barajar en su Castillo."
     },
     {
@@ -1537,6 +1690,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Por el resto del juego, tu oponente juega con la mano descubierta."
     },
     {
@@ -1547,6 +1701,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si un Aliado oponente lo bloquea, éste pierde 1 de fuerza por el turno."
     },
     {
@@ -1557,6 +1712,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Por este turno todas las cartas en juego cambian su fuerza por valor en oro."
     },
     {
@@ -1567,6 +1723,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Por este turno tu oponente no puede utilizar su oro."
     },
     {
@@ -1577,6 +1734,7 @@
         "race": "",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Sólo puede atacar si tu oponente tiene menos cartas en su mano que tú."
     },
     {
@@ -1587,6 +1745,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1597,6 +1756,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1607,6 +1767,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1617,6 +1778,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1627,6 +1789,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1637,6 +1800,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1647,6 +1811,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1657,6 +1822,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1667,6 +1833,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1677,6 +1844,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1687,6 +1855,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1697,6 +1866,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1707,6 +1877,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1717,6 +1888,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1727,6 +1899,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1737,6 +1910,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     }
 ]

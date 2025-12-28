@@ -7,6 +7,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -17,6 +18,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Mientras Daana esté en juego, tus Aliados de raza Desafiante y Olímpico no son afectados por Talismánes oponentes. Si tus Aliados de raza Desafiante u Olímpico son destruidos, barájalos en tu Mazo Castillo. Carta única."
     },
     {
@@ -27,6 +29,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, elige entre ver las 2 cartas superiores de tu Mazo Castillo y devolverlas en el mismo orden o barajar un Aliado de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -37,6 +40,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Midyir puede portar más de un Arma, si lo hace es Imbloqueable.º"
     },
     {
@@ -47,6 +51,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Ogma no puede ser anulado, puede atacar el turno que entra en juego, si hace daño al Mazo Castillo de tu oponente, puedes ver su Mano."
     },
     {
@@ -57,6 +62,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Ethain entra en juego puedes ver las 4 cartas superiores del Mazo Castillo oponente y devolverlas en cualquier orden. Si lo haces, todos tus Aliados pasan a la Línea de Defensa oponente por el resto del juego."
     },
     {
@@ -67,6 +73,7 @@
         "race": "Desafiante",
         "attack": 0,
         "cost": 1,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido, puedes destruir a Angus Og para salvarlo."
     },
     {
@@ -77,6 +84,7 @@
         "race": "Desafiante",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Lugh entra en juego, puedes poner todas las cartas del Cementerio de tu oponente en su Zona de Destierro. Carta única."
     },
     {
@@ -87,6 +95,7 @@
         "race": "Desafiante",
         "attack": 5,
         "cost": 3,
+        "strategy": "",
         "ability": "Para que Nuada Brazo de Plata sea declarado atacante o bloqueador, debes destruir uno de tus Aliados."
     },
     {
@@ -97,6 +106,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Brigit esté en juego, todos tus demás Aliados de raza Desafiante son indesterrables e indestructibles."
     },
     {
@@ -107,6 +117,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a la declaración de ataque oponente elige un Aliado atacante para que vuelva a la Línea de Defensa."
     },
     {
@@ -117,6 +128,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Epona es destruida nombra una carta de Oro para que todas sus copias en juego sean subidas a la Mano."
     },
     {
@@ -127,6 +139,7 @@
         "race": "Desafiante",
         "attack": 4,
         "cost": 1,
+        "strategy": "",
         "ability": "No puedes bajar a Tutatis si no tienes más de un Aliado en juego. Si Tutatis es declarado atacante todos tus Aliados habilitados para atacar deben de hacerlo."
     },
     {
@@ -137,6 +150,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Belenos entra en juego puedes devolver un Aliado de tu Cementerio a tu Mano."
     },
     {
@@ -147,6 +161,7 @@
         "race": "Desafiante",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "En respuesta a que Mananaun sea declarado atacante, puedes pagar su coste para que duplique su fuerza."
     },
     {
@@ -157,6 +172,7 @@
         "race": "Sombra",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes nombrar una carta, busca las copias de esa carta en tu Cementerio y barájalas en tu Mazo Castillo. Balor sólo puede ser bloqueado por Lugh. Carta única."
     },
     {
@@ -167,6 +183,7 @@
         "race": "Sombra",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Devorador de Almas no puede ser declarado atacante. En respuesta a que tu oponente declare su ataque, debe destruir sus Aliados que no sean declarados atacantes."
     },
     {
@@ -177,6 +194,7 @@
         "race": "Sombra",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Wyrm Abismal esté en juego, en respuesta a que uno de tus Aliados de raza Sombra sea destruido, tu oponente debe destruir uno de sus Aliados a su elección."
     },
     {
@@ -187,6 +205,7 @@
         "race": "Sombra",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Demonio de Tara esté en juego, si tu oponente tiene Aliados de raza Héroe o Defensor en juego, debe declararlos atacantes y pierden 2 a la fuerza hasta la Fase Final. Tu oponente puede cancelar esta habilidad pagando 3 Oros en su Fase de Vigilia."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Sombra",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que Laegerie sea bloqueado por un Aliado de raza Héroe u Olímpico, Laegerie duplica su fuerza."
     },
     {
@@ -207,6 +227,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Filborgs esté en juego, no se pueden jugar ni activar habilidades de anulación."
     },
     {
@@ -217,6 +238,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Duergar entra en juego, puedes tomar hasta 2 Oros de la reserva de tu oponente y ponerlos en su reserva. En la Fase Final vuelven a la reserva oponente."
     },
     {
@@ -227,6 +249,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que Abbey Lubber entre en juego, todos tus Oros en la zona de Destierro pasan a tu Cementerio."
     },
     {
@@ -237,6 +260,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que Bean Sidhe sea bloqueado, tu oponente bota 2 cartas."
     },
     {
@@ -247,6 +271,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras tengas 2 o más copias de Slaugh en juego, no se podrán jugar Aliados de raza Olímpico."
     },
     {
@@ -257,6 +282,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que Tethra sea destruido, no se podrán jugar Armas ni Tótems por el resto del juego."
     },
     {
@@ -267,6 +293,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que un Aliado de raza Sombra sea destruido, sube a General Corb a tu mano para salvarlo."
     },
     {
@@ -277,6 +304,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu fase de vigilia, puedes pagar 3 de Oro para ver la mano de tu oponente."
     },
     {
@@ -287,6 +315,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que Cuchalain fueara a ser destruido, puedes destruir uno de tus Aliados para salvarlo. Si Cuchalain hace daño al Mazo Castillo oponente, puedes robar dos cartas."
     },
     {
@@ -297,6 +326,7 @@
         "race": "Defensor",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Vincegeratorix esté en juego, en respuesta a un ataque oponente, puedes agrupar un Aliado para declararlo bloqueador."
     },
     {
@@ -307,6 +337,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a declarar tu bloqueo, puedes barajar Bodicea en tu Mazo Castillo para que tus Aliados bloqueadores ganen 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -317,6 +348,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Conn esté en juego, todos tus Aliados de raza Defensor ganan 1 a la fuerza. En respuesta a que Conn no sea declarado atacante, tus Aliados de raza Defensor pueden ser agrupados en la Fase Final."
     },
     {
@@ -327,6 +359,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia y una vez por turno, destruye el Aliado oponente de mayor fuerza."
     },
     {
@@ -337,6 +370,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Finn Mac Cool entra en juego destruye todas las copias en juego de un Aliado, Tótem o Arma oponente que modifique la fuerza."
     },
     {
@@ -347,6 +381,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que Bolgos sea declarado bloqueador, todos tus demás Aliados de raza Defensor ganan 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -357,6 +392,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Taliesin entra en juego, puedes buscar un Aliado de raza Faerie en tu Mazo Castillo y ponerlo en juego sin pagar su coste."
     },
     {
@@ -367,6 +403,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Mathgen el Mago entra en juego, puedes tomar un Tótem oponente y ponerlo en tu Línea de Apoyo permanentemente."
     },
     {
@@ -377,6 +414,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Figol el Druida es declarado bloqueador, todos los Aliados oponentes que fueron declarados atacantes, vuelven a la Línea de Defensa."
     },
     {
@@ -387,6 +425,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Dianan y Bechulle gana 1 a la fuerza por cada Dianan y Bechulle en juego."
     },
     {
@@ -397,6 +436,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea barajado en el Mazo Castillo, puedes buscar un Aliado en tu Cementerio y ponerlo en juego sin pagar su coste."
     },
     {
@@ -407,6 +447,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Averix el Sabio esté en juego, tu oponente no puede activar efectos que duren hasta el Final del Turno o hasta la Fase Final."
     },
     {
@@ -417,6 +458,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un Aliado oponente de raza Olímpico o Héroe."
     },
     {
@@ -427,6 +469,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tus Aliados de raza Faeries ganan 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -437,6 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido, juega Hijos de Lir para que tu oponente bote tantas cartas como fuerza tenga el Aliado destruido."
     },
     {
@@ -447,6 +491,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente designe un Aliado bloqueador, puedes jugar Raudo Surcador Marino para cambiarlo por otro de sus Aliados."
     },
     {
@@ -457,6 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cancela una habilidad activada o disparada de un Aliado oponente, tu oponente debe descartar una carta de su mano."
     },
     {
@@ -467,6 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos tus Aliados de raza Sombra ganan 1 a la fuerza y son indestructibles hasta la Fase Final."
     },
     {
@@ -477,6 +524,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a tu Fase de Agrupación, puedes jugar Despertar Oscuro para robar 3 cartas y luego descartar 1 carta."
     },
     {
@@ -487,6 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido, juega Caldero de la Abundancia para buscar 2 Oros en tu Mazo Castillo y ponerlos en tu mano.Carta única."
     },
     {
@@ -497,6 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Un Aliado gana 2 a la fuerza y es indesterrable, permanentemente."
     },
     {
@@ -507,6 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados de raza Sombra sea destruido, juega Cacería Salvaje para buscar una copia de este Aliado en tu Cementerio o Mazo Castillo y ponerlo en juego sin pagar su coste."
     },
     {
@@ -517,6 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a la declaración de un ataque, juega Corte Seelie para que tus Aliados ganen 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -527,6 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a la declaración de bloqueo, juega Corte Unseelie para que los Aliados atacantes pierdan 1 a la fuerza."
     },
     {
@@ -537,6 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Juega Voz de la Tierra para mirar la mano de tu oponente. Baraja 2 Aliados de raza Héroe que tenga en su mano."
     },
     {
@@ -547,6 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega Derribar Montañas para destruir un Tótem oponente."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a la declaración de ataque oponente, puedes jugar Levantar a los Muertos para buscar en tu Cementerio un Aliado y ponerlo en tu Línea de Defensa sin pagar su coste. Este Aliado debe ser declarado bloqueador."
     },
     {
@@ -567,6 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a la declaración de un ataque oponente, destruye todos los Aliados atacantes. Carta única."
     },
     {
@@ -577,6 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que Cuchulain sea declarado atacante, tu oponente no podrá declarar bloqueo."
     },
     {
@@ -587,6 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a la Fase de Asignación de daño, juega Manzanas de la Vida para barahar en tu Mazo Castillo todos los Aliados que hayan sido destruidos en Batalla Mitológica."
     },
     {
@@ -597,6 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes barajar en tu Mazo Castillo hasta 2 Aliados de raza Héroe que tengas en tu Cementerio."
     },
     {
@@ -607,6 +667,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Si el portador de Espada de la Luz es un Aliado de raza Olímpico, gana 1 a la fuerza. Si el portador de Espada de la Luz es Lugh, gana 1 a la fuerza por cada Aliado Oiímpico que tengas en juego."
     },
     {
@@ -617,6 +678,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador de Lanza de la Victoria gana 3 a la fuerza. En respuesta a bajar un Oro, puedes cambiar el Aliado portador de Lanza de la Victoria."
     },
     {
@@ -627,6 +689,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Espada del Abismo sólo puede ser portada por un Aliado de raza Sombra. Su portador es indestructible y gana 1 a la fuerza."
     },
     {
@@ -637,6 +700,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "El portador de Carro Celta gana 4 a la fuerza. Si el portador de Carro Celta ataca, destiérralo en la Fase Final. Carta única."
     },
     {
@@ -647,6 +711,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Escudo Batersse gana 1 a la fuerza. Si el portador de Escudo Batersse es declarado Aliado bloqueador, duplica su fuerza."
     },
     {
@@ -657,6 +722,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Gae Bolga sólo puede ser portada por Cuchulain. Su portador gana 2 a la fuerza y puede portar 1 Arma extra."
     },
     {
@@ -667,6 +733,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Lanza de Fuego sólo puede ser portada por Aliados de raza Desafiante. Si su portador es bloqueado, tu oponente debe botar 2 cartas."
     },
     {
@@ -677,6 +744,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Tier-na.oge esté en juego, tus Aliados Indestructibles no pueden ser desterrados."
     },
     {
@@ -687,6 +755,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Tier-na-moe esté en juego, en respuesta a que uno de tus Aliados sean destruidos, puedes ponerlo bajo Tier-na-moe. Máximo 3 Aliados.("
     },
     {
@@ -697,6 +766,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Moy-Mell esté en juego, en tu Fase de Vigilia y sólo una vez por turno, puedes barajar 2 cartas de tu Cementerio con tu Mazo Castillo. No puedes tenter más de una copia de Moy-Mell en juego."
     },
     {
@@ -707,6 +777,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente juegue un Talismán, puedes pagar 4 de Oro para anularlo."
     },
     {
@@ -717,6 +788,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados de raza Sombra sea destruido o desterrado, puedes robar tantas cartas como coste tenga el Aliado."
     },
     {
@@ -727,6 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes ver las 3 cartas superiores de tu Mazo Castillo y devolverlas en el orden que quieras."
     },
     {
@@ -737,6 +810,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu fase de vigilia, sólo una vez por turno, puedes robar tantas cartas como Aliados tengas en juego."
     },
     {
@@ -747,6 +821,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Morrigan entra en juego, todos los Aliados en juego ganan 1 a la fuerza permanentemente."
     },
     {
@@ -757,6 +832,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Gobniu entra en juego, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu mano."
     },
     {
@@ -767,6 +843,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Niña de la Suerte entra en juego, ambos jugadores toman la primera carta de su Mazo Castillo, las intercambian y pueden jugarlas sin pagar su coste. Si es un Oro, es colocado en la Reserva de Oro en cualquier fase de juego."
     },
     {
@@ -777,6 +854,7 @@
         "race": "Desafiante",
         "attack": 0,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido, puedes destruir a Cian para salvarlo."
     },
     {
@@ -787,6 +865,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Unicornio Sidhe es Imbloqueable."
     },
     {
@@ -797,6 +876,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "El Aliado que bloquee a Arawn debe ser destruido en la Fase Final."
     },
     {
@@ -807,6 +887,7 @@
         "race": "Desafiante",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Sidhe guerrero no puede ser declarado bloqueador."
     },
     {
@@ -817,6 +898,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Zorro de Fuego entra en juego, ambos jugadores deben poner el Aliado de mayor fuerza en la parte superior de su Mazo Castillo."
     },
     {
@@ -827,6 +909,7 @@
         "race": "Desafiante",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Dylan esté en juego todos los Aliados pierden 1 a la fuerza."
     },
     {
@@ -837,6 +920,7 @@
         "race": "Desafiante",
         "attack": 4,
         "cost": 3,
+        "strategy": "",
         "ability": "Lir sólo puede ser declarado atacante si es acompañado por dos Aliados."
     },
     {
@@ -847,6 +931,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Dama Blanca es destruida, puedes poner todas las cartas de tu Zona de Destierro en tu Cementerio."
     },
     {
@@ -857,6 +942,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Gente Roble es Indestructible."
     },
     {
@@ -867,6 +953,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cernunos solo puede ser bloqueado por Aliados de frecuencia Vasallo."
     },
     {
@@ -877,6 +964,7 @@
         "race": "Sombra",
         "attack": 7,
         "cost": 5,
+        "strategy": "",
         "ability": "Cangrejo Oscuro no puede ser agrupado. En respuesta a tu Fase de Agrupación puedes pagar 4 de Oro para agrupar a Cangrejo Oscuro."
     },
     {
@@ -887,6 +975,7 @@
         "race": "Sombra",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Guerrero Fomor puede atacar el turno que entra en juego."
     },
     {
@@ -897,6 +986,7 @@
         "race": "Sombra",
         "attack": 5,
         "cost": 4,
+        "strategy": "",
         "ability": "Si Mastín Oscuro es declarado atacante, no puede ser acompañado por otro Aliado."
     },
     {
@@ -907,6 +997,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Capas Rojas hace daño al Mazo Castillo oponente, puedes robar una carta."
     },
     {
@@ -917,6 +1008,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Druida Oscuro entra en juego, se cancelan todas las habilidades de Tótems oponentes hasta la Fase Final."
     },
     {
@@ -927,6 +1019,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Orcos es Imbloqueable."
     },
     {
@@ -937,6 +1030,7 @@
         "race": "Sombra",
         "attack": 5,
         "cost": 2,
+        "strategy": "",
         "ability": "Para que Kurick, el Picto entre en juego, debes destruir 2 Oros."
     },
     {
@@ -947,6 +1041,7 @@
         "race": "Sombra",
         "attack": 0,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Merodeador es destruido, puedes barajar tantas cartas de tu Cementerio en tu Mazo Castillo como fuerza tenga Merodeador."
     },
     {
@@ -957,6 +1052,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Tumulario entra en juego, ambos jugadores pueden poner un Aliado de su Cementerio en su Línea de Defensa sin pagar su coste."
     },
     {
@@ -967,6 +1063,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Demonio del Viento puede portar más de un Arma; si lo hace no puede ser declarado bloqueador."
     },
     {
@@ -977,6 +1074,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Willowrong, el Dragón es declarado atacante, todos los Aliados que lo acompañan ganan 1 a la fuerza."
     },
     {
@@ -987,6 +1085,7 @@
         "race": "Sombra",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Gibberling puede atacar el turno que entra en juego, si lo hace no puede ser agrupado."
     },
     {
@@ -997,6 +1096,7 @@
         "race": "Sombra",
         "attack": 5,
         "cost": 4,
+        "strategy": "",
         "ability": "Gusano de Hielo no puede ser declarado atacante. Gusano de Hielo puede bloquear más de un Aliado hasta agotar su fuerza."
     },
     {
@@ -1007,6 +1107,7 @@
         "race": "Sombra",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Unicornio Oscuro es bloqueado, debe ser desterrado en la Fase Final."
     },
     {
@@ -1017,6 +1118,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que Myrdrin sea destruido, puedes pagar 3 de Oro para salvarlo."
     },
     {
@@ -1027,6 +1129,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a pasar daño a tu Mazo Castillo, puedes destruir a Druida de Man para reducir el daño a 0."
     },
     {
@@ -1037,6 +1140,7 @@
         "race": "Defensor",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Brennos es imbloqueable. Para declararlo atacante destruye uno de tus Aliados."
     },
     {
@@ -1047,6 +1151,7 @@
         "race": "Defensor",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Guerrero Celtibero debe atacar todos los turnos en que pueda hacerlo."
     },
     {
@@ -1057,6 +1162,7 @@
         "race": "Defensor",
         "attack": 3,
         "cost": 0,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia paga un Oro por cada Aliado declarado atacante."
     },
     {
@@ -1067,6 +1173,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Gálatas es destruido, puedes barajar 2 Oros de tu Cementerio en tu Mazo Castillo"
     },
     {
@@ -1077,6 +1184,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, puedes pagar 3 de Oro para agrupar un Aliado."
     },
     {
@@ -1087,6 +1195,7 @@
         "race": "Defensor",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes pagar 2 de Oro para que un Oro pierda su habilidad hasta la Fase Final."
     },
     {
@@ -1097,6 +1206,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente y sólo una vez por turno, puedes pagar 3 de Oro para hacer que un Aliado oponente vuelva a la Línea de Defensa."
     },
     {
@@ -1107,6 +1217,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "En Guerra de Talismánes, sólo una vez por turno, paga 2 de Oro para robar 2 cartas."
     },
     {
@@ -1117,6 +1228,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a declarar Eochy atacante, elige un Aliado oponente para que deba bloquearlo."
     },
     {
@@ -1127,6 +1239,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea desterrado, destruye a Aibric para salvarlo."
     },
     {
@@ -1137,6 +1250,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Amada de los Bosques esté en juego, ambos jugadores podrán jugar hasta 2 Oros por turno."
     },
     {
@@ -1147,6 +1261,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Tu oponente bota 2 cartas de su Mazo Castillo y roba una carta."
     },
     {
@@ -1157,6 +1272,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Busca un Aliado en tu Mazo Castillo y ponlo en tu Mano."
     },
     {
@@ -1167,6 +1283,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que un Aliado sea destruido, juega Nombrado Campeón para salvarlo."
     },
     {
@@ -1177,6 +1294,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye uno de tus Aliados para generar tantos Oros como fuerza tenga."
     },
     {
@@ -1187,6 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a la Fase de Vigilia oponente, juega Piedra de Maldición para que tu oponente deba declarar atacante un Aliado a tu elección."
     },
     {
@@ -1197,6 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Destierra un Aliado y roba una carta."
     },
     {
@@ -1207,6 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Busca Angus Og en tu Cementerio y ponlo en tu Línea de Defensa sin pagar su coste."
     },
     {
@@ -1217,6 +1338,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Sube un Oro oponente a su Mano."
     },
     {
@@ -1227,6 +1349,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un Aliado de raza Defensor."
     },
     {
@@ -1237,6 +1360,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuchulain gana 2 a la fuerza permanente."
     },
     {
@@ -1247,6 +1371,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Busca un Oro sin habilidad en tu Mazo Castillo, y ponlo en juego."
     },
     {
@@ -1257,6 +1382,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tus Oros generan el doble hasta la Fase Final. Carta única."
     },
     {
@@ -1267,6 +1393,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un Arma o un Tótem que modifique la fuerza de uno de tus Aliados."
     },
     {
@@ -1277,6 +1404,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Un Aliado gana 3 a la fuerza y es Imbloqueable hasta la Fase Final. Si no es destruido debe ser desterrado."
     },
     {
@@ -1287,6 +1415,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, juega Paz Entre Hermanos para cancelarlo."
     },
     {
@@ -1297,6 +1426,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, puedes agrupar un Aliado."
     },
     {
@@ -1307,6 +1437,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Anula o destruye cualquier carta que afecte Armas en juego."
     },
     {
@@ -1317,6 +1448,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado es Imbloqueable hasta la Fase Final."
     },
     {
@@ -1327,6 +1459,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a la Fase Final, juega Cuervos de Batalla para desterrar todos los Aliados que hayan sido destruidos."
     },
     {
@@ -1337,6 +1470,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Toma uno de tus Tótem en juego, ponlo en la Línea de Defensa y considéralo un Aliado de fuerza igual a su coste hasta la Fase Final."
     },
     {
@@ -1347,6 +1481,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Espada Gala gana 2 a la fuerza. Paga 2 de Oro para que su portador gane 1 a la fuerza."
     },
     {
@@ -1357,6 +1492,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Espada Británica gana 4 a la fuerza y no puede ser agrupado."
     },
     {
@@ -1367,6 +1503,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Lanza Celta gana 1 a la fuerza por cada Aliado de raza Desafiante que haya en juego."
     },
     {
@@ -1377,6 +1514,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Escudo Solar sólo puede ser portada por Gobniu. Su portador gana 4 a la fuerza y es imbloqueable."
     },
     {
@@ -1387,6 +1525,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Cota de Mayas no puede ser afectado por Talismánes."
     },
     {
@@ -1397,6 +1536,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Falcata es Imbloqueable."
     },
     {
@@ -1407,6 +1547,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes pagar 2 de Oro para que uno de tus Aliados gane 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -1417,6 +1558,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido puedes pagar su coste para salvarlo."
     },
     {
@@ -1427,6 +1569,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tus demás Tótems no pueden ser destruidos."
     },
     {
@@ -1437,6 +1580,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "El coste de tus Talismánes se reduce en 1"
     },
     {
@@ -1447,6 +1591,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes pagar 4 de Oro para barajar uno de tus Aliados."
     },
     {
@@ -1457,6 +1602,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes pagar 6 de Oro para que un Aliado oponente pase a tu Línea de Defensa por el resto del juego."
     },
     {
@@ -1467,6 +1613,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En Guerra de Talismánes puedes pagar 3 de Oro para agrupar uno de tus Aliados atacantes."
     },
     {
@@ -1477,6 +1624,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En Respuesta a la Asignación de Daño oponente, paga 2 de Oro para que tu oponente bote 2 cartas."
     },
     {
@@ -1487,6 +1635,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Dainone Sidhe esté en tu Línea de Defensa, sólo una vez por turno, puedes pagar el coste de un Tótem para destruirlo."
     },
     {
@@ -1497,6 +1646,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Driadas entra en juego, puedes tomar un Aliado de Raza Desafiante de tu Cementerio y barajarlo en tu Mazo Castillo."
     },
     {
@@ -1507,6 +1657,7 @@
         "race": "Desafiante",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Firdarring entre en juego, no se podrán jugar Talismánes hasta la Fase Final."
     },
     {
@@ -1517,6 +1668,7 @@
         "race": "Desafiante",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En la Fase de Vigilia puedes destruir a Benefactora para generar 1 Oro virtual para jugar un Aliado de raza Desafiante."
     },
     {
@@ -1527,6 +1679,7 @@
         "race": "Desafiante",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Para que Gregosh pueda ser declarado atacante debes pagar 3 de Oro."
     },
     {
@@ -1537,6 +1690,7 @@
         "race": "Desafiante",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "En Guerra de Talismánes puedes desterrar a Cluricaun para destruir un Aliado oponente que porte Arma."
     },
     {
@@ -1547,6 +1701,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Leanan Sidhe no puede ser declarado atacante."
     },
     {
@@ -1557,6 +1712,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si el turno que Gnomo Irlandés entra en juego, tienes en tu Línea de Defensa a Daana, genera 1 Oro para jugar Aliados de raza Desafiante."
     },
     {
@@ -1567,6 +1723,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Blodeuwedd es el único Aliado declarado atacante gana 2 a la fuerza."
     },
     {
@@ -1577,6 +1734,7 @@
         "race": "Desafiante",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Gwynn es declarado atacante, no puedes declarar otros Aliados atacantes."
     },
     {
@@ -1587,6 +1745,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Hada Subterránea puede ser declarado atacante con Gwynn"
     },
     {
@@ -1597,6 +1756,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 6,
+        "strategy": "",
         "ability": "Mientras Neit esté en juego, tus demás Aliados de raza Desafiante son indestructibles."
     },
     {
@@ -1607,6 +1767,7 @@
         "race": "Desafiante",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Merrows entra en juego, puedes buscar un Arma en tu Mazo Castillo y ponerla en juego sin pagar su coste."
     },
     {
@@ -1617,6 +1778,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "El turno que Demoledor Fomoriano entra en juego, todos tus Aliados de raza Sombra en juego pueden ser declarados atacantes."
     },
     {
@@ -1627,6 +1789,7 @@
         "race": "Sombra",
         "attack": 6,
         "cost": 6,
+        "strategy": "",
         "ability": "Para que Ogro Guerrero entre en juego sólo debes tener en juego Aliados de fuerza superior a 5."
     },
     {
@@ -1637,6 +1800,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados de raza Sombra sea destruido, puedes desterrar a Señor Oscuro para salvarlo."
     },
     {
@@ -1647,6 +1811,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "El Aliado oponente que bloquee a Ainseil pierde 1 a la fuerza."
     },
     {
@@ -1657,6 +1822,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Bodach sólo puede entrar en juego si tienes 5 Oros en juego."
     },
     {
@@ -1667,6 +1833,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Bruja Gris esté en tu Línea de defensa, un Aliado oponente en Línea de Ataque no podrá ser agrupado."
     },
     {
@@ -1677,6 +1844,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Baba Yaga entra en juego, destruye un Aliado oponente de fuerza 1."
     },
     {
@@ -1687,6 +1855,7 @@
         "race": "Sombra",
         "attack": 3,
         "cost": 0,
+        "strategy": "",
         "ability": "Para que Kobold entre en juego debes botar 3 cartas del Mazo Castillo."
     },
     {
@@ -1697,6 +1866,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En Guerra de Talismánes puedes destruir un Aliado que controles para que Perro Fomor gane 1 a la fuerza."
     },
     {
@@ -1707,6 +1877,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia si Lagarto Oropel porta Arma, puedes pagar 4 Oros para que tu oponente bote dos cartas."
     },
     {
@@ -1717,6 +1888,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, si Balor está en juego puedes tomar un Aliado de tu Cementerio y barájalo en tu Mazo Castillo."
     },
     {
@@ -1727,6 +1899,7 @@
         "race": "Sombra",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Si en tu Fase de Vigilia tu oponente tiene en juego a Daana, puedes pagar 3 de Oro para destruirla."
     },
     {
@@ -1737,6 +1910,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Gusano de Limerick no es bloqueado duplica su fuerza."
     },
     {
@@ -1747,6 +1921,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que Gobhaun Saor sea declarado bloqueador, puedes tomar un Talismán de coste 2 de tu Cementerio y barajarlo en tu Mazo Castillo."
     },
     {
@@ -1757,6 +1932,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En Guerra de Talismánes puedes pagar 4 de Oro para que el Aliado oponente de mayor fuerza pierda 2 a la fuerza."
     },
     {
@@ -1767,6 +1943,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Cuchulain esté en juego, Connal Cernach gana 1 a la fuerza."
     },
     {
@@ -1777,6 +1954,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Cu Roi, el Mago entra en juego, debes cambiar su raza por una que haya en juego."
     },
     {
@@ -1787,6 +1965,7 @@
         "race": "Sombra",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Tótem sea destruido, puedes subir a Maeb a tu Mano para salvarlo."
     },
     {
@@ -1797,6 +1976,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Fedelman es destruido, puedes ver la primera carta del Mazo Castillo oponente."
     },
     {
@@ -1807,6 +1987,7 @@
         "race": "Defensor",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Maeldum es declarado atacante, debe ser destruido."
     },
     {
@@ -1817,6 +1998,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Cuchulain está en juego, Skatcha gana 2 a la fuerza."
     },
     {
@@ -1827,6 +2009,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Por cada Aliado de raza Héroe que tengas en juego, Oisin gana 1 a la fuerza."
     },
     {
@@ -1837,6 +2020,7 @@
         "race": "Defensor",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Julio César está en juego, Ambiorix puede atacar cuando entra en juego."
     },
     {
@@ -1847,6 +2031,7 @@
         "race": "Defensor",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Ovate entra en juego, puedes buscar un Talismán de coste 3 del Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -1857,6 +2042,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que Bardo sea declarado atacante, un Aliado oponente pierde 1 a la fuerza."
     },
     {
@@ -1867,6 +2053,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Por cada Aliado de raza Defensor que tengas en juego, Guerreras Británicas gana 1 a la fuerza."
     },
     {
@@ -1877,6 +2064,7 @@
         "race": "Defensor",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "coperos puede atacar el turno que entra en juego, si lo hace es Imbloqueable hasta la Fase Final."
     },
     {
@@ -1887,6 +2075,7 @@
         "race": "Defensor",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Scots sólo puede bloquear."
     },
     {
@@ -1897,6 +2086,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Si todos los Aliados en juego son de raza Sombra, uno de tus Aliados de raza Sombra gana 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -1907,6 +2097,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado que porte Arma puede ser agrupado en la Fase Final."
     },
     {
@@ -1917,6 +2108,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Tótem oponente en juego."
     },
     {
@@ -1927,6 +2119,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Tótem pierde su habilidad hasta la Fase Final."
     },
     {
@@ -1937,6 +2130,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado de raza Desafiante gana 2 a la Fuerza hasta la Fase Final."
     },
     {
@@ -1947,6 +2141,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Puedes ver dos cartas de la Mano de tu oponente al azar."
     },
     {
@@ -1957,6 +2152,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Juega Resplandecer para ver dos cartas de la Mano de tu oponente y descartar 1 carta."
     },
     {
@@ -1967,6 +2163,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Juega Ira de los Elementos para que un Arma en juego se considere un Aliado de igual fuerza que su coste hasta la Fase Final, luego destruye el arma."
     },
     {
@@ -1977,6 +2174,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado es Imbloqueable hasta la Fase Final."
     },
     {
@@ -1987,6 +2185,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Daana gana 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -1997,6 +2196,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, un Aliado Sombra de fuerza 3 o menos de tu oponentepasa a tu Línea de Defensa hasta el final del turno y puede ser declarado bloqueador. Al final del turno destrúyelo."
     },
     {
@@ -2007,6 +2207,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente declare ataque, un Aliado de fuerza 3 o menos, vuelve a la Línea de Defensa."
     },
     {
@@ -2017,6 +2218,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, juega Lanza de Relámpago para que un Aliado oponente vuelve a la Línea de Defensa."
     },
     {
@@ -2027,6 +2229,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Puedes buscar un Aliado en tu Cementerio y barajarlo con tu Mazo Castillo."
     },
     {
@@ -2037,6 +2240,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Aliado oponente de fuerza 3."
     },
     {
@@ -2047,6 +2251,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido, juega El Gran Vuelo para que éste sea barajado."
     },
     {
@@ -2057,6 +2262,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Puedes destruir dos de tus Aliados de raza Sombra para que tu oponente bote 4 cartas."
     },
     {
@@ -2067,6 +2273,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Puedes buscar a Vincengeartorix en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -2077,6 +2284,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos los Aliados de raza Defensor oponente pierden 1 a la fuerza."
     },
     {
@@ -2087,6 +2295,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador de Rodela gana 1 a la fuerza."
     },
     {
@@ -2097,6 +2306,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador de Hacha Ligera puede atacar cuando entra en juego."
     },
     {
@@ -2107,6 +2317,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si el portador de Escudo Largo es declarado atacante, en la Fase Final es barajado."
     },
     {
@@ -2117,6 +2328,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Sólo puede ser portada por Vincegeratorix. Su portador gana 2 a la fuerza,"
     },
     {
@@ -2127,6 +2339,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador de Espada Lusitana puede duplicar su fuerza, si lo haces, en la Fase Final es destruido."
     },
     {
@@ -2137,6 +2350,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El Portador de Arco Sidhe gana 1 a la fuerza. Destierra Arco Sidhe para anular un Arma que esté entrando en juego."
     },
     {
@@ -2147,6 +2361,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Menhir esté en juego, si todos tus Aliados en juego son de raza Defensor, en la Fase Final puedes robar una carta extra."
     },
     {
@@ -2157,6 +2372,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, si tienes más de 3 Aliados en juego, elige uno para que sea imbloqueable."
     },
     {
@@ -2167,6 +2383,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Mientras Torre de Cristal esté en juego, el coste de tus Aliados de raza Olímpico se reduce en 1."
     },
     {
@@ -2177,6 +2394,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En Guerra de Talismánes y una vez por turno, puedes pagar 2 de Oro para que uno de tus Aliados gane 1 a la fuerza."
     },
     {
@@ -2187,6 +2405,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Tótem de Balor esté en juego, Balor no puede ser destruido ni anulado."
     },
     {
@@ -2197,6 +2416,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Alesia esté en juego, tus Aliados de raza Defensor y Desafiante ganan 1 a la fuerza."
     },
     {
@@ -2207,6 +2427,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Santuario de Fianna esté en juego los Aliados de raza Defensor no pueden ser declarados atacantes."
     },
     {
@@ -2217,6 +2438,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2227,6 +2449,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2237,6 +2460,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2247,6 +2471,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2257,6 +2482,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2267,6 +2493,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2277,6 +2504,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2287,6 +2515,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2297,6 +2526,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2307,6 +2537,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2317,6 +2548,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2327,6 +2559,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2337,6 +2570,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2347,6 +2581,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2357,6 +2592,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2367,6 +2603,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     }
 ]

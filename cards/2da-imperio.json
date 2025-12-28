@@ -7,6 +7,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Carta Única. Mientras Julio César esté en juego, todos tus demás Aliados ganan 1 a la fuerza y son imbloqueables."
     },
     {
@@ -17,6 +18,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes barajar de tu Cementerio a tu Mazo Castillo tantas cartas como fuerza tenga Espartaco."
     },
     {
@@ -27,6 +29,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente baje una carta, puedes subir César Augusto a tu mano para anularla."
     },
     {
@@ -37,6 +40,7 @@
         "race": "Olímpico",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Júpiter entra en juego, puedes buscar hasta 2 Aliados de Raza Olímpico en tu Mazo Castillo y ponerlos en tu mano."
     },
     {
@@ -47,6 +51,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "El turno que Jano entra en juego, genera 2 Oros. Cuando Jano sale del juego, puedes subir un Oro oponente a su mano."
     },
     {
@@ -57,6 +62,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Carta Única. En respuesta a finalizar tu turno, puedes agrupar tu Oro pagado."
     },
     {
@@ -67,6 +73,7 @@
         "race": "Titán",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Leucrota entra en juego, destruye todos los Aliados de fuerza 3 o menos."
     },
     {
@@ -77,6 +84,7 @@
         "race": "Titán",
         "attack": 0,
         "cost": 3,
+        "strategy": "",
         "ability": "Dragón Ceniza no puede ser declarado atacante. En respuesta a declararlo bloqueador, Dragón Ceniza tiene fuerza igual al Aliado que bloquee."
     },
     {
@@ -87,6 +95,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "El portador de Gladius gana 1 a la fuerza. Si hace daño al Mazo Castillo oponente, éste debe destruir a su elección uno de sus Aliados y debe botar 3 cartas."
     },
     {
@@ -97,6 +106,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega Maquinaria de Guerra en tu Línea de Apoyo. En tu Fase de Vigilia, sólo una vez por turno puedes pagar 2 Oros para que tu oponente bote 3 cartas de su Mazo Castillo."
     },
     {
@@ -107,6 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras tengas Coliseo en juego, en respuesta a declarar tu ataque, puedes robar una carta por cada Aliado atacante."
     },
     {
@@ -117,6 +128,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras tengas Templo de Júpiter en juego, tus Aliados declarados atacantes son indestructibles."
     },
     {
@@ -127,6 +139,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Carta Única. Rómulo y Remo genera 2 Oros. Al finalizar tu turno, puedes robar una carta extra."
     },
     {
@@ -137,6 +150,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Toma un Tótem de la Línea de Apoyo oponente y ponlo en tu Línea de Apoyo. Se considera uno de tus Tótem mientras permanezca en juego."
     },
     {
@@ -147,6 +161,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye uno de tus Aliados de raza Héroe, y tu oponente debe botar 6 cartas."
     },
     {
@@ -157,6 +172,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente juegue o active una carta que destruya sus Oros, ésta es anulada o destruida. Tu oponente bota 3 cartas."
     },
     {
@@ -167,6 +183,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a declarar tu ataque, por cada Aliado declarado atacante, tu oponente debe botar 2 cartas."
     },
     {
@@ -177,6 +194,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Constantino esté en juego, si todos tus Aliados son de Raza Héroe, ganan 2 a la fuerza."
     },
     {
@@ -187,6 +205,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 5,
+        "strategy": "",
         "ability": "El turno que Calígula entra en juego todas las cartas en juego se consideran Aliados de fuerza 1 de habilidad Indestructible. Éstos deben atacar o bloquear. En la Fase Final, todas las cartas vuelven a su posición anterior."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 6,
+        "strategy": "",
         "ability": "Cuando Nerón entra en juego debes destruir todos tus Oros y tu oponente debe botar 6 cartas."
     },
     {
@@ -207,6 +227,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Marte es declarado atacante o bloqueador, los jugadores se saltan la Fase de Guerra de Talismánes en este turno."
     },
     {
@@ -217,6 +238,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Las Erinias entra en juego, destruye el Aliado oponente de mayor fuerza."
     },
     {
@@ -227,6 +249,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes ver las tres cartas superiores del Mazo Castillo oponente y devolverlas en el orden que quieras."
     },
     {
@@ -237,6 +260,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a declarar tu ataque, puedes pagar 1 Oro para que un Aliado de Raza Héroe sea imbloqueable hasta el final del turno."
     },
     {
@@ -247,6 +271,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Dragón Oscuro es declarado atacante, los Aliados que lo acompañen ganan 1 a la fuerza."
     },
     {
@@ -257,6 +282,7 @@
         "race": "Titán",
         "attack": 8,
         "cost": 6,
+        "strategy": "",
         "ability": "Gigante de la Niebla no puede ser agrupado. En tu Fase de Agrupación, puedes pagar 4 Oros para agruparlo."
     },
     {
@@ -267,6 +293,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente baje un Aliado, puedes pagar su coste para destruirlo."
     },
     {
@@ -277,6 +304,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Si el portador de Escudo Romano es destruido, genera tantos Oros como fuerza tenga."
     },
     {
@@ -287,6 +315,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Si el portador de Armadura Legionaria es un Aliado de Raza Héroe puede bloquear a más de un Aliado. Si el portador de Armadura Legionaria es de otra Raza, puede bloquear hasta 2 Aliados."
     },
     {
@@ -297,6 +326,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega a Ariete en tu Línea de Apoyo. En la Fase de Vigilia, sólo una vez por turno, puedes pagar 2 de Oro para que un Aliado gane 2 a la fuerza hasta el final del turno."
     },
     {
@@ -307,6 +337,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si el portador de Pilum es declarado atacante o bloqueador, tu oponente debe botar una carta."
     },
     {
@@ -317,6 +348,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Mientras tengas Tótem Etrusco en juego, en tu Fase de Vigilia puedes pagar 3 de Oro para destruir cualquier carta oponente que no sea un Oro. En su Fase de Vigilia, tu oponente puede pagar 5 de Oro para destruir Tótem Etrusco."
     },
     {
@@ -327,6 +359,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras tengas Panteón en juego, si tienes uno o más Aliados de Raza Olímpico en juego, tus Aliados ganan 2 a la fuerza."
     },
     {
@@ -337,6 +370,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, puedes tomar uno de sus Aliados en Línea de Ataque y ponerlo en tu Línea de Defensa para declararlo bloqueador. Si no es destruido, en la Fase Final vuelve a la Línea de Defensa oponente."
     },
     {
@@ -347,6 +381,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Baraja 3 cartas de tu Cementerio a tu Mazo Castillo."
     },
     {
@@ -357,6 +392,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Nombra una Raza de Aliado. Todos los Aliados en juego, de esa Raza, deben ser barajados en su Mazo Castillo."
     },
     {
@@ -367,6 +403,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Busca un Aliado en tu Mazo Castillo y ponlo en tu mano."
     },
     {
@@ -377,6 +414,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Deva no puede ser declarado atacante. En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros para subir un Aliado oponente a su mano."
     },
     {
@@ -387,6 +425,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Puedes tener más de 3 Legionario en tu Mazo Castillo. Cuando Legionario entra en juego, puedes buscar Legionario en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -397,6 +436,7 @@
         "race": "Héroe",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Pretoriano no puede ser declarado atacante."
     },
     {
@@ -407,6 +447,7 @@
         "race": "Héroe",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Gladiador hace daño al Mazo Castillo oponente, puedes robar una carta."
     },
     {
@@ -417,6 +458,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno y si tienes a Júpiter en juego, puedes mostrar tu mano para descartar 2 cartas de tu oponente al azar."
     },
     {
@@ -427,6 +469,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Durante el turno que Ondinas entra en juego, todos los Aliados en juego son de Raza Olímpico."
     },
     {
@@ -437,6 +480,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Vulcano puede portar más de un Arma, si porta más de 2 Armas es indestructible."
     },
     {
@@ -447,6 +491,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, tu oponente puede pagar el coste de Criaturas del Caos y ponerlo en su Línea de Defensa. Se considera uno de sus Aliados hasta salir del juego."
     },
     {
@@ -457,6 +502,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Atlante entra en juego, tu oponente debe botar una carta."
     },
     {
@@ -467,6 +513,7 @@
         "race": "Titán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Hipogrifo entra en juego, puedes buscar un Talismán en tu Cementerio y ponerlo en tu mano."
     },
     {
@@ -477,6 +524,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Pantera de Niebla esté en juego, tu oponente sólo puede declarar ataque con 2 o más Aliados."
     },
     {
@@ -487,6 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Yelmo de Legionario sólo puede ser portada por un Aliado de Raza Héroe. En respuesta a que tu oponente tenga 5 o menos cartas en su Mazo Castillo, puedes desterrar Yelmo de Legionario para que tu oponente bote las cartas."
     },
     {
@@ -497,6 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Daga Envenenada no puede ser declarado atacante o bloqueador a menos que pagues 2 Oros."
     },
     {
@@ -507,6 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si el portador de Red de Gladiador no es declarado atacante, los jugadores descartan 1 carta."
     },
     {
@@ -517,6 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras tengas Catacumbas en juego, los Aliados oponentes imbloqueables no hacen daño a tu Mazo Castillo."
     },
     {
@@ -527,6 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras tengas Termas en juego, en respuesta a que una de tus cartas Oro sea destruida, puedes buscar 2 Oros en tu Cementerio y ponerlos en tu mano."
     },
     {
@@ -537,6 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras tengas Murallas de Adriano en juego, en tu Fase de Vigilia puedes nombrar una Raza de Aliado que tengas en juego. Durante el turno todos tus Aliados serán de esa Raza."
     },
     {
@@ -547,6 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Destruye una carta oponente. Tu oponente bota 2 cartas."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Los Aliados que controles ganan 2 a la fuerza hasta el final del turno."
     },
     {
@@ -567,6 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a declarar tu ataque, busca un Aliado en tu Cementerio y ponlo en juego. Debe ser declarado atacante."
     },
     {
@@ -577,6 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Anula o destruye a Julio César."
     },
     {
@@ -587,6 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a la Fase Final, dos de tus Aliados atacantes que no hayan sido bloqueados son agrupados."
     },
     {
@@ -597,6 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Todos los Aliados que son declarados atacantes junto a Espartaco ganan 1 a la fuerza hasta el final del turno."
     },
     {
@@ -607,6 +667,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, si Aceite de Oliva está en tu reserva, puedes desterrarlo para buscar 1 Oro en tu Mazo Castillo y ponerlo en juego."
     },
     {
@@ -617,6 +678,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "En Guerra de Talismánes, puedes destruir Arcas del Imperio para generar 2 Oros."
     },
     {
@@ -627,6 +689,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Mientras Águila Imperial esté en tu Reserva, los Aliados de fuerza 1 pierden su habilidad."
     },
     {
@@ -637,6 +700,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, si Festín está en tu reserva, puedes descartar dos cartas para robar una carta."
     }
 ]

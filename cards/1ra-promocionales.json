@@ -7,6 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador gana 1 a la fuerza. Puedes desterrar esta Arma para anular un Talismán o Tótem de coste 3 o menos."
     },
     {
@@ -17,6 +18,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes jugar este Tótem desde tu Cementerio. Puedes desterrar este Tótem para destruir una carta oponente que no sea Oro. Luego, puedes barajar 3 cartas de tu Cementerio en tu Mazo Castillo."
     }
 ]

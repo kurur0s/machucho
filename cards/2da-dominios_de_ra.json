@@ -7,6 +7,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Las Habilidades oponentes que afecten a Amón cuestan 2 Oros adicionales. Mientras Amón esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 4 Oros para buscar un Aliado de raza Eterno de coste 5 o menos y ponerlo en juego sin pagar su coste. Carta Única."
     },
     {
@@ -17,6 +18,7 @@
         "race": "Eterno",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Ptah no puede ser declarado atacante. Cuando entra en juego, tu oponente elige 6 cartas de tu Cementerio y las barajas en tu Mazo Castillo."
     },
     {
@@ -27,6 +29,7 @@
         "race": "Eterno",
         "attack": 6,
         "cost": 3,
+        "strategy": "",
         "ability": "Osiris no puede ser declarado atacante. Mientras Osiris esté en juego, tu oponente no podrá descartar cartas de tu Mano."
     },
     {
@@ -37,6 +40,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Horus entra en juego, puedes jugar un Talismán de tu mano de coste 3 o menos sin pagar su coste."
     },
     {
@@ -47,6 +51,7 @@
         "race": "Eterno",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "Mientras Apophis esté en juego, todos los demás Aliados en juego pierden su Habilidad. Cada vez que tu oponente juegue una carta que no sea un Oro, debe botar 3 cartas de su Mazo Castillo. Carta Única."
     },
     {
@@ -57,6 +62,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Seth es Imbloqueable. Si tu oponente juega una Habilidad que afecte a Seth, debe botar 4 cartas de su Mazo Castillo. En respuesta a que tu oponente bote cartas de su Mazo Castillo, puedes destruir uno de tus Aliados para desterrar esas cartas."
     },
     {
@@ -67,6 +73,7 @@
         "race": "Eterno",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "Mientras Ra esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 5 cartas de su Mazo Castillo. En respuesta a que Ra sea destruido o desterrado, puedes descartar una carta para prevenirlo. Carta Única."
     },
     {
@@ -77,6 +84,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes destruir a Anubis para elegir un Aliado oponente. Ese Aliado pierde su habilidad y es destruido."
     },
     {
@@ -87,6 +95,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Bastet puede atacar cuando entra en juego. Mientras Bastet esté en juego, tus demás Aliados de raza Eterno ganan 1 a la fuerza y pueden atacar cuando entran en juego."
     },
     {
@@ -97,6 +106,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes desterrar las 3 cartas superiores de tu Mazo Castillo para buscar 1 carta en tu Mazo Castillo y ponerla en tu Mano."
     },
     {
@@ -107,6 +117,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Geb puede atacar cuando entra en juego. Cada vez que haga daño al Mazo Castillo oponente, puedes nombrar una carta que no sea Oro, tu oponente debe mostrar su Mano y barajar todas las copias que tenga en su Mazo Castillo."
     },
     {
@@ -117,6 +128,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Nut está en tu Línea de Defensa o en tu Línea de Ataque, puedes barajarlo en tu Mazo Castillo para buscar un Aliado de raza Eterno o Sacerdote y ponerlo en tu Mano."
     },
     {
@@ -127,6 +139,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Shu esté en juego, en respuesta a que juegues un Talismán, puedes pagar 2 Oros para que no pueda ser anulado."
     },
     {
@@ -137,6 +150,7 @@
         "race": "Eterno",
         "attack": 4,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega a Am-Heh en la Línea de Defensa oponente. Mientras Am-Heh esté en juego tus demás Aliados pierden 2 a la fuerza."
     },
     {
@@ -147,6 +161,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Akenathon esté en juego, tus demás Aliados no pueden ser afectados por Habilidades de cartas Oponentes. Carta Única."
     },
     {
@@ -157,6 +172,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Tutmosis lll no puede ser declarado bloqueador. Mientras Tutmosis lll esté en tu Línea de Ataque, no puede ser afectado por Talismánes oponentes."
     },
     {
@@ -167,6 +183,7 @@
         "race": "Faraón",
         "attack": 6,
         "cost": 4,
+        "strategy": "",
         "ability": "Ramsés ll no puede ser declarado bloqueador. En tu Fase de Vigilia, puedes descartar una carta para que Ramsés ll sea indestructible e Indesterrable hasta tu próxima Fase de Vigilia. En respuesta a que sea bloqueado, puedes elegir que haga daño al Mazo Castillo oponente como si no hubiera sido bloqueado. Carta Única."
     },
     {
@@ -177,6 +194,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Nefertiti salga de juego, tu oponente debe botar 4 cartas de su Mazo Castillo."
     },
     {
@@ -187,6 +205,7 @@
         "race": "Faraón",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "Mientras Amenofis ll esté en juego, todos tus Aliados de raza Faraón ganan 2 a la fuerza y son Imbloqueables. Si Amenofis ll porta un Arma, todos tus Aliados de raza Faraón en Línea de Ataque no pueden ser afectados por Talismánes oponentes."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Seti esté en juego, en tu Fase de Vigilia, puedes pagar 1 Oro para que tu oponente bote 1 carta de su Mazo Castillo, con un máximo de 4 Oros por turno."
     },
     {
@@ -207,6 +227,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Tutankamon esté en juego, puedes botar una carta de tu Mazo Castillo para que uno de tus Aliados gane 1 a la fuerza , puedes botar hasta un máximo de 6 cartas por turno."
     },
     {
@@ -217,6 +238,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Snofru entra en juego, puedes barajar hasta 3 Aliados de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -227,6 +249,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Kefrén entra en juego, nombra uno de tus Aliados. Ese Aliado no puede salir del juego mientras Kefrén esté en tu Línea de Defensa."
     },
     {
@@ -237,6 +260,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Keops esté en tu Línea de Ataque, el coste de tus Tótem se reduce en 1. Keops es Imbloqueable."
     },
     {
@@ -247,6 +271,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Micerinos entra en juego, busca 1 Tótem en el Mazo Castillo oponente y destiérralo."
     },
     {
@@ -257,6 +282,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Djoser no tiene límite de Armas. Si Djoser porta un Arma, gana 2 a la Fuerza. Las Armas jugadas en Djoser reducen en 1 su Coste."
     },
     {
@@ -267,6 +293,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Narmer gana 1 a la fuerza por cada uno de tus Aliados en juego."
     },
     {
@@ -277,6 +304,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Imoteph entra en juego, nombra una carta. Esa carta y todas sus copias pierdan su Habilidad mientras Imoteph esté en juego. En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros para buscar un Tótem en tu Mazo Castillo o en tu Cementerio y ponerlo en tu Mano. En respuesta a que Imoteph salga del juego por una Habilidad oponente, puedes botar 3 cartas para prevenirlo. Carta Única."
     },
     {
@@ -287,6 +315,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia,sólo una vez por turno, puedes descartar una carta para buscar una carta del mismo tipo en tu Mazo Castillo o Cementerio y ponerla en tu Mano."
     },
     {
@@ -297,6 +326,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Meskhenet esté en juego, en respuesta a que tu oponente juegue una carta que no sea Oro, puedes botar la carta superior de tu Mazo Castillo y si es del mismo tipo, la carta oponente es anulada."
     },
     {
@@ -307,6 +337,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Asheru entra en juego, elige un Tótem en tu Línea de Apoyo, mientras Asheru esté en tu Línea de Defensa, este Tótem no puede salir del juego."
     },
     {
@@ -317,6 +348,7 @@
         "race": "Sacerdote",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "En la Fase Final, puedes agrupar a Osorkhon el Grande. Si tienes dos o más Aliados de raza Sacerdote en juego, Osorkhon el Grande es Imbloqueable."
     },
     {
@@ -327,6 +359,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Werin el Poseído no puede ser afectado por Habilidades de Aliados oponentes. En respuesta a que Werin el poseído sea destruido, puedes buscar un Talismán en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -337,6 +370,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Takelot entra en juego, nombra una carta para que ésta y todas sus copias pierdan su Habilidad mientras Takelot esté en juego. En respuesta a que Takelot sea destruido o desterrado por una Habilidad oponente, puedes pagar 2 Oros para prevenirlo."
     },
     {
@@ -347,6 +381,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes destruir a Qer-Her para subir a la Mano un Aliado oponente. En tu Fase de Vigilia, si Qer-Her está en tu Cementerio, puedes pagar 3 Oros para ponerlo en juego sin pagar su coste."
     },
     {
@@ -357,6 +392,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Tuthu entre o salga del juego, tu oponente debe botar tantas cartas como fuerza tenga Tuthu."
     },
     {
@@ -367,6 +403,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Kiya entra en juego, puedes mirar las cuatro cartas superiores de tu Mazo Castillo y devolverlas en el orden que quieras. En respuesta a la Fase Final, puedes desterrar a Kiya para robar 2 cartas."
     },
     {
@@ -377,6 +414,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Yunet entra en juego, nombra una carta, mientras Yunet esté en tu Línea de Defensa, esa carta no puede salir del juego."
     },
     {
@@ -387,6 +425,7 @@
         "race": "Sacerdote",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sólo puedes tener un Kawit en juego. Mientras Kawit esté en juego, las Habilidades de cartas oponentes que afecten a tus Oros cuestan 3 Oros adicionales."
     },
     {
@@ -397,6 +436,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Suma esté en juego, tus Aliados de raza Sacerdote ganan 1 a la fuerza. En respuesta a declarar su bloqueo, tus demás Aliados de raza Sacerdote ganan 2 a la fuerza."
     },
     {
@@ -407,6 +447,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Atón no puede ser anulado. Busca una carta de Oro en tu Mazo Castillo y ponla en tu Mano."
     },
     {
@@ -417,6 +458,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Baraja una carta en juego que no sea Oro."
     },
     {
@@ -427,6 +469,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "En respuesta a que un Aliado sea destruido o desterrado, juega Momificación para prevenirlo, este Aliado pierde su Habilidad por el resto del juego."
     },
     {
@@ -437,6 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respueta a un ataque oponente, puedes botar hasta 3 cartas de tu Mazo Castillo. Por cada carta que botes, tu oponente debe botar 2. Por este turno, tus Aliados no pueden ser declarados bloqueadores."
     },
     {
@@ -447,6 +491,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Baraja tu Mano en tu Mazo Castillo y roba el mismo número de cartas."
     },
     {
@@ -457,6 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que un Aliado haga daño a un Mazo Castillo, puedes botar 3 cartas para que tu oponente bote tantas cartas de su Mazo Castillo como fuerza tenga ese Aliado."
     },
     {
@@ -467,6 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destierra un Aliado en juego. Roba una carta."
     },
     {
@@ -477,6 +524,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente juegue o active una Habilidad que afecte una de sus cartas, juega Venganza para que tu oponente bote 6 cartas. Carta Única."
     },
     {
@@ -487,6 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Destruye todos los Aliados en juego. Tu oponente puede pagar 5 Oros para anular esta carta."
     },
     {
@@ -497,6 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye uno de tus Aliados de raza Eterno para buscar una carta de Aliado en tu Mazo Castillo y ponerla en juego sin pagar su coste."
     },
     {
@@ -507,6 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente juegue una carta que haga que uno de tus Aliados salga del juego, juega Gran Guardián para anular esa carta. Busca en el Mazo Castillo oponente todas las copias de esa carta y ponlas en el Cementerio."
     },
     {
@@ -517,6 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Cancela un ataque oponente y tu oponente bota tantas cartas como Aliados te hayan atacado."
     },
     {
@@ -527,6 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Jinetes de Fuego no puede ser anulado. Tu oponente bota tres cartas de su Mazo Castillo. Puedes jugar esta carta si está en tu Cementerio, si lo haces debes desterrarla."
     },
     {
@@ -537,6 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega Denwen para que tus Aliados no puedan salir del juego hasta la Fase Final."
     },
     {
@@ -547,6 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Baraja uno de tus Aliados para buscar en tu Mazo Castillo un Aliado de igual coste y ponerlo en juego sin pagar su coste."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega Ojos de Serpiente para que un Tótem oponente pierda su Habilidad por el resto del juego."
     },
     {
@@ -567,6 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En la Fase de Asignación de Daño, juega Purificar Escencias para reducir todo el daño a 0."
     },
     {
@@ -577,6 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Pon en juego un Aliado de tu Cementerio reduciendo su coste en 2."
     },
     {
@@ -587,6 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a tu Declaración de Bloqueo, juega Demonio de Piedra para que todos los Aliados oponentes declarados atacantes pierdan su Habilidad y 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -597,6 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Hacha Sagrada gana 1 a la fuerza. Si el portador es de raza Faraón, gana 1 a la fuerza por cada otro Aliado que tengas en juego."
     },
     {
@@ -607,6 +667,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Mandole de Seth gana 2 a la fuerza. Si es portada por Seth, cada vez que sea declarado atacante, tu oponente debe botar 3 cartas."
     },
     {
@@ -617,6 +678,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Sakraham gana 2 a la fuerza yl es Imbloqueable. En respuesta a que el portador haga daño al Mazo Castillo oponente, puedes robar una carta."
     },
     {
@@ -627,6 +689,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que el portador sea afectado por una Habilidad oponente, puedes desterrar Lanza de Osiris para anular esa Habilidad, y tu oponente debe botar 3 cartas."
     },
     {
@@ -637,6 +700,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "El portador de Carro Real gana 2 a la fuerza. Si el portador es un Aliado de raza Faraón, gana 2 a la fuerza y es Imbloqueable."
     },
     {
@@ -647,6 +711,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador gana 2 a la fuerza. En respuesta a que el portador de Espada Diamante sea bloqueado, tu oponente bota tantas cartas como fuerza tenga este Aliado."
     },
     {
@@ -657,6 +722,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Garras de Bronce gana 3 a la fuerza cuando bloquea. Si el portador es de raza Sacerdote, además es Indestructible desde la Fase de Batalla Mitológica hasta la Fase Final."
     },
     {
@@ -667,6 +733,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Guiza entra en juego, todos los Aliados pierden su Habilidad y son barajados. Mientras esté en juego, no se pueden jugar Aliados. En su Fase de Vigilia, cualquier jugador puede pagar 3 Oros para que uno de sus Tótem se considere un Aliado con fuerza igual a su coste hasta la Fase Final. Carta Única."
     },
     {
@@ -677,6 +744,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Abú Simbel esté en tu Línea de Apoyo, los Aliados en juego no pueden ser destruidos o barajados por Habilidades de Aliados oponentes."
     },
     {
@@ -687,6 +755,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando Amarna entra en juego, nombra un Aliado en tu Línea de Defensa. Mientras Amarna esté en juego, este Aliado no puede ser declarado atacante no puede ser afectado por Habilidades oponentes. Sólo puedes tener un Amarna en juego."
     },
     {
@@ -697,6 +766,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a declarar tu bloqueo, sólo una vez por turno, puedes pagar 2 Oros para poner una carta de Aliados de tu Cementerio en tu Línea de Defensa sin pagar su coste, ese Aliado entra en juego sin su Habilidad y en la Fase Final debe ser desterrado."
     },
     {
@@ -707,6 +777,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Nubia esté en juego, el límite máximo de cartas en la Mano de los jugadores se reduce en 2. Sólo puedes tener un Nubia en juego."
     },
     {
@@ -717,6 +788,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Karnak esté en tu Línea de Apoyo, los Aliados en juego que no puedan ser declarados atacantes, no pueden ser afectados por Habilidades de cartas oponentes."
     },
     {
@@ -727,6 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Luxor esté en juego, tus demás Tótem no pueden ser afectados por Talismánes oponentes. Sólo puedes tener un Luxor en juego."
     },
     {
@@ -737,6 +810,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que Sobek sea declarado bloqueador, tu oponente debe destruir un Aliado declarado atacante."
     },
     {
@@ -747,6 +821,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a la declaración de ataque oponente puedes agrupar a Neftis. Si es el único Aliado declarado bloqueador duplica su fuerza."
     },
     {
@@ -757,6 +832,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Montu entra en juego, puedes tomar un Oro de la reserva oponente y ponerlo en su Zona de Oro Pagado."
     },
     {
@@ -767,6 +843,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Puede atacar el turno que entra en juego, sí hace daño al Mazo Castillo este turno, tu oponente debe botar 2 cartas."
     },
     {
@@ -777,6 +854,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes destruir a Kepreth. En respuesta a que Kepreth sea destruido, puedes nombrar 2 cartas para que tu oponente no pueda jugarlas en el próximo turno. Esta carta no afecta Oros."
     },
     {
@@ -787,6 +865,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Hathor entra en juego, puedes tomar un Aliado oponente de coste 2 y ponerlo en tu Línea de Defensa. Este Aliado debe ser declarado atacante. Si en la Fase Final no fue destruido, vuelve a la Línea de Ataque oponente."
     },
     {
@@ -797,6 +876,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados de raza Eterno sea afectado por una Habilidad oponente, puedes desterrar a Knum para anudar esa Habilidad."
     },
     {
@@ -807,6 +887,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes desterrar a Toth para que un Aliado de raza Eterno no pueda ser afectado por Talismánes por el resto del juego."
     },
     {
@@ -817,6 +898,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Neith porta un Arma, es Imbloqueable."
     },
     {
@@ -827,6 +909,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes destruir a Nejbet para que un Aliado de raza Eterno sea Indestructible hasta la Fase Final."
     },
     {
@@ -837,6 +920,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes destruir a Sacmis para que tu oponente bote 2 cartas de su Mazo Castillo."
     },
     {
@@ -847,6 +931,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de vigilia, sólo una vez por turno, puedes tomar una carta de Aliado de raza Faraón o Eterno de tu Cementerio y bajarlo con tu Mazo Castillo."
     },
     {
@@ -857,6 +942,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes tomar un Aliado de tu Zona de Destierro de coste 3 o menos y ponerlo en tu Mano."
     },
     {
@@ -867,6 +953,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Si Tamis es declarado atacante, gana 2 a la fuerza. Si hace daño al Mazo Castillo oponente, tú recibes el mismo daño."
     },
     {
@@ -877,6 +964,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Los Aliados bloqueados por Nefertari pierden su Habilidad hasta la Fase Final."
     },
     {
@@ -887,6 +975,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Sesotris entra en juego, tus Aliados ganan 2 a la fuerza hasta la Fase Final. Si Sesotris sale del juego, puedes buscar en tu Mazo Castillo una carta Oro o Tótem y ponerla en tu Mano."
     },
     {
@@ -897,6 +986,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Sesotris lll entra en juego, baraja un Aliado oponente. Tu oponente puede descartar 2 cartas de su Mano o botar 3 cartas de su Mazo Castillo para anular esta carta."
     },
     {
@@ -907,6 +997,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En su Fase de Vigilia, cualquier jugador puede pagar 2 Oros para barajar a Hateshesput, Mientras Hateshesput esté en juego, los Aliados en juego no pueden ser afectados por Habilidades."
     },
     {
@@ -917,6 +1008,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Mentuhopet entra en juego, puedes pagar 2 Oros para buscar una carta de Aliado de coste 2 o menos en tu Mazo Castillo y ponerla en juego sin pagar su coste."
     },
     {
@@ -927,6 +1019,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, debes destruir uno de tus Aliados. Si Horemheb hace daño al Mazo Castillo oponente, éste debe destruir una de sus cartas que no sea Oro."
     },
     {
@@ -937,6 +1030,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Escorpión esté en juego, tus Aliados pueden ser declarados atacantes el turno que entran en juego."
     },
     {
@@ -947,6 +1041,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Ahmosis el de Fuego esté en tu Línea de Defensa, tus Aliados ganan 1 a la fuerza. En respuesta a que sea afectado por una Habilidad oponente, puedes pagar 2 Oros para anular esa Habilidad y subir esta carta a tu Mano."
     },
     {
@@ -957,6 +1052,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados sea destruido por una Habilidad oponente, puedes subir a Virrey Setau a tu Mano para prevenirlo."
     },
     {
@@ -967,6 +1063,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "El turno que Marenptah entra en juego, tus Aliados declarados atacantes pueden ser agrupados en la Fase Final."
     },
     {
@@ -977,6 +1074,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Smedes entra en juego, puedes destruir uno de tus Aliados de fuerza 4 o más para que Smedes gane 3 a la fuerza permanentemente."
     },
     {
@@ -987,6 +1085,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros para buscar en tu Mazo Castillo una carta de Aliado de coste 3 o menos y ponerlo en tu Mano."
     },
     {
@@ -997,6 +1096,7 @@
         "race": "Faraón",
         "attack": 0,
         "cost": 4,
+        "strategy": "",
         "ability": "Shebaka tiene fuerza igual al número de cartas en tu Mano."
     },
     {
@@ -1007,6 +1107,7 @@
         "race": "Sacerdote",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Dagi entra en juego, nombra un Aliado en juego. Mientras Dagi esté en tu Línea de Defensa, el Aliado nombrado es Indestructible."
     },
     {
@@ -1017,6 +1118,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros y subir uno de tus Aliados a tu Mano para destruir un Tótem oponente."
     },
     {
@@ -1027,6 +1129,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Umm esté en juego, tus demás Aliados de raza Sacerdote no pueden ser barajados."
     },
     {
@@ -1037,6 +1140,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si Zaliki bloquea y es destruido, puedes buscar un Aliado en tu Cementerio y ponerlo en tu Mano."
     },
     {
@@ -1047,6 +1151,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes pagar 3 Oros para que un Aliado oponente no pueda ser declarado atacante el próximo turno."
     },
     {
@@ -1057,6 +1162,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Ramla entra en juego, si tienes dos o más Aliados de raza Sacerdote, puedes mostrar las tres primeras cartas de tu Mazo Castillo. Si hay uno o más cartas de Tótem entre esas cartas, puedes jugar uno de ellos sin pagar su coste. Las otras cartas son desterrados. si no hay Tótem las cartas son barajadas."
     },
     {
@@ -1067,6 +1173,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Si tienes a Seth en juego, Acero gana 2 a la fuerza por cada Aliado oponente de fuerza 3 o más."
     },
     {
@@ -1077,6 +1184,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Penumbra entra en juego, puedes subir un Aliado de fuerza 3 o menos a la Mano de tu oponente."
     },
     {
@@ -1087,6 +1195,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Pili entra en juego, puedes tomar una carta de Talismán de tu Cementerio y ponerla en tu Mano."
     },
     {
@@ -1097,6 +1206,7 @@
         "race": "Sacerdote",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes descartar dos cartas para que tu oponente descarte una."
     },
     {
@@ -1107,6 +1217,7 @@
         "race": "Sacerdote",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Qaa no puede ser declarado atacante. Qaa puede bloquear a más de un Aliado hasta agotar su fuerza."
     },
     {
@@ -1117,6 +1228,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Uni es Imbloqueable. Uni puede bloquear Aliados Imbloqueables."
     },
     {
@@ -1127,6 +1239,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 2 cartas. Si lo haces, Yii no puede ser declarada atacante."
     },
     {
@@ -1137,6 +1250,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Anula una carta que destruya o destierre uno de tus Aliados."
     },
     {
@@ -1147,6 +1261,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, destruye uno de tus Oros sin Habilidades que esté en tu Reserva para buscar un Aliado de raza Eterno en tu Cementerio y ponerlo en juego sin pagar su coste."
     },
     {
@@ -1157,6 +1272,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si tienes en juego dos o más Aliados de raza Eterno, tu oponente debe mostrar su Mano y descartar una carta."
     },
     {
@@ -1167,6 +1283,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Mira las cuatro primeras cartas de tu Mazo Castillo y pon una de esas cartas en tu Mano, luego baraja tu Mazo Castillo."
     },
     {
@@ -1177,6 +1294,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Hijos de Anubis no puede ser anulado. En tu Fase de Vigilia, elige 3 cartas de Aliado o Tótem de tu Cementerio y barájalas en tu Mazo Castillo."
     },
     {
@@ -1187,6 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Cancela un ataque oponente. Puedes buscar una carta de Arma en tu Mazo Castillo y ponerla en juego sin pagar su coste."
     },
     {
@@ -1197,6 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Baraja uno de tus Aliados de raza Eterno para barajar 2 Aliados oponentes en su Mazo Castillo. Tu oponente puede anular esta Habilidad pagando 3 Oros."
     },
     {
@@ -1207,6 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Elige uno de tus Aliados y nombra un tipo de carta. Por el resto del juego, ese Aliado se considera de ese tipo."
     },
     {
@@ -1217,6 +1338,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Si tu oponente tiene en juego dos o más Tótem, debe botar 4 cartas de su Mazo Castillo."
     },
     {
@@ -1227,6 +1349,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Bota la carta superior de tu Mazo Castillo y destruye un Aliado oponente que tenga un coste igual o inferior que esa carta. Luego, tu oponente bota la carta superior de su Mazo Castillo y destruye uno de tus Aliados que tenga un coste igual o inferior que esa carta."
     },
     {
@@ -1237,6 +1360,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Elige un Oro de Reserva y ponlo en tu Línea de Defensa, este Oro pierde su Habilidad hasta la Fase Final y se considera un Aliado con fuerza igual al número de Oros que tengas en tu Reserva. Al finalizar tu turno si permanece en juego, `ponlo en tu Reserva de Oro."
     },
     {
@@ -1247,6 +1371,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye uno de tus Aliados para Anular una carta oponente que no sea Oro que tenga un coste e igual o inferior al coste del Aliado destruido."
     },
     {
@@ -1257,6 +1382,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Anula una carta que descarte cartas de tu Mano."
     },
     {
@@ -1267,6 +1393,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Ambos jugadores pueden descartar una carta de su Mano a la vez. El jugador que descarte la carta con mayor coste, puede desterrar un Aliado en juego."
     },
     {
@@ -1277,6 +1404,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Asignación de Daño, juega Barro Sanador y destruye uno de tus Aliados para reducir todo el daño a 0."
     },
     {
@@ -1287,6 +1415,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente bota dos cartas por cada Oro que tenga en juego, este daño se reduce en dos por cada Oro que tu tengas en juego."
     },
     {
@@ -1297,6 +1426,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Tu oponente no puede usar sus cartas de Oro durante su siguiente Fase de Vigilia."
     },
     {
@@ -1307,6 +1437,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Busca una carta de Oro en tu Mazo Castillo y ponla en juego. Roba una carta."
     },
     {
@@ -1317,6 +1448,7 @@
         "race": null,
         "attack": null,
         "cost": 10,
+        "strategy": "",
         "ability": "Tu oponente debe botar 12 cartas de su Mazo Castillo."
     },
     {
@@ -1327,6 +1459,7 @@
         "race": null,
         "attack": null,
         "cost": 10,
+        "strategy": "",
         "ability": "Baraja 12 cartas de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -1337,6 +1470,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes desterrar Daga de Bastet para buscar una carta de Aliado de raza Sacerdote de coste 4 o menos en tu Mazo Castillo o en tu Cementerio y ponerlo en tu Mano."
     },
     {
@@ -1347,6 +1481,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Espada Miliciana gana 3 a la fuerza cuando ataca. Si tienes dos o más Aliados de raza Faraón en juego, puedes jugar Espada Miliciana desde tu Cementerio."
     },
     {
@@ -1357,6 +1492,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Escudo Miliciano gana 3 a la fuerza cuando bloquea. Si tienes dos o más Aliados de raza Faraón en juego, puedes jugar Escudo Miliciano desde tu Cementerio."
     },
     {
@@ -1367,6 +1503,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador de Dehesilla gana 2 a la fuerza. En respuesta a que su portador haga daño, puedes buscar una copia de esta carta en tu Mazo Castillo y ponerla en juego."
     },
     {
@@ -1377,6 +1514,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Vengativa gana 1 a la fuerza. El portador gana 1 a la fuerza por cada Aliado oponente en juego."
     },
     {
@@ -1387,6 +1525,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a la Asignación de Daño destierra Espada Nubia para reducir el daño a cero."
     },
     {
@@ -1397,6 +1536,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Tebas esté en juego, los Aliados de Fuerza 3 o más no puede ser declarados atacantes."
     },
     {
@@ -1407,6 +1547,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Beni Hassam esté en juego, no se puede declarar ataque ni puedes hacer que tu oponente bote cartas de su Mazo Castillo."
     },
     {
@@ -1417,6 +1558,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Mientras Valle de los Reyes esté en juego, en tu Fase de Vigilia, sólo una vez por turno, destruye una de tus cartas en juego que no sea Oro para barajar tantas cartas de tu Cementerio en tu Mazo Castillo como coste tenga la carta destruida."
     },
     {
@@ -1427,6 +1569,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que un Aliado que no pueda ser declarado atacante sea destruido o desterrado, puedes destruir Deir el-Bahari par a prevenirlo."
     },
     {
@@ -1437,6 +1580,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente descarte una carta de su Mano."
     },
     {
@@ -1447,6 +1591,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Mientras Colosos de Menmon esté en juego, en respuesta a finalizar un turno, puedes descartar 2 cartas para agrupar tus Oros."
     },
     {
@@ -1457,6 +1602,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes pagar 2 Oros para que un Arma o Tótem en juego pierda su Habilidad hasta la Fase Final."
     },
     {
@@ -1467,6 +1613,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Si tienes en juego dos o mas Aliados de raza Eterno, puedes barajar a Wepwawer para buscar un Aliado en tu Cementerio y ponerlo en tu Mano."
     },
     {
@@ -1477,6 +1624,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia puedes destruir a Tefnut para destruir un Aliado oponente."
     },
     {
@@ -1487,6 +1635,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras Selkis esté en tu Línea de Defensa, los Aliados en juego no pueden aumentar su fuerza. En su Fase de Vigilia, tu oponente puede pagar 2 Oros para poner a Selkis en tu Línea de Ataque."
     },
     {
@@ -1497,6 +1646,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Satis entra en juego, tu oponente debe botar 2 cartas de su Mazo Castillo."
     },
     {
@@ -1507,6 +1657,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Aken puede atacar el turno en que entra en juego."
     },
     {
@@ -1517,6 +1668,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Khonsu es declarado bloqueador, gana 2 a la fuerza."
     },
     {
@@ -1527,6 +1679,7 @@
         "race": "Eterno",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes desterrar a Hike para que un Aliado oponente deba ser declarado atacante el próximo turno."
     },
     {
@@ -1537,6 +1690,7 @@
         "race": "Eterno",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Si Kek y Kauket es declarado atacante, en tu próximo turno no puede ser agrupado."
     },
     {
@@ -1547,6 +1701,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes destruir a Hapi para buscar una carta de Oro en tu Mazo Castillo y ponerla en tu Mano."
     },
     {
@@ -1557,6 +1712,7 @@
         "race": "Eterno",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Renenutet esté en juego, tus demás Aliados de raza Eterno ganan 1 a la fuerza."
     },
     {
@@ -1567,6 +1723,7 @@
         "race": "Eterno",
         "attack": 5,
         "cost": 3,
+        "strategy": "",
         "ability": "Heqet no puede ser declarado atacante. Si Heqet es declarado bloqueador, en la Fase Final debes subirlo a tu Mano."
     },
     {
@@ -1577,6 +1734,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Mahu es declarado atacante, en la Fase Final debe ser Desterrado."
     },
     {
@@ -1587,6 +1745,7 @@
         "race": "Eterno",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que tu oponente descarte cartas de tu Mano, puedes barajar a Amán para robar dos cartas."
     },
     {
@@ -1597,6 +1756,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Su reinado fue largo y sus obras gloriosas. Un suspiro se llevó sus logros, el tiempo es la peor tormenta, las gotas de su lluvia no tienen compasión."
     },
     {
@@ -1607,6 +1767,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Para jugar a Montuhopet ll, debes devolver a tu Mano uno de tus Aliados de raza Faraón."
     },
     {
@@ -1617,6 +1778,7 @@
         "race": "Faraón",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Si Sehetepibre es declarado atacante, no puedes declarar otros Aliados atacantes. En respuesta a la Asignación de Daño, puedes destruir a Sehetepibre para que tu oponente bote tantas cartas de su Mazo Castillo como fuerza tenga este Aliado."
     },
     {
@@ -1627,6 +1789,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Salitis el Usurpador entra en juego, baraja todos tus demás Aliados de raza Faraón. Mientras Salitis esté en juego, los Aliados de raza Faraón y Sacerdote pierden 1 a la fuerza."
     },
     {
@@ -1637,6 +1800,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a botar cartas de tu Mazo Castillo por una Habilidad oponente, puedes destruir a Kamose para anular esa Habilidad."
     },
     {
@@ -1647,6 +1811,7 @@
         "race": "Faraón",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Medjay es Imbloqueable. Si uno de tus Aliados de raza Faraón es destruido, debes destruir a Medjay."
     },
     {
@@ -1657,6 +1822,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si Guerreros Egipcios es declarado atacante o bloqueador, sólo una vez por turno, puedes botar la carta superior de tu Mazo Castillo para que gane 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -1667,6 +1833,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando Visir entra en juego, puedes barajar uno de tus Aliados de raza Faraón para robar 2 cartas."
     },
     {
@@ -1677,6 +1844,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 5,
+        "strategy": "",
         "ability": "Para jugar a Radjedef debes destruir uno de tus Aliados. Radjedef gana tanta fuerza como fuerza tenga el Aliado destruido, permanentemente."
     },
     {
@@ -1687,6 +1855,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que Sinuhé el Viajero salga del juego, puedes buscar una carta de Oro en tu Mazo Castillo y ponerla en tu Mano."
     },
     {
@@ -1697,6 +1866,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, mira la primera carta de tu Mazo Castillo. Si es un Aliado de raza Faraón, puedes pagar 3 Oros para ponerlo en juego sin pagar su coste. Si es de otro tipo, la carta debe ser barajada."
     },
     {
@@ -1707,6 +1877,7 @@
         "race": "Faraón",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Kah el Protector esté en juego, no puedes jugar Aliados de raza Sacerdote. En respuesta a que tu oponente juegue un Aliado de raza Sacerdote, puedes pagar el coste de ese Aliado para anularlo."
     },
     {
@@ -1717,6 +1888,7 @@
         "race": "Faraón",
         "attack": 2,
         "cost": 6,
+        "strategy": "",
         "ability": "Cuando Surero entra en juego, mira las 6 primeras cartas de tu Mazo Castillo. Puedes jugar un Aliado de raza Faraón que esté entre esas cartas sin pagar su coste. Luego debes barajar tu Mazo Castillo"
     },
     {
@@ -1727,6 +1899,7 @@
         "race": "Sacerdote",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Astrónomo entra en juego,elige uno de los Tótem en tu Línea de Apoyo. Mientras este Tótem y Astrónomo estén en juego, tu oponente juega con su mano descubierta."
     },
     {
@@ -1737,6 +1910,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que Dogir salga del juego, puedes buscar un Aliado de raza Eterno en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -1747,6 +1921,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes destruir a Femi para que uno de tus Tótem o Arma en juego no pueda ser afectado por Habilidades oponentes hasta la Fase Final."
     },
     {
@@ -1757,6 +1932,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para activar la Habilidad de uno de tus Tótem sin pagar su coste."
     },
     {
@@ -1767,6 +1943,7 @@
         "race": "Sacerdote",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados de raza Eterno o Sacerdote sea destruido o barajado, puedes desterrar a Ipy para prevenirlo."
     },
     {
@@ -1777,6 +1954,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes ver la carta superior de tu Mazo Castillo."
     },
     {
@@ -1787,6 +1965,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Traductor de Palacio esté en tu Línea de Defensa, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para tomar un Aliado oponente en Línea de Ataque y ponerlo en tu Línea de Defensa hasta la Fase Final."
     },
     {
@@ -1797,6 +1976,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Escribano esté en juego, cada vez que juegues un Aliado de raza Sacerdote puedes robar una carta."
     },
     {
@@ -1807,6 +1987,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En Batalla Mitológica, puedes desterrar a Ipi-Ha-Ishutet para que tus Aliados declarados bloqueadores ganen 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -1817,6 +1998,7 @@
         "race": "Sacerdote",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Jarha entra en juego, puedes subir a tu Mano uno de tus Aliados en Línea de Defensa de raza Eterno o Sacerdote."
     },
     {
@@ -1827,6 +2009,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando Iuput entra en juego, puedes tomar hasta tres Aliados de raza Sacerdote de su Cementerio y barajarlos en tu Mazo Castillo."
     },
     {
@@ -1837,6 +2020,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, puedes destruir a Bennu para tomar un Aliado de raza Sacerdote de coste 3 o menos de su Cementerio y ponerlo en juego sin pagar su coste."
     },
     {
@@ -1847,6 +2031,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 6,
+        "strategy": "",
         "ability": "Cuando Asceta del Nilo entra en juego, destierra un Tótem en juego."
     },
     {
@@ -1857,6 +2042,7 @@
         "race": "Sacerdote",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, si tienes 3 o más Aliados de raza Sacerdote en juego, puedes pagar 3 Oros para subir un Aliado en juego a la Mano."
     },
     {
@@ -1867,6 +2053,7 @@
         "race": "Sacerdote",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a la declaración de ataque oponente, puedes subir a Vástago de Anubis a tu Mano para subir a la Mano un Aliado declarado atacante."
     },
     {
@@ -1877,6 +2064,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, juega El Perdón de Ra para que Ra no pueda ser afectado por Habilidades de cartas oponentes hasta tu próxima Fase de Vigilia."
     },
     {
@@ -1887,6 +2075,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En Guerra de Talismánes, juega Dardos de Montu y bota 2 cartas para que tu oponente bote 4 cartas de su Mazo Castillo."
     },
     {
@@ -1897,6 +2086,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Juega Abrir la Boca para que un Aliado oponente en Línea de Ataque no pueda ser agrupado por el resto del juego."
     },
     {
@@ -1907,6 +2097,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que Seth sea declarado atacante, juega Trueno de Seth para que tu oponente bote 3 cartas."
     },
     {
@@ -1917,6 +2108,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente juega Nieblas de Anubis para tomar de su Cementerio un Aliado de fuerza 3 o menos y pónlo en tu Línea de Defensa, sin pagar su coste. Este Aliado puede ser declarado bloqueador en la Fase Final debe ser destruido."
     },
     {
@@ -1927,6 +2119,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, juega Duelo en el Desierto para que todos tus Aliados de raza Faraón sean Imbloqueables hasta la Fase Final."
     },
     {
@@ -1937,6 +2130,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, juega Cacería de Hipopótamo para que todos tus Aliados de raza Eterno sean Indestructibles hasta la Fase Final."
     },
     {
@@ -1947,6 +2141,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Juega Badu-Badu para que uno de tus Aliados gane 4 a la fuerza. En la Fase Final destruye todos tus Aliados en juego."
     },
     {
@@ -1957,6 +2152,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un Aliado de raza Sacerdote en juego."
     },
     {
@@ -1967,6 +2163,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Juega Hambre de Apophis para que todos los Aliados en juego pierdan su Habilidad y tengan fuerza 0 hasta la Fase Final."
     },
     {
@@ -1977,6 +2174,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Un Aliado en juego gana 2 a la fuerza y no puede ser declarado atacante por el resto del Juego."
     },
     {
@@ -1987,6 +2185,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Nombra un tipo de carta y muestra la carta superior de tu Mazo Castillo, si es de ese tipo, puedes ver la Mano de tu oponente. La carta mostrada debe ser barajada."
     },
     {
@@ -1997,6 +2196,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, debes descartar una carta por cada Aliado atacante para cancelar ese ataque."
     },
     {
@@ -2007,6 +2207,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Este turno no se puede declarar bloqueo."
     },
     {
@@ -2017,6 +2218,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Todos tus Aliados declarados bloqueadores son Indestructibles hasta la Fase Final."
     },
     {
@@ -2027,6 +2229,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Por cada Aliado de raza Sacerdote que tengas en tu Cementerio, tu oponente debe botar 1 carta de su Mazo Castillo."
     },
     {
@@ -2037,6 +2240,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Uno de tus Aliados es Imbloqueable y un Aliado oponente no puede ser declarado bloqueador por este turno."
     },
     {
@@ -2047,6 +2251,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Uno de tus Aliados no recibe daño en Batalla Mitológica."
     },
     {
@@ -2057,6 +2262,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a que cualquier jugador declare ataque, juega No más Juegos para que los jugadores se salten la Guerra de Talismánes."
     },
     {
@@ -2067,6 +2273,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si el portador de Arco de Satis es declarado bloqueador, tu oponente debe botar 2 cartas de su Mazo Castillo."
     },
     {
@@ -2077,6 +2284,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Daga de Seth gana 2 a la fuerza. Si el portador es de raza Eterno, en tu Fase de Vigilia, puedes descartar una carta para que sea Imbloqueable hasta la Fase Final."
     },
     {
@@ -2087,6 +2295,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En respuesta a que el portador de Honda Miliciana sea declarado atacante, tu oponente debe botar 2 cartas."
     },
     {
@@ -2097,6 +2306,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Destierra Hacha de Trabajo para que un Aliado declarado bloqueador no reciba daño en Fase de Asignación de Daño."
     },
     {
@@ -2107,6 +2317,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El portador de Espada de Guardián gana 2 a la fuerza. Si el portador es declarado bloqueador , gana 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -2117,6 +2328,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Destierra Jabalina Milesiana para que tu oponente bote tantas cartas como Armas haya en juego."
     },
     {
@@ -2127,6 +2339,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu Mano."
     },
     {
@@ -2137,6 +2350,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a que uno de tus Aliados de raza Sacerdote en Línea de Defensa sea destruido, puedes destruir a Debob para prevenirlo."
     },
     {
@@ -2147,6 +2361,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "En respuesta a finalizar tu turno, si todos tus Aliados están en Línea de Defensa, puedes pagar 3 Oros para buscar un Aliado de raza Sacerdote en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -2157,6 +2372,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Templo Sombrío esté en juego, en tu Fase de Vigilia, puedes pagar 2 Oros para que puedas jugar con tu Cementerio hasta la Fase Final."
     },
     {
@@ -2167,6 +2383,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, puedes pagar 3 Oros para que Esfinge de Guiza se considere un Aliado bloqueador de fuerza igual a su coste, no puedes jugar esta Habilidad si tienes Aliados en juego. En la Fase Final, si permanece en juego, vuelve a la Línea de Apoyo."
     },
     {
@@ -2177,6 +2394,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En Batalla Mitológica, puedes descartar una carta para que un Aliado oponente vuelva a la Línea de Defensa."
     },
     {
@@ -2187,6 +2405,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras Mastabas esté en juego, los Aliados Imbloqueables en Línea de Ataque tienen fuerza 0."
     },
     {
@@ -2197,6 +2416,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En respuesta a un ataque oponente, puedes desterrar a Saqqara para cancelarlo."
     },
     {
@@ -2207,6 +2427,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2217,6 +2438,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2227,6 +2449,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "En respuesta a que bajes un Aliado, si Corona Faraónica está en tu Reserva y si tienes uno o más Aliados de raza Faraón en juego, puedes botar la carta superior de tu Mazo Castillo para que ese Aliado pueda ser declarado atacante este turno. Carta Única."
     },
     {
@@ -2237,6 +2460,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2247,6 +2471,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Mientras Libro de los Muertos esté en tu Reserva, si tienes uno o más Aliados de raza Eterno en juego, en respuesta a que uno o más de tus Aliados sea destruido por una carta o Habilidad oponente, son barajados. Carta Única."
     },
     {
@@ -2257,6 +2482,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2267,6 +2493,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2277,6 +2504,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2287,6 +2515,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2297,6 +2526,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2307,6 +2537,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2317,6 +2548,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2327,6 +2559,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2337,6 +2570,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2347,6 +2581,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin habilidad"
     },
     {
@@ -2357,6 +2592,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "En tu Fase de Vigilia, si tienes dos o más Aliados de raza Sacerdote en juego, puedes barajar una carta de tu Mano para robar una carta, máximo 3 veces por turno. Carta Única."
     }
 ]

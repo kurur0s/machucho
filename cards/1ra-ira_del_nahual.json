@@ -7,6 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos tus Aliados que ataquen son imbloqueables por este turno."
     },
     {
@@ -17,6 +18,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Puedes buscar un Aliado en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -27,6 +29,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Por cada Aliado en juego, tu oponente debe pagar un oro, si no lo hace debe enviarlo al cementerio."
     },
     {
@@ -37,6 +40,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "El oponente descarta 2 cartas de su mano al cementerio y tú robas la carta superior de tu Castillo."
     },
     {
@@ -47,6 +51,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Reduce a cero todo el daño hecho por tu oponente en este turno."
     },
     {
@@ -57,6 +62,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En el momento que tu oponente juegue un Aliado desde su mano, puedes jugar esta carta y botar al cementerio a dicho Aliado."
     },
     {
@@ -67,6 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Un Aliado dobla su fuerza hasta el final del turno."
     },
     {
@@ -77,6 +84,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye 2 Aliados en juego y juega otro turno después de éste."
     },
     {
@@ -87,6 +95,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Busca una carta de Aliado en el Castillo de tu oponente y ponla en juego en tu línea de defensa."
     },
     {
@@ -97,6 +106,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Descártate de 2 cartas y busca dos oros en tu Castillo para ponerlos en tu mano."
     },
     {
@@ -107,6 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Genera 2 de oro virtuales para Chamánes."
     },
     {
@@ -117,6 +128,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Todos tus Aliados defensores no reciben daño en este turno."
     },
     {
@@ -127,6 +139,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Todos tus Aliados son imbloqueables."
     },
     {
@@ -137,6 +150,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Te cuesta un oro menos jugar Chamánes."
     },
     {
@@ -147,6 +161,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Todos tus Aliados pueden llevar un arma extra."
     },
     {
@@ -157,6 +172,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Ningún jugador puede bajar más oros. Cualquier jugador puede botar 3 cartas de su Castillo para destruir este Tótem."
     },
     {
@@ -167,6 +183,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Por cada Tótem que esté bajo tu control este Chamán gana + 1 de fuerza."
     },
     {
@@ -177,6 +194,7 @@
         "race": "Chamán",
         "attack": 4,
         "cost": 1,
+        "strategy": "",
         "ability": "Para entrar en juego bota al cementerio dos cartas de tu Castillo. (imbloqueable. Carta Única)"
     },
     {
@@ -187,6 +205,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 6,
+        "strategy": "",
         "ability": "Cuando entra en juego tu oponente bota 3 cartas de su Castillo."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes buscar un Tótem y ponerlo en juego."
     },
     {
@@ -207,6 +227,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye 2 oros de tu oponente."
     },
     {
@@ -217,6 +238,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Si es destruido, devuelve 3 cartas a elección de tu cementerio a tu Castillo."
     },
     {
@@ -227,6 +249,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Gana + 2 de fuerza por cada Chamán en juego."
     },
     {
@@ -237,6 +260,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 0,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego, al final del turno en que ataque es destruido (imbloqueable)."
     },
     {
@@ -247,6 +271,7 @@
         "race": "Guerrero",
         "attack": 6,
         "cost": 0,
+        "strategy": "",
         "ability": "Para entrar en juego descártate de todas las cartas de tu mano. (Carta única)."
     },
     {
@@ -257,6 +282,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye esta carta y luego destruye un Tótem de tu oponente."
     },
     {
@@ -267,6 +293,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Gana + 1 de fuerza por cada arma que tengas en juego."
     },
     {
@@ -277,6 +304,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Puede llevar un Arma extra."
     },
     {
@@ -287,6 +315,7 @@
         "race": "Guerrero",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Puede bloquear a más de un Aliado."
     },
     {
@@ -297,6 +326,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 6,
+        "strategy": "",
         "ability": "Cuando entra en juego, roba 4 cartas de tu Castillo y descarta 2 de tu mano."
     },
     {
@@ -307,6 +337,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye un arma en juego."
     },
     {
@@ -317,6 +348,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "No puede atacar. Si recibe daño para ser destruido, puedes pagar un oro para que siga en juego."
     },
     {
@@ -327,6 +359,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye todos los Aliados de todos los jugadores que tengan 2 o menos de fuerza."
     },
     {
@@ -337,6 +370,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego todas tus bestias ganan + 1 de fuerza permanentemente."
     },
     {
@@ -347,6 +381,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Devuelve un oro a tu mano, luego pon esta carta en tu reserva de oro. Al utilizarlo cuenta como 2 oros."
     },
     {
@@ -357,6 +392,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Destruye dos Aliados por esta carta en tu reserva de oro. Al utilizarlo cuenta como 3 oros."
     },
     {
@@ -367,6 +403,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Eliges el Aliado de mayor fuerza de tu oponente y lo pones en su cementerio."
     },
     {
@@ -377,6 +414,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Aliado oponente a tu elección."
     },
     {
@@ -387,6 +425,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "En el momento que tu oponente juegue un Arma desde su mano, puedes jugar esta carta y mandar a su cementerio dicha Arma."
     },
     {
@@ -397,6 +436,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "En el momento que tu oponente juegue un Tótem desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Tótem."
     },
     {
@@ -407,6 +447,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "En el momento que tu oponente juegue un Talismán desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Talismán."
     },
     {
@@ -417,6 +458,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Puedes buscar un talismán en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -427,6 +469,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Si en tu turno tienes menos de 5 cartas en tu Castillo, puedes tomar las 5 cartas superiores de tu cementerio y barajarlas con tu Castillo."
     },
     {
@@ -437,6 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Elige un Oro en juego y devuélvelo a la mano de su propietario."
     },
     {
@@ -447,6 +491,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tu oponente bota de su Castillo tantas cartas como Aliados tenga en juego."
     },
     {
@@ -457,6 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Si todos tus Aliados son del mismo tipo, éstos ganan + 1 de fuerza, hasta el final del turno."
     },
     {
@@ -467,6 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Genera 2 Oros virtuales para Talismánes. Arma o Tótem."
     },
     {
@@ -477,6 +524,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Destruye todos tus Aliados en juego y pon gratis un Aliado en juego desde tu mano."
     },
     {
@@ -487,6 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Elige un tipo de Aliado en juego y todos tus Aliados serán de ese tipo."
     },
     {
@@ -497,6 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "A tu oponente le cuesta un Oro más jugar sus cartas."
     },
     {
@@ -507,6 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tu oponente, antes de poner en juego un Oro, debe pagarlo con otro."
     },
     {
@@ -517,6 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Todos tus Aliados ganan + 1 de fuerza."
     },
     {
@@ -527,6 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Por cada Aliado que te ataque, tu oponente deberá botar una carta de su Castillo al final del ataque."
     },
     {
@@ -537,6 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si su portador es bloqueado tu oponente se descarta de todas las cartas de su mano."
     },
     {
@@ -547,6 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Este Aliado gana fuerza igual al número de Oros que tengas en juego."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El Aliado portador de esta Arma es imbloqueable."
     },
     {
@@ -567,6 +623,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Una vez por turno paga uno de Oro y destruye un Aliado que tenga fuerza 1 o menos."
     },
     {
@@ -577,6 +634,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno."
     },
     {
@@ -587,6 +645,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Para que entre en juego debes descartarte de una carta de tu mano (imbloqueable)."
     },
     {
@@ -597,6 +656,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes bloquear cartas imbloqueables."
     },
     {
@@ -607,6 +667,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca y hace daño al Castillo oponente puedes buscar un Chamán en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -617,6 +678,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Por cada Chamán que tengas en juego este Chamán gana + 1 de fuerza."
     },
     {
@@ -627,6 +689,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Puede llevar un Arma gratis."
     },
     {
@@ -637,6 +700,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego busca un Tótem en tu cementerio y ponlo en tu mano."
     },
     {
@@ -647,6 +711,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Puede llevar un Arma extra."
     },
     {
@@ -657,6 +722,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si lleva un Arma es imbloqueable."
     },
     {
@@ -667,6 +733,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego (Imbloqueable)."
     },
     {
@@ -677,6 +744,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego busca un Tótem en tu cementerio y ponlo en tu mano."
     },
     {
@@ -687,6 +755,7 @@
         "race": "Guerrero",
         "attack": 0,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye todos tus Aliados en juego. Por cada Aliado destruido , Lautaro gana + 1 de fuerza permanentemente (imbloqueable)."
     },
     {
@@ -697,6 +766,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede llevar un Arma extra."
     },
     {
@@ -707,6 +777,7 @@
         "race": "Bestia",
         "attack": 6,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras esté en juego todas tus Bestias son imbloqueables."
     },
     {
@@ -717,6 +788,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Si es bloqueado, puedes buscar un Arma en tu Castillo y ponerla en tu mano."
     },
     {
@@ -727,6 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si en el turno anterior fuiste atacado, tu oponente deberá mandar al cementerio a uno de sus Aliados."
     },
     {
@@ -737,6 +810,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Un Aliado que elijas no podrá ser bloqueado en este turno."
     },
     {
@@ -747,6 +821,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Si tu oponente tiene todos sus Oros ocupados, destruye uno de ellos enviándolo al cementerio."
     },
     {
@@ -757,6 +832,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Todos los Aliados que lleven Armas no podrán ser bloqueados en este turno."
     },
     {
@@ -767,6 +843,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Elige un Chamán en tu cementerio y cámbialo por uno que esté en juego."
     },
     {
@@ -777,6 +854,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado dobla su fuerza por este turno, si está defendiendo."
     },
     {
@@ -787,6 +865,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Si un Aliado que tengas en juego es destruido, para salvarlo puedes destruir este Tótem."
     },
     {
@@ -797,6 +876,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Su portador es del tipo que elijas."
     },
     {
@@ -807,6 +887,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Su portador gana + 3 a la fuerza y no puede ser bloqueado."
     },
     {
@@ -817,6 +898,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Su portador puede bloquear cartas imbloqueables."
     },
     {
@@ -827,6 +909,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador puede bloquear a más de un Aliado oponente."
     },
     {
@@ -837,6 +920,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador gana + 1 de fuerza y no puede ser bloqueado."
     },
     {
@@ -847,6 +931,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Siempre que este Aliado haga daño al Castillo oponente, puedes buscar una carta de Oro en tu Castillo y ponerlo en juego."
     },
     {
@@ -857,6 +942,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Siempre que este Aliado haga daño a un Castillo, toma una carta al azar de la mano de tu oponente y mándala al cementerio."
     },
     {
@@ -867,6 +953,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si es destruido, todos tus Aliados en juego ganan + 1 de fuerza permanentemente."
     },
     {
@@ -877,6 +964,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si es destruido, los otros Chamánes que controles ganan + 1 de fuerza permanentemente."
     },
     {
@@ -887,6 +975,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Puedes destruirlo cuando quieras y un Aliado oponente tendrá fuerza 0 hasta el final del turno."
     },
     {
@@ -897,6 +986,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si bloquea gana + 1 de fuerza hasta el final del turno."
     },
     {
@@ -907,6 +997,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Una vez por turno, pagando uno de Oro, puedes ver la carta superior de cualquier Castillo."
     },
     {
@@ -917,6 +1008,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Gana + 1 de fuerza por cada Aliado que te ataque hasta el final del turno."
     },
     {
@@ -927,6 +1019,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 1,
+        "strategy": "Daño Imbloqueable",
         "ability": "Imbloqueable."
     },
     {
@@ -937,6 +1030,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 1,
+        "strategy": "Furia",
         "ability": "Puede atacar el turno que entra en juego."
     },
     {
@@ -947,6 +1041,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 2,
+        "strategy": "Incremento Fuerza",
         "ability": "Cuando ataca gana + 1 de fuerza hasta el final del turno."
     },
     {
@@ -957,6 +1052,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Por cada guerrero destruido, gana + 1 de fuerza permanentemente."
     },
     {
@@ -967,6 +1063,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "No puede ser bloqueado por Chamánes."
     },
     {
@@ -977,6 +1074,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Llevar Armas en este Aliado te cuesta un Oro menos."
     },
     {
@@ -987,6 +1085,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes verle la mano a tu oponente."
     },
     {
@@ -997,6 +1096,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Puede llevar un Arma extra."
     },
     {
@@ -1007,6 +1107,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Gana + 1 de fuerza si ataca."
     },
     {
@@ -1017,6 +1118,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1027,6 +1129,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 6,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1037,6 +1140,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1047,6 +1151,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Sólo puede bloquear."
     },
     {
@@ -1057,6 +1162,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, elige un tipo de Aliado y Basilisco no podrá ser bloqueado por éste."
     },
     {
@@ -1067,6 +1173,7 @@
         "race": "Bestia",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Después de atacar vuelve a la línea de defensa."
     },
     {
@@ -1077,6 +1184,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca gana + 1 de fuerza por el turno."
     },
     {
@@ -1087,6 +1195,7 @@
         "race": "Bestia",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1097,6 +1206,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es destruido, una Bestia que elijas gana + 2 de fuerza por el resto del juego."
     },
     {
@@ -1107,6 +1217,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1117,6 +1228,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1127,6 +1239,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1137,6 +1250,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1147,6 +1261,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1157,6 +1272,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1167,6 +1283,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1177,6 +1294,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1187,6 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1197,6 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1207,6 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1217,6 +1338,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1227,6 +1349,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1237,6 +1360,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1247,6 +1371,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1257,6 +1382,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     }
 ]

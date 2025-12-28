@@ -7,6 +7,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Si este Oro es destruido puedes buscar dos cartas de Oro en tu Castillo y ponerlas en juego."
     },
     {
@@ -17,6 +18,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Destruye este Oro y un Aliado en juego tendra fuerza 0 por este turno."
     },
     {
@@ -27,6 +29,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Este Oro solo genera dos Oros para Armas, Tótem o Talismánes."
     },
     {
@@ -37,6 +40,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Puedes destruir este Oro para que genere el doble por este turno."
     },
     {
@@ -47,6 +51,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Tu oponente se descarta de toda su Mano, luego este roba cuatro cartas."
     },
     {
@@ -57,6 +62,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Todos tus Aliados doblan su fuerza. Por turno."
     },
     {
@@ -67,6 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Copia la habilidad de un Talismán que este en tu Cementerio."
     },
     {
@@ -77,6 +84,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Por cada Aliado oponente que te haya atacado en el turno anterior podras recuperar el mismo numero de cartas de tu Cementerio y barajarlas con tu Castillo (al azar)."
     },
     {
@@ -87,6 +95,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos los jugadores destruyen todas las cartas en juego. Y tu oponente bota dos cartas de su Castillo."
     },
     {
@@ -97,6 +106,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Destruye un Arma o Tótem en juego y bota una carta de tu Castillo."
     },
     {
@@ -107,6 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando tu oponente juegue un Aliado, paga su valor y este quedara bajo tu control por el resto del juego."
     },
     {
@@ -117,6 +128,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Solo puede ser llevada por una Abominación; siempre que esta Abominación reciba daño para ser destruida, descartate de una carta para que siga en juego."
     },
     {
@@ -127,6 +139,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Por cada punto de dañoo que haga este Aliado al Castillo oponente, podras barajar igual numero de cartas de tu Cementerio con tu Castillo (carta única)."
     },
     {
@@ -137,6 +150,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Agrega +1 a la fuerza de su portador. Su portador no recibe daño de combate."
     },
     {
@@ -147,6 +161,7 @@
         "race": "Dios",
         "attack": 0,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Hodur entra en juego se convierte en una copia total de un Aliado oponente. Este es barajado en su Castillo y no podra ser jugado mientras Hodur este en juego."
     },
     {
@@ -157,6 +172,7 @@
         "race": "Dios",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de cualquier fuerza a tu Castillo."
     },
     {
@@ -167,6 +183,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si algun jugador juega un Talismán puedes destruir esta carta y anular a dicho Talismán."
     },
     {
@@ -177,6 +194,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Paga 4 de Oro y busca un Dios de fuerza 4 o menos en tu Castillo, luego ponlo en tu linea de defensa."
     },
     {
@@ -187,6 +205,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si hace daño al Castillo oponente podras descartarle a tu oponente una carta de su Mano."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 5,
+        "strategy": "",
         "ability": "Todos tus turnos paga su coste y devuelve las cinco cartas superiores de tu Cementerio a tu Castillo, luego barajalo."
     },
     {
@@ -207,6 +227,7 @@
         "race": "Abominación",
         "attack": 5,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes ponerle un Arma sin pagar su coste, al final del turno que ataque es destruido (única)."
     },
     {
@@ -217,6 +238,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es la primera carta que pones en juego, podras buscar dos cartas de Oro en tu Castillo y ponerlas en tu Mano."
     },
     {
@@ -227,6 +249,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras este en juego, todas tus Abominaciónes despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
     },
     {
@@ -237,6 +260,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Si hace daño a un Castillo, paga uno de Oro y tu oponente bota una carta de su Castillo a su Cementerio."
     },
     {
@@ -247,6 +271,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos tus Abominaciónes pueden atacar cuando entren en juego y mientras este Aliado este en juego."
     },
     {
@@ -257,6 +282,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Solo puede atacar o bloquear si tu oponente tiene menos cartas Oro en juego que tu. Las demas copias de esta carta tienen + 1 a la fuerza."
     },
     {
@@ -267,6 +293,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si esta en el Cementerio puedes pagar dos de Oro y ponerlo en juego."
     },
     {
@@ -277,6 +304,7 @@
         "race": "Abominación",
         "attack": 6,
         "cost": 2,
+        "strategy": "",
         "ability": "Solo puede bloquear y no es destruida por habilidades de Armas, Talismánes o Tótem."
     },
     {
@@ -287,6 +315,7 @@
         "race": "Abominación",
         "attack": 10,
         "cost": 8,
+        "strategy": "",
         "ability": "Si esta en tu Cementerio la puedes poner en juego pagando 4 de Oro y destruyendo un Aliado de fuerza 4 o superior."
     },
     {
@@ -297,6 +326,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes destruir esta Aliado para que todas tus cartas ganen + 1 de fuerza permanentemente."
     },
     {
@@ -307,7 +337,8 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 3,
-        "ability": "Si ataca junto al Ejercito Enano ellos ganan + 1 de fuerza imbloqueable."
+        "strategy": "",
+        "ability": "Si ataca junto al Ejercito Enano ellos ganan + 1 de fuerza. imbloqueable."
     },
     {
         "name": "Dawn",
@@ -317,6 +348,7 @@
         "race": "Bárbaro",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego elige una raza tipo de Aliado, gana + 1 de fuerza por cada carta de la misma raza que tenga tu oponente en juego."
     },
     {
@@ -327,6 +359,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Si esta carta es bloqueada tu oponente debera destruir un Aliado al Final del turno."
     },
     {
@@ -337,6 +370,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye un Aliado oponente de fuerza 4 o menos."
     },
     {
@@ -347,6 +381,7 @@
         "race": "Bárbaro",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye un Aliado oponente."
     },
     {
@@ -357,6 +392,7 @@
         "race": "Bárbaro",
         "attack": 4,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientra este en juego puedes ponerles Armas a tus Barbaros pagando uno menos de Oro."
     },
     {
@@ -367,6 +403,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos tus Barbaros ganan + 2 de fuerza mientras esta carta este en juego."
     },
     {
@@ -377,6 +414,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca, tu oponente debe descartarse de dos cartas de su Castillo. Para evitar esta habilidad tu oponente puede descartarse de tres cartas de su Mano. (imbloqueable, carta única)."
     },
     {
@@ -387,6 +425,7 @@
         "race": "Bárbaro",
         "attack": 4,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras este en juego, todos tus Barbaros despues de atacar vuelven a la linea de defensa."
     },
     {
@@ -397,6 +436,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Siempre que juegues este Barbaro podras buscar un Dios en tu Castillo y ponerlo en tu Mano."
     },
     {
@@ -407,6 +447,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es destruida, puedes robar tres cartas de tu Castillo o puedes botar tres cartas del Castillo de tu oponente."
     },
     {
@@ -417,6 +458,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, la proxima carta Aliado que bajes a la linea de defensa te costara – 1 de Oro."
     },
     {
@@ -427,6 +469,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Devuelve a la Mano un Aliado oponente en juego, luego puedes robar una carta de tu Castillo."
     },
     {
@@ -437,6 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Destruye un Aliado oponente de fuerza mayor a 3."
     },
     {
@@ -447,6 +491,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Busca dos cartas en tu Castillo y tu oponente te descarta de una de ellas. La otra queda en tu Mano."
     },
     {
@@ -457,6 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Los Aliados que porten Armas vuelven a la linea de defensa despues de atacar."
     },
     {
@@ -467,6 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "En la fase de ataque los Aliados que no lleven Arma tienen fuerza 0 hasta el final del turno."
     },
     {
@@ -477,6 +524,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente descarta cartas de su Castillo hasta que aparezca una carta Oro."
     },
     {
@@ -487,6 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos los Aliados imbloqueables son devueltos a la Mano de su dueno."
     },
     {
@@ -497,6 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Los bonos de fuerza se aplican negativamente con un minimo de 0 hasta el final del juego."
     },
     {
@@ -507,6 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos los jugadores destruyen un Aliado, Arma y Tótem que tengan en juego."
     },
     {
@@ -517,6 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cada Aliado oponente ve disminuida su fuerza a un minimo de 0, por el numero de cartas que tengas en la Mano."
     },
     {
@@ -527,6 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando un Aliado sea destruido juega inmediatamente este Talismán para que dicho Aliado siga en juego. Luego podras robar una carta de tu Castillo."
     },
     {
@@ -537,6 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Tu oponente descarta una carta de su Mano y bota una de su Castillo."
     },
     {
@@ -547,6 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Todos los jugadores se descartan de su Mano y roban 5 cartas de su Castillo."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tu oponente en su proximo turno no podra utilizar o jugar cartas de Oro."
     },
     {
@@ -567,6 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Tus cartas de Oro en juego no podran ser destruidos."
     },
     {
@@ -577,6 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente no puede atacarte mas. Un jugador puede descartar tres cartas de su Castillo y destruir este Tótem."
     },
     {
@@ -587,6 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cada vez que tu oponente te destruya una carta, el debe destruirse una carta del mismo tipo."
     },
     {
@@ -597,6 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente en cada turno bota al Cementerio una carta de su Castillo."
     },
     {
@@ -607,6 +667,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Siempre que un Dios sea enviado al Cementerio, puedes descartar dos cartas de tu Castillo para que siga en juego."
     },
     {
@@ -617,6 +678,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cada vez que tu oponente juegue un Aliado debera descartar una carta de su Castillo."
     },
     {
@@ -627,6 +689,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Agrega +1 a la fuerza de su portador. Si su portador ataca tu tienes la primera accion de combate."
     },
     {
@@ -637,6 +700,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Agrega +1 a la fuerza de su portador. Siempre que este Aliado haga daño al Castillo oponente y se resuelva el daño podras ver las tres primeras cartas del Castillo oponente y ordenarlas como quieras."
     },
     {
@@ -647,6 +711,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Agrega +1 a la fuerza de su portador. Cuando pongas en juego esta Arma podras buscar una carta de Oro de tu Castillo y ponerla en juego, luego puedes robar una carta de tu Castillo."
     },
     {
@@ -657,6 +722,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Agraga + 2 a la fuerza de su portador. Cada vez que su portador ataque podras robar una carta extra de tu Castillo al final de tu turno."
     },
     {
@@ -667,6 +733,7 @@
         "race": "Dios",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 3 o menos a tu Castillo."
     },
     {
@@ -677,6 +744,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es el primer Aliado que pones en juego puede llevar un Arma por 2 menos de Oro."
     },
     {
@@ -687,6 +755,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Si es destruido podras buscar una carta en tu Castillo y ponerla en tu Mano."
     },
     {
@@ -697,6 +766,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 3 o menos."
     },
     {
@@ -707,6 +777,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "En combate puedes descartarte de una carta de tu Mano para que gane + 1 de fuerza."
     },
     {
@@ -717,6 +788,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego tu oponente baraja en su Castillo un Aliado que tenga en juego."
     },
     {
@@ -727,6 +799,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es la primera carta que pones en juego podras buscar un Tótem en tu Castillo y ponerlo en tu Mano."
     },
     {
@@ -737,6 +810,7 @@
         "race": "Abominación",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "No tiene limite de Armas. Cada vez que se le coloque un Arma a este Aliado podras robar una carta extra en este turno."
     },
     {
@@ -747,6 +821,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Solo si tienes menos Aliados que tu oponente puedes poner esta carta en juego."
     },
     {
@@ -757,6 +832,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Siempre que bloquee a un Aliado oponente deberas buscar un Oro en tu Castillo y ponerlo en tu Mano."
     },
     {
@@ -767,6 +843,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes destruir un Tótem."
     },
     {
@@ -777,6 +854,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye un Aliado oponente de fuerza 3 o menos."
     },
     {
@@ -787,6 +865,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Puedes buscar una carta de Oro en tu Castillo y ponerla en juego. Este Oro no afecta el limite de Oros por turno."
     },
     {
@@ -797,6 +876,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Ambos jugadores roban cartas de su Castillo hasta tener 8 cartas en la Mano."
     },
     {
@@ -807,6 +887,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye cualquier carta en juego que no sea Oro y luego puedes robar una carta."
     },
     {
@@ -817,6 +898,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "La fuerza de un Aliado en juego se reduce en 3 con un minimo de 0."
     },
     {
@@ -827,6 +909,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Elige 3 cartas en tu Cementerio y barajalas con tu Castillo. Luego roba 2 cartas."
     },
     {
@@ -837,6 +920,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu turno elige un Aliado oponente, en el proximo turno debera atacarte; si no puedes hacerlo, destruyelo."
     },
     {
@@ -847,6 +931,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En tu turno , tu oponente destruye todos los Aliados que te hayan atacado en el turno anterior."
     },
     {
@@ -857,6 +942,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "En la fase de ataque todos los Aliados pierden sus bonos de fuerza hasta el final del turno."
     },
     {
@@ -867,6 +953,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Mira la Mano de tu oponente, despues podras robar una carta de tu Castillo."
     },
     {
@@ -877,6 +964,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un Aliado con Arma."
     },
     {
@@ -887,6 +975,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tus Aliados despues de atacar vuelven a la linea de defensa."
     },
     {
@@ -897,6 +986,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Una vez por turno paga 4 de Oro y destruye una carta en juego que no sea una carta de Oro."
     },
     {
@@ -907,6 +997,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Agrega + 1 a la fuerza de su portador. Puedes tener mas de tres copias de esta Arma."
     },
     {
@@ -917,6 +1008,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -927,6 +1019,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Descarta una Carta de tu Mano para que este Aliado gane + 1 de fuerza."
     },
     {
@@ -937,6 +1030,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 1 o menos a tu Castillo."
     },
     {
@@ -947,6 +1041,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio un Dios de fuerza 2 o menos a tu Castillo."
     },
     {
@@ -957,6 +1052,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es destruido, tu oponente baraja una carta de Aliado en juego en su Castillo."
     },
     {
@@ -967,6 +1063,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si va al Cementerio desde el juego descarta una carta de tu Mano para que siga en juego."
     },
     {
@@ -977,6 +1074,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si esta en la linea de ataque puede volver a la linea de defensa para bloquear."
     },
     {
@@ -987,6 +1085,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Por cada Oro que tengas en tu Cementerio gana + 1 de fuerza."
     },
     {
@@ -997,6 +1096,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Oro que tengas en juego y gana + 2 de fuerza."
     },
     {
@@ -1007,6 +1107,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si es destruido podras barajarlo de nuevo en tu Castillo."
     },
     {
@@ -1017,6 +1118,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando esta en juego tu Mano aumenta en una carta mas (una vez por juego)."
     },
     {
@@ -1027,6 +1129,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego pero si asi lo hace descarta una carta de tu Mano."
     },
     {
@@ -1037,6 +1140,7 @@
         "race": "Dios",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1047,6 +1151,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1057,6 +1162,7 @@
         "race": "Dios",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1067,6 +1173,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Paga uno de Oro y podras robar una carta extra (una vez por turno)."
     },
     {
@@ -1077,6 +1184,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1087,6 +1195,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga uno de Oro y gana + 1 de fuerza."
     },
     {
@@ -1097,6 +1206,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1107,6 +1217,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Solo puede bloquear."
     },
     {
@@ -1117,6 +1228,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 1 o menos."
     },
     {
@@ -1127,6 +1239,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes devolver a tu Castillo una carta del Cementerio de valor 2 o menos."
     },
     {
@@ -1137,6 +1250,7 @@
         "race": "Abominación",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1147,6 +1261,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1157,6 +1272,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1167,6 +1283,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1177,6 +1294,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1187,6 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1197,6 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1207,6 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1217,6 +1338,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1227,6 +1349,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1237,6 +1360,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1247,6 +1371,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     }
 ]

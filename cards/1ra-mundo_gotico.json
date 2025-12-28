@@ -7,6 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye todos los vampiros en juego."
     },
     {
@@ -17,6 +18,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente descarta igual número de cartas al daño recibido en tu Castillo (carta única)."
     },
     {
@@ -27,6 +29,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Todas tus cartas de oro generan el doble de oro por un turno (carta única)."
     },
     {
@@ -37,6 +40,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Son destruidos todos los Aliados en juego de los jugadores que participan."
     },
     {
@@ -47,6 +51,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente descarta 3 cartas de su Castillo."
     },
     {
@@ -57,6 +62,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Baraja tu mano con tu Mazo y roba la misma cantidad de cartas que tenías en la mano."
     },
     {
@@ -67,6 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Al final de tu turno puedes robar más de una carta: si lo haces, te descartas de tantas cartas como hubieses robado de más."
     },
     {
@@ -77,6 +84,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
+        "strategy": "",
         "ability": "Busca una carta de Aliado en el Mazo de tu oponente y ponla bajo tu control sólo por el juego."
     },
     {
@@ -87,6 +95,7 @@
         "race": "",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Puede bloquear a más de un Aliado oponente hasta acabar su fuerza."
     },
     {
@@ -97,6 +106,7 @@
         "race": "Vampiro",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos los vampiros que controles ganan + 1 de fuerza cuando ataquen."
     },
     {
@@ -107,6 +117,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 4,
+        "strategy": "",
         "ability": "Gana + 1 de fuerza por cada caballero en juego. No puede ser bloqueado por caballeros."
     },
     {
@@ -117,6 +128,7 @@
         "race": "Vampiro",
         "attack": 0,
         "cost": 5,
+        "strategy": "",
         "ability": "Tiene fuerza igual al número de cartas de oro de tu oponente."
     },
     {
@@ -127,6 +139,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca y hace daño al Castillo de tu oponente, puedes buscar una carta de vampiro y ponerla en tu mano."
     },
     {
@@ -137,6 +150,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 5,
+        "strategy": "",
         "ability": "Por cada cazador de vampiros en juego gana + 1 de fuerza."
     },
     {
@@ -147,6 +161,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Todos los vampiros en juego ganan +1 de fuerza, mientras este Tótem esté en juego."
     },
     {
@@ -157,6 +172,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Todos los licantropos en juego ganan +1 de fuerza, mientras este Tótem esté en juego."
     },
     {
@@ -167,6 +183,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "A partir del próximo turno puedes bajar un oro extra de tu mano, mientras este tótem esté en juego."
     },
     {
@@ -177,6 +194,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Descarta 3 cartas de la parte superior del Castillo de tu oponente."
     },
     {
@@ -187,6 +205,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Despues de atacar ganas otro turno extra. Si no ganas en ese turno, pierdes el juego. Carta Única."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, todos tus demás cazadores ganan +1 de fuerza permanentemente."
     },
     {
@@ -207,6 +227,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Aliado oponente que esté atacando."
     },
     {
@@ -217,6 +238,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Destruye un Aliado defensor de tu oponente a tu elección."
     },
     {
@@ -227,6 +249,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado oponente que elijas no puede atacar el próximo turno."
     },
     {
@@ -237,6 +260,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Al jugarla no se pueden jugar nuevos Talismánes o habilidades de carta en el turno."
     },
     {
@@ -247,6 +271,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Destruye un vampiro en juego."
     },
     {
@@ -257,6 +282,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Durante el resto del juego, los contendores no pueden jugar con el cementerio."
     },
     {
@@ -267,6 +293,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Un Aliado en juego que elijas cambia su fuerza por su valor permanentemente."
     },
     {
@@ -277,6 +304,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Los Licántropos ganan + 1 de fuerza por este turno."
     },
     {
@@ -287,6 +315,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Un Aliado oponente vuelve a la línea de defensa."
     },
     {
@@ -297,6 +326,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Después de atacar, tus Aliados vuelven a la línea de defensa."
     },
     {
@@ -307,6 +337,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente no puede jugar con su cementerio el resto del juego."
     },
     {
@@ -317,6 +348,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Aliado en juego y no puedes ser atacado el próximo turno."
     },
     {
@@ -327,6 +359,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Mira la mano de tu oponente y éste se descarta de todos los Talismánes que tenga."
     },
     {
@@ -337,6 +370,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador se considera imbloqueable."
     },
     {
@@ -347,6 +381,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador, si no es destruido después de atacar, vuelve a la línea de defensa."
     },
     {
@@ -357,6 +392,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "El portador intercambia fuerza por su coste de Oro."
     },
     {
@@ -367,6 +403,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Cada jugador roba una carta extra en su turno."
     },
     {
@@ -377,6 +414,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Los jugadores sólo pueden jugar un talismán cada turno."
     },
     {
@@ -387,6 +425,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Descarta una carta de tu mano y genera dos Oro (una vez por turno)."
     },
     {
@@ -397,6 +436,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Paga 3 de Oro y tu oponente se descarta de una carta de su mano (una vez por turno)."
     },
     {
@@ -407,6 +447,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes buscar una carta de licántropo en tu Mazo y ponerla en tu mano."
     },
     {
@@ -417,6 +458,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Destruye un licántropo que controles y gana + 1 de fuerza."
     },
     {
@@ -427,6 +469,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede atacar el turno en que es puesto en juego."
     },
     {
@@ -437,6 +480,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga uno de Oro y un Aliado oponente a tu elección, debe atacar el próximo turno."
     },
     {
@@ -447,6 +491,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Si es destruido en combate, el oponente se descarta de una carta de su mano."
     },
     {
@@ -457,6 +502,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Al atacar, destruye una carta de Oro que controles y gana + 1 de fuerza por el turno."
     },
     {
@@ -467,6 +513,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "El vampiro que lo bloquea pierde uno de fuerza por el turno."
     },
     {
@@ -477,6 +524,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Sólo puede bloquear."
     },
     {
@@ -487,6 +535,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entre en juego tu oponente descarta una carta de su Castillo."
     },
     {
@@ -497,6 +546,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando ataca este Aliado gana + 1 a la fuerza."
     },
     {
@@ -507,6 +557,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes ver la mano de tu oponente."
     },
     {
@@ -517,6 +568,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Puede bloquear a más de un Aliado oponente hasta agotar su fuerza."
     },
     {
@@ -527,6 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Jugar cartas de Licántropo cuesta 1 Oro menos mientras este Tótem esté en juego."
     },
     {
@@ -537,6 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos los Aliados que lleven armas no pueden bloquear mientras este Tótem esté en juego."
     },
     {
@@ -547,6 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Antes de atacar, tu oponente debe destruir un Aliado que controle mientras este Tótem esté en juego."
     },
     {
@@ -557,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes buscar un Talismán en el Castillo de tu oponente y botarlo al cementerio junto con todas las copias de esta."
     },
     {
@@ -567,6 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Solo una vez por juego: nombra un Talismán, tu oponente no podrá utilizarlo por esta partida."
     },
     {
@@ -577,6 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Solo por este turno genera 2 oros virtuales para poner en juego vampiros."
     },
     {
@@ -587,6 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Solo por este turno genera 2 oros virtuales para poner en juego licantropos."
     },
     {
@@ -597,6 +656,7 @@
         "race": "Vampiro",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Gana + 1 de fuerza por cada vampiro en juego."
     },
     {
@@ -607,6 +667,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego puedes buscar 2 oros en tu cementerio y ponerlos en tu mano."
     },
     {
@@ -617,6 +678,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Tus vampiros destruidos en este turno vuelven a la linea de defensa."
     },
     {
@@ -627,6 +689,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Puede llevar un arma pagando 2 menos de oro."
     },
     {
@@ -637,6 +700,7 @@
         "race": "Licántropo",
         "attack": 12,
         "cost": 10,
+        "strategy": "",
         "ability": "No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio."
     },
     {
@@ -647,6 +711,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Todos los jugadores descrtan una carta de su mano al azar."
     },
     {
@@ -657,6 +722,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos los Aliados oponentes deben atacar el proximo turno."
     },
     {
@@ -667,6 +733,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Un vampiro oponente no hace daño al atacar en este turno."
     },
     {
@@ -677,6 +744,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Los vampiros no hacen daño en este turno."
     },
     {
@@ -687,6 +755,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un Aliado duplica su fuerza y al final del turno debe ser destruido."
     },
     {
@@ -697,6 +766,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
+        "strategy": "",
         "ability": "Destruye dos cartas de Oro de tu oponente."
     },
     {
@@ -707,6 +777,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Destruye una carta de oro que controles y roba una carta de tu Mazo."
     },
     {
@@ -717,6 +788,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Descarta una carta de tu mano y mira la mano de tu oponente."
     },
     {
@@ -727,6 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Destruye un arma o Tótem en juego."
     },
     {
@@ -737,6 +810,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador gana +3 a la fuerza. Si ataca es destruido al final del turno."
     },
     {
@@ -747,6 +821,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si su portador es destruido, es barajado en su Mazo y el arma destruida."
     },
     {
@@ -757,6 +832,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador no puede atacar o bloquear."
     },
     {
@@ -767,6 +843,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Si el portador ataca es destruido al final del turno."
     },
     {
@@ -777,6 +854,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador gana + 1 de fuerza por cada carta en la mano de tu oponente."
     },
     {
@@ -787,6 +865,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador se considera un vampiro."
     },
     {
@@ -797,6 +876,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Su portador no puede ser bloqueado por vampiros."
     },
     {
@@ -807,6 +887,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga un oro y un vampiro de tu oponente no puede atacar en su turno."
     },
     {
@@ -817,6 +898,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Paga dos oros y destruye un Tótem oponente (una vez por turno)."
     },
     {
@@ -827,6 +909,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Paga 3 oros y tu oponente devuelve una carta que tenga en juego que tú elijas a su mano (una vez por turno)."
     },
     {
@@ -837,6 +920,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga un oro y anula la habilidad de todas las armas en juego (una vez por turno)."
     },
     {
@@ -847,6 +931,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga un oro y destruye un arma oponente (una vez por turno)."
     },
     {
@@ -857,6 +942,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Tus Aliados ganan +1 de fuerza cuando defienden."
     },
     {
@@ -867,6 +953,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si ataca y hace daño a un Castillo, destruye un Tótem a elección."
     },
     {
@@ -877,6 +964,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -887,6 +975,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -897,6 +986,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -907,6 +997,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -917,6 +1008,7 @@
         "race": "",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -927,6 +1019,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes ver la siguiente carta de algún Mazo."
     },
     {
@@ -937,6 +1030,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -947,6 +1041,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -957,6 +1052,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -967,6 +1063,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -977,6 +1074,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -987,6 +1085,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -997,6 +1096,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1007,6 +1107,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1017,6 +1118,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1027,6 +1129,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1037,6 +1140,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Si algún turno ataca o bloquea, destrúyelo al final de ese turno."
     },
     {
@@ -1047,6 +1151,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca, debe ser acompañado por un Aliado"
     },
     {
@@ -1057,6 +1162,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Al entrar en juego, destruye una de tus cartas Oro."
     },
     {
@@ -1067,6 +1173,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Para entrar en juego, descarta 2 cartas de tu mano."
     },
     {
@@ -1077,6 +1184,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Si hace daño al Castillo del oponente, éste destruye un Aliado en juego."
     },
     {
@@ -1087,6 +1195,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "No puede ser bloqueado por caballeros."
     },
     {
@@ -1097,6 +1206,7 @@
         "race": "Vampiro",
         "attack": 0,
         "cost": 4,
+        "strategy": "",
         "ability": "Tiene fuerza igual al número de cartas en la mano de tu oponente."
     },
     {
@@ -1107,6 +1217,7 @@
         "race": "Vampiro",
         "attack": 5,
         "cost": 4,
+        "strategy": "",
         "ability": "Si ataca, el proximo turno no puede volver a la linea de defensa."
     },
     {
@@ -1117,6 +1228,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1127,6 +1239,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1137,6 +1250,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1147,6 +1261,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1157,6 +1272,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Puede llevar dos armas."
     },
     {
@@ -1167,6 +1283,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si ataca y no es bloqueado, gana +1 de fuerza por el turno."
     },
     {
@@ -1177,6 +1294,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando bloquea, duplica su fuerza."
     },
     {
@@ -1187,6 +1305,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1197,6 +1316,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1207,6 +1327,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1217,6 +1338,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1227,6 +1349,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1237,6 +1360,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1247,6 +1371,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1257,6 +1382,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando bloquea, cambia su fuerza por su coste."
     },
     {
@@ -1267,6 +1393,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1277,6 +1404,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si ataca y no es bloqueado destruye un Oro de tu oponente."
     },
     {
@@ -1287,6 +1415,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Jugar un arma cuesta 1 oro mas mientras este Tótem esté en juego."
     },
     {
@@ -1297,6 +1426,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Elige un Aliado, él y sus copias ganan +1 a la fuerza mientras este Tótem esté en juego."
     },
     {
@@ -1307,6 +1437,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Los Aliados que lleven armas no pueden atacar mientras este Tótem esté en juego."
     },
     {
@@ -1317,6 +1448,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Tu oponente juega con su mano descubierta mientras este Tótem esté en juego."
     },
     {
@@ -1327,6 +1459,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Puedes buscar un Aliado en tu Castillo y ponerlo en tu linea de defensa. Al final del turno éste es destruido."
     },
     {
@@ -1337,6 +1470,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
+        "strategy": "",
         "ability": "Tu oponente descarta de su Castillo tantas cartas como tenga en su mano."
     },
     {
@@ -1347,6 +1481,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
+        "strategy": "",
         "ability": "Puedes buscar un oro en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -1357,6 +1492,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Un licantropo gana fuerza igual a su valor solo por el turno."
     },
     {
@@ -1367,6 +1503,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Genera 3 oros virtuales para jugar armas solamente por el turno."
     },
     {
@@ -1377,6 +1514,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "No puede ser bloqueado. Si no tienes otros vampiros en juego, destrúyelo al final del turno."
     },
     {
@@ -1387,6 +1525,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego destruye un oro de tu oponente."
     },
     {
@@ -1397,6 +1536,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "No puede ser bloqueado por caballeros."
     },
     {
@@ -1407,6 +1547,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Debe atacar cuando es puesto en juego."
     },
     {
@@ -1417,6 +1558,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si ataca debe ser bloqueado."
     },
     {
@@ -1427,6 +1569,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1437,6 +1580,7 @@
         "race": "Vampiro",
         "attack": 5,
         "cost": 5,
+        "strategy": "",
         "ability": "Puede llevar dor armas."
     },
     {
@@ -1447,6 +1591,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "El total de puntos de ataque de tu oponente se reduce a 4 y no pueden ser bloqueados."
     },
     {
@@ -1457,6 +1602,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1467,6 +1613,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1477,6 +1624,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1487,6 +1635,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego."
     },
     {
@@ -1497,6 +1646,7 @@
         "race": "Vampiro",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Mientras este Aliado esté en juego, su controlador debe descartarse de una carta de su mano al final de su turno."
     },
     {
@@ -1507,6 +1657,7 @@
         "race": "Licántropo",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1517,6 +1668,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Puede llevar 2 armas."
     },
     {
@@ -1527,6 +1679,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1537,6 +1690,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sólo puede ser bloqueado por licántropos."
     },
     {
@@ -1547,6 +1701,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Sólo puede bloquear."
     },
     {
@@ -1557,6 +1712,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Si ataca y hace daño al Castillo oponente, puedes destruirle un tótem a elección."
     },
     {
@@ -1567,6 +1723,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1577,6 +1734,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes destruirlo cuando desees; produce oro igual al número de licántropos que tengas en juego, sólo por el turno."
     },
     {
@@ -1587,6 +1745,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1597,6 +1756,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1607,6 +1767,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1617,6 +1778,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1627,6 +1789,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1637,6 +1800,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1647,6 +1811,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1657,6 +1822,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1667,6 +1833,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1677,6 +1844,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1687,6 +1855,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1697,6 +1866,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1707,6 +1877,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1717,6 +1888,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1727,6 +1899,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     },
     {
@@ -1737,6 +1910,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Sin Habilidad"
     }
 ]

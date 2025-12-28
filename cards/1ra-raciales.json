@@ -7,17 +7,8 @@
         "race": "Abominación",
         "attack": 6,
         "cost": 2,
+        "strategy": "",
         "ability": "Solo puede bloquear y no puede ser destruido por habilidades de Armas, Talismánes o Tótem."
-    },
-    {
-        "name": "Gigantes de Fuego",
-        "image_path": "https://api.myl.cl/static/cards/70/002.png",
-        "rarity": "Única",
-        "type": "Aliado",
-        "race": "Abominación",
-        "attack": 5,
-        "cost": 3,
-        "ability": "Cuando entra en juego, puedes ponerle un Arma sin pagar su coste. Al final del turno que ataque es destruido (Única)."
     },
     {
         "name": "Brokk",
@@ -27,6 +18,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es la primera carta de Aliado que pones en juego, podrás buscar dos cartas de Oro en tu Castillo y ponerlas en tu Mano."
     },
     {
@@ -37,6 +29,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras esté en juego, todas tus Abominaciónes despues de atacar vuelven a la linea de defensa y ganan + 1 a la fuerza permanentemente."
     },
     {
@@ -47,6 +40,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si está en el Cementerio puedes pagar dos de Oro y ponerlo en juego."
     },
     {
@@ -57,6 +51,7 @@
         "race": "Abominación",
         "attack": 10,
         "cost": 8,
+        "strategy": "",
         "ability": "Si está en tu Cementerio la puedes poner en juego pagando 4 de Oro y destruyendo un Aliado de fuerza 4 o superior."
     },
     {
@@ -67,27 +62,8 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 3,
+        "strategy": "",
         "ability": "Si ataca junto al Ejército Enano ellos ganan + 1 de fuerza. Imbloqueable."
-    },
-    {
-        "name": "Rugnir",
-        "image_path": "https://api.myl.cl/static/cards/70/008.png",
-        "rarity": "Promo",
-        "type": "Aliado",
-        "race": "Abominación",
-        "attack": 4,
-        "cost": 2,
-        "ability": "Siempre que bloquee a un Aliado oponente deberás buscar un Oro en tu Castillo y ponerlo en tu Mano."
-    },
-    {
-        "name": "Aegir",
-        "image_path": "https://api.myl.cl/static/cards/70/009.png",
-        "rarity": "Promo",
-        "type": "Aliado",
-        "race": "Abominación",
-        "attack": 2,
-        "cost": 3,
-        "ability": "Cuando entra en juego, baraja un Aliado oponente en juego en su Mazo Castillo."
     },
     {
         "name": "Troll",
@@ -97,6 +73,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes descartar una carta de tu mano para robar una carta de tu Mazo Castillo. Si descartaste una Abominación, puedes robar otra carta de tu Mazo Castillo."
     },
     {
@@ -107,6 +84,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes buscar una Abominación de coste 3 o menos en tu Cementerio y ponerlo en tu mano. Si juegas el Aliado buscado este turno, su coste de Oro se reduce en 1."
     },
     {
@@ -117,6 +95,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes mostrar una Abominación de tu mano para mirar las 3 primeras cartas de tu Mazo Castillo y ordenarlas. Puedes destruir este Oro para que un Aliado oponente pierda 1 a la fuerza hasta el final del turno."
     },
     {
@@ -127,6 +106,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Todos tus Bárbaros ganan + 2 de fuerza mientras esta carta esté en juego."
     },
     {
@@ -137,6 +117,7 @@
         "race": "Bárbaro",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, destruye un Aliado oponente."
     },
     {
@@ -147,6 +128,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, destruye un Aliado oponente de fuerza 4 o menos."
     },
     {
@@ -157,6 +139,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, destruye un Aliado oponente de fuerza 3 o menos."
     },
     {
@@ -167,6 +150,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si es destruida, puedes robar tres cartas de tu Castillo o puedes botar tres cartas del Castillo de tu oponente."
     },
     {
@@ -177,6 +161,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 1,
+        "strategy": "",
         "ability": "Si esta carta es bloqueada tu oponente deberá destruir un Aliado al Final del turno."
     },
     {
@@ -187,6 +172,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, la próxima carta Aliado que bajes a la linea de defensa te costará – 1 de Oro."
     },
     {
@@ -197,6 +183,7 @@
         "race": "Bárbaro",
         "attack": 4,
         "cost": 3,
+        "strategy": "",
         "ability": "Mientras esté en juego, todos tus Bárbaros después de atacar vuelven a la linea de defensa."
     },
     {
@@ -207,6 +194,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca, tu oponente debe botar dos cartas de su Castillo. Para evitar esta habilidad tu oponente debe descartarse de tres cartas de su Mano. (Imbloqueable. Carta Única)."
     },
     {
@@ -217,6 +205,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, busca un Bárbaro de fuerza 2 o menos en tu Castillo y ponlo en juego sin pagar su coste."
     },
     {
@@ -227,6 +216,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes buscar un Oro sin habilidad en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -237,6 +227,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Una vez por turno y si un Bárbaro de coste 3 o más entra en juego, puedes barajar un Bárbaro de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -247,6 +238,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, destruye 2 oros de tu oponente."
     },
     {
@@ -257,6 +249,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Paga uno de Oro y un Aliado oponente tiene fuerza cero hasta el final del turno."
     },
     {
@@ -267,6 +260,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Una vez por turno, paga uno de Oro y destruye un Aliado que tenga fuerza 1 o menos."
     },
     {
@@ -277,6 +271,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Para que entre en juego debes descartarte de una carta de tu mano (Imbloqueable)."
     },
     {
@@ -287,6 +282,7 @@
         "race": "Chamán",
         "attack": 4,
         "cost": 1,
+        "strategy": "",
         "ability": "Para entrar en juego bota al cementerio dos cartas de tu Castillo. (Imbloqueable. Carta Única)"
     },
     {
@@ -297,6 +293,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca y hace daño al Castillo oponente, puedes buscar un Chamán en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -307,6 +304,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes buscar un Tótem en tu Mazo Castillo y ponerlo en juego."
     },
     {
@@ -317,6 +315,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, busca un Tótem en tu cementerio y ponlo en juego."
     },
     {
@@ -327,6 +326,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Por cada Chamán que tengas en juego, este Chamán gana + 1 a la fuerza."
     },
     {
@@ -337,6 +337,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes barajar un Chamán o Tótem de tu Cementerio para robar 1 carta por cada Tótem que tengas en juego."
     },
     {
@@ -347,6 +348,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes descartar un Chamán de tu mano para buscar un Tótem en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -357,6 +359,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Si está en tu Reserva de Oros, puedes destruirlo y pagar 2 Oros para que tu oponente bote una carta por cada Tótem que tengas en juego."
     },
     {
@@ -367,6 +370,7 @@
         "race": "Dios",
         "attack": 0,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando Hodur entra en juego se convierte en una copia total de un Aliado oponente. Este es barajado en su Castillo y no podra ser jugado mientras Hodur esté en juego."
     },
     {
@@ -377,6 +381,7 @@
         "race": "Dios",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si algún jugador juega un Talismán puedes destruir esta carta y anular a dicho Talismán."
     },
     {
@@ -387,17 +392,8 @@
         "race": "Dios",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego, pero si lo hace descarta una carta de tu Mano."
-    },
-    {
-        "name": "Sif",
-        "image_path": "https://api.myl.cl/static/cards/70/040.png",
-        "rarity": "Promo",
-        "type": "Aliado",
-        "race": "Dios",
-        "attack": 2,
-        "cost": 2,
-        "ability": "Si es destruido, baraja un Aliado oponente en juego en su Mazo Castillo."
     },
     {
         "name": "Baldur",
@@ -407,6 +403,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Si es destruido, podrás buscar una carta en tu Castillo y ponerla en tu Mano."
     },
     {
@@ -417,6 +414,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 5,
+        "strategy": "",
         "ability": "Paga 4 de Oro y busca un Dios de fuerza 4 o menos en tu Castillo, luego ponlo en tu linea de defensa."
     },
     {
@@ -427,6 +425,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Si hace daño al Castillo oponente podrás descartarle a tu oponente una carta de su Mano."
     },
     {
@@ -437,6 +436,7 @@
         "race": "Dios",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes devolver de tu Cementerio un Dios de fuerza 3 o menos a tu Castillo."
     },
     {
@@ -447,6 +447,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 4,
+        "strategy": "",
         "ability": "Destruye un Oro que tengas en juego y gana + 2 de fuerza."
     },
     {
@@ -457,6 +458,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes destruir un Dios que controles para robar una carta."
     },
     {
@@ -467,6 +469,7 @@
         "race": "Dios",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Mientras Dellingr esté en juego y una vez por turno, si un Dios que controles sale del juego, tu oponente deberá barajar uno de sus Aliados en juego en su Mazo Castillo."
     },
     {
@@ -477,6 +480,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Si está en tu Reserva de Oros, puedes barajarlo en tu Mazo Castillo y destruir un Dios que controles para barajar tantas cartas de tu Cementerio como la fuerza del Dios barajado."
     },
     {
@@ -487,6 +491,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, reduce a cero el coste del próximo Licántropo que juegues este turno."
     },
     {
@@ -497,6 +502,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes buscar una carta de Licántropo en tu Mazo y ponerla en tu mano."
     },
     {
@@ -507,6 +513,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Cuando entra en juego, baraja tantas cartas de tu cementerio en tu Mazo Castillo como Licántropos controles."
     },
     {
@@ -517,6 +524,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 1,
+        "strategy": "",
         "ability": "Sólo puede bloquear."
     },
     {
@@ -527,6 +535,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Si tienes los 3 Cachorros en juego, el coste de los Licántropos se reduce a cero."
     },
     {
@@ -537,6 +546,7 @@
         "race": "Licántropo",
         "attack": 4,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca debe ser acompañado por dos Aliados."
     },
     {
@@ -547,6 +557,7 @@
         "race": "Licántropo",
         "attack": 12,
         "cost": 10,
+        "strategy": "",
         "ability": "No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio."
     },
     {
@@ -557,6 +568,7 @@
         "race": "Licántropo",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede llevar un arma pagando 2 menos de oro."
     },
     {
@@ -567,6 +579,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Puedes destruirlo para generar tantos Oros como Licántropos controles, hasta el final del turno."
     },
     {
@@ -577,6 +590,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "En tu Vigilia, puedes jugar a Gente Lunar desde tu cementerio. Cuando entra en juego, no puedes descartar cartas de tu mano hasta el final del turno."
     },
     {
@@ -587,6 +601,7 @@
         "race": "Licántropo",
         "attack": 4,
         "cost": 5,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes barajar 2 Aliados oponentes en juego. Luego, descarta 2 cartas de tu mano."
     },
     {
@@ -597,6 +612,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes mostrar un Licántropo de tu Mano para buscar un Licántropo en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -607,6 +623,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, destruye un oro de tu oponente."
     },
     {
@@ -617,6 +634,7 @@
         "race": "Vampiro",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Todos los Vampiros que controles ganan + 1 de fuerza cuando ataquen."
     },
     {
@@ -627,6 +645,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 0,
+        "strategy": "",
         "ability": "Al entrar en juego, destruye una de tus cartas Oro."
     },
     {
@@ -637,6 +656,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Si ataca y hace daño al Castillo de tu oponente, puedes buscar una carta de Vampiro y ponerla en tu mano."
     },
     {
@@ -647,6 +667,7 @@
         "race": "Vampiro",
         "attack": 0,
         "cost": 2,
+        "strategy": "",
         "ability": "Gana + 1 de fuerza por cada Vampiro en juego."
     },
     {
@@ -657,6 +678,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 3,
+        "strategy": "",
         "ability": "Si hace daño al Castillo del oponente, éste destruye un Aliado en juego."
     },
     {
@@ -667,6 +689,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Los Vampiros Aliados en juego ganan + 1 a la fuerza y no pueden ser bloqueados."
     },
     {
@@ -677,6 +700,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 1,
+        "strategy": "",
         "ability": "Cada vez que ataque genera 2 Oros virtuales solo por el turno."
     },
     {
@@ -687,6 +711,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Debe atacar cuando es puesto en juego."
     },
     {
@@ -697,6 +722,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego. No puede portar Armas de coste 2 o menos. Si hace daño al Castillo oponente, puedes barajar tantas cartas de tu Cementerio como daño haya hecho. Si lo haces, sube esta carta a tu mano al final del turno."
     },
     {
@@ -707,6 +733,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego. Cuando ataca, puedes elegir un Aliado oponente para que lo bloquee."
     },
     {
@@ -717,6 +744,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Si sólo controlas Vampiros, puedes pagar este Oro para que tu oponente bote una carta de su Mazo Castillo. Si esa carta es Aliado, baraja un Vampiro de tu Cementerio en tu Mazo Castillo."
     }
 ]

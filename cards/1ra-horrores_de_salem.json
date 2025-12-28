@@ -7,6 +7,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego. Cuando entra en juego, puedes mover hasta dos Aliados oponentes de la Línea de Defensa a la Línea de Ataque."
     },
     {
@@ -17,6 +18,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 4,
+        "strategy": "",
         "ability": "Sólo puedes tener un Silencio en juego. Cuando entra en juego, puedes desterrar un Aliado oponente de coste 3 o menos."
     },
     {
@@ -27,6 +29,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Imbloqueable. Cuando entra en juego, puedes buscar una carta en tu Mazo Castillo y ponerla en tu Cementerio."
     },
     {
@@ -37,6 +40,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Sólo puedes tener un Gran Coyote en juego. Cuando entra en juego, puedes barajar una carta en juego de coste 3 o menos en el Mazo Castillo de su dueño. Luego, descarta 2 cartas de tu Mano."
     },
     {
@@ -47,6 +51,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Imbloqueable. Cuando entra en juego, tu oponente descarta una carta de su Mano."
     },
     {
@@ -57,6 +62,7 @@
         "race": "Vampiro",
         "attack": 4,
         "cost": 4,
+        "strategy": "",
         "ability": "Sólo puedes tener un Hombre de Negro en juego. Cuando entra en juego, pon una carta oponente en juego de coste 3 o menos en la parte inferior del Castillo de su dueño."
     },
     {
@@ -67,6 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Única. Una carta en juego de coste 3 o menos pierde su habilidad y es barajada en el Mazo Castillo de su dueño."
     },
     {
@@ -77,6 +84,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Busca una carta en tu Mazo Castillo y ponla en tu Mano. Luego, destierra las 2 primeras cartas de tu Mazo Castillo."
     },
     {
@@ -87,6 +95,7 @@
         "race": null,
         "attack": null,
         "cost": null,
+        "strategy": "",
         "ability": "Si este Oro está en tu Reserva de Oros, puedes barajar este Oro en el Mazo Castillo de su dueño para que un Aliado oponente pierda 2 a la Fuerza y su habilidad hasta la Fase Final."
     },
     {
@@ -97,6 +106,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, puedes mostrar un Aliado de tu Mano para robar 2 cartas de tu Mazo Castillo."
     },
     {
@@ -107,6 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
+        "strategy": "",
         "ability": "Sólo puedes tener un Salem en juego. Una vez por turno, cuando tu oponente juegue un Aliado, debe descartar 1 carta de su Mano."
     },
     {
@@ -117,6 +128,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Sólo puedes tener un Mary Bradbury en juego. Los demás Cazadores declarados atacantes que controles ganan 1 a la Fuerza hasta la Fase Final."
     },
     {
@@ -127,6 +139,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 2,
+        "strategy": "",
         "ability": "Cuando es declarado atacante, gana 2 a la Fuerza hasta la Fase Final. Si hace daño al Mazo Castillo oponente, baraja 1 carta de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -137,6 +150,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Cada vez que sea declarado atacante o bloqueador tu oponente bota 2 cartas. Una vez por turno, puedes descartar 1 carta de tu Mano, para que no pueda ser destruido hasta la Fase Final."
     },
     {
@@ -147,6 +161,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 3,
+        "strategy": "",
         "ability": "Una vez por turno, puedes botar dos cartas de tu Mazo Castillo para que un Aliado oponente pierda 3 a la Fuerza hasta la Fase Final."
     },
     {
@@ -157,6 +172,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Descarta una carta de la Mano de tu oponente al azar. Luego, tu oponente bota tantas cartas como coste tenga la carta descartada."
     },
     {
@@ -167,6 +183,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
+        "strategy": "",
         "ability": "Una vez por turno, un Aliado en juego gana o pierde 1 a la Fuerza permanentemente. Si esta carta esta en tu Cementerio, puedes desterrar una carta de tu Cementerio para ponerla en tu Mano."
     },
     {
@@ -177,6 +194,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
+        "strategy": "",
         "ability": "Cuando entra en juego, baraja un Aliado de coste 2 o menos en el Mazo Castillo de su dueño. Al comienzo de cada Fase Final, puedes barajar una carta de tu Cementerio en tu Mazo Castillo"
     },
     {
@@ -187,6 +205,7 @@
         "race": "Licántropo",
         "attack": 1,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego. Gana 1 a la Fuerza por cada otro Licántropo que controles."
     },
     {
@@ -197,6 +216,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
+        "strategy": "",
         "ability": "Puede atacar cuando entra en juego."
     }
 ]

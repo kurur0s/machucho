@@ -7,7 +7,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "No puede ser bloqueado por Aliados de fuerza 3 o más. Cada vez que ataque, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu Mano."
     },
     {
@@ -18,7 +18,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando este Aliado salga del juego, puedes jugar una Criatura de coste 2 o menos desde tu Cementerio sin pagar su coste."
     },
     {
@@ -29,7 +29,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, nombra una carta en juego. Mientras este Aliado esté en juego, la carta nombrada pierde su habilidad."
     },
     {
@@ -40,7 +40,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes desterrar una carta de tu Cementerio para desterrar una carta del mismo tipo del Cementerio oponente."
     },
     {
@@ -51,7 +51,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una Aliado declarado atacante o bloqueador pierde su habilidad y 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -62,7 +62,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca un Aliado en tu Cementerio y ponlo en tu Mano. Si el Aliado buscado es una Criatura, puedes jugarlo reduciendo su coste en 2 Oros hasta la Fase Final."
     },
     {
@@ -73,7 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su coste en 2 Oros. Baraja una carta en juego que no sea Oro en el Mazo Castillo de su dueño."
     },
     {
@@ -84,7 +84,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Para jugar esta carta debes barajar un Xian que controles en el Mazo Castillo de su dueño. Busca una carta de coste 4 o menos en tu Cementerio y ponla en tu Mano."
     },
     {
@@ -95,7 +95,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si sólo controlas Campeones esta carta reduce su coste en 1 Oro. Busca hasta 2 Armas en tu Mazo Castillo y juégalas sin pagar su coste bajo 2 Aliados que controles."
     },
     {
@@ -106,7 +106,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tu oponente bota 3 cartas de su Mazo Castillo. Luego, si controlas Criaturas, tu oponente bota 1 carta de su Mazo Castillo."
     },
     {
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes desterrar un Kami de tu Mano para jugar esta carta reduciendo su coste en 2 Oros. Anula un Aliado."
     },
     {
@@ -128,7 +128,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca un Xian en tu Mazo Castillo y juégalo sin pagar su coste. Al comienzo de la Fase Final, destierra ese Aliado."
     },
     {
@@ -139,7 +139,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Los Campeones que controles ganan 1 a la fuerza hasta la Fase Final por cada Arma que controles."
     },
     {
@@ -150,7 +150,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Un Aliado que controles no puede salir del juego hasta la Fase Final. Si sólo controlas Criaturas, roba 1 carta de tu Mazo Castillo."
     },
     {
@@ -161,7 +161,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando juegues este Talismán, destiérralo. Busca una carta de coste 3 o menos en tu Mazo Castillo y ponla en tu Mano."
     },
     {
@@ -172,7 +172,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca un Tótem en tu Mazo Castillo de coste 3 o menos y ponlo en juego sin pagar su coste."
     },
     {
@@ -183,7 +183,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sólo puedes tener un Monte Wudang en juego. Al comienzo de la Fase de Vigilia oponente, una vez por turno, tu oponente destruye una carta que controle que no sea Oro."
     },
     {
@@ -194,7 +194,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador no puede ser destruido. Cuando entra en juego, busca un Aliado de coste 1 en tu Mazo Castillo y ponlo en juego sin pagar su coste."
     },
     {
@@ -205,7 +205,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Oro está en tu Reserva de Oros, puedes desterrarlo para buscar un Oro en tu Cementerio y ponerlo en tu Reserva de Oros."
     },
     {
@@ -216,7 +216,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Única. Prevén que un Aliado que controles salga del juego. Luego, baraja una carta de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -227,7 +227,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca una carta que no sea Oro en el Mazo Castillo oponente y destiérrala."
     },
     {
@@ -238,7 +238,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, tus demás Campeones ganan 2 a la fuerza permanentemente."
     },
     {
@@ -249,7 +249,7 @@
         "race": "Criaturas",
         "attack": 5,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Para que pueda atacar debes pagar 1 Oro."
     },
     {
@@ -260,7 +260,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Los Aliados declarados atacantes que no son bloqueados tienen 1 a la Fuerza hasta la Fase Final."
     },
     {
@@ -271,7 +271,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta dos veces por turno, puedes barajar un Talismán de tu Mano para robar dos cartas de tu Mazo Castillo."
     },
     {
@@ -282,7 +282,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -293,7 +293,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -304,7 +304,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -315,7 +315,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -326,7 +326,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -337,7 +337,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -348,7 +348,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -359,7 +359,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -370,7 +370,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -381,7 +381,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -392,7 +392,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -403,7 +403,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     }
 ]

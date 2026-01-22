@@ -7,8 +7,8 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
-        "ability": "Cuando entra en juego elige un Aliado oponente y cualquier efecto o habilidad que reciba uno de estos Aliados automaticamente lo que recibe el otro."
+        "strategy": ["Mímica"],
+        "ability": "Cuando entra en juego elige un Aliado oponente y cualquier efecto o habilidad que reciba uno de estos Aliados automaticamente lo recibe el otro."
     },
     {
         "name": "Sengen",
@@ -18,7 +18,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Robar"],
         "ability": "Cuando entra en juego este Kami, puedes tomar hasta 8 cartas de tu Mano y barajarlas con tu Castillo, para luego robar el mismo numero de cartas."
     },
     {
@@ -29,7 +29,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Puedes descartarte de una carta de tu Mano y este Aliado gana un bono de fuerza igual al coste en Oro de la carta descartada. Una vez por turno."
     },
     {
@@ -40,7 +40,7 @@
         "race": "Kami",
         "attack": 6,
         "cost": 6,
-        "strategy": "",
+        "strategy": ["Imbloqueable", "Maestro de Armas"],
         "ability": "Imbloqueable. No tiene limite de Armas."
     },
     {
@@ -51,7 +51,7 @@
         "race": "Kami",
         "attack": 5,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Intensificar Raza", "Torreón"],
         "ability": "Mientra este en juego todos tus Kami ganan + 1 de fuerza y pueden bloquear hasta dos Aliados oponentes."
     },
     {
@@ -62,7 +62,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Inmunidad"],
         "ability": "Mientras este Kami este en juego, tus demas Kami no pueden ser afectados por Talismánes en batalla mitologica."
     },
     {
@@ -73,7 +73,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Sacrificio"],
         "ability": "Para entrar en juego debes descartar una carta de tu Mano."
     },
     {
@@ -84,7 +84,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Intensificar Raza"],
         "ability": "Por cada Kami que tengas en juego gana + 1 a la fuerza."
     },
     {
@@ -95,7 +95,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Torreón"],
         "ability": "Todos tus Kami despues de atacar vuelven a la linea de defensa, mientras este en juego este Aliado."
     },
     {
@@ -106,7 +106,7 @@
         "race": "Kami",
         "attack": 0,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Todos tus turnos gana + 2 a la fuerza permanentemente."
     },
     {
@@ -117,7 +117,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Reciclaje"],
         "ability": "Una vez en tu turno y en la fase de reagrupar podras barajar una carta de tu Cementerio con tu Castillo."
     },
     {
@@ -128,7 +128,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Buscar"],
         "ability": "Una vez en tu turno, cuando reagrupes busca dos Talismánes identicos en tu Mazo Castillo y ponlos en tu Mano."
     },
     {
@@ -139,7 +139,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Barajar"],
         "ability": "Cuando entra en juego puedes elegir de tu oponente una carta de Aliado de fuerza 2 o menos y barajala en su Mazo."
     },
     {
@@ -150,7 +150,7 @@
         "race": "Xian",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Barajar", "Descartar"],
         "ability": "Cuando entra en juego puedes elegir de tu oponente una carta de Aliado de fuerza 6 o menos y barajarla en su Mazo; luego tu oponente se descarta de una carta de su Mano."
     },
     {
@@ -161,7 +161,7 @@
         "race": "Xian",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Disrupción"],
         "ability": "Cuando juegues este Xian puedes poner hasta 5 cartas debajo de este Aliado y podras jugarlas como si estuvieran en tu Mano."
     },
     {
@@ -172,7 +172,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Destruye este Xian para destruir a todos los Aliados que tengan la misma fuerza que el."
     },
     {
@@ -183,7 +183,7 @@
         "race": "Xian",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Imbloqueable"],
         "ability": "En batalla mitologica puedes descartar una carta de tu Castillo para que este Aliado sea imbloqueable."
     },
     {
@@ -194,7 +194,7 @@
         "race": "Xian",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Porvenir", "Buscar"],
         "ability": "Despues de reagrupar puedes ver la Mano de tu oponente o pagar uno de Oro para buscar una carta de Oro de tu Mazo Castillo y ponerla en tu Mano."
     },
     {
@@ -205,7 +205,7 @@
         "race": "Xian",
         "attack": 0,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Mímica"],
         "ability": "Antes de entrar en juego nombra un Xian que tengas en juego y este entra en juego como dicho Xian."
     },
     {
@@ -216,7 +216,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": ["Destierro"],
         "ability": "Cuando entra en juego, busca una carta en el Castillo oponente que no sea un Oro y destierrala."
     },
     {
@@ -227,7 +227,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Una vez por turno cada vez que bloquee a un Aliado oponente paga uno de Oro y este Xian tendra uno mas de fuerza que el Aliado que esta atacando."
     },
     {
@@ -238,7 +238,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "Una vez por turno paga un Oro y una carta en juego pierde todas sus habilidades por este turno."
     },
     {
@@ -249,7 +249,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Raza"],
         "ability": "Cuando entra en juego tus demas Campeones ganan + 2 a la fuerza por el resto del juego."
     },
     {
@@ -260,8 +260,8 @@
         "race": "Campeón",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
-        "ability": "Cuando entra en juego toma las tres cartas superiores y barajalas con tu Castillo."
+        "strategy": ["Reciclaje"],
+        "ability": "Cuando entra en juego toma las tres cartas superiores de tu cementerio y barajalas con tu Castillo."
     },
     {
         "name": "Yagyu Jubei",
@@ -271,7 +271,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Maestro de Armas", "Imbloqueable"],
         "ability": "Puede portar dos Katanas; si lo hace es imbloqueable."
     },
     {
@@ -282,7 +282,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Buscar", "Robar"],
         "ability": "Cuando entra en juego elige entre buscar un Campeon en tu Castillo o robar dos cartas de tu Castillo."
     },
     {
@@ -293,7 +293,7 @@
         "race": "Campeón",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Imbloqueable"],
         "ability": "Puede bloquear cartas imbloqueables."
     },
     {
@@ -304,7 +304,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Destierro"],
         "ability": "Mientras este Campeon este en juego todos los Talismánes que se jueguen seran desterrados."
     },
     {
@@ -315,7 +315,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Maestro de Armas", "Imbloqueable"],
         "ability": "Puede portar dos Katanas; si lo hace es imbloqueable."
     },
     {
@@ -326,7 +326,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Si ataca gana + 2 a la fuerza hasta el final del turno."
     },
     {
@@ -337,7 +337,7 @@
         "race": "Campeón",
         "attack": 5,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Afectar Oros"],
         "ability": "Para que pueda atacar paga dos de Oro."
     },
     {
@@ -348,7 +348,7 @@
         "race": "Campeón",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Paga uno de Oro y destruye un Aliado oponente que sea Imbloqueable."
     },
     {
@@ -359,7 +359,7 @@
         "race": "Campeón",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "Cuando entra en juego elige un nivel de fuerza; los Aliados oponentes que tengan esa fuerza no podran bloquear a este Campeon. Esta carta no se considera imbloqueable."
     },
     {
@@ -370,7 +370,7 @@
         "race": "Criaturas",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Generar Oros"],
         "ability": "En batalla mitologica genera dos Oros virtuales para jugar habilidades de Criaturas."
     },
     {
@@ -381,7 +381,7 @@
         "race": "Criaturas",
         "attack": 0,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Imbloqueable", "Necromancia", "Buscar"],
         "ability": "Imbloqueable, cuando entra en juego puedes buscar una copia de esta Criatura del Cementerio o Castillo y ponerla en juego."
     },
     {
@@ -392,7 +392,7 @@
         "race": "Criaturas",
         "attack": 6,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Mientras este Aliado este en juego siempre que juegues una Criatura descarta una carta al azar de la Mano de tu oponente."
     },
     {
@@ -403,7 +403,7 @@
         "race": "Criaturas",
         "attack": 5,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Furia"],
         "ability": "No puede bloquear."
     },
     {
@@ -414,7 +414,7 @@
         "race": "Criaturas",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Reciclaje"],
         "ability": "En batalla mitologica paga uno de Oro hasta dos veces y baraja con tu Castillo la carta que desees de tu Cementerio."
     },
     {
@@ -425,7 +425,7 @@
         "race": "Criaturas",
         "attack": 5,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Afectar Oros"],
         "ability": "Para atacar paga 1 de Oro."
     },
     {
@@ -436,7 +436,7 @@
         "race": "Criaturas",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Porvenir"],
         "ability": "Si ataca y no es bloqueada mira la Mano de tu oponente."
     },
     {
@@ -447,7 +447,7 @@
         "race": "Criaturas",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Imbloqueable"],
         "ability": "Paga dos de Oro y un Aliado bajo tu control sera imbloqueable por este turno."
     },
     {
@@ -458,7 +458,7 @@
         "race": "Criaturas",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Reciclaje", "Robar"],
         "ability": "Una vez por turno y en tu fase de reagrupar, baraja una carta de tu Cementerio con tu Castillo o roba una carta de tu Mazo Castillo."
     },
     {
@@ -469,7 +469,7 @@
         "race": "Criaturas",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Paga uno de Oro y este Aliado gana + 1 de fuerza."
     },
     {
@@ -480,7 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Decimar", "Descartar", "Disrupción"],
         "ability": "Al jugar este Talismán tu eliges entre destruir todos los Aliados en juego o que todos los jugadores se descarten de su Mano."
     },
     {
@@ -491,7 +491,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Reciclaje"],
         "ability": "Puedes barajar de tu Cementerio con tu Castillo tantas cartas como Oros tenga tu oponente en juego."
     },
     {
@@ -502,7 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": ["Anulación"],
         "ability": "Juega esta carta en respuesta a que entre en juego un Aliado oponente que afecte los Oros. Este Aliado entrara en juego sin su habilidad."
     },
     {
@@ -513,7 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": ["Buscar"],
         "ability": "Si tienes en juego un Xian busca un Talismán en tu Castillo, muestralo a tu oponente y ponlo en tu Mano."
     },
     {
@@ -524,8 +524,8 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
-        "ability": "En respuesta a si durante el juego tienes, despues de resolverse, el daño en tu Castillo, menos de 3 cartas, baraja tu Cementerio con tu Castillo."
+        "strategy": ["Reciclaje"],
+        "ability": "En respuesta a si durante el juego tienes, despues de resolver el daño en tu Castillo, menos de 3 cartas, baraja tu Cementerio con tu Castillo."
     },
     {
         "name": "Kage Bun Shin No Jutsu",
@@ -535,7 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Imbloqueable"],
         "ability": "Si todos tus Aliados en juego son de la misma raza son imbloqueables por este turno."
     },
     {
@@ -546,7 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Imbloqueable", "Intensificar Fase"],
         "ability": "Todas tus cartas pueden bloquear cartas imbloqueables y ganan + 2 a la fuerza por este turno."
     },
     {
@@ -557,7 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Daño 0", "Sacrificio"],
         "ability": "Todo el daño que recibiria tu Castillo lo recibe un Aliado que tengas en juego."
     },
     {
@@ -568,7 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Asedio"],
         "ability": "Tu oponente bota de su Castillo las cuatro cartas superiores. Este Talismán no puede ser anulado."
     },
     {
@@ -579,7 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Asedio"],
         "ability": "Tu oponente bota de su Mazo tantas cartas como cartas de Oro tenga en juego."
     },
     {
@@ -590,7 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Tu oponente se descarta de toda su Mano (única)."
     },
     {
@@ -601,7 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Por este turno, un Aliado en juego gana + 1 de fuerza por cada carta de Oro que tengas en juego."
     },
     {
@@ -612,7 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": ["Decimar", "Disrupción"],
         "ability": "Juegas un turno extra o destruye dos cartas oponentes en juego a tu eleccion."
     },
     {
@@ -623,7 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": ["Reducir Costo", "Inmunidad"],
         "ability": "La siguiente carta que juegues tendra costo cero y no podra ser anulada."
     },
     {
@@ -634,7 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": ["Generar Oros"],
         "ability": "Una carta de Oro genera el doble por este turno."
     },
     {
@@ -645,7 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Descarta una carta de tu Mano para que tu oponente se descarte de dos cartas de su Mano; esta carta no puede ser anulada."
     },
     {
@@ -656,7 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Asedio"],
         "ability": "Al terminar este turno si no atacas bota 4 cartas del Castillo oponente."
     },
     {
@@ -667,7 +667,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Inmunidad"],
         "ability": "En respuesta a jugar un Talismán, evitas que este vaya al Cementerio despues de ser jugado. Este Talismán no puede ser nuevamente jugado en este turno."
     },
     {
@@ -678,8 +678,8 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
-        "ability": "Busca una carta en el Castillo oponente que no sea oro y destierrala."
+        "strategy": ["Asedio", "Destierro"],
+        "ability": "Busca una carta en el Castillo oponente que no sea Oro y destierrala."
     },
     {
         "name": "Kage Gakure Jutsu",
@@ -689,7 +689,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Asedio", "Destierro", "Robar"],
         "ability": "Busca dos cartas en el Castillo oponente y destierralas, luego roba una carta."
     },
     {
@@ -700,7 +700,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Disrupción"],
         "ability": "Los jugadores no pueden robar cartas al finalizar su turno."
     },
     {
@@ -711,7 +711,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Inmunidad"],
         "ability": "Los Talismánes que descarten o boten cartas no pueden ser anulados por tu oponente."
     },
     {
@@ -722,7 +722,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Buscar", "Asedio"],
         "ability": "Una vez en tu turno, paga dos de Oro y busca una carta en tu Castillo y ponla en tu Mano. Despues tu oponente bota una carta de su Castillo."
     },
     {
@@ -733,7 +733,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Paga tres de Oro y destruye todas las cartas en juego."
     },
     {
@@ -744,7 +744,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Imbloqueable"],
         "ability": "Su portador no puede ser bloqueado. Este Aliado no se considera imbloqueable para efectos en juego."
     },
     {
@@ -755,7 +755,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "Quien bloquee este Aliado pierde 5 a la fuerza."
     },
     {
@@ -766,7 +766,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Maestro de Armas", "Asedio"],
         "ability": "Su portador debe atacar todos los turnos o su controlador descarta tres cartas de su Castillo."
     },
     {
@@ -777,7 +777,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Maestro de Armas", "Intensificar"],
         "ability": "Su portador gana + 1 a la fuerza por cada Arma en juego. Destruye esta Arma antes de jugar un Talismán y este no podra ser anulado; su portador gana + 2 a la fuerza permanentemente."
     },
     {
@@ -788,7 +788,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Maestro de Armas", "Intensificar Raza"],
         "ability": "Si su portador es un Campeon-Samurai gana + 5 a la fuerza; de no ser asi, su portador gana + 2 a la fuerza. Puedes tener mas de 3 copias de esta carta."
     },
     {
@@ -799,7 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Intensificar", "Buscar"],
         "ability": "Su portador gana + 2 a la fuerza. Si este es Guan Yu, ademas una vez por turno pagando 2 de Oro busca una carta en tu Mazo Castillo y ponla en tu Mano."
     },
     {
@@ -810,7 +810,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Debilitar Fase"],
         "ability": "Su portador tiene fuerza cero."
     },
     {
@@ -821,7 +821,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Raza"],
         "ability": "Cada Kami gana + 1 de fuerza mientras este Aliado este en juego."
     },
     {
@@ -832,7 +832,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Buscar"],
         "ability": "Cuando este Aliado entre en juego podras buscar una carta en tu Castillo y ponerla en tu Mano."
     },
     {
@@ -843,7 +843,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Blanquear"],
         "ability": "Cuando este Aliado entre en juego podras devolver a la Mano de su propietario una carta a tu eleccion (esta carta no afecta Oros en juego)."
     },
     {
@@ -854,7 +854,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Cuando entra en juego, tu oponente destruye un Tótem a tu eleccion."
     },
     {
@@ -865,7 +865,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Cuando entra en juego envia al Cementerio un Aliado oponente que no porte un Arma, a eleccion."
     },
     {
@@ -876,7 +876,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Reciclaje"],
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio a tu Castillo un Campeon."
     },
     {
@@ -887,7 +887,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Destruye este Kami para que tus Aliados ganen + 2 a la fuerza por este turno."
     },
     {
@@ -898,7 +898,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Imbloqueable", "Descartar"],
         "ability": "Imbloqueable. Cuando se resuelva el dano, y si este Aliado hace daño al Castillo oponente, podras elegir entre descartar dos cartas de la Mano oponente al azar o bien botar las cartas del daño efectuado."
     },
     {
@@ -909,7 +909,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Por cada Tótem que tengas en juego este Kami gana + 2 a la fuerza."
     },
     {
@@ -920,7 +920,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Torreón"],
         "ability": "Solo puede bloquear. Cuando bloquea gana + 3 a la fuerza hasta el final del turno."
     },
     {
@@ -931,7 +931,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Generar Oros"],
         "ability": "En la batalla mitologica otorga 3 Oros virtuales para jugar Talismánes."
     },
     {
@@ -942,7 +942,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Mímica"],
         "ability": "Cuando entra en juego este Xian tendra la habilidad de un Tótem que este en tu linea de apoyo por el resto del juego."
     },
     {
@@ -953,8 +953,8 @@
         "race": "Xian",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
-        "ability": "Cuando entra en juego puedes elegir de tu oponente una carta de 7 y barajala en su Mazo."
+        "strategy": ["Barajar", "Afectar Oros"],
+        "ability": "Cuando entra en juego puedes elegir de tu oponente una carta de oro con habilidad y barajala en su Mazo."
     },
     {
         "name": "Kuei Xing",
@@ -964,7 +964,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Blanquear"],
         "ability": "Cuando entra en juego, tu oponente sube a su Mano una carta de Aliado en juego que tu elijas."
     },
     {
@@ -975,7 +975,7 @@
         "race": "Xian",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": ["Blanquear"],
         "ability": "Cuando este Xian entra en juego tu oponente sube a su Mano dos cartas que tenga en juego."
     },
     {
@@ -986,7 +986,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Generar Oros"],
         "ability": "En batalla mitologica genera tres Oros virtuales para jugar Talismánes."
     },
     {
@@ -997,7 +997,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Torreón"],
         "ability": "Este Xian puede bloquear a dos Aliados a la vez y recibe todo el daño del ataque de tu oponente. Puedes descartar tres cartas de tu Castillo para que este Aliado no reciba daño en combate."
     },
     {
@@ -1008,7 +1008,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Mímica"],
         "ability": "Cuando entra en juego este Xian tendra la habilidad de uno de tus Oros en juego permanentemente."
     },
     {
@@ -1019,7 +1019,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Porvenir", "Descartar"],
         "ability": "Cuando entra en juego nombra una carta que no sea un Oro. Tu oponente muestra su Mano y se descarta de esa carta."
     },
     {
@@ -1030,7 +1030,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Descartar", "Asedio"],
         "ability": "Para entrar en juego tu oponente se descarta de dos cartas de su Mano o bota una de su Castillo."
     },
     {
@@ -1041,7 +1041,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Reducir Costo"],
         "ability": "Por cada Xian en juego, te cuesta uno menos de Oro jugar a este Xian."
     },
     {
@@ -1052,7 +1052,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Si es bloqueado, tu oponente se descarta de dos cartas de su Mano."
     },
     {
@@ -1063,7 +1063,7 @@
         "race": "Campeón",
         "attack": 0,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Descartar", "Imbloqueable"],
         "ability": "Cada vez que no sea bloqueado este Aliado, tu oponente se descarta de tres cartas."
     },
     {
@@ -1074,7 +1074,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Reciclaje"],
         "ability": "Cuando entra en juego puedes devolver de tu Cementerio a tu Castillo un Campeon. Luego baraja tu Castillo."
     },
     {
@@ -1085,7 +1085,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Raza"],
         "ability": "Mientras este Campeon este en juego todos tus demas Campeones ganan + 1 de fuerza."
     },
     {
@@ -1096,7 +1096,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Inmunidad"],
         "ability": "Mientras este en juego este Campeon, tus demas Campeones no seran afectados por Talismánes en batalla mitologica."
     },
     {
@@ -1107,7 +1107,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al final de tu turno, si todos los Aliados que tienes en juego no son Campeones destruye este Aliado."
     },
     {
@@ -1118,7 +1118,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Robar"],
         "ability": "Al final de tu turno si este Campeon esta en juego podras robar una carta extra."
     },
     {
@@ -1129,7 +1129,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Descartar", "Asedio"],
         "ability": "Cada turno que no sea declarado atacante, tu oponente elige entre descartarse de una carta de su Mano o botar de su Castillo una carta."
     },
     {
@@ -1140,8 +1140,8 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
-        "ability": "Paga tres de Oro y un Aliado oponente no podrA utilizar sus habilidades de texto en batalla mitológica."
+        "strategy": ["Manipular"],
+        "ability": "Paga tres de Oro y un Aliado oponente no podrá utilizar sus habilidades de texto en batalla mitológica."
     },
     {
         "name": "Shiro Amakusa",
@@ -1151,7 +1151,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Anulación"],
         "ability": "Destruye un Aliado para anular la habilidad jugada por un Aliado oponente."
     },
     {
@@ -1162,7 +1162,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Torreón"],
         "ability": "Puede bloquear a dos Aliados atacantes."
     },
     {
@@ -1173,7 +1173,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Torreón"],
         "ability": "Cuando asignes el bloqueo, paga uno de Oro y bloquea a un Aliado extra."
     },
     {
@@ -1184,7 +1184,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Reciclaje"],
         "ability": "Cuando entra en juego podras barajar en tu Castillo hasta dos Aliados de tu Cementerio. Luego baraja tu Castillo."
     },
     {
@@ -1195,7 +1195,7 @@
         "race": "Criaturas",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Buscar"],
         "ability": "Cuando entra en juego puedes buscar una copia de esta Criatura en tu Castillo o Cementerio y ponerla en tu Mano."
     },
     {
@@ -1206,7 +1206,7 @@
         "race": "Criaturas",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Barajar"],
         "ability": "Puedes destruir esta Aliado para barajar en su Castillo un Aliado oponente en juego."
     },
     {
@@ -1217,7 +1217,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Puedes destruir este Aliado para darle + 3 a la fuerza a un Aliado en juego."
     },
     {
@@ -1228,7 +1228,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Imbloqueable", "Robar"],
         "ability": "Si hace daño al Mazo Castillo oponente, puedes robar una carta."
     },
     {
@@ -1239,7 +1239,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Intensificar"],
         "ability": "Paga tres Oro y gana + 1 de fuerza permanentemente."
     },
     {
@@ -1250,7 +1250,7 @@
         "race": "Criaturas",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "En batalla mitologica destruye este Aliado para que todas tus demas Criaturas ganen + 2 a la fuerza por este turno."
     },
     {
@@ -1261,7 +1261,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": ["Robar"],
         "ability": "Cada vez que ataque puedes robar una carta de tu Castillo."
     },
     {
@@ -1272,7 +1272,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Robar"],
         "ability": "Si es bloqueado roba una carta de tu Castillo."
     },
     {
@@ -1283,7 +1283,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Destierro"],
         "ability": "Si es destruido destierra tres cartas del Cementerio oponente que tu elijas."
     },
     {
@@ -1294,7 +1294,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Anulación"],
         "ability": "Anulas una carta jugada por tu oponente, a menos que este se descarte de dos cartas de su Castillo."
     },
     {
@@ -1305,7 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Cada uno de tus Aliados gana por este turno un bono de fuerza igual al numero de cartas que tengas en tu Mano."
     },
     {
@@ -1316,7 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "Elige un Oro oponente, este pierde todas sus habilidades de texto y luego destruyelo."
     },
     {
@@ -1327,7 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Señala tres cartas de tu oponente en juego, dos que permanecen en juego y la otra va al Cementerio."
     },
     {
@@ -1338,7 +1338,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Tu oponente manda al Cementerio dos cartas que tenga en juego."
     },
     {
@@ -1349,7 +1349,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Daño 0"],
         "ability": "En respuesta a declarar un ataque, juega esta carta y cancelas todo el ataque de tu oponente."
     },
     {
@@ -1360,7 +1360,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "En respuesta a declarar a un Aliado atacante en juego, juega esta carta y cancela su habilidad de texto por este turno."
     },
     {
@@ -1371,7 +1371,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Anulación"],
         "ability": "Por este turno el siguiente Talismán que se juegue sera anulado."
     },
     {
@@ -1382,7 +1382,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Anulación"],
         "ability": "Juega este Talismán en respuesta a que una carta oponente utilice su habilidad de texto. La cancelas por este turno."
     },
     {
@@ -1393,7 +1393,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Busca una carta de Aliado en el Castillo oponente y destierrala."
     },
     {
@@ -1404,7 +1404,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Robar", "Destierro"],
         "ability": "Roba tres cartas de tu Castillo, muestralas a tu oponente y este destierra dos de esas cartas y la otra queda en tu Mano."
     },
     {
@@ -1415,7 +1415,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Imbloqueable"],
         "ability": "En respuesta a jugar un Aliado, este se considera imbloqueable, puede atacar en este turno y es destruido al final del turno."
     },
     {
@@ -1426,7 +1426,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Anulación"],
         "ability": "En respuesta a que tu declares un ataque, el siguiente Talismán que juegue tu oponente en este turno sera anulado."
     },
     {
@@ -1437,7 +1437,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Juega esta carta en respuesta a que tu oponente juegue un Aliado, descarta una carta de tu oponente al azar."
     },
     {
@@ -1448,7 +1448,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Disrupción"],
         "ability": "En el proximo turno tu oponente no podra atacar, luego podras robar una carta de tu Castillo."
     },
     {
@@ -1459,7 +1459,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Mímica"],
         "ability": "Un Aliado en juego iguala su fuerza con su valor de Oro."
     },
     {
@@ -1470,7 +1470,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Maestro de Armas"],
         "ability": "Destruye un Arma a tu eleccion."
     },
     {
@@ -1481,7 +1481,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "En respuesta a que un Aliado oponente gane un bono de fuerza, cancelas ese efecto por este turno."
     },
     {
@@ -1492,7 +1492,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Decimar"],
         "ability": "Tu oponente destruye un Aliado con fuerza mayor a su valor de Oro."
     },
     {
@@ -1503,7 +1503,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Maestro de Armas"],
         "ability": "Duplica la fuerza de un Arma para un Aliado bajo tu control por este turno."
     },
     {
@@ -1514,7 +1514,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Descartar"],
         "ability": "Cada vez que tu oponente se descarte por algun efecto, este se descarta de una carta mas."
     },
     {
@@ -1525,7 +1525,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Afectar Oros"],
         "ability": "Los Oros oponentes pierden todas sus habilidades de texto."
     },
     {
@@ -1536,7 +1536,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": ["Asedio"],
         "ability": "Tu oponente al final de cada fase de reagrupacion bota de su Castillo dos cartas."
     },
     {
@@ -1547,7 +1547,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Buscar"],
         "ability": "Cuando juegues esta Arma busca dos Armas en tu Castillo o Cementerio y ponlas en tu Mano."
     },
     {
@@ -1558,7 +1558,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Fase"],
         "ability": "Descarta dos cartas de tu Mano para que este Aliado gane + 5 a la fuerza solo por el turno."
     },
     {
@@ -1569,7 +1569,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar", "Daño 0"],
         "ability": "Su portador gana + 2 de fuerza. Descarta esta Arma en batalla mitologica para que los Aliados oponentes vuelvan a la linea de defensa en respuesta a un ataque."
     },
     {
@@ -1580,7 +1580,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Asedio"],
         "ability": "Puedes destruir esta Arma y tu oponente bota de su Castillo tantas cartas como fuerza tenga este Aliado."
     },
     {
@@ -1591,7 +1591,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Robar"],
         "ability": "Esta Arma cuando entra en juego y si su portador es asignado como atacante podrAs robar una carta de tu Castillo."
     },
     {
@@ -1602,7 +1602,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Manipular"],
         "ability": "Su portador pierde 3 a la fuerza."
     },
     {
@@ -1613,7 +1613,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": ["Intensificar Raza"],
         "ability": "Este Aliado gana + 2 a la fuerza si todos los Aliados que tienes en juego son de la misma raza."
     },
     {
@@ -1624,7 +1624,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": ["Robar"],
         "ability": "Hasta dos veces por turno toma un Talismán de tu Mano y barajalo con tu Castillo, luego roba dos cartas de tu Castillo."
     },
     {
@@ -1635,7 +1635,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a un ataque oponente. Cuando asignes a tus Aliados defensores y este Aliado este en la linea de ataque, este puede volver a la linea de defensa para ser asignado como defensor."
     },
     {
@@ -1646,7 +1646,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego podras verle la Mano a tu oponente."
     },
     {
@@ -1657,7 +1657,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego puedes destruir cualquier Arma en juego, luego puedes robar una carta."
     },
     {
@@ -1668,7 +1668,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entre en juego elige un Tótem oponente y este es barajado en su Mazo Castillo."
     },
     {
@@ -1679,7 +1679,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Descarta una carta de tu Mano para que este Aliado gane + 2 de fuerza por este turno."
     },
     {
@@ -1690,7 +1690,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede bloquear a mas de un Aliado."
     },
     {
@@ -1701,7 +1701,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede portar mas de un Arma. Siempre que se le juegue un Arma podras robar una carta de tu Castillo."
     },
     {
@@ -1712,7 +1712,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede portar mas de un Arma."
     },
     {
@@ -1723,7 +1723,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruir este Kami para darle a otro Aliado un bono de fuerza igual a la fuerza de este Kami."
     },
     {
@@ -1734,7 +1734,7 @@
         "race": "Kami",
         "attack": 0,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Kami este en juego podras robar hasta dos cartas mas al final del turno."
     },
     {
@@ -1745,7 +1745,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes a mas de tres Xian en juego esta carta es imbloqueable."
     },
     {
@@ -1756,7 +1756,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego pasa al control de tu oponente; durante cada turno su controlador bota una carta de su Castillo."
     },
     {
@@ -1767,7 +1767,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego podras ver las tres siguientes cartas de cualquier Castillo y ordenarlas como quieras."
     },
     {
@@ -1778,7 +1778,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego puedes buscar hasta tres Talismánes en tu Cementerio y barajarlos con tu Castillo."
     },
     {
@@ -1789,7 +1789,7 @@
         "race": "Xian",
         "attack": 0,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego busca un Xian en tu Cementerio y ponlo en tu Mano."
     },
     {
@@ -1800,7 +1800,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye este Xian para que un Aliado atacante vuelva a la linea de defensa."
     },
     {
@@ -1811,7 +1811,7 @@
         "race": "Xian",
         "attack": 0,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Este Xian tendra tanta fuerza como el Aliado que mas fuerza tengas en juego."
     },
     {
@@ -1822,7 +1822,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Paga uno de Oro y un Aliado oponente pierde 1 de fuerza una vez por turno."
     },
     {
@@ -1833,7 +1833,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Para que ataque descarta dos cartas de tu Mano."
     },
     {
@@ -1844,7 +1844,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Aliado es destruido barajalo en tu Castillo."
     },
     {
@@ -1855,7 +1855,7 @@
         "race": "Xian",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego puedes verle la Mano a tu oponente."
     },
     {
@@ -1866,7 +1866,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye este Campeon y un Campeon que tengas en juego no recibe daño en este turno."
     },
     {
@@ -1877,7 +1877,7 @@
         "race": "Campeón",
         "attack": 0,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego."
     },
     {
@@ -1888,7 +1888,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Paga tres Oro y gana + 1 de fuerza."
     },
     {
@@ -1899,7 +1899,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Campeon es destruido reagrupas un Oro."
     },
     {
@@ -1910,7 +1910,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, este Campeon busca otro Campeon igual a este en tu Castillo y ponlo en juego."
     },
     {
@@ -1921,7 +1921,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si es destruido en combate es desterrado."
     },
     {
@@ -1932,7 +1932,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno copia la habilidad de un Campeon – Shaolin en juego."
     },
     {
@@ -1943,7 +1943,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Gana + 1 a la fuerza por cada Campeon en juego."
     },
     {
@@ -1954,7 +1954,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hace daño al Mazo Castillo oponente destierra 3 cartas a eleccion del Cementerio oponente."
     },
     {
@@ -1965,7 +1965,7 @@
         "race": "Campeón",
         "attack": 0,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego busca un Arma en tu Mazo Castillo y ponla en tu Mano."
     },
     {
@@ -1976,7 +1976,7 @@
         "race": "Campeón",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destierra este Aliado y todos tus Aliados en juego ganan + 1 de fuerza por este turno."
     },
     {
@@ -1987,7 +1987,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye esta carta y una Criatura que tengas en juego no recibe daño en este turno."
     },
     {
@@ -1998,7 +1998,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Paga uno de Oro en batalla mitologica y mira la Mano de tu oponente."
     },
     {
@@ -2009,7 +2009,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si es destruido roba una carta."
     },
     {
@@ -2020,7 +2020,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Siempre que ataque, tus Criaturas ganan un + 1 de fuerza por el turno."
     },
     {
@@ -2031,7 +2031,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Solo puede bloquear."
     },
     {
@@ -2042,7 +2042,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Solo puede ser asignado como atacante si lo acompanan dos Aliados."
     },
     {
@@ -2053,7 +2053,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego paga uno de Oro y puede atacar de inmediato."
     },
     {
@@ -2064,7 +2064,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si es destruido mira la Mano de tu oponente."
     },
     {
@@ -2075,7 +2075,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Despues de atacar vuelve a la linea de defensa."
     },
     {
@@ -2086,7 +2086,7 @@
         "race": "Criaturas",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego."
     },
     {
@@ -2097,7 +2097,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca dos cartas de Oro en tu Cementerio y barajalas con tu Castillo."
     },
     {
@@ -2108,7 +2108,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Devuelve un Oro a eleccion a la Mano de tu oponente."
     },
     {
@@ -2119,7 +2119,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mira la Mano de tu oponente y descarta una carta de su Mano que no sea un Oro."
     },
     {
@@ -2130,7 +2130,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes robar una carta extra al final del turno."
     },
     {
@@ -2141,7 +2141,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si en el turno anterior fuiste atacado, tu oponente bota de su Castillo tantas cartas como Aliados te hayan atacado."
     },
     {
@@ -2152,7 +2152,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes en juego un Campeon busca un Arma en tu Castillo y ponla en tu Mano."
     },
     {
@@ -2163,7 +2163,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si todos los Aliados atacantes no llevan Armas, no recibes daño en este turno."
     },
     {
@@ -2174,7 +2174,7 @@
         "race": null,
         "attack": null,
         "cost": 7,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tu destruyes dos cartas de Oro a eleccion."
     },
     {
@@ -2185,7 +2185,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tu oponente debe elegir entre mandar un Aliado al Cementerio o un Oro que tenga en juego."
     },
     {
@@ -2196,7 +2196,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye un Aliado oponente a tu eleccion."
     },
     {
@@ -2207,7 +2207,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Un Aliado gana + 1 de fuerza por este turno."
     },
     {
@@ -2218,7 +2218,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que un Aliado vaya al Cementerio, este es desterrado."
     },
     {
@@ -2229,7 +2229,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Roba dos cartas de tu Castillo y descarta dos cartas de tu Mano."
     },
     {
@@ -2240,7 +2240,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca un Arma en tu Castillo y luego descarta dos cartas de tu Mano."
     },
     {
@@ -2251,7 +2251,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye una carta bajo tu control y tu oponente destruye una del mismo tipo."
     },
     {
@@ -2262,7 +2262,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tu oponente no juega mas de tres cartas en el proximo turno, este bota una carta de su Castillo."
     },
     {
@@ -2273,7 +2273,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que una carta copie habilidades o se convierta en otra, destruye esa carta."
     },
     {
@@ -2284,7 +2284,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tu oponente tiene en juego tres cartas de Oro mas que tu, este elige uno de sus Oros y lo destruye."
     },
     {
@@ -2295,7 +2295,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Esta carta puede ser anulada si tu oponente paga 1 de Oro; si no es anulada mira la carta superior del Castillo oponente."
     },
     {
@@ -2306,7 +2306,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al entrar en juego puede destruir un Arma a tu eleccion."
     },
     {
@@ -2317,7 +2317,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye un Tótem a tu eleccion."
     },
     {
@@ -2328,7 +2328,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Durante tu fase de reagrupacion busca un Oro en tu Cementerio y barajalo con tu Castillo una vez por turno."
     },
     {
@@ -2339,7 +2339,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Descarta una carta de tu Mano y descarta una carta de tu oponente al azar una vez en tu turno."
     },
     {
@@ -2350,7 +2350,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Paga 1 de Oro una vez por turno y destruye un Aliado imbloqueable a tu eleccion."
     },
     {
@@ -2361,7 +2361,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador es imbloqueable; al final del turno que ataque destruyelo."
     },
     {
@@ -2372,7 +2372,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador pierde 1 a la fuerza."
     },
     {
@@ -2383,7 +2383,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador gana + 1 a la fuerza."
     },
     {
@@ -2394,7 +2394,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador gana + 2 a la fuerza."
     },
     {
@@ -2405,7 +2405,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador no puede cambiar de controlador."
     },
     {
@@ -2416,7 +2416,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador, cuando bloquee gana + 2 de fuerza."
     },
     {
@@ -2427,7 +2427,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2438,7 +2438,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2449,7 +2449,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2460,7 +2460,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2471,7 +2471,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2482,7 +2482,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2493,7 +2493,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2504,7 +2504,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2515,7 +2515,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2526,7 +2526,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2537,7 +2537,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2548,7 +2548,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin Habilidad"
     },
     {
@@ -2559,7 +2559,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al final de cada turno puedes reagrupar este Oro."
     },
     {
@@ -2570,7 +2570,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye este Oro y elige un Aliado oponente. Tu oponente lo sube a su Mano."
     },
     {
@@ -2581,7 +2581,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tus Aliados imbloqueables ganan + 2 a la fuerza mientras este Oro este en juego."
     },
     {
@@ -2592,7 +2592,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye este Oro para destruir una carta de Oro oponente que tenga alguna habilidad de texto."
     }
 ]

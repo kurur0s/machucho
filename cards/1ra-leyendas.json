@@ -7,7 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes jugarla en cualquier momento del juego. Anula una carta jugada por tu oponente enviándola al cementerio (Carta única)."
     },
     {
@@ -18,7 +18,7 @@
         "race": "",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tu oponente no puede jugar Talismánes mientras este Aliado este en juego."
     },
     {
@@ -29,7 +29,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En el momento que tu oponente juegue un Talismán desde su mano, puedes jugar esta carta y mandar a su cementerio dicho Talismán."
     },
     {
@@ -40,7 +40,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al entrar en juego puedes robar hasta 3 cartas de tu Mazo Castillo."
     },
     {
@@ -51,7 +51,7 @@
         "race": "",
         "attack": 6,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al entrar en juego destruye dos Aliados oponentes a elección."
     },
     {
@@ -62,7 +62,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Todos los vampiros en juego ganan +1 de fuerza, mientras este Tótem esté en juego."
     },
     {
@@ -73,7 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Todos los licantropos en juego ganan +1 de fuerza, mientras este Tótem esté en juego."
     },
     {
@@ -84,8 +84,8 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
-        "ability": "A partir del próximo turno puedes bajar un oro extra de tu mano, mientras este tótem esté en juego."
+        "strategy": [""],
+        "ability": "A partir del próximo turno puedes bajar un Oro extra de tu mano, mientras este Tótem esté en juego."
     },
     {
         "name": "Cataratas del Iguazú",
@@ -95,7 +95,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye 2 Aliados que controles y juega otro turno después de éste."
     },
     {
@@ -106,7 +106,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca una carta de Aliado en el Mazo Castillo y ponlo en juego en tu linea de defensa."
     },
     {
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Te cuesta un Oro menos jugar Chamánes"
     },
         {
@@ -128,7 +128,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Todos tus Aliados que ataquen son imbloqueables por este turno. "
     },
     {
@@ -139,7 +139,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hace daño al Castillo oponente, podrás descartarle una carta de la mano"
     },
     {
@@ -150,7 +150,7 @@
         "race": "Abominación",
         "attack": 5,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hace daño al Castillo oponente podrás descartarle a tu oponente una carta de su mano."
     },
     {
@@ -161,7 +161,7 @@
         "race": "",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado esté en juego no podrás ser atacado."
     },
     {
@@ -172,7 +172,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes pagar 3 de Oro para barajar un Aliado en el Mazo Castillo de su dueño."
     },
     {
@@ -183,7 +183,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Los Vampiros Aliados en juego ganan + 1 a la fuerza y no pueden ser bloqueados."
     },
     {
@@ -194,7 +194,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -205,7 +205,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si va al Cementerio desde el juego, podras recuperar 3 cartas a eleccion de tu Cementerio y barajalas en tu Castillo."
     },
     {
@@ -216,7 +216,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego descarta una carta de la Mano de tu oponente. Cuando ataca gana + 1 a la fuerza por el turno."
     },
     {
@@ -227,7 +227,7 @@
         "race": "Guerrero",
         "attack": 4,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, bota 2 cartas de tu Mazo Castillo y descarta una carta de tu Mano."
     },
     {
@@ -238,7 +238,7 @@
         "race": "Cazador",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Por cada Cazador de vampiro en juego gana + 1 de fuerza."
     },
     {
@@ -249,7 +249,7 @@
         "race": "Vampiro",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que ataque genera 2 Oros virtuales solo por el turno."
     },
     {
@@ -260,7 +260,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Gana + 1 por cada Vampiro en juego."
     },
     {
@@ -271,7 +271,7 @@
         "race": "",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que entre o salga del juego, descarta una carta de la mano de tu oponente."
     },
     {
@@ -282,7 +282,7 @@
         "race": "",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. Porta un arma sin pagar su coste."
     },
     {
@@ -293,7 +293,7 @@
         "Race": "",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. En este turno todos los Aliados son imbloqueables."
     },
     {
@@ -304,7 +304,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes descartarte de una carta de tu Mano y este Aliado gana un bono de fuerza igual al coste en Oro de la carta descartada. Una vez por turno."
     },
     {
@@ -315,7 +315,7 @@
         "race": "Kami",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado esté en juego, todos tus Aliados vuelven a la linea de defensa despues de atacar."
     },
     {
@@ -326,7 +326,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador no puede ser bloqueado. Este Aliado no se considera imbloqueable para efectos en juego."
     },
     {
@@ -337,7 +337,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Un Aliado gana + 3 a la fuerza hasta el final del turno"
     },
     {
@@ -348,7 +348,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Descarta 2 cartas de la Mano de tu oponente al azar."
     },
     {
@@ -359,7 +359,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye todas las cartas oponentes de fuerza superior a 3."
     },
     {
@@ -370,7 +370,7 @@
         "race": "Licántropo",
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "No puede ser bloqueado. Cuando entra en juego bota todas las cartas de tu mano al cementerio."
     },
     {
@@ -381,7 +381,7 @@
         "race": "",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hace daño al Mazo Castillo deberá ser barajada en tu Mazo Castillo. Imbloqueable."
     },
     {
@@ -392,7 +392,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al entrar en juego, puedes buscar otra Hadas en tu Mazo Castillo y ponerla en juego."
     },
     {
@@ -403,7 +403,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Por cada Aliado que tengas en juego, gana +1 a la fuerza."
     },
     {
@@ -414,7 +414,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una carta de tu oponente que tú elijas tendrá fuerza 0 hasta el final del turno."
     },
     {
@@ -425,7 +425,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tus Aliados después de atacar vuelven a la línea de defensa. "
     },
     {
@@ -436,7 +436,7 @@
         "race": "Cazador",
         "attack": 1,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, tu oponente deberá descartar una carta de su Mano o botar dos de su Mazo Castillo."
     },
     {
@@ -447,7 +447,7 @@
         "race": "",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando ataque todos tus Aliados seran imbloqueables por este turno."
     },
     {
@@ -458,8 +458,8 @@
         "race": "",
         "attack": 3,
         "cost": 5,
-        "strategy": "",
-        "ability": "Mientras esté en juego tus tótems no podrán ser destruidos."
+        "strategy": [""],
+        "ability": "Mientras esté en juego tus Tótems no podrán ser destruidos."
     },
     {
         "name": "Moiras",
@@ -469,7 +469,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que no ataque descarta una carta de tu oponente al azar."
     },
     {
@@ -480,7 +480,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruir este Oro para que genere el doble por este turno."
     }
 ]

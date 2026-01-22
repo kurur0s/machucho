@@ -7,7 +7,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hace daño al Mazo Castillo oponente puedes buscar un Caballero en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -18,7 +18,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes mostrar un Caballero de tu Mano para robar 2 cartas."
     },
     {
@@ -29,7 +29,7 @@
         "race": "Dragón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar un Oro en tu Mazo Castillo y ponlo en tu Reserva de Oros."
     },
     {
@@ -40,7 +40,7 @@
         "race": "Dragón",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Imbloqueable. Una vez por turno, puedes barajar un Dragón de tu Mano para robar 2 cartas de tu Mazo Castillo."
     },
     {
@@ -51,7 +51,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes barajar un Faerie que controles para buscar un Talismán de coste 2 o menos en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -62,7 +62,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes robar 1 carta de tu Mazo Castillo por cada Faerie que controles. Luego, descarta 1 carta de tu Mano."
     },
     {
@@ -73,7 +73,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destierra una carta oponente en juego que no sea Oro (Carta Única)."
     },
     {
@@ -84,7 +84,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruir este Oro para que un Caballero gane 2 a la fuerza permanentemente."
     },
     {
@@ -95,7 +95,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes pagar este Oro para barajar una carta de tu Cementerio en tu Mazo Castillo o para que un Aliado pierda 1 de fuerza hasta la Fase Final."
     },
     {
@@ -106,7 +106,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si está en tu Reserva de Oros y sólo controlas Dragones, los Aliados oponentes pierden 1 a la Fuerza cuando bloquean."
     },
     {
@@ -117,7 +117,7 @@
         "race": "Caballero",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado esté en juego, tus Caballeros ganan 1 a la fuerza. Cuando Rey Arturo ataca, los Caballeros que lo acompañan ganan 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -128,7 +128,7 @@
         "race": "Dragón",
         "attack": 6,
         "cost": 8,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Imbloqueable. Puede atacar cuando entra en juego. Cuando entra en juego, destruye dos Aliados oponentes."
     },
     {
@@ -139,7 +139,7 @@
         "race": "Dragón",
         "attack": 6,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede bloquear Aliados Imbloqueables. Mientras este Aliado esté en juego, tus Dragones pueden atacar cuando entran en juego y ganan 1 a la fuerza."
     },
     {
@@ -150,7 +150,7 @@
         "race": "Dragón",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruirlo para buscar un Oro en tu Mazo Castillo y jugarlo."
     },
     {
@@ -161,7 +161,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, una vez por turno, puedes buscar un Cazador de coste 2 o menos en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -172,7 +172,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes destruir un Aliado oponente de coste 2 o menos."
     },
     {
@@ -183,7 +183,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. Cuando entra en juego puedes robar 2 cartas de tu Mazo Castillo. Luego, descarta 2 cartas o un Licántropo de tu Mano."
     },
     {
@@ -194,7 +194,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tus demás Licántropos no pueden ser afectados por Talismánes oponentes."
     },
     {
@@ -205,7 +205,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "No puede ser bloqueada por Aliados de fuerza 2 o menos. Cuando entra en juego puedes buscar un Vampiro en tu Cementerio y ponerlo en tu Mano."
     },
     {
@@ -216,7 +216,7 @@
         "race": "Vampiro",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que un Vampiro que controles haga daño de combate, tu oponente bota 1 carta de su Mazo Castillo. Luego, puedes barajar 1 carta de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -227,7 +227,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Baraja un Aliado que controles, para barajar 2 Aliados oponentes."
     },
     {
@@ -238,7 +238,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 2 a la fuerza. Cuando entra en juego, puedes barajar 2 cartas de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -249,7 +249,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno y en tu Vigilia, puedes mostrar las 2 primeras cartas de tu Mazo, pon una en tu Mano y la otra en tu Cementerio."
     },
     {
@@ -260,7 +260,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego puedes barajar una carta de tu Cementerio en tu Mazo Castillo. Puedes destruir este Oro para desterrar una carta de un Cementerio."
     },
     {
@@ -271,7 +271,7 @@
         "race": "Bestia",
         "attack": 3,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes jugar hasta dos Aliados Bestia de coste 2 o menos de distinto nombre desde tu Mazo Castillo sin pagar su coste."
     },
     {
@@ -282,7 +282,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca un Tué Tué en tu Mazo Castillo y ponlo en tu mano. Si controlas tres o más Bestias, gana 2 a la fuerza."
     },
     {
@@ -293,7 +293,7 @@
         "race": "Chamán",
         "attack": 5,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sólo puede bloquear. Una vez por turno, puedes barajar una carta de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -304,7 +304,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes destruir un Tótem o un Aliado que controles para que tu oponente bote 3 cartas. Luego, puedes robar 1 carta de tu Mazo Castillo."
     },
     {
@@ -315,7 +315,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar un Arma en tu Mazo Castillo y jugarla sin pagar su coste."
     },
     {
@@ -326,7 +326,7 @@
         "race": "Guerrero",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras esté en juego, los demás Aliados que no porten Arma pierden 1 a la fuerza."
     },
     {
@@ -337,7 +337,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sube un Aliado oponente de coste 3 o menos a la Mano de su dueño. Luego, puedes robar 1 carta."
     },
     {
@@ -348,7 +348,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 1 a la fuerza. Cuando entra en juego tu oponente baraja un Aliado que controle."
     },
     {
@@ -359,7 +359,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Tótem esté en juego, tus Tótem reducen su coste en 1 Oro."
     },
     {
@@ -370,7 +370,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al comienzo de tu Fase de Agrupación, si este Oro está en tu Cementerio, puedes desterrar una carta de tu Cementerio para ponerlo en tu Mano."
     },
     {
@@ -381,7 +381,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, tu oponente bota 3 cartas de su Castillo."
     },
     {
@@ -392,7 +392,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Gana 2 a la fuerza por cada Guerrero que controles. (Carta Única)"
     },
     {
@@ -403,7 +403,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando este Oro entra en juego, puedes robar 1 carta de tu Mazo Castillo. Luego, descarta 1 carta de tu Mano."
     },
     {
@@ -414,7 +414,7 @@
         "race": "Abominación",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes mostrar la primera carta de tu Mazo Castillo, si es un Aliado, ponlo en juego sin pagar su coste, si no es un Aliado, ponla en tu Mano."
     },
     {
@@ -425,7 +425,7 @@
         "race": "Abominación",
         "attack": 4,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca una Abominación de coste 3 o menos en tu Mazo Castillo y juégala sin pagar su coste."
     },
     {
@@ -436,7 +436,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca un Arma en tu Mazo Castillo y ponla en tu Mano."
     },
     {
@@ -447,7 +447,7 @@
         "race": "Bárbaro",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado esté en juego, tus demás Barbaros pueden atacar cuando entran en juego y ganan 1 a la fuerza."
     },
     {
@@ -458,7 +458,7 @@
         "race": "Bárbaro",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Gana 1 a la fuerza por cada Bárbaro que controles."
     },
     {
@@ -469,7 +469,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca un Bárbaro que no sea Dagur en tu Mazo Castillo y ponlo en tu Mano."
     },
     {
@@ -480,7 +480,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes destruir otro Dios que controles para destruir una carta oponente de coste igual o menor al Dios destruido."
     },
     {
@@ -491,7 +491,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego o sea destruido, puedes buscar una carta en el Mazo Castillo oponente y ponerla en su Cementerio."
     },
     {
@@ -502,7 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Gana el control de un Tótem o Arma oponente."
     },
     {
@@ -513,7 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cancela un ataque oponente. Luego, baraja una carta de tu Cementerio en tu Mazo Castillo por cada Aliado oponente en juego."
     },
     {
@@ -524,7 +524,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 3 a la fuerza. Una vez por turno, si sólo controlas Aliados de la misma raza, puedes cambiar el portador de esta Arma."
     },
     {
@@ -535,7 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes pagar 2 de Oro para robar 1 carta de tu Mazo Castillo."
     },
     {
@@ -546,7 +546,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, una vez por turno, puedes pagar 3 Oros para buscar un Tótem o Arma en tu Cementerio y ponerlo en tu mano."
     },
     {
@@ -557,7 +557,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar una copia de Ninfas en tu Mazo Castillo o Cementerio y ponerla en tu Mano."
     },
     {
@@ -568,8 +568,8 @@
         "race": "Vampiro",
         "attack": 0,
         "cost": 3,
-        "strategy": "",
-        "ability": "Gana +1 a la fuerza por cada carta de oro que tenga tu oponente en juego."
+        "strategy": [""],
+        "ability": "Gana +1 a la fuerza por cada carta de Oro que tenga tu oponente en juego."
     },
     {
         "name": "Puritano",
@@ -579,7 +579,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, mira la Mano de tu oponente y descártale un Tótem o Arma de su Mano."
     },
     {
@@ -590,7 +590,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Paga 3 de Oro y baraja un Aliado oponente a elección."
     },
     {
@@ -601,7 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye uno de tus Aliados. Luego, destruye un Aliado oponente."
     },
     {
@@ -612,7 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Gana el control de un Aliado oponente hasta que salga del juego."
     },
     {
@@ -623,7 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Anula un Aliado oponente (Carta Única)."
     },
     {
@@ -634,7 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Todos tus Aliados ganan 2 a la fuerza hasta la Fase Final. (Carta Única)."
     },
     {
@@ -645,7 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Los Aliados que controles pueden portar un Arma extra. El coste de tus Armas se reduce en 1 Oro."
     },
     {
@@ -656,7 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Tótem esté en juego, tus Aliados que porten Armas ganan 1 a la fuerza y som Imbloqueables."
     },
     {
@@ -667,7 +667,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca una copia de este Oro en tu Mazo Castillo y ponlo en tu Mano."
     },
     {
@@ -678,7 +678,7 @@
         "race": "Xian",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, tu oponente bota 2 cartas de su Mazo Castillo."
     },
     {
@@ -689,7 +689,7 @@
         "race": "Xian",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Reduce su coste en 1 por cada Xian en juego. Cuando entra en juego, roba 1 carta."
     },
     {
@@ -700,7 +700,7 @@
         "race": "Kami",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar un Kami en tu Cementerio y ponerlo en tu Mano."
     },
     {
@@ -711,7 +711,7 @@
         "race": "Kami",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, este Aliado gana 1 a la fuerza permanentemente."
     },
     {
@@ -722,7 +722,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia y una vez por turno, puedes botar una carta de tu Mazo Castillo para que una Criatura que controles gane 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -733,7 +733,7 @@
         "race": "Criaturas",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En Fase de Vigilia, una vez por turno, puedes pagar un Oro para que un Aliado sea Imbloqueable y gane 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -744,7 +744,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Este Aliado puede atacar cuando entra en juego. Cuando entra en juego, los Aliados oponentes pierden 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -755,7 +755,7 @@
         "race": "Campeón",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar un Campeón de coste 1 en tu Mazo Castillo y ponerlo en juego sin pagar su coste."
     },
     {
@@ -766,7 +766,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes barajar hasta dos Campeones de tu Cementerio en tu Mazo Castillo. Luego, puedes robar 1 carta de tu Mazo Castillo."
     },
     {
@@ -777,7 +777,7 @@
         "race": "Campeón",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Este Aliado puede atacar cuando entra en juego. Mientras este Aliado esté en juego, si controlas otros Campeones, gana 1 a la Fuerza."
     },
     {
@@ -788,7 +788,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Un Aliado de coste 4 o menos pierde su habilidad. Luego, destruye ese Aliado."
     },
     {
@@ -799,7 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca 2 Armas con distinto nombre en tu Mazo Castillo y ponlas en tu Mano."
     },
     {
@@ -810,7 +810,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 1 a la fuerza. Cuando entra en juego, busca un Oro en tu Mazo Castillo y ponlo en tu Mano."
     },
     {
@@ -821,7 +821,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 1 a la fuerza y es Imbloqueable. Si el portador hace daño al Mazo Castillo oponente, puedes robar 1 carta de tu Mazo Castillo."
     },
     {
@@ -832,7 +832,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes barajar 2 cartas con distinto nombre de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -843,7 +843,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Tótem esté en juego, los jugadores sólo pueden robar hasta 1 carta por habilidad o efectos de cartas por turno."
     },
     {
@@ -854,7 +854,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Oro está en tu Reserva de Oros, y tienes 3 o menos cartas en tu mano, puedes desterrarlo para robar 2 cartas."
     },
     {
@@ -865,7 +865,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El Aliado que lo bloquee pierde 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -876,7 +876,7 @@
         "race": "Bestia",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Imbloqueable. Si ataca junto a una o más Bestias gana 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -887,7 +887,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes barajar hasta 3 cartas tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -898,7 +898,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede portar un Arma extra. Cuando entra en juego, puedes buscar hasta dos Armas en tu Mazo Castillo o Cementerio y ponlas en tu mano."
     },
     {
@@ -909,7 +909,7 @@
         "race": "Guerrero",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede portar un Arma extra. Mientras este Aliado esté en juego, tus Aliados que porten Armas ganan 1 a la fuerza."
     },
     {
@@ -920,7 +920,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Tótem esté en juego, cuando tu oponente juegue un Aliado debe botar 2 cartas de su Mazo Castillo."
     },
     {
@@ -931,7 +931,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Oro esta en tu Reserva de Oros, puedes desterrarlo para prevenir que uno de tus Aliados sea destruido."
     },
     {
@@ -942,7 +942,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 1 a la fuerza y no puede ser afectado por Talismánes oponentes."
     },
     {
@@ -953,7 +953,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cancela la habilidad de una carta oponente."
     },
     {
@@ -964,7 +964,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, si un Aliado que controles es destruido, baraja una carta de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -975,7 +975,7 @@
         "race": "Caballero",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado esté en juego, tus Caballeros pueden atacar cuando entran en juego."
     },
     {
@@ -986,7 +986,7 @@
         "race": "Caballero",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. Cuando entra en juego, baraja una carta de tu Cementerio o tu oponente bota 2 cartas."
     },
     {
@@ -997,7 +997,7 @@
         "race": "Dragón",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, roba una carta de tu Mazo Castillo. En tu Fase Final, puedes barajar una carta de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -1008,7 +1008,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar una copia de Hadas en tu Mazo Castillo y ponerla en juego."
     },
     {
@@ -1019,7 +1019,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entre o salga del juego, baraja dos cartas de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -1030,7 +1030,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si este Aliado es bloqueado, el Aliado que lo bloquee pierde 1 a la fuerza hasta la Fase Final."
     },
     {
@@ -1041,7 +1041,7 @@
         "race": "Cazador",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. Cuando entra en juego, tu oponente bota 2 cartas de su Mazo Castillo."
     },
     {
@@ -1052,7 +1052,7 @@
         "race": "Cazador",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes elegir un Aliado oponente para que pierda la habilidad y no pueda bloquear hasta la Fase Final."
     },
     {
@@ -1063,18 +1063,18 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes destruir un Licántropo que controles para que tu oponente bote tantas cartas de su Mazo Castillo como coste tenga el Aliado destruido."
     },
     {
-        "name": "Corot",
+        "name": "COrot",
         "image_path": "https://api.myl.cl/static/cards/74/036.png",
         "rarity": "Vasallo",
         "type": "Aliado",
         "race": "Licántropo",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego puedes buscar un Tótem o Arma de coste 2 o menos en tu Mazo Castillo y ponerlo en tu Mano."
     },
     {
@@ -1085,7 +1085,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, cuando barajes cartas de tu Cementerio por la habilidad de una carta que controles, puedes robar 1 carta de tu Mazo Castillo."
     },
     {
@@ -1096,7 +1096,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, destruye un Aliado oponente de coste 1 o menos."
     },
     {
@@ -1107,7 +1107,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, tu oponente descarta 1 carta de su mano."
     },
     {
@@ -1118,7 +1118,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruir este Oro y pagar 3 Oros para destruir un Aliado en juego."
     },
     {
@@ -1129,7 +1129,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si es destruido, un Bestia que controles gana 3 a la fuerza permanenentemente."
     },
     {
@@ -1140,7 +1140,7 @@
         "race": "Bestia",
         "attack": 0,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Amaru entra en juego, copia la fuerza y habilidad de un Aliado en juego permanentemente."
     },
     {
@@ -1151,7 +1151,7 @@
         "race": "Chamán",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes pagar 1 Oro para robar 1 carta."
     },
     {
@@ -1162,7 +1162,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado este en juego, cuando un Oro entre en juego bajo tu control, puedes robar 1 carta, luego descarta 1 carta de tu Mano."
     },
     {
@@ -1173,7 +1173,7 @@
         "race": "Abominación",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando este Aliado sea destruido, tu oponente destruye una carta que controle de coste 2 o menos."
     },
     {
@@ -1184,7 +1184,7 @@
         "race": "Dios",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar un Dios que no sea Skadi en tu Mazo Castillo y ponlo en tu Mano."
     },
     {
@@ -1195,7 +1195,7 @@
         "race": "Dios",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando este Aliado entra o sale del juego, puedes buscar un Talismán en tu Mazo Castillo o Cementerio y ponerlo en tu mano."
     },
     {
@@ -1206,7 +1206,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador gana 2 a la fuerza. Puedes destruir esta Arma para que una carta en juego y todas sus copias pierdan su habilidad hasta la Fase Final."
     },
     {
@@ -1217,7 +1217,7 @@
         "race": "Bestia",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes pagar 1 Oro para que otro Aliado gane 2 a la fuerza hasta la Fase Final."
     },
     {
@@ -1228,7 +1228,7 @@
         "race": "Guerrero",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras este Aliado este en juego, cada vez que juegues un Arma, todos tus Aliados ganan 1 a la fuerza permanentemente."
     },
     {
@@ -1239,7 +1239,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, descarta una carta de tu mano."
     },
     {
@@ -1250,7 +1250,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mira la mano de tu oponente. Luego, tu oponente descarta una carta de su Mano."
     },
     {
@@ -1261,7 +1261,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador no puede bloquear. Al comienzo de tu Fase de Vigilia, descarta una carta de tu Mano o bota 2 cartas de tu Mazo Castillo."
     },
     {
@@ -1272,7 +1272,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Baraja todas las cartas en juego que no sean Oros, en el Mazo Castillo de su dueño."
     }
 ]

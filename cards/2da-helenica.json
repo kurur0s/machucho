@@ -7,7 +7,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes buscar un Aliado en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -18,7 +18,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Helios esté en juego, tus Aliados de raza Olímpico ganan 2 a la fuerza y no pueden ser afectados por Talismánes oponentes."
     },
     {
@@ -29,7 +29,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Eolo entra en juego, destruye todas las cartas en juego a excepción de Eolo."
     },
     {
@@ -40,7 +40,7 @@
         "race": "Olímpico",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El Gran Zeus es indestructible. En tu Fase de Vigilia, sólo una vez por turno, puedes robar hasta 2 cartas. Carta única."
     },
     {
@@ -51,7 +51,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Hera es afectada por una habilidad oponente, puedes redirigir esa habilidad a una carta oponente en juego."
     },
     {
@@ -62,7 +62,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a declarar a Poseidón atacante, debes elegir que Poseidón sea imbloqueable o que sea bloqueado por un Aliado oponente a tu elección."
     },
     {
@@ -73,7 +73,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando El Oscuro Hades entra en juego, puedes colocar un Aliado oponente en tu Línea de defensa. Durante este turno, debe ser declarado atacante. Si no es destruido, al final del turno vuelve a la Línea de Defensa oponente."
     },
     {
@@ -84,7 +84,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Apolo entra en juego, se cancelan todos los modificadores a la fuerza. Mientras Apolo esté en juego, no se podrán jugar ni activar modificadores a la fuerza."
     },
     {
@@ -95,7 +95,7 @@
         "race": "Olímpico",
         "attack": 0,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Dionisio se considera un Aliado de raza Héroe, y gana 1 a la fuerza por cada Aliado de raza Olímpico y Héroe que tengas en juego."
     },
     {
@@ -106,7 +106,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes nombrar un Aliado en juego. Todos los Aliados con ese nombre deben ser destruidos. Carta única."
     },
     {
@@ -117,7 +117,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Atenea entra en juego, elige 4 cartas de tu Cementerio y barájalas con tu Mazo Castillo."
     },
     {
@@ -128,8 +128,8 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
-        "ability": "En Guerra de Talismánes, puedes pagar 3 de oro para cancelar el ataque o bloqueo oponente."
+        "strategy": [""],
+        "ability": "En Guerra de Talismánes, puedes pagar 3 de Oro para cancelar el ataque o bloqueo oponente."
     },
     {
         "name": "Eros",
@@ -139,8 +139,8 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
-        "ability": "Si Eros entra en juego en tu primer turno, puedes buscar 2 oros en tu Mazo Castillo y ponerlos en tu mano."
+        "strategy": [""],
+        "ability": "Si Eros entra en juego en tu primer turno, puedes buscar 2 Oros en tu Mazo Castillo y ponerlos en tu mano."
     },
     {
         "name": "Heracles",
@@ -150,7 +150,7 @@
         "race": "Héroe",
         "attack": 4,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Heracles entra en juego, si tienes El Gran Zeus en juego, tu oponente debe jugar con su mano descubierta mientras tengas ambos Aliados en juego."
     },
     {
@@ -161,7 +161,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Ulises entra en juego, todos tus Aliados de raza Héroe ganan 1 a la fuerza permanentemente."
     },
     {
@@ -172,7 +172,7 @@
         "race": "Héroe",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Teseo haga daño al Mazo Castillo oponente, puedes destruirle un Aliado."
     },
     {
@@ -183,7 +183,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a declarar tu ataque, si Aristóteles no es declarado atacante, descarta 1 carta oponente al azar."
     },
     {
@@ -194,7 +194,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Jason entra en juego, puedes buscar a Ulises en tu Mazo Castillo y ponerlo en tu Línea de Defensa sin pagar su coste."
     },
     {
@@ -205,7 +205,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Dafne no puede ser afectada por Talismánes."
     },
     {
@@ -216,7 +216,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes nombrar una carta y luego buscarla en el Mazo Castillo oponente. Si tu oponente la tiene, destiérrala. Carta única."
     },
     {
@@ -227,7 +227,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En Guerra de Talismánes, si Paris es declarado atacante, todos los Aliados que lo acompañan ganan 1 a la fuerza hasta el final del turno."
     },
     {
@@ -238,8 +238,8 @@
         "race": "Héroe",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
-        "ability": "En tu Fase de vigilia, puedes pagar 4 de oro para que un Aliado oponente en juego pase a tu Línea de Defensa. Mientras permanezca en juego, ese Aliado oponente se considera como uno de tus Aliados."
+        "strategy": [""],
+        "ability": "En tu Fase de vigilia, puedes pagar 4 de Oro para que un Aliado oponente en juego pase a tu Línea de Defensa. Mientras permanezca en juego, ese Aliado oponente se considera como uno de tus Aliados."
     },
     {
         "name": "Penelope",
@@ -249,7 +249,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes a Ulises en juego, el coste de Penélope es 1."
     },
     {
@@ -260,7 +260,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Castor es declarado atacante junto a Pólux, gana 2 a la fuerza hasta el final del turno."
     },
     {
@@ -271,7 +271,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Pólux es declarado atacante junto a Castor, gana 2 a la fuerza hasta el final del turno."
     },
     {
@@ -282,7 +282,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Edipo entra en juego, destruye un Aliado de raza Héroe oponente."
     },
     {
@@ -293,7 +293,7 @@
         "race": "Héroe",
         "attack": 6,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Aquiles modifica su fuerza, es destruido."
     },
     {
@@ -304,7 +304,7 @@
         "race": "Titán",
         "attack": 5,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Tifón sea declarado atacante o bloqueador, al final del turno barájalo en tu Mazo Castillo."
     },
     {
@@ -315,7 +315,7 @@
         "race": "Titán",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Los Titanes entra en juego, busca un Aliado de raza Titán en tu Mazo Castillo o Cementerio y ponlo en tu mano."
     },
     {
@@ -326,7 +326,7 @@
         "race": "Titán",
         "attack": 4,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, busca un Aliado de raza Olímpico o raza Titán en tu Zona de Destierro y ponlo en tu Línea de Defensa sin pagar su coste."
     },
     {
@@ -337,7 +337,7 @@
         "race": "Titán",
         "attack": 6,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Atlas puede bloquear a más de un Aliado hasta agotar su fuerza. Atlas no puede ser declarado atacante y no puede portar armas."
     },
     {
@@ -348,8 +348,8 @@
         "race": "Titán",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, puedes pagar 4 de oro para destruir un Aliado oponente. En respuesta a finalizar tu turno, puedes agrupar tus cartas. Carta única."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, puedes pagar 4 de Oro para destruir un Aliado oponente. En respuesta a finalizar tu turno, puedes agrupar tus cartas. Carta única."
     },
     {
         "name": "Oceano",
@@ -359,7 +359,7 @@
         "race": "Titán",
         "attack": 4,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si no hay Aliados de raza Olímpico en juego, Océano duplica su fuerza."
     },
     {
@@ -370,7 +370,7 @@
         "race": "Titán",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Cronos sea destruido, puedes desterrar este Aliado para salvarlo."
     },
     {
@@ -381,8 +381,8 @@
         "race": "Titán",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, sólo una vez por turno, genera 2 oros para bajar Aliados de raza Titán."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, sólo una vez por turno, genera 2 Oros para bajar Aliados de raza Titán."
     },
     {
         "name": "Hiparion",
@@ -392,7 +392,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Hiparión sea declarado atacante, puedes ver la carta superior de tu Mazo Castillo: si es un Aliado, ponlo en juego sin pagar su coste; si la carta no es un Aliado, destiérrala."
     },
     {
@@ -403,8 +403,8 @@
         "race": "Titán",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
-        "ability": "Prometeo puede atacar el turno que entra en juego. En respuesta a ser declarado atacante, puedes pagar 1 de oro para que sea imbloqueable, hasta el final del turno."
+        "strategy": [""],
+        "ability": "Prometeo puede atacar el turno que entra en juego. En respuesta a ser declarado atacante, puedes pagar 1 de Oro para que sea imbloqueable, hasta el final del turno."
     },
     {
         "name": "Noctumbros",
@@ -414,7 +414,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Noctumbros debe atacar el turno que entra en juego y luego, al final del turno, debe ser desterrado."
     },
     {
@@ -425,7 +425,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Eos entra en juego, tus Aliados de raza Titán ganan 1 a la fuerza."
     },
     {
@@ -436,8 +436,8 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, puedes pagar 2 de oro para que un Aliado oponente tenga fuerza 0 hasta el final del turno y no pueda recibir modificadores de fuerza."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, puedes pagar 2 de Oro para que un Aliado oponente tenga fuerza 0 hasta el final del turno y no pueda recibir modificadores de fuerza."
     },
     {
         "name": "Expulsion de Titanes",
@@ -447,7 +447,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destierra un Aliado de raza Titán en juego."
     },
     {
@@ -458,7 +458,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta el final del turno, puedes modificar la fuerza de un Aliado oponente entre 0 y 10."
     },
     {
@@ -469,7 +469,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye todas las cartas en juego."
     },
     {
@@ -480,7 +480,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Descarta 2 cartas de tu oponente al azar."
     },
     {
@@ -491,7 +491,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Anula o cancela una carta que afecte a los Oros en juego. Si la carta es cancelada, destrúyela. Si juegas Arde Troya en el turno oponente, éste pasa directamente a la Fase Final."
     },
     {
@@ -502,7 +502,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca un Aliado en tu Mazo Castillo y ponlo en tu Línea de Defensa sin pagar su coste. Puede atacar el turno que entra en juego, pierde 2 a la fuerza y se considera imbloqueable. En la Fase Final, ese Aliado debe ser desterrado."
     },
     {
@@ -513,7 +513,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye un Aliado de fuerza 3 o menos. Puedes robar 1 carta."
     },
     {
@@ -524,8 +524,8 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
-        "ability": "En Guerra de Talismánes, genera 2 oros para ambos jugadores hasta el final del turno. Carta única."
+        "strategy": [""],
+        "ability": "En Guerra de Talismánes, genera 2 Oros para ambos jugadores hasta el final del turno. Carta única."
     },
     {
         "name": "Almas de Estigia",
@@ -535,7 +535,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que uno de tus Aliados salga del juego, barájalo en tu Mazo Castillo."
     },
     {
@@ -546,7 +546,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Baraja uno de tus Aliados de raza Héroe en juego en tu Mazo Castillo, para buscar un Aliado de raza Olímpico en tu Cementerio y colocarlo en tu Línea de Defensa sin pagar su coste."
     },
     {
@@ -557,7 +557,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Ambos jugadores se descartan de toda su mano, y luego roban 4 cartas."
     },
     {
@@ -568,7 +568,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a bajar un Aliado, juega a Vellocino de Oro para que pueda atacar en el turno que entra en juego. Al final del turno, roba 1 carta extra."
     },
     {
@@ -579,7 +579,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a bajar un Aliado, busca una copia de ese Aliado en tu Mazo Catillo y ponlo en tu Línea de Defensa sin pagar su coste."
     },
     {
@@ -590,7 +590,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El oponente bota 2 cartas de su Mazo Castillo. Luego, tú barajas un Aliado oponente en su Mazo Castillo y robas 1 carta."
     },
     {
@@ -601,7 +601,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes dos o más Aliados de raza Héroe en juego, ganan 2 a la fuerza hasta el final del turno."
     },
     {
@@ -612,7 +612,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Todos los Aliados en ambas Zonas de Destierro son puestos en juego sin pagar su coste."
     },
     {
@@ -623,7 +623,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Uno de tus Aliados de raza Héroe gana 3 a la fuerza permanentemente. Doce Pruebas no puede ser anulada."
     },
     {
@@ -634,7 +634,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Juega Nacimiento de Pegaso para que tu oponente no pueda ver tu mano por el resto del juego."
     },
     {
@@ -645,7 +645,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Nombra una carta. Si tu oponente la tiene en su mano, debe botar 6 cartas de su Mazo Castillo. Y si no la tiene, debes botar 6 cartas de tu Mazo Castillo."
     },
     {
@@ -656,7 +656,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El Tridente de los Mares sólo puede ser portado por Poseidón. Gana 4 a la fuerza."
     },
     {
@@ -667,7 +667,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si el portador de Xiphos es declarado atacante, gana 1 a la fuerza y tiene la prioridad en Guerra de Talismánes."
     },
     {
@@ -678,8 +678,8 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
-        "ability": "La Hoz de Cronos sólo puede ser portada por Cronos. En tu Fase de Vigilia, sólo una vez por turno, puedes destruir una carta en juego que no sea un oro."
+        "strategy": [""],
+        "ability": "La Hoz de Cronos sólo puede ser portada por Cronos. En tu Fase de Vigilia, sólo una vez por turno, puedes destruir una carta en juego que no sea un Oro."
     },
     {
         "name": "Escudo de Atenea",
@@ -689,7 +689,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si el portador de Escudo de Atenea es afectado por una habilidad oponente, puedes redirigir esa habilidad a una carta oponente en juego."
     },
     {
@@ -700,7 +700,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a declarar tu ataque, si el portador de Casco de Hades no es declarado atacante, tu oponente debe botar tantas cartas como fuerza tenga el portador. Carta única."
     },
     {
@@ -711,8 +711,8 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 de oro para que tu oponente bote 3 cartas."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 de Oro para que tu oponente bote 3 cartas."
     },
     {
         "name": "Martillo de Hefestos",
@@ -722,7 +722,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Martillo de Hefestos entra en juego, puedes buscar un arma en tu Mazo Castillo y ponerla en tu mano. Su portador gana 2 a la fuerza."
     },
     {
@@ -733,7 +733,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Monte Olimpo esté en juego, no puedes ser atacado."
     },
     {
@@ -744,8 +744,8 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, paga 4 de oro y destierra un Aliado en juego."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, paga 4 de Oro y destierra un Aliado en juego."
     },
     {
         "name": "Campos Elisios",
@@ -755,8 +755,8 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, mientras Campos Elisios esté en juego,puedes pagar 5 de oro para buscar un Aliado en tu Cementerio y ponerlo en tu Línea de Defensa sin pagar su coste."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, mientras Campos Elisios esté en juego,puedes pagar 5 de Oro para buscar un Aliado en tu Cementerio y ponerlo en tu Línea de Defensa sin pagar su coste."
     },
     {
         "name": "Atenas",
@@ -766,8 +766,8 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 de oro para buscar una carta en tu Mazo Castillo y ponerla en tu mano."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 de Oro para buscar una carta en tu Mazo Castillo y ponerla en tu mano."
     },
     {
         "name": "Esparta",
@@ -777,7 +777,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Esparta esté en juego, tus Aliados que porten arma ganan 2 a la fuerza."
     },
     {
@@ -788,7 +788,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, puedes colocar hasta 2 Aliados de tu mano bajo Arcadia sin pagar su coste. Estos Aliados pueden activar sus habilidades y deben ser destruidos al finalizar tu Fase de Vigilia."
     },
     {
@@ -799,7 +799,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Atlántida esté en juego, los Aliados oponentes pierden 1 a la fuerza."
     },
     {
@@ -810,7 +810,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Ofrenda a los Dioses está en tu Reserva, todos tus Aliados de raza Olímpico ganan 1 a la fuerza."
     },
     {
@@ -821,7 +821,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno, puedes botar la carta superior de tu Mazo Castillo para que hasta el final del turno uno de tus Aliados de raza Titán gane 2 a la fuerza."
     },
     {
@@ -832,7 +832,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes en juego 2 o más Aliados de raza Héroe, puedes desterrar Antorcha Olímpica para destruir una carta de tu oponente."
     },
     {
@@ -843,7 +843,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes ver las 3 cartas superiores de cualquier Mazo Castillo y ordenarlas como quieras."
     },
     {
@@ -854,7 +854,7 @@
         "race": "Olímpico",
         "attack": 0,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Artemisa hace daño al Mazo Castillo oponente, puedes tomar un Aliado en juego y ponerlo en tu Línea de Defensa. Mientras permanezca en juego, ese Aliado se considera como uno de los tuyos."
     },
     {
@@ -865,7 +865,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, nombra un tipo de carta que no sea Talismán. A continuación, mira la primera carta de tu Mazo Castillo y, si es de ese tipo, ponla en juego sin pagar su coste. Si no lo es, barajala en tu Mazo Castillo"
     },
     {
@@ -876,7 +876,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Hestia esté en juego, en respuesta a pasar el daño en tu Mazo Castillo, tu oponente bota 3 cartas."
     },
     {
@@ -887,7 +887,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Hecatae entra en juego, muestra tu mano al oponente."
     },
     {
@@ -898,7 +898,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Demetrios es declarado atacante, pierde 1 a la fuerza."
     },
     {
@@ -909,7 +909,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, si Fénix está en tu Cementerio, puedes pagar su coste y ponerlo en tu Línea de Defensa."
     },
     {
@@ -920,7 +920,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, si tienes El Gran Zeus en juego, Europa gana 1 a la fuerza hasta el final del turno."
     },
     {
@@ -931,7 +931,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que tu oponente juegue una habilidad de Aliado que afecte a Némesis, puedes destruir ese Aliado."
     },
     {
@@ -942,7 +942,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Hefestos porta Martillo de Hefestos gana 2 a la fuerza."
     },
     {
@@ -953,7 +953,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, si tu oponente tiene a Apolo en juego, puedes robar 1 carta."
     },
     {
@@ -964,7 +964,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a cualquier fase del juego, puedes desterrar a Deméter para saltarla."
     },
     {
@@ -975,8 +975,8 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
-        "ability": "Mientras Caronte esté en juego, tu oponente debe pagar 1 oro en su Fase de Vigilia."
+        "strategy": [""],
+        "ability": "Mientras Caronte esté en juego, tu oponente debe pagar 1 Oro en su Fase de Vigilia."
     },
     {
         "name": "Temistocles",
@@ -986,7 +986,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Temístocles entra en juego, nombra una carta para que ella y todas sus copias pierdan su habilidad mientras Temístocles permanezca en juego."
     },
     {
@@ -997,7 +997,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Pericles entra en juego, todos los Aliados oponentes pierden 1 a la fuerza hasta el final del turno."
     },
     {
@@ -1008,8 +1008,8 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
-        "ability": "En respuesta a que Yolao sea destruido, puedes pagar 2 de oro para que permanezca en el juego."
+        "strategy": [""],
+        "ability": "En respuesta a que Yolao sea destruido, puedes pagar 2 de Oro para que permanezca en el juego."
     },
     {
         "name": "Platon",
@@ -1019,7 +1019,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Platón sea destruido, puedes ponerlo en tu mano."
     },
     {
@@ -1030,7 +1030,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sisifo el Hechicero es imbloqueable. En respuesta a que sea destruido, puedes barajarlo en tu Mazo Castillo."
     },
     {
@@ -1041,7 +1041,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, puedes mirar la primera carta de tu Mazo Castillo: si es un Aliado de raza Héroe, puedes ponerlo en juego sin pagar su coste; si la carta no es un Héroe, destrúyela."
     },
     {
@@ -1052,7 +1052,7 @@
         "race": "Héroe",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a la Fase Final, si Calais y Cetes está en tu Línea de Ataque, puedes agruparlo a tu Línea de Defensa."
     },
     {
@@ -1063,7 +1063,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hay otra Amazonas Guerreras en juego, su coste es 0."
     },
     {
@@ -1074,7 +1074,7 @@
         "race": "Héroe",
         "attack": 0,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Héctor gana 1 a la fuerza por cada Aliado de raza Héroe que tengas en juego. Y si Aquiles está en juego, no puede recibir modificadores de fuerza."
     },
     {
@@ -1085,8 +1085,8 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, Sócrates genera 2 oros para jugar Talismánes."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, Sócrates genera 2 Oros para jugar Talismánes."
     },
     {
         "name": "Epicureo, el Sabio",
@@ -1096,7 +1096,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El siguiente turno que Epicureo, El Sabio entra en juego, tu oponente no puede jugar con su Cementerio ni su Zona de Destierro."
     },
     {
@@ -1107,7 +1107,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Belerofonte entra en juego, tu oponente debe elegir uno de sus Tótem y destruirlo."
     },
     {
@@ -1118,7 +1118,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Durante el turno que Ptolomeo entra en juego, tus Aliados de raza Héroe son imbloqueables."
     },
     {
@@ -1129,8 +1129,8 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
-        "ability": "Cada vez que Homero entre y salga del juego, puedes buscar un oro en tu Mazo Castillo y ponerlo en tu mano."
+        "strategy": [""],
+        "ability": "Cada vez que Homero entre y salga del juego, puedes buscar un Oro en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
         "name": "Ciclopes",
@@ -1140,7 +1140,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cíclopes no pueden ser afectados por Talismánes oponentes."
     },
     {
@@ -1151,7 +1151,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Mnemoisine sea declarado atacante, puedes mirar la mano de tu oponente."
     },
     {
@@ -1162,7 +1162,7 @@
         "race": "Titán",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Asteria entra en juego, puedes buscar un Aliado de raza Titán en tu Cementerio y ponerlo en tu mano."
     },
     {
@@ -1173,7 +1173,7 @@
         "race": "Titán",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Durante el turno en que Las Musas entra en juego, no se pueden jugar Talismánes."
     },
     {
@@ -1184,7 +1184,7 @@
         "race": "Titán",
         "attack": 4,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si no tienes otro Aliado de su misma raza, Titán debe ser destruido."
     },
     {
@@ -1195,7 +1195,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Quimera hace daño al Mazo Castillo oponente, ese daño se duplica."
     },
     {
@@ -1206,7 +1206,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Ladon sólo puede bloquear. Si Ladon es destruido, barájalo en tu Mazo Castillo."
     },
     {
@@ -1217,7 +1217,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Nessos entra en juego, puedes destruir un Aliado de raza Héroe oponente."
     },
     {
@@ -1228,7 +1228,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que Hecatroncheires sea destruido, destruye un Aliado de raza Titán oponente."
     },
     {
@@ -1239,7 +1239,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Ketos esté en juego, las cartas enviadas al Cementerio pasan a la Zona de Destierro."
     },
     {
@@ -1250,7 +1250,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes buscar en tu Mazo Castillo un Aliado de raza Titán de fuerza 2 o menor y ponerlo en tu mano."
     },
     {
@@ -1261,7 +1261,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hidra de Lernea sólo puede ser destruida por Aliados oponentes de raza Héroe."
     },
     {
@@ -1272,7 +1272,7 @@
         "race": "Titán",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Dragón Custodio bloquea, duplica su fuerza."
     },
     {
@@ -1283,7 +1283,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a comenzar el turno oponente, juega Las Furias para que tu oponente se salte su Fase de Agrupar."
     },
     {
@@ -1294,7 +1294,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Baraja 2 cartas de tu Cementerio en tu Mazo Castillo. Si tienes en juego a El Gran Zeus, puedes barajar 4 cartas."
     },
     {
@@ -1305,7 +1305,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Juega Raza de Pigmeos para anular un Tótem que esté entrando en juego."
     },
     {
@@ -1316,7 +1316,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Un Aliado oponente en juego pasa a tu Línea de Defensa y al final del turno debe ser destruido."
     },
     {
@@ -1327,7 +1327,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a la Fase de Vigilia oponente, juega Isla de las Sirenas para que un Aliado oponente deba atacar reduciendo su fuerza a 0."
     },
     {
@@ -1338,7 +1338,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes en juego un Aliado de raza Olímpico, puedes robar 2 cartas."
     },
     {
@@ -1349,8 +1349,8 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
-        "ability": "Si juegas Calíope en tu primer turno, tu oponente no podrá jugar habilidades que afecten a tus oros por el resto del juego."
+        "strategy": [""],
+        "ability": "Si juegas Calíope en tu primer turno, tu oponente no podrá jugar habilidades que afecten a tus Oros por el resto del juego."
     },
     {
         "name": "Refugiados",
@@ -1360,7 +1360,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a finalizar tu turno, puedes agrupar un Aliado"
     },
     {
@@ -1371,7 +1371,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Durante el resto del juego, puedes volver a jugar con tu Cementerio y con tu Zona de Destierro."
     },
     {
@@ -1382,7 +1382,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye uno de tus Aliados en juego, para que tu oponente destruya a su elección 2 de sus Aliados."
     },
     {
@@ -1393,7 +1393,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a declarar tu bloqueo, agrupa un Aliado y puedes declararlo bloqueador."
     },
     {
@@ -1404,7 +1404,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Durante el resto del juego, no se puede jugar con el Cementerio ni con la Zona de Destierro."
     },
     {
@@ -1415,7 +1415,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que tu oponente destierre uno de tus Aliados, destruye todos los Aliados oponentes en juego."
     },
     {
@@ -1426,7 +1426,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye un Tótem oponente."
     },
     {
@@ -1437,7 +1437,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta el final del turno, todos los Aliados en juego cambian su fuerza por coste."
     },
     {
@@ -1448,7 +1448,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a bajar un Aliado, juega Tormenta de Fuego para que no pueda ser destruido hasta el final del juego."
     },
     {
@@ -1459,7 +1459,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes buscar un arma en tu Mazo Castillo o Cementerio y ponerla en tu mano."
     },
     {
@@ -1470,7 +1470,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Heracles gana 2 a la fuerza permanentemente."
     },
     {
@@ -1481,7 +1481,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que uno de tus Aliados sea destruido, juega Cadenas de Andrómeda para destruir un Aliado oponente."
     },
     {
@@ -1492,7 +1492,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca un Talismán en tu Cementerio y ponlo en tu mano."
     },
     {
@@ -1503,7 +1503,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador gana 2 a la fuerza y puede portar un arma extra."
     },
     {
@@ -1514,7 +1514,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador gana 1 a la fuerza y es imbloqueable."
     },
     {
@@ -1525,7 +1525,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si su portador es destruido, tu oponente debe botar 3 cartas."
     },
     {
@@ -1536,7 +1536,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador gana 3 a la fuerza cuando bloquea."
     },
     {
@@ -1547,7 +1547,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador gana 1 a la fuerza por cada Aliado oponente en juego."
     },
     {
@@ -1558,7 +1558,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que uno de tus Tótem sea destruido, puedes salvarlo si destierras a Tormento."
     },
     {
@@ -1569,8 +1569,8 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
-        "ability": "Mientras Tótem de Fénix esté en juego, en tu Fase de Vigilia y sólo una vez por turno, puedes pagar 2 de oro para barajar 2 cartas del Cementerio en tu Mazo Castillo."
+        "strategy": [""],
+        "ability": "Mientras Tótem de Fénix esté en juego, en tu Fase de Vigilia y sólo una vez por turno, puedes pagar 2 de Oro para barajar 2 cartas del Cementerio en tu Mazo Castillo."
     },
     {
         "name": "Templo de Apolo",
@@ -1580,8 +1580,8 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
-        "ability": "En respuesta a que uno de tus Aliados de raza Olímpico sea destruido, puedes pagar 3 de oro para salvarlo."
+        "strategy": [""],
+        "ability": "En respuesta a que uno de tus Aliados de raza Olímpico sea destruido, puedes pagar 3 de Oro para salvarlo."
     },
     {
         "name": "Casa de Hestia",
@@ -1591,8 +1591,8 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
-        "ability": "Mientras Casa de Hestia esté en juego, tus oros no pueden ser destruidos."
+        "strategy": [""],
+        "ability": "Mientras Casa de Hestia esté en juego, tus Oros no pueden ser destruidos."
     },
     {
         "name": "Partenon",
@@ -1602,7 +1602,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Partenón esté en juego, tus armas no podrán ser destruidas."
     },
     {
@@ -1613,8 +1613,8 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 de oro para subir un Aliado oponente a la mano."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 de Oro para subir un Aliado oponente a la mano."
     },
     {
         "name": "Templo de la Cazadora",
@@ -1624,7 +1624,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Templo de la Cazadora esté en juego, todos tus Aliados ganan 1 a la fuerza."
     },
     {
@@ -1635,7 +1635,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Templo de la Gran Hera esté en juego, no se pueden bajar armas. Todas las armas en juego pierden su habilidad."
     },
     {
@@ -1646,7 +1646,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El siguiente turno que bajes a Meleagro, tu oponente no podrá poner en juego Aliados."
     },
     {
@@ -1657,7 +1657,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Pandora entra en juego, puedes barajar 1 carta de tu mano en tu Mazo Castillo y luego robar 1 carta."
     },
     {
@@ -1668,7 +1668,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, si tienes 3 Falange en juego, ganan 2 a la fuerza hasta el final del turno."
     },
     {
@@ -1679,7 +1679,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En Guerra de Talismánes Mercenario Hoplita puede duplicar su fuerza. Si lo hace, al finalizar el turno debe ser destruido."
     },
     {
@@ -1690,7 +1690,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Ajáx entra en juego, puedes barajar un Aliado de raza Héroe en juego."
     },
     {
@@ -1701,7 +1701,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Medea entra en juego, todos los Aliados de raza Olímpico pierden 1 a la fuerza hasta el final del turno."
     },
     {
@@ -1712,7 +1712,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Para bajar Helena, debes destruir uno de tus Aliados de raza Héroe."
     },
     {
@@ -1723,7 +1723,7 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Sacerdotisa esté en juego, el coste de Hera se reduce en 1."
     },
     {
@@ -1734,7 +1734,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que uno de tus Aliados que porta arma sea destruido, puedes desterrar Maestro de Armas para salvarlo."
     },
     {
@@ -1745,8 +1745,8 @@
         "race": "Héroe",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, puedes pagar 3 de oro para que Felipo gane 2 a la fuerza hasta el final del turno."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, puedes pagar 3 de Oro para que Felipo gane 2 a la fuerza hasta el final del turno."
     },
     {
         "name": "Atalanta",
@@ -1756,7 +1756,7 @@
         "race": "Héroe",
         "attack": 4,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Atalanta se considera un Arma."
     },
     {
@@ -1767,7 +1767,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Hilas entra en juego, puedes buscar Las Musas en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -1778,7 +1778,7 @@
         "race": "Héroe",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Agammenon debe atacar cuando entra en juego. Al final del turno, debe ser desterrado."
     },
     {
@@ -1789,7 +1789,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El turno en que Anceo entra en juego, se cancelan todos los modificadores de fuerza."
     },
     {
@@ -1800,7 +1800,7 @@
         "race": "Héroe",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a que tu oponente baje un Aliado de raza Olímpico, puedes subir Lycaón a tu mano para barajar dicho Aliado oponente."
     },
     {
@@ -1811,7 +1811,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si Persefone es destruida, puedes buscar un Aliado en tu Mazo Castillo y ponerla en tu mano."
     },
     {
@@ -1822,7 +1822,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Nereidas sólo puede ser declarada atacante si tienes Poseidón en juego."
     },
     {
@@ -1833,7 +1833,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que Tritón entre o salga del juego, puedes robar 1 carta."
     },
     {
@@ -1844,7 +1844,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Cibeles entra en juego, nombra un Aliado oponente. Este Aliado deberá atacar el próximo turno o volver a la mano."
     },
     {
@@ -1855,7 +1855,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El Aliado oponente que destruya a Alastor, pierde 1 a la fuerza por el resto del juego."
     },
     {
@@ -1866,7 +1866,7 @@
         "race": "Olímpico",
         "attack": 3,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Bóreas puede atacar cuando entra en juego."
     },
     {
@@ -1877,7 +1877,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En Guerra de Talismánes, puedes destruir a Lyssa para que un Aliado atacante oponente sea devuelto a la Línea de Defensa."
     },
     {
@@ -1888,8 +1888,8 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
-        "ability": "En tu Fase de Vigilia, puedes pagar 2 de oro para barajar una carta de tu Cementerio con tu Mazo Castillo."
+        "strategy": [""],
+        "ability": "En tu Fase de Vigilia, puedes pagar 2 de Oro para barajar una carta de tu Cementerio con tu Mazo Castillo."
     },
     {
         "name": "Pan",
@@ -1899,8 +1899,8 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
-        "ability": "Cuando Pan entra en juego, puedes buscar un oro en tu Cementerio y ponerlo en tu mano."
+        "strategy": [""],
+        "ability": "Cuando Pan entra en juego, puedes buscar un Oro en tu Cementerio y ponerlo en tu mano."
     },
     {
         "name": "Psyche",
@@ -1910,7 +1910,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Psyché entra en juego, puedes robar 2 cartas. Elige una de ellas y descarta la otra."
     },
     {
@@ -1921,7 +1921,7 @@
         "race": "Olímpico",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, puedes destruir a Nike para que tu oponente bote 2 cartas de su Mazo Castillo."
     },
     {
@@ -1932,7 +1932,7 @@
         "race": "Olímpico",
         "attack": 2,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruir a Morfeo para que los jugadores muestren su mano hasta el final del turno."
     },
     {
@@ -1943,7 +1943,7 @@
         "race": "Titán",
         "attack": 4,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cerbero sólo puede bloquear y no puede portar armas."
     },
     {
@@ -1954,7 +1954,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Pallas no puede ser declarado atacante si en juego hay un Aliado de raza Olímpico."
     },
     {
@@ -1965,7 +1965,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Talos entra en juego, debes desterrar 1 carta de tu mano."
     },
     {
@@ -1976,7 +1976,7 @@
         "race": "Titán",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes destruir a Phorkys, para que los Aliados oponentes pierdan 1 a la fuerza hasta el final del turno."
     },
     {
@@ -1987,7 +1987,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El turno en que Telchines entra en juego, un Aliado oponente en juego pierde su habilidad hasta el final del turno."
     },
     {
@@ -1998,7 +1998,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tu oponente tiene a El Gran Zeus en juego, Cecrope gana 1 a la fuerza."
     },
     {
@@ -2009,8 +2009,8 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
-        "ability": "En Guerra de Talismánes, puedes pagar 3 de oro para que un Aliado oponente no pueda atacar o bloquear."
+        "strategy": [""],
+        "ability": "En Guerra de Talismánes, puedes pagar 3 de Oro para que un Aliado oponente no pueda atacar o bloquear."
     },
     {
         "name": "Ixxion",
@@ -2020,7 +2020,7 @@
         "race": "Titán",
         "attack": 1,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes desterrar a Ixxion para destruir un Aliado oponente de fuerza 1 o menor."
     },
     {
@@ -2031,8 +2031,8 @@
         "race": "Titán",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
-        "ability": "Si Epimeteo está en tu Cementerio, puedes pagar 2 de oro para ponerlo en tu mano."
+        "strategy": [""],
+        "ability": "Si Epimeteo está en tu Cementerio, puedes pagar 2 de Oro para ponerlo en tu mano."
     },
     {
         "name": "Pholo",
@@ -2042,7 +2042,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, puedes destruir a Pholo para bajar un Aliado reduciendo su coste en 1."
     },
     {
@@ -2053,7 +2053,7 @@
         "race": "Titán",
         "attack": 5,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Coloso, si ataca o bloquea, debe ser destruido."
     },
     {
@@ -2064,7 +2064,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Minotauro de Creta sólo puede bloquear a Aliados de raza Héroe. Si lo hace, gana 1 a la fuerza."
     },
     {
@@ -2075,7 +2075,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si en juego tienes 3 copias de Las Grayas, puedes destruirlas para buscar 2 cartas en tu Mazo Castillo y ponerlas en tu mano."
     },
     {
@@ -2086,7 +2086,7 @@
         "race": "Titán",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Lamia es declarado bloqueador, el Aliado oponente atacante pierde 1 a la fuerza."
     },
     {
@@ -2097,7 +2097,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si tienes más de una copia de un Aliado en juego, estos Aliados ganan 1 a la fuerza."
     },
     {
@@ -2108,7 +2108,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En respuesta a un ataque, elige un Aliado de raza Héroe que no podrá atacar o bloquear en este turno."
     },
     {
@@ -2119,7 +2119,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca en el Cementerio oponente 2 cartas y luego destiérralas."
     },
     {
@@ -2130,7 +2130,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si en juego está Poseidón, tus Aliados de raza Olímpico ganan 1 a la fuerza."
     },
     {
@@ -2141,7 +2141,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta el final del turno, un Aliado de raza Titán no puede ser afectado por Talismánes oponentes."
     },
     {
@@ -2152,7 +2152,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Un Aliado que porte arma es imbloqueable durante este turno."
     },
     {
@@ -2163,7 +2163,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta el final del turno, todos tus Aliados de raza Titán ganan 1 a la fuerza."
     },
     {
@@ -2174,7 +2174,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si en juego tienes El Oscuro Hades, puedes jugar Perros Tíndalos para que gane 2 a la fuerza y sea imbloqueable hasta el final del turno."
     },
     {
@@ -2185,7 +2185,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia y hasta el final del turno, uno de tus Tótem pierde su habilidad y se considera Aliado. Después, en tu Fase de Ataque, puede ser declarado atacante con fuerza igual a su coste."
     },
     {
@@ -2196,7 +2196,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En Guerra de Talismánes, uno de tus Aliados gana 2 a la fuerza hasta el final del turno."
     },
     {
@@ -2207,7 +2207,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sólo por este turno, un Aliado que no puede atacar será declarado atacante."
     },
     {
@@ -2218,7 +2218,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Ambos jugadores destruyen un Aliado en juego."
     },
     {
@@ -2229,7 +2229,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Busca en tu Zona de Destierro 2 cartas y colócalas en tu Cementerio."
     },
     {
@@ -2240,8 +2240,8 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
-        "ability": "En respuesta a que tu oponente destruya una de tus cartas oro, ese oro es devuelto a la mano."
+        "strategy": [""],
+        "ability": "En respuesta a que tu oponente destruya una de tus cartas Oro, ese Oro es devuelto a la mano."
     },
     {
         "name": "Bestia del Caos",
@@ -2251,7 +2251,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta el final del turno, un Aliado oponente pierde su habilidad y tiene fuerza 0."
     },
     {
@@ -2262,7 +2262,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Devuelve un Aliado de tu Cementerio a la Línea de Defensa."
     },
     {
@@ -2273,7 +2273,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, juega Gente Insecto para destruir uno de tus Aliados en juego de fuerza 3 o superior y luego robar dos cartas."
     },
     {
@@ -2284,7 +2284,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Hasta el final del turno, juega Caballo de Pesadilla para cancelar todos los modificadores de fuerza."
     },
     {
@@ -2295,7 +2295,7 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Juega Sátiros Libres para cancelar la habilidad de un arma en juego, hasta el final del turno."
     },
     {
@@ -2306,7 +2306,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes desterrar Lanza Espartana, para anular un Aliado oponente que esté entrando en juego."
     },
     {
@@ -2317,7 +2317,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes desterrar a Yelmo Arcadio para anular un Tótem oponente que esté entrando en juego."
     },
     {
@@ -2328,7 +2328,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, el portador de Daga Griega pierde 1 a la fuerza."
     },
     {
@@ -2339,7 +2339,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador de Brazaletes gana 2 a la fuerza cuando bloquea."
     },
     {
@@ -2350,7 +2350,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador de Sandalias de Hermes puede atacar el turno en que entra en juego, y pierde 1 a la fuerza."
     },
     {
@@ -2361,7 +2361,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador de Pértiga no puede atacar."
     },
     {
@@ -2372,7 +2372,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "El portador de Arco y Flechas Dorios no puede ser desterrado."
     },
     {
@@ -2383,7 +2383,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Tótem de Equidna está en juego, todas las Armas y demás Tótem pierden su habilidad."
     },
     {
@@ -2394,7 +2394,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Templo de Gaia esté en juego, todos tus Aliados de raza Héroe no pueden ser afectados por Talismánes."
     },
     {
@@ -2405,8 +2405,8 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
-        "ability": "Mientras Altar de Cronos esté en juego, en tu Fase de Vigilia puedes pagar 2 de oro para subir a la mano un Aliado de raza Olímpico."
+        "strategy": [""],
+        "ability": "Mientras Altar de Cronos esté en juego, en tu Fase de Vigilia puedes pagar 2 de Oro para subir a la mano un Aliado de raza Olímpico."
     },
     {
         "name": "Altar de Ares",
@@ -2416,7 +2416,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Altar de Ares esté en juego, todos los Aliados destruidos son desterrados."
     },
     {
@@ -2427,7 +2427,7 @@
         "race": null,
         "attack": null,
         "cost": 6,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Templo Perdido esté en juego, los jugadores no pueden declarar ataque."
     },
     {
@@ -2438,7 +2438,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Santuario de Poseidón esté en juego, los jugadores no pueden declarar bloqueo."
     },
     {
@@ -2449,7 +2449,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu Fase de Vigilia, puedes destruir Santuario Familiar para buscar un Aliado en tu Cementerio y ponerlo en tu mano."
     },
     {
@@ -2460,7 +2460,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2471,7 +2471,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2482,7 +2482,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2493,7 +2493,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2504,7 +2504,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2515,7 +2515,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2526,18 +2526,18 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
-        "name": "Corona de Laureles",
+        "name": "COrona de Laureles",
         "image_path": "https://api.myl.cl/static/cards/20/231.png",
         "rarity": "vasallo",
         "type": "Oro",
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2548,7 +2548,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2559,7 +2559,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2570,7 +2570,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2581,7 +2581,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     },
     {
@@ -2592,7 +2592,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sin habilidad"
     }
 ]

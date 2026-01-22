@@ -7,7 +7,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Devuelve una carta del cementerio a tu mano."
     },
     {
@@ -18,7 +18,7 @@
         "race": "Dragón",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego tú eliges un Aliado oponente y éste es destruido."
     },
     {
@@ -29,7 +29,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, busca un Bárbaro de fuerza 2 o menos en tu Castillo y ponlo en juego sin pagar su coste."
     },
     {
@@ -40,7 +40,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. No puede portar Armas de coste 2 o menos. Si hace daño al Castillo oponente, puedes barajar tantas cartas de tu Cementerio como daño haya hecho. Si lo haces, sube esta carta a tu mano al final del turno."
     },
     {
@@ -51,7 +51,7 @@
         "race": null,
         "attack": null,
         "cost": 0,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Solo por este turno, genera 4 Oros virtuales."
     },
     {
@@ -62,7 +62,7 @@
         "race": "Faerie",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez en tu turno, paga 3 de Oro y juega un Talismán de tu Castillo o cementerio."
     },
     {
@@ -73,7 +73,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez por turno y si un Bárbaro de coste 3 o más entra en juego, puedes barajar un Bárbaro de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -84,7 +84,7 @@
         "race": "Licántropo",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "En tu vigilia, puedes jugar a Gente Lunar desde tu cementerio. Cuando entra en juego, no puedes descartar cartas de tu mano hasta la fase final."
     },
     {
@@ -95,7 +95,7 @@
         "race": "Dios",
         "attack": 4,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Mientras Dellingr esté en juego y una vez por turno, si un Dios que controles sale del juego, tu oponente deberá barajar uno de sus Aliados en juego en su Mazo Castillo."
     },
     {
@@ -106,7 +106,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes mostrar una Abominación de tu mano para mirar las 3 primeras cartas de tu Mazo Castillo y ordenarlas. Puedes destruir este Oro para que un Aliado oponente pierda 1 a la fuerza hasta el final del turno."
     },
     {
@@ -117,7 +117,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes mostrar un Licántropo de tu mano para buscar un Licántropo en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -128,7 +128,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puede atacar cuando entra en juego. Cuando ataca, puedes elegir un Aliado oponente para que lo bloquee."
     },
     {
@@ -139,7 +139,7 @@
         "race": "Bárbaro",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar un Oro sin habilidad en tu Castillo y ponerlo en tu mano."
     },
     {
@@ -150,7 +150,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si sólo controlas Vampiros, puedes pagar este Oro para que tu oponente bote una carta de su Mazo Castillo. Si esa carta es Aliado, baraja un Vampiro de tu Cementerio en tu Mazo Castillo."
     },
     {
@@ -161,7 +161,7 @@
         "race": "Caballero",
         "attack": 5,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Sólo puedes tener a un Rey Arturo en juego. Cada turno tu oponente bota de su Castillo las dos cartas superiores, este Aliado no puede ser bloqueado por Caballeros."
     },
     {
@@ -172,7 +172,7 @@
         "race": "Abominación",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes descartar una carta de tu mano para robar una carta de tu Mazo Castillo. Si descartaste una Abominación, puedes robar otra carta de tu Mazo Castillo."
     },
     {
@@ -183,7 +183,7 @@
         "race": "Dios",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes destruir un Dios que controles para robar una carta."
     },
     {
@@ -194,7 +194,7 @@
         "race": "Chamán",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes barajar un Chamán o Tótem de tu cementerio para robar 1 carta por cada Tótem que tengas en juego."
     },
     {
@@ -205,7 +205,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si está en tu Reserva de Oros, puedes barajarlo en tu Mazo Castillo y destruir un Dios que controles para barajar tantas cartas de tu Cementerio como la fuerza del Dios destruido."
     },
     {
@@ -216,7 +216,7 @@
         "race": null,
         "attack": null,
         "cost": 5,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes barajar 2 Aliados oponentes en juego. Luego, descarta 2 cartas de tu mano."
     },
     {
@@ -227,7 +227,7 @@
         "race": "Bestia",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes buscar una Abominación de coste 3 o menos en tu Cementerio y ponerlo en tu mano. Si juegas el Aliado buscado este turno, su coste de Oro se reduce en 1."
     },
     {
@@ -238,8 +238,8 @@
         "race": "Caballero",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
-        "ability": "Este Aliado genera dos oros virtuales para jugar Armas en tus Caballeros y un Oro virtual para jugar Caballeros, ambas habilidades una vez en tu turno."
+        "strategy": [""],
+        "ability": "Este Aliado genera dos Oros virtuales para jugar Armas en tus Caballeros y un Oro virtual para jugar Caballeros, ambas habilidades una vez en tu turno."
     },
     {
         "name": "Caballero Negro",
@@ -249,7 +249,7 @@
         "race": "Caballero",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Al entrar en juego, todos los demás Caballeros ganan +1 de fuerza permanentemente."
     },
     {
@@ -260,7 +260,7 @@
         "race": null,
         "attack": null,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tu oponente descarta dos cartas de su Mano y tu robas una carta de tu Castillo."
     },
     {
@@ -271,7 +271,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Por cada Aliado que entre en juego bajo tu controla gana +1 de fuerza permanentemente."
     },
     {
@@ -282,7 +282,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Todos tus Aliados ganan + 1 a la fuerza mientras este Oro este en juego. (No puede ser destruido por habilidades de Aliados oponentes) (carta única)."
     },
     {
@@ -293,7 +293,7 @@
         "race": "",
         "attack": 0,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Destruye a Anubis y regresa una carta de tu cementerio a la línea de defensa."
     },
     {
@@ -304,7 +304,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que entre o salga del juego descarta una carta de la Mano de tu oponente al azar."
     },
     {
@@ -315,8 +315,8 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
-        "ability": "Te cuesta un oro menos jugar Chamánes."
+        "strategy": [""],
+        "ability": "Te cuesta un Oro menos jugar Chamánes."
     },
     {
         "name": "Mesalina",
@@ -326,7 +326,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una vez en tu turno, puedes pagar 2 de Oros para descartar 1 carta de la Mano de tu oponente al azar."
     },
     {
@@ -337,7 +337,7 @@
         "race": "Chamán",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes descartar un Chamán de tu mano para buscar un Tótem en tu Mazo Castillo y ponerlo en tu mano."
     },
     {
@@ -348,7 +348,7 @@
         "race": null,
         "attack": null,
         "cost": null,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si está en tu Reserva de Oros, puedes destruirlo y pagar 2 Oros para que tu oponente bote una carta por cada Tótem que tengas en juego."
     },
     {
@@ -359,7 +359,7 @@
         "race": "Kami",
         "attack": 3,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Puedes descartarte de una carta de tu Mano y este Aliado gana un bono de fuerza igual al coste en Oro de la carta descartada. Una vez por turno."
     },
     {
@@ -370,8 +370,8 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
-        "ability": "Sólo puede ser portada por Caballeros Su portador gana +3 de fuerza. En tu turno bota una carta de tu Castillo para que el portador gane un bono de fuerza igual al valor de oro de la carta descartada."
+        "strategy": [""],
+        "ability": "Sólo puede ser portada por Caballeros Su portador gana +3 de fuerza. En tu turno bota una carta de tu Castillo para que el portador gane un bono de fuerza igual al valor de Oro de la carta descartada."
     },
     {
         "name": "Ciclope",
@@ -381,7 +381,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Descarta 2 cartas de la Mano de tu oponente al azar."
     },
     {
@@ -392,7 +392,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Su portador no puede atacar o bloquear."
     },
     {
@@ -403,7 +403,7 @@
         "race": "Vampiro",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que no ataque descarta una carta de tu oponente al azar."
     },
     {
@@ -414,8 +414,8 @@
         "race": null,
         "attack": null,
         "cost": 1,
-        "strategy": "",
-        "ability": "Destruye un Aliado que controles y puedes buscar 2 cartas de oro en tu Castillo."
+        "strategy": [""],
+        "ability": "Destruye un Aliado que controles y puedes buscar 2 cartas de Oro en tu Castillo."
     },
     {
         "name": "Bruja_de_la_montaña",
@@ -425,7 +425,7 @@
         "race": "Criaturas",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si hace daño al Mazo Castillo oponente, puedes robar una carta."
     },
     {
@@ -436,7 +436,7 @@
         "race": null,
         "attack": null,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Una carta en juego y todas sus copias pierden todas sus habilidades por este turno."
     },
     {
@@ -447,7 +447,7 @@
         "race": "Licántropo",
         "attack": 3,
         "cost": 4,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando Guevadan entra en juego, baraja tantas cartas de tu cementerio en tu Mazo Castillo, como Licantropos controles."
     },
     {
@@ -458,7 +458,7 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Tu oponente descarta cartas de su Castillo hasta que aparezca una carta Oro."
     },
     {
@@ -469,7 +469,7 @@
         "race": "",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, toma la primera carta de tu Mazo Castillo. Si esta carta es un Aliado ponla en juego, de lo contrario botala al Cementerio."
     },
     {
@@ -480,8 +480,8 @@
         "race": null,
         "attack": null,
         "cost": 3,
-        "strategy": "",
-        "ability": "Destruye un oro de tu oponente."
+        "strategy": [""],
+        "ability": "Destruye un Oro de tu oponente."
     },
     {
         "name": "Hadas Guerreras",
@@ -491,7 +491,7 @@
         "race": "Faerie",
         "attack": 2,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando ataque todos tus Aliados seran imbloqueables por este turno."
     },
     {
@@ -502,7 +502,7 @@
         "race": "",
         "attack": 3,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cuando entra en juego, puedes ver la siguiente carta desde algun Mazo Castillo."
     },
     {
@@ -513,7 +513,7 @@
         "race": "Vampiro",
         "attack": 2,
         "cost": 2,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Si ataca o bloquea, tu oponente no podra activar o disparar habilidades de cartas, en Batalla Mitologica."
     },
     {
@@ -524,7 +524,7 @@
         "race": "",
         "attack": 1,
         "cost": 1,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Cada vez que ataca gana + 1 a la fuerza permanentemente."
     },
     {
@@ -535,7 +535,7 @@
         "race": "Faerie",
         "attack": 1,
         "cost": 3,
-        "strategy": "",
+        "strategy": [""],
         "ability": "Bota dos cartas de tu Castillo, y una carta de tu oponente no puede atacar o bloquear en este turno."
     }
 ]
